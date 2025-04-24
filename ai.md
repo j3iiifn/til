@@ -9,3 +9,13 @@
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
+- （公開日：2025/04/16、閲覧日：2025/04/24）[GitHub Copilot コードレビュー機能試してみました \- YouTube](https://www.youtube.com/watch?v=UuCJIDkRNUA)
+
+## 雑記
+- 2025/04/24
+    - 会社でGitHub Copilot for Businessを契約してもらえたので、早速iOSアプリのPull Requestに対するコードレビューで使用してみた
+    - PRのReviewersにCopilotを指定する方法でレビューを依頼してみたが、"Comments suppressed due to low confidence" が数件出るだけで、全然レビューしてくれなかった
+    - PRの"Files changed"タブでCopilotボタンを押し、「◯◯関数の可読性を上げて」とか「◯◯の処理が重複しているから、重複を除去して」などと伝えると結構良い感じにリファクタリングしてくれた
+        - Copilotの出力に不満がある場合は、良い感じの結果になるまで指示し直した
+        - そして、最終的なリファクタリングの方針と結果についてをPRのコメントに掲載するための文案を考えてもらった
+    - Copilotからの回答の一番下にあるクリップボードボタンを押すと、Markdown形式の回答がクリップボードにコピーされる
