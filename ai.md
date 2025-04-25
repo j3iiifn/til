@@ -11,6 +11,10 @@
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
 - （公開日：2025/04/16、閲覧日：2025/04/24）[GitHub Copilot コードレビュー機能試してみました \- YouTube](https://www.youtube.com/watch?v=UuCJIDkRNUA)
 
+## 講演、セミナー
+- （2025/04/24）GitHub Japan、緊急開催：GitHub Copilotエージェントモードと最新情報 [＜資料＞](https://resources.github.com/ja/githubcopilotaprilupdatewebinar2025/) [＜告知＞](https://x.com/GitHubJapan/status/1911562545069957219)
+    - VSCodeのCopilot拡張機能のチャットで実装したい機能を依頼するデモをやっていた。Copilotが自律的に計画を立てて、実装はもちろんのこと、ブラウザを使用したテスト（PlaywrightのMCP経由）とGitコミット、GitHubのプルリクエスト作成（GitHubのMCP経由）まで自動でやってくれていた。
+
 ## 雑記
 - 2025/04/24
     - 会社でGitHub Copilot for Businessを契約してもらえたので、早速iOSアプリのPull Requestに対するコードレビューで使用してみた
@@ -19,3 +23,8 @@
         - Copilotの出力に不満がある場合は、良い感じの結果になるまで指示し直した
         - そして、最終的なリファクタリングの方針と結果についてをPRのコメントに掲載するための文案を考えてもらった
     - Copilotからの回答の一番下にあるクリップボードボタンを押すと、Markdown形式の回答がクリップボードにコピーされる
+- 2025/04/25
+    - [GitHub Copilot code review now supports C, C\+\+, Kotlin, and Swift \- GitHub Changelog](https://github.blog/changelog/2025-04-23-github-copilot-code-review-now-supports-c-c-kotlin-and-swift/)
+        - KotlinとSwiftはパブリックプレビューだと聞いていたが、昨日の時点で既にGAだったということか
+        - 公式ドキュメントも英語版ならパブリックプレビューの旨の記述が削除されている
+            - [Using GitHub Copilot code review \- GitHub Docs](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review?tool=webui)
