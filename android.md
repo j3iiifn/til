@@ -7,7 +7,7 @@
 ## [Android 15〜] dataSyncタイプのフォアグラウンドサービスのタイムアウト
 （2025/05/01）
 
-targetSdkVersionを35に上げたアプリをAndroid 15端末で実行したときにタイムアウトの制限がかかるようになった。targetSdkVersionが35でも、Android 14以下の端末にはタイムアウトの制限はかからない（Android 13、12で動作確認済み）。
+targetSdkVersionを35に上げたアプリをAndroid 15端末で実行したときにタイムアウトの制限がかかるようになった。targetSdkVersionが35でも、Android 14以下の端末にはタイムアウトの制限はかからない（Android 14/Pixel 7a、Android 13/Pixel 6a、Android 12/Pixel 3aで動作確認済み）。
 
 - [Foreground service timeouts  \|  Background work  \|  Android Developers](https://developer.android.com/develop/background-work/services/fgs/timeout)
 - Service#onTimeout(int, int) : [Reference](https://developer.android.com/reference/android/app/Service#onTimeout(int,%20int))
