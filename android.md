@@ -3,6 +3,7 @@
 ## edge-to-edge
 - [DroidKaigi 2022 \- 実践 \`edge\-to\-edge\`: 端から端まで解説 \| Yuki Ando \[JA\] \- YouTube](https://www.youtube.com/watch?v=KOUiX0_R00I)
 - [DroidKaigi 2022 \- Android アプリの内と外をつなぐ UI \| 荒木佑一 \[JA\] \- YouTube](https://www.youtube.com/watch?v=7qh80shWF-A)
+- [DroidKaigi 2020 \- System UIをコントロールして、画面を最大限に生かしたアプリを構築する / Sato Shun \[JA\] \- YouTube](https://www.youtube.com/watch?v=LuZwy1-sF6w)
 
 ## [Android 15〜] dataSyncタイプのフォアグラウンドサービスのタイムアウト
 （2025/05/01）
