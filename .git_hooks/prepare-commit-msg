@@ -1,0 +1,23 @@
+#!/bin/bash
+# This script automatically generates a commit message
+# based on the names of the staged files.
+# Example output: Create a.txt b.txt | Update c.txt d.txt
+
+# To install this hook, run the following command:
+#     ln -s ../../.git_hooks/prepare-commit-msg .git/hooks
+
+COMMIT_MSG_FILE=$1
+COMMIT_SOURCE=$2
+SHA1=$3
+
+function generate_message() {
+    git diff --cached --name-status \
+    | sort \
+    | awk -v 'OFS=\n' '{print $1,$2}' \
+    | sed -e 's/^A$/| Create/' -e 's/^C$/| Copy/' -e 's/^D$/| Delete/' -e 's/^M$/| Update/' -e 's/^R$/| Rename/' \
+    | awk '!seen[$0]++' \
+    | tr '\n' ' ' \
+    | sed -e 's/| //' -e 's/ $//' 
+}
+
+generate_message > "$COMMIT_MSG_FILE"
