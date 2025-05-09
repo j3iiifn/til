@@ -10,6 +10,14 @@
 - （公開日：2025/04/27、閲覧日：2025/04/27）[最小限のMCP Host/Client/Serverをスクラッチで実装する](https://zenn.dev/razokulover/articles/9a0aee8ceb9f3f)
 - （公開日：2025/04/28、閲覧日：2025/04/28）[CEO業を1週間おやすみしてAIエディタを使った開発をやってみた｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/times_serizawa_0001)
 - （公開日：2025/04/26、閲覧日：2025/04/29）[Clineとスクラム開発をやってみたら開発速度が2倍になった \#cline \- Qiita](https://qiita.com/autotaker1984/items/6e03302d4a0ec981689f)
+- （公開日：2025/05/03、閲覧日：2025/05/03）[AI Coding Agent を使うことで、怒り狂い、視座が上昇する話 \- Lambdaカクテル](https://blog.3qe.us/entry/2025/05/03/000513)
+    - AI Coding Agent を使うということは、AIに対してマネジメントするということ
+    - 気に入った表現
+        - > イテレーティブな開発を行うことが前提で、非定型であり、エントロピーの無秩序な拡大を抑止しながら開発しなければならない†現実†の開発
+- （公開日：2025/05/05、閲覧日：2025/05/06）[LLMでコードレビューする際の自分用環境を整える](https://zenn.dev/razokulover/articles/058fede74dbbe0)
+    - わかる
+        - > 自分が求めるのはむしろ重箱の隅を突いてくるような口うるさいくらいのレビュアーだ
+    - 「レビュアーの人格作成用のドキュメント」の言葉がいちいち強くて面白かった
 - （公開日：2025/05/07、閲覧日：2025/05/08）[AIエージェントCline、freeeはどうやって全社導入した？ \- freee Developers Hub](https://developers.freee.co.jp/entry/ai-cline-rolling-out)
     - Clineで利用する基盤モデルとしてAmazon Bedrockを採用している
     - ClineとAmazon Bedrockの間に独自プロキシを仲介させ、危険な入出力をフィルタリングしている　→独自プロキシの実装が気になる
