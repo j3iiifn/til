@@ -25,6 +25,10 @@
     - この人はDeepSeekのAPIを使用していた
 - （公開日：2025/05/08、閲覧日：2025/05/10）[CursorにPMBOKやDMBOKを叩き込んで、専門業務を爆速化する未来、見えた！](https://zenn.dev/channnnsm/articles/215208b067f430)
 - （公開日：2025/05/08、閲覧日：2025/05/10）[うさぎでもわかるClaude 3\.7システムプロンプト流出の解説と示唆](https://zenn.dev/taku_sid/articles/20250508_claude_leak)
+- （公開日：2025/05/10、閲覧日：2025/05/11）[Cursor入門のツボ \#VSCode \- Qiita](https://qiita.com/Ninagawa123/items/2ac5ac6687c603e9cfb5)
+- （公開日：2025/05/10、閲覧日：2025/05/11）[イマ面白いAIツール「NotebookLM」をiPadから使ってみよう｜iPad Hacks \| ＆GP](https://www.goodspress.jp/howto/675292/)
+- （公開日：2025/05/10、閲覧日：2025/05/11）[初めて MCP を使うなら Docker MCP Toolkit がおすすめ \#VSCode \- Qiita](https://qiita.com/falya128/items/23020ddba7a7d1ce2e1f)
+- （公開日：2025/05/09、閲覧日：2025/05/11）[Gemini の新機能 「Canvas」入門： アイデアをカタチにする活用法をわかりやすく徹底解説！｜Gemini \- Google の AI](https://note.com/google_gemini/n/na32ff1b28878)
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
@@ -32,6 +36,8 @@
 
 ## 講演、セミナー
 - （2025/04/24）GitHub Japan、緊急開催：GitHub Copilotエージェントモードと最新情報 [＜資料＞](https://resources.github.com/ja/githubcopilotaprilupdatewebinar2025/) [＜告知＞](https://x.com/GitHubJapan/status/1911562545069957219)
+    - AIによるソフトウェア開発支援は第1フェーズ（単一モデル、会話型、AIを既存機能に埋め込む）／Pair Programmerから第2フェーズ（複数モデル、AIエージェント、AIネイティブ）／Peer Programmerへ
+    - 2025年4月にGitHub Copilot Chatエージェントモードがリリースされた
     - VSCodeのCopilot拡張機能のチャットで実装したい機能を依頼するデモをやっていた。Copilotが自律的に計画を立てて、実装はもちろんのこと、ブラウザを使用したテスト（PlaywrightのMCP経由）とGitコミット、GitHubのプルリクエスト作成（GitHubのMCP経由）まで自動でやってくれていた。
 
 ## X
