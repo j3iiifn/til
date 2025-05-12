@@ -1,9 +1,18 @@
 # Androidアプリ開発
 
 ## edge-to-edge
-- [DroidKaigi 2022 \- 実践 \`edge\-to\-edge\`: 端から端まで解説 \| Yuki Ando \[JA\] \- YouTube](https://www.youtube.com/watch?v=KOUiX0_R00I)
-- [DroidKaigi 2022 \- Android アプリの内と外をつなぐ UI \| 荒木佑一 \[JA\] \- YouTube](https://www.youtube.com/watch?v=7qh80shWF-A)
-- [DroidKaigi 2020 \- System UIをコントロールして、画面を最大限に生かしたアプリを構築する / Sato Shun \[JA\] \- YouTube](https://www.youtube.com/watch?v=LuZwy1-sF6w)
+- DroidKaigi
+    - [DroidKaigi 2022 \- 実践 \`edge\-to\-edge\`: 端から端まで解説 \| Yuki Ando \[JA\] \- YouTube](https://www.youtube.com/watch?v=KOUiX0_R00I)
+    - [DroidKaigi 2022 \- Android アプリの内と外をつなぐ UI \| 荒木佑一 \[JA\] \- YouTube](https://www.youtube.com/watch?v=7qh80shWF-A)
+    - [DroidKaigi 2020 \- System UIをコントロールして、画面を最大限に生かしたアプリを構築する / Sato Shun \[JA\] \- YouTube](https://www.youtube.com/watch?v=LuZwy1-sF6w)
+- Android公式
+    - [Behavior changes: Apps targeting Android 15 or higher  |  Android Developers](https://developer.android.com/about/versions/15/behavior-changes-15)
+    - [About window insets  |  Jetpack Compose  |  Android Developers](https://developer.android.com/develop/ui/compose/system/insets)
+    - [Display content edge-to-edge in views  |  Views  |  Android Developers](https://developer.android.com/develop/ui/views/layout/edge-to-edge)
+    - [Manually set up the edge\-to\-edge display  \|  Views  \|  Android Developers](https://developer.android.com/develop/ui/views/layout/edge-to-edge-manually)
+    - [WindowInsets — listeners to layouts \| by Chris Banes \| Android Developers \| Medium](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1) → 2019年の記事なので情報が古かった
+- oss-licenses-plugin は edge-to-edge に非対応（2025/05/12時点）
+    - [oss\-licenses\-plugin is not edge\-to\-edge ready · Issue \#296 · google/play\-services\-plugins](https://github.com/google/play-services-plugins/issues/296)
 
 ## [Android 15〜] dataSyncタイプのフォアグラウンドサービスのタイムアウト
 （2025/05/01）
