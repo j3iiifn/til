@@ -14,6 +14,62 @@
 - oss-licenses-plugin は edge-to-edge に非対応（2025/05/12時点）
     - [oss\-licenses\-plugin is not edge\-to\-edge ready · Issue \#296 · google/play\-services\-plugins](https://github.com/google/play-services-plugins/issues/296)
 
+
+## [Android 15] three-button navigation barの背景色について
+Android 15ではedge-to-edge強制化の影響で、navigation barの背景色がデフォルトで透明に設定されている。
+Android 14以下のように、`setNavigationBarColor(int)`や`android.R.styleable#Window_navigationBarColor`で自由に変更することはできない。
+`window.isNavigationBarContrastEnforced = true` で背景色が付くようになるが、色は自由に変えられない。
+`isNavigationBarContrastEnforced` をヒントにして色を決定するロジックをAndroid Code Searchで探したところ、次のコードが見つかった。
+
+```java
+    private int calculateNavigationBarColor(@Appearance int appearance) {
+        return calculateBarColor(mWindow.getAttributes().flags, FLAG_TRANSLUCENT_NAVIGATION,
+                mSemiTransparentBarColor, mWindow.mNavigationBarColor,
+                appearance, APPEARANCE_LIGHT_NAVIGATION_BARS,
+                mWindow.mEnsureNavigationBarContrastWhenTransparent
+                        && (mLastSuppressScrimTypes & WindowInsets.Type.navigationBars()) == 0,
+                mWindow.mEdgeToEdgeEnforced);
+    }
+
+    public static int calculateBarColor(int flags, int translucentFlag, int semiTransparentBarColor,
+            int barColor, @Appearance int appearance, @Appearance int lightAppearanceFlag,
+            boolean ensuresContrast, boolean movesBarColorToScrim) {
+        if ((flags & translucentFlag) != 0) {
+            return semiTransparentBarColor;
+        } else if ((flags & FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS) == 0) {
+            return Color.BLACK;
+        } else if (ensuresContrast) {
+            final int alpha = Color.alpha(barColor);
+            if (alpha == 0) {
+                boolean light = (appearance & lightAppearanceFlag) != 0;
+                return light ? SCRIM_LIGHT : semiTransparentBarColor;
+            } else if (movesBarColorToScrim) {
+                return (barColor & 0xffffff) | SCRIM_ALPHA;
+            }
+        } else if (movesBarColorToScrim) {
+            return Color.TRANSPARENT;
+        }
+        return barColor;
+    }
+```
+https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/core/java/com/android/internal/policy/DecorView.java;l=1409;drc=61197364367c9e404c7da6900658f1b16c42d0da
+
+`calculateBarColor` 関数が実際にはどのような値になるのかが気になるが、Androidフレームワーク側のコードであるため、ブレークポイントは設定できない。
+`calculateBarColor` 関数の戻り値を使用する箇所を調べてみたら、その戻り値は最終的に`mNavigationColorViewState.color`に代入されていた。
+
+それならデバッガから覗き見できると思い、ソースコードの適当なところに `window.decorView` と書いてブレークポイントを設定してAndroid15端末でデバッグ実行し、デバッガで `decorView` の中身を開き、 `mNavigationColorViewState > color` を確認してみたら、値は `-872415232` だった。
+デバッガのEvaluate Expressionを開き、 `String.format("#%08X", -872415232)` を実行してInt値を16進数のカラーコードに変換すると、`#CC000000` になった。
+これは下記のSCRIM_ALPHA定数の値と一致する。
+
+```java
+    private static final int SCRIM_ALPHA = 0xcc000000; // 80% alpha
+```
+https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/core/java/com/android/internal/policy/DecorView.java;l=143;drc=61197364367c9e404c7da6900658f1b16c42d0da
+
+Android StudioのRunning Devices機能で端末の画面をMacに投影し、Digital Color Meter.appでnavigation barの色を計測すると `#313131` だった（白背景のアプリ）。
+`#CC000000`（アルファ値80%の黒）を `#FFFFFF`（白）の上に描画した場合、合成後のカラーコードは `#333333` になるので、実測値とおよそ一致する（Macに投影した影響？で値が微妙にズレてしまうのは仕方ない）。
+
+
 ## [Android 15〜] dataSyncタイプのフォアグラウンドサービスのタイムアウト
 （2025/05/01）
 
