@@ -11,6 +11,8 @@
     - [Display content edge-to-edge in views  |  Views  |  Android Developers](https://developer.android.com/develop/ui/views/layout/edge-to-edge)
     - [Manually set up the edge\-to\-edge display  \|  Views  \|  Android Developers](https://developer.android.com/develop/ui/views/layout/edge-to-edge-manually)
     - [WindowInsets — listeners to layouts \| by Chris Banes \| Android Developers \| Medium](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1) → 2019年の記事なので情報が古かった
+    - [Insets handling tips for Android 15’s edge\-to\-edge enforcement \| by Ash Nohe \| Android Developers \| Medium](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b)
+    - [Is your app providing a backward compatible edge\-to\-edge experience? \| by Yuichi Araki \| Android Developers \| Medium](https://medium.com/androiddevelopers/is-your-app-providing-a-backward-compatible-edge-to-edge-experience-2479267073a0)
 - oss-licenses-plugin は edge-to-edge に非対応（2025/05/12時点）
     - [oss\-licenses\-plugin is not edge\-to\-edge ready · Issue \#296 · google/play\-services\-plugins](https://github.com/google/play-services-plugins/issues/296)
 
@@ -68,6 +70,27 @@ https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base
 
 Android StudioのRunning Devices機能で端末の画面をMacに投影し、Digital Color Meter.appでnavigation barの色を計測すると `#313131` だった（白背景のアプリ）。
 `#CC000000`（アルファ値80%の黒）を `#FFFFFF`（白）の上に描画した場合、合成後のカラーコードは `#333333` になるので、実測値とおよそ一致する（Macに投影した影響？で値が微妙にズレてしまうのは仕方ない）。
+
+
+## ProtectionLayout
+[Display content edge-to-edge in views  |  Views  |  Android Developers](https://developer.android.com/develop/ui/views/layout/edge-to-edge)
+
+に登場する [androidx.core.view.insets.ProtectionLayout](https://developer.android.com/reference/androidx/core/view/insets/ProtectionLayout) はAPIリファレンスと上記の公式ドキュメントの簡単な記述以外、検索に情報が全く引っかからない。
+先月リリースされた [androidx.core Version 1.6.0 (2025/04/09)](https://developer.android.com/jetpack/androidx/releases/core#1.16.0) の新機能ということもあり、まだほとんど誰も使っていないのかもしれない。
+
+[Insets handling tips for Android 15’s edge\-to\-edge enforcement \| by Ash Nohe \| Android Developers \| Medium](https://medium.com/androiddevelopers/insets-handling-tips-for-android-15s-edge-to-edge-enforcement-872774e8839b) に
+
+> We are planning to release an AndroidX library to support this use case.
+
+という記載があるが、そのライブラリがこの `ProtectionLayout` なのだろう。
+
+
+## immersive mode
+- Android公式ドキュメント
+    - [Hide system bars for immersive mode  \|  Views  \|  Android Developers](https://developer.android.com/develop/ui/views/layout/immersive)
+- immersive mode中に画面をタップしたときの挙動（実機で検証）：
+    - Android 15, 14, 13, 12: 何も起こらない（status bar/navigation barは隠れたまま）
+    - Android 11, 10, 8, 7: OSがタップを検知し、status bar/navigation barを表示させてくれる
 
 
 ## [Android 15〜] dataSyncタイプのフォアグラウンドサービスのタイムアウト
