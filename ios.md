@@ -1,0 +1,5 @@
+- Dynamic Island : [iPhone 14 Pro以降] 画面最上部の時計と電池の間にある領域のこと。iPhone 14 Pro以降の端末に搭載されている
+    - [iPhoneでDynamic Islandを使用する \- Apple サポート \(日本\)](https://support.apple.com/ja-jp/guide/iphone/iph28f50d10d/ios)
+- Live Activities : [iOS 16.1以降] Lock ScreenやDynamic Islandに表示する。情報をリアルタイムに表示でき、クイックアクションも行える。
+    - [ライブアクティビティ \| Apple Developer Documentation](https://developer.apple.com/jp/design/human-interface-guidelines/live-activities)
+    - [ActivityKit \| Apple Developer Documentation](https://developer.apple.com/documentation/ActivityKit)
