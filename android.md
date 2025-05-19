@@ -71,6 +71,10 @@ https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base
 Android StudioのRunning Devices機能で端末の画面をMacに投影し、Digital Color Meter.appでnavigation barの色を計測すると `#313131` だった（白背景のアプリ）。
 `#CC000000`（アルファ値80%の黒）を `#FFFFFF`（白）の上に描画した場合、合成後のカラーコードは `#333333` になるので、実測値とおよそ一致する（Macに投影した影響？で値が微妙にズレてしまうのは仕方ない）。
 
+### windowOptOutEdgeToEdgeEnforcement について
+edge-to-edge強制化をオプトアウトする設定がある。
+Activityのテーマに `<item name="android:windowOptOutEdgeToEdgeEnforcement" tools:targetApi="35">true</item>` を追加してAndroid 15端末で動作確認してみると、Android 14以下のように、`setNavigationBarColor(int)`や`android.R.styleable#Window_navigationBarColor`でnavigation barの色を自由に変更することができた。
+
 
 ## ProtectionLayout
 [Display content edge-to-edge in views  |  Views  |  Android Developers](https://developer.android.com/develop/ui/views/layout/edge-to-edge)
