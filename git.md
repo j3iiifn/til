@@ -25,3 +25,7 @@
 
 ## ローカル環境だけを対象にgitignoreしたいとき
 `.git/info/exclude` にgitignore相当の設定を書く
+
+
+## 特定のファイルだけを特定のコミットの状態に戻す
+`git checkout {コミットハッシュ} -- {ファイルパス}`
