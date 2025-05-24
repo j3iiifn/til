@@ -34,6 +34,30 @@
 - （公開日：2025/05/18、閲覧日：2025/05/18）[AIお任せでプログラム開発。ChatGPTの新機能｢Codex｣を試してみた \| ギズモード・ジャパン](https://www.gizmodo.jp/2025/05/chatgpt_codex_handson.html)
 - （公開日：2025/05/20、閲覧日：2025/05/20）[［速報］「GitHub Copilot Coding Agent」パブリックプレビュー。AIにIssueをアサインすると、解決に向け自律的にプログラミング － Publickey](https://www.publickey1.jp/blog/25/github_copilot_coding_agentaiissue.html)
     - `GitHub Copilot Agent Mode` と `GitHub Copilot Coding Agent` は名前が似ていて区別しづらい
+- （公開日：2025/04/08、閲覧日：2025/05/24）[VS CodeでCopilot Chatに与えると便利なコンテキストまとめ](https://zenn.dev/rescuenow/articles/38b955d885d561)
+- （閲覧日：2025/05/24）[github/CopilotForXcode: Xcode extension for GitHub Copilot](https://github.com/github/CopilotForXcode)
+    - 試してみて気づいたこと（VSCodeとの比較）
+        - 使用できるモデルが少ない（Preview段階のモデルが使用できない）
+        - xibやstoryboardをコンテキストに追加できない
+        - エディタのタブやProject Navigatorからチャット欄へドラッグ＆ドロップしても、そのファイルをコンテキストに追加できない
+- （公開日：2024/10/30、閲覧日：2025/05/24）[本家GitHub Copilot For Xcodeがパブリックプレビューに！早速触ってみた](https://zenn.dev/ruwatana/articles/da631ab770165a)
+- （公開日：2025/02/20、閲覧日：2025/05/24）[「Xcode」でも「GitHub Copilot」の無料プランでコード補完機能を利用可能に　何がメリットか：チャットアシスタント機能はプレビュー段階 \- ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2502/20/news088.html)
+- （公開日：2024/12/08、閲覧日：2025/05/24）[Xcode 16から登場したSwift AssistとGitHub Copilotの比較 \- しめ鯖日記](https://llcc.hatenablog.com/entry/2024/12/08/154818)
+    - この記事で試しているのはSwift AssistではなくPredictive code completionだと思う。Swift Assistは2025年5月現在でもまだリリースされていない
+- （公開日：2024/06/11、閲覧日：2025/05/24）WWDC2024 - Platforms State of the Union
+    - [\[21:43〜\]](https://developer.apple.com/videos/play/wwdc2024/102/?time=1303) Predictive code completion
+        - Xcodeのエディタで入力を始めるとすぐに提案が表示される。Tabキーで承認できる
+        - プロジェクトのコードとコメントがコンテキストとして認識される
+            - 指示のためのコメントを書き、最初の数文字を書くと思っていた通りの提案が得られる
+        - AIモデルはローカル(Mac)で動くため、コードを外部に送信しない。高速で結果を得られ、オフラインでも動く
+    - [\[23:59〜\]](https://developer.apple.com/videos/play/wwdc2024/102/?time=1439) Swift Assist
+        - 指示を自然言語でチャット欄に入力するとコードを生成してくれる
+        - AIモデルはクラウドで動く
+        - コードはサーバに保管されず、モデルの学習に使用されない
+- （公開日：2025/01/12、閲覧日：2025/05/24）[iOS開発のAIアシストツール、結局どれがいいのか？ \#osaka\_swift \| ドクセル](https://www.docswell.com/s/shu223/ZP2L2G-ios-ai)
+- （公開日：2024/03/11、閲覧日：2025/05/24）[VSCodeでGitHub Copilotを効率的に使用する方法 \- カカクコムTechBlog](https://kakaku-techblog.com/entry/vscode-github-copilot)
+- （閲覧日：2025/05/24）[Visual Studio Code documentation
+ > Copilot chat context](https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context)
 
 
 ## 見た動画

@@ -14,3 +14,13 @@
 - Project navigatorで対象のファイルを選択し、Enterキーを押下すると変更モードになる
 - ファイルを右クリックしてコンテキストメニューを表示しても、その中に「Rename」という選択肢は存在しない。極めて不親切なUI
 - 参考: [Xcodeでのグループ名、ファイル名変更方法 \- yakisakeの日記](https://yakisake.hatenablog.com/entry/Xcode%E3%81%A7%E3%81%AE%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%90%8D%E3%80%81%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%90%8D%E5%A4%89%E6%9B%B4%E6%96%B9%E6%B3%95)
+
+
+### ビルドの成功/失敗時に効果音を鳴らす方法
+- メニューバー > Xcode > Preferences > Behaviorsタブ で左ペインからイベントを選択し、右ペインで `Play sound` をONにする
+- 私は以下のように設定した
+    - Build > Succeeds : Funky
+    - Build > Fails : Sonumi
+    - Testing > Succeeds : Crystal
+    - Testing > Fails : Sonumi
+- 参考: [【Xcode】iOSエンジニアが真っ先に設定すべきXcode設定集 \#Swift \- Qiita](https://qiita.com/zrn-ns/items/8493413e55b7329c023a)
