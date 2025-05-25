@@ -24,3 +24,10 @@
     - Testing > Succeeds : Crystal
     - Testing > Fails : Sonumi
 - 参考: [【Xcode】iOSエンジニアが真っ先に設定すべきXcode設定集 \#Swift \- Qiita](https://qiita.com/zrn-ns/items/8493413e55b7329c023a)
+
+
+## 勉強会
+- （2025/05/21）Findy主催 - 【iOSエンジニア特集】iOSアプリ開発の裏側 開発組織が向き合う課題とこれから [＜アーカイブ動画＞](https://findy-code.io/events/5twIvDRz5VkUF)
+    - TVer iOSチームの共通認識の作り方（株式会社TVer 小森 英明さん）[＜資料＞](https://speakerdeck.com/techtver/tver-iostimunogong-tong-ren-shi-nozuo-rifang-findy-job-lt-iosapurikai-fa-noli-ce-kai-fa-zu-zhi-gaxiang-kihe-uke-ti-tokorekara)
+        - レビュープロセス：UI設計レビュー、Reducer設計レビュー、Test設計レビュー
+        - ドキュメント整備：コーディング規約（GitHub issueで起案、採択されたものをWikiへ追記）、ADR (Architectural Decision Records)、TIPS
