@@ -40,6 +40,12 @@
         - 使用できるモデルが少ない（Preview段階のモデルが使用できない）
         - xibやstoryboardをコンテキストに追加できない
         - エディタのタブやProject Navigatorからチャット欄へドラッグ＆ドロップしても、そのファイルをコンテキストに追加できない
+        - コードベース全体をコンテキストにできない
+        - Xcode Source Editor Extensionで実現不可能なことはできない
+        - 新機能が組み込まれるのが遅い（開発の活発さが負けている）
+            - Agent Modeの搭載がVSCodeは2025/04/03、Xcodeは2025/05/19
+        - 日本語で話しかけても英語で応答することが多い（日本語でお願いしますと言えば日本語で返ってくるが、プロンプトに毎回含める必要があるのは面倒）
+        - スラッシュコマンドとコンテキスト変数が利用できない
 - （公開日：2024/10/30、閲覧日：2025/05/24）[本家GitHub Copilot For Xcodeがパブリックプレビューに！早速触ってみた](https://zenn.dev/ruwatana/articles/da631ab770165a)
 - （公開日：2025/02/20、閲覧日：2025/05/24）[「Xcode」でも「GitHub Copilot」の無料プランでコード補完機能を利用可能に　何がメリットか：チャットアシスタント機能はプレビュー段階 \- ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2502/20/news088.html)
 - （公開日：2024/12/08、閲覧日：2025/05/24）[Xcode 16から登場したSwift AssistとGitHub Copilotの比較 \- しめ鯖日記](https://llcc.hatenablog.com/entry/2024/12/08/154818)
