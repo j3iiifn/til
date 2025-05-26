@@ -28,6 +28,14 @@
 
 ## 勉強会
 - （2025/05/21）Findy主催 - 【iOSエンジニア特集】iOSアプリ開発の裏側 開発組織が向き合う課題とこれから [＜アーカイブ動画＞](https://findy-code.io/events/5twIvDRz5VkUF)
+    - クラシルリワードにおけるiOSアプリ開発の取り組み（dely株式会社 中澤 郁斗さん）[＜資料＞](https://speakerdeck.com/funzin/kurasiruriwadoniokeru-iosapurikai-fa-noqu-rizu-mi)
+        - 技術スタック、アーキテクチャ
+        - Swift Package Managerによるモジュール管理
+        - 画面のアーキテクチャ：Builder, ViewController, ScreenView (SwiftUI), ViewModel(ObservableObjectを使用)
+        - 画面遷移：RouterService
+    - （株式会社カウシェ 深谷 哲史さん）[＜資料＞](https://speakerdeck.com/akifumifukaya/20250521-findy-ios-tech-event-kauche)
+        - MVVM、マルチモジュール、SwiftUI
+        - Swift Package Managerによるモジュール管理
     - TVer iOSチームの共通認識の作り方（株式会社TVer 小森 英明さん）[＜資料＞](https://speakerdeck.com/techtver/tver-iostimunogong-tong-ren-shi-nozuo-rifang-findy-job-lt-iosapurikai-fa-noli-ce-kai-fa-zu-zhi-gaxiang-kihe-uke-ti-tokorekara)
         - レビュープロセス：UI設計レビュー、Reducer設計レビュー、Test設計レビュー
         - ドキュメント整備：コーディング規約（GitHub issueで起案、採択されたものをWikiへ追記）、ADR (Architectural Decision Records)、TIPS
