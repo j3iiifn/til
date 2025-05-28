@@ -79,6 +79,9 @@
     - AIはジュニアエンジニアの底上げに効く
     - プログラマーの三大美徳：怠惰、傲慢、短期
     - エンジニアリングから事業へ
+- （2025/05/28）Findy主催、- AIエージェントのオンボーディング -ヒトとAIの協同を支える”役割設計”とは [＜connpass＞](https://findy.connpass.com/event/353481/) [＜イベントページ＞](https://findy-code.io/events/RjgPRJ6Qt86pC)
+    - AIオンボーディングとAIプロセスマイニング（株式会社LayerX	中村 龍矢さん）
+        - プロセスマイニングを人手でやるのは大変なのでLLMにさせる
 
 ## X
 - （2025/04/27）https://x.com/hamukazu/status/1916502783018303779
