@@ -145,3 +145,24 @@ if (nowElapsed >= latestStopTimeElapsed) {
             + " Sending onStop: " + getRunningJobNameLocked());
 ```
 https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/apex/jobscheduler/service/java/com/android/server/job/JobServiceContext.java;l=1454;drc=175d54f39b9c0a580b9e3d424569793c1b78219c
+
+
+## ConstraintLayout TIPS
+### gone margin
+制約対象のvisibilityがGONEのときにmarginの値を変えたいときに使う
+
+```
+layout_goneMarginStart
+layout_goneMarginEnd
+layout_goneMarginLeft
+layout_goneMarginTop
+layout_goneMarginRight
+layout_goneMarginBottom
+layout_goneMarginBaseline
+```
+
+
+## Fragment TIPS
+### Fragment#setFragmentResultListener(requestKey,listener)
+- 同じFragmentManager・同じrequestKeyでリスナーを登録すると、後から登録したリスナーが前のリスナーを上書きしてしまう
+- 同じActivity上で異なる2つのFragmentを表示しているときに、両方のFragmentで同じrequestKeyでリスナーを登録すると、リスナーが上書きされ、後から登録したリスナーだけが有効になる

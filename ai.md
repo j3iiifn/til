@@ -62,8 +62,8 @@
         - コードはサーバに保管されず、モデルの学習に使用されない
 - （公開日：2025/01/12、閲覧日：2025/05/24）[iOS開発のAIアシストツール、結局どれがいいのか？ \#osaka\_swift \| ドクセル](https://www.docswell.com/s/shu223/ZP2L2G-ios-ai)
 - （公開日：2024/03/11、閲覧日：2025/05/24）[VSCodeでGitHub Copilotを効率的に使用する方法 \- カカクコムTechBlog](https://kakaku-techblog.com/entry/vscode-github-copilot)
-- （閲覧日：2025/05/24）[Visual Studio Code documentation
- > Copilot chat context](https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context)
+- （閲覧日：2025/05/24）[Visual Studio Code documentation > Copilot chat context](https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context)
+- （公開日：2025/05/29、閲覧日：2025/05/30）[NotebookLMアプリの使い方：要約・ポッドキャスト化、スキマ時間のインプットが変わった！ \| ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2505-ai-workhack-notebooklm-how-to-use/)
 
 
 ## 見た動画
@@ -181,3 +181,14 @@
     - 50%くらいの確率（体感）でもともとあったコメントが消されてしまう
 - 2025/05/22
     - GitHub Copilot Agent Modeにリファクタリングさせると、消してはいけない処理を消してしまうことがたまにある
+- 2025/05/30
+    - Androidアプリの不具合修正にもGitHub CopilotのAsk modeとAgent modeを使ってみた
+        - Android Studio拡張のCopilotはまだAgent modeが搭載されていないため、VSCodeのCopilot拡張を使った
+            - Android StudioとVSCodeの両方を開いて作業しないといけないのは少し面倒だが、ウルトラワイドディスプレイを使用しているので作業スペース的には問題ない
+    - 複数のファイルにまたがって修正する必要があるときに、Agent modeは1〜2ファイルしか修正してくれないことがある
+        - コンテキストで修正対象のファイルを全部渡したほうが安定して全ファイルを修正してくれるかも（気のせいかも）
+    - Ask modeで何回かやりとりしながら設計を固め、最後にAgent modeに切り替えて一言「やって」とお願いするのが効率が良さそう
+        - Agent modeがファイルを読み書きするのにかかる時間は、Ask modeがファイルを読み取って思考する時間よりも長くかかる
+            - 特に数百行〜数千行あるファイルだと読み書きにすごく時間がかかる
+        - なので、具体的な設計を指示せずにいきなりAgent modeで依頼すると、依頼→作業→修正依頼→作業→…の繰り返しのテンポが遅くなってしまう
+        - Ask modeで先に議論するほうがフィードバックループが短くなる
