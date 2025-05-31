@@ -80,9 +80,34 @@
     - プログラマーの三大美徳：怠惰、傲慢、短期
     - エンジニアリングから事業へ
 - （2025/05/28）Findy主催、- AIエージェントのオンボーディング -ヒトとAIの協同を支える”役割設計”とは [＜connpass＞](https://findy.connpass.com/event/353481/) [＜イベントページ＞](https://findy-code.io/events/RjgPRJ6Qt86pC)
-    - AIオンボーディングとAIプロセスマイニング（株式会社LayerX	中村 龍矢さん）
+    - AIオンボーディングとAIプロセスマイニング（株式会社LayerX	中村 龍矢さん）[＜資料＞](https://speakerdeck.com/nrryuya/aionbodeingutoaipurosesumainingu)
         - プロセスマイニングを人手でやるのは大変なのでLLMに任せる
             - LLMは①常識を事前学習済みなので企業固有のものだけ学べば良い、②非構造的な過去資料をそのまま扱える、③モデルや特徴量の設計が不要で推論可能なので、プロセスマイニングに適している
+    - Devinで実践する！AIエージェントと協働する開発組織の作り方（株式会社ジェネラティブエージェンツ	西見 公宏さん）[＜資料＞](https://speakerdeck.com/masahiro_nishimi/devindeshi-jian-suru-aiezientotoxie-dong-surukai-fa-zu-zhi-nozuo-rifang)
+        - 開発組織におけるAIエージェントの役割：①同期的に支援（Cursor）/scale up、②非同期的に支援（Devin）/scale out、③イベント駆動で作動/ambient agents
+        - Devinのオンボーディングステップ：①リポジトリのセットアップ→②伴奏してシステムナレッジを育てる→③プレイブックとナレッジを整える
+        - Devinのナレッジ
+            - System Knowledge : Built-in knowledge, Repo indexes
+            - User Knowledge
+        - 焦らずに、やれることを一つずつ増やそう
+        - エージェント横断で育てたナレッジを一箇所に集め、Devinに情報整理させる（プループリント）
+    - AIのためのオンボーディングドキュメントを整備する（株式会社スマートバンク hiroteaさん）[＜資料＞](https://speakerdeck.com/hirotea/ainotameno-onbodeingudokiyumentowozheng-bei-suru)
+        - 2025年5月時点で増加中：自立度の高いリモート型エージェント、CLIベースのエージェント
+        - 複数のAIを併用するにあたり、共通のオンボーディングドキュメントの必要性が増す　→コードと同じリポジトリでナレッジを管理
+        - ナレッジはAIエージェントの探索最適な形で保持する
+        - ドキュメント作成をAIエージェントに行わせる：推論力が強く、コンテキストウィンドウが大きいLLMに戦略を立ててもらう→Cursor Agentに戦略を実行してもらい、探索とドキュメンテーションをさせる
+- （2025/05/28）【Qiita Bash - 増枠】最近ハマっている生成AI活用法を語ろう！
+    - TDD + AIエージェントで設計に集中できる開発環境を作る（Tommyさん）[＜資料＞](https://speakerdeck.com/ryosukedtomita/number-qiitabash-tdddeainishe-ji-imeziwochuan-eru)
+        - 人間があらかじめテストを書いておき、そのテストが通るようにAIエージェントに実装してもらう
+    - AIコードエディタは開発を変えるか？Cursorをチームに導入して1ヶ月経った本音（iota2023さん）[＜資料＞](https://speakerdeck.com/ota1022/aikodoedeitahakai-fa-wobian-eruka-cursorwotimunidao-ru-site1keyue-jing-tutaben-yin)
+        - VSCodeのフォークエディタへの影響：Cursorの機能をGitHub Copilot/VSCodeが追従してきている。Microsoft製拡張機能がフォークエディタで使えなくなった（4月）。GitHub Copilot Chat extensionのOSS化で開発が加速中（5月）
+    - 生成AIで実現！スッキリ解決、デッドコードの整理術（kn555）[＜資料＞](https://speakerdeck.com/lmi/cleaning-up-dead-code-link-and-motivation)
+        - AI Assistantは活用できているが、AI Agentは活用しきれていない（人間による修正が頻発）
+        - AI Agentに詳細なTODOリストを与え、デッドコードを削除してもらった（AIエージェントに任せやすいタスク）
+    - 生成AIのエッジ×音声認識×ロボット：フルローカルでここまでできる（RyosukeAmano）
+    - 生成AIが変えるアパレル撮影（野田昂希）
+    - AIと私、時々ゴースト（株式会社ココナラ 三浦さん）
+        - AIの出力の特徴：一見完璧だが微妙に足りない、人間に専門知識がないと評価できない、適切な指示を与えるために深い理解が必要
 - （2025/05/29）Findy主催、採用の現場から見るAI利用のリアルな変化〜年間400名以上とお会いするVPoEの本音〜（ファインディ株式会社 VPoE 神谷 健さん） [＜イベントページ＞](https://findy-code.io/events/GXYZbp38tWPZw)
     - エンジニア採用基準：論理的思考力・言語化能力、より一段高いエンジニアスキル、ビジネス感度・理解度、__新しいことに挑戦するバイタリティ__（[IT/Webエンジニア企業動向調査レポート2025年3月版](https://findy-code.io/job-market-trends/20250326)より）
     - 一次情報を取りに行っているかどうか
