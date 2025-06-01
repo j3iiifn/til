@@ -22,6 +22,11 @@
 ## コミット日時の修正
 - [Gitのコミット日時を修正する方法 \- zzzmisa's blog](https://blog.zzzmisa.com/git_commit_date/)
 
+```
+d="2025-06-01 01:00:00"; GIT_COMMITER_DATE=$d git commit --date=$d
+
+d=$(date -Iseconds -v -15M); GIT_COMMITER_DATE=$d git commit --date=$d
+```
 
 ## ローカル環境だけを対象にgitignoreしたいとき
 `.git/info/exclude` にgitignore相当の設定を書く
