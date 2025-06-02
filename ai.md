@@ -1,5 +1,8 @@
 # 生成AI
 
+## 定期的にチェックするサイト
+- [Use Case: copilot \- GitHub Changelog](https://github.blog/changelog/label/copilot/)
+
 ## 読んだ記事
 - （公開日：2025/03/31、閲覧日：2025/04/11）[GoogleのLLM「Gemini」でコードレビューをするGitHub Actionsを自力で構築してみた \- NTT Communications Engineers' Blog](https://engineers.ntt.com/entry/202503-gemini-cicd-code-review/entry)
 - （公開日：2025/04/11、閲覧日：2025/04/11）[最近1行もコードを書いていない](https://zenn.dev/notahotel/articles/e70325e770ffa6)
@@ -219,3 +222,13 @@
             - 特に数百行〜数千行あるファイルだと読み書きにすごく時間がかかる
         - なので、具体的な設計を指示せずにいきなりAgent modeで依頼すると、依頼→作業→修正依頼→作業→…の繰り返しのテンポが遅くなってしまう
         - Ask modeで先に議論するほうがフィードバックループが短くなる
+- 2025/05/31
+    - 初めてNotebookLMを使ってみた。試しに [Multi\-file editing, code review, custom instructions, and more for GitHub Copilot in VS Code October release \(v0\.22\) \- GitHub Changelog](https://github.blog/changelog/2024-10-29-multi-file-editing-code-review-custom-instructions-and-more-for-github-copilot-in-vs-code-october-release-v0-22/) をソースにして音声合成させてみたら本当に2人が自然に会話しているような音声が出来上がっていたて驚いた。でも言い回しが英語の直訳っぽい感じだった
+- 2025/06/02 : GitHub Copilot
+    - GPT-4.1の応答内容の雰囲気が先週と違う気がする（どこがどう違うのか言語化できないが）
+    - GitHub CopilotのAgent modeで不具合の原因を教えるように依頼すると、原因に対する修正も実行されてしまう。教えてくれるだけでいいんだけどなあ
+    - GitHub CopilotのAsk modeで不具合の原因を教えてもらいたいときに、プロンプトに再現手順と事象、デバッグ結果を書き、コンテキストに関連するファイルを全部渡してあげると具体的にどこがダメなのか教えてくれた
+        - コンテキストを一切渡さないと、ある程度コードを見て考えてくれるが、当たり障りのないざっくりしたことしか言ってくれなかった
+    - GitHub CopilotのAgent modeに複数ファイルにまたがる修正を依頼すると、最初の1〜2個くらいしかやってくれない
+    - Xcode extension for GitHub Copilot の agent mode でiOSアプリのリファクタリングをさせてみた。複数のファイルを読み取ってリファクタリングの方針を考えてくれるし、まあ使えるかなと思った。でもやっぱり日本語で話しかけているのに英語で返してくるのはやめてほしい
+    - 私はAndroidが主担当なのでiOSやSwiftのベストプラクティスは全然わからないけど、Copilotがよしなに提案してくれるからiOSアプリのリファクタリングが捗って楽しい
