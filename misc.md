@@ -10,3 +10,6 @@
 ## ソフトスキル
 - （2025/05/28）Forkwell主催、開発者とアーキテクトのためのコミュニケーションガイド ―パターンで学ぶ情報伝達術 [＜connpass＞](https://forkwell.connpass.com/event/354938/) [＜Forkwell＞](https://jobs.forkwell.com/events/50cbjcwyazb)
     - 筆者は無限の愛がある
+
+# 未分類
+- （公開日：2025/06/05、閲覧日：2025/06/05）[「CubePDF」の提供を続けたくて。倒産寸前のフリーソフト会社を、開発者自ら再建させるまで【フォーカス】 \| レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_680/)
