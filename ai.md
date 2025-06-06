@@ -71,6 +71,7 @@
 - （公開日：2025/06/02、閲覧日：2025/06/05）[Claude Code \+ Opus 4でmysql\-schema\-explorer\-mcpの機能改善をしてみた \- $shibayu36\->blog;](https://blog.shibayu36.org/entry/2025/06/02/103000)
 - （公開日：2025/05/07、閲覧日：2025/06/05）[MySQLのスキーマ情報を返すMCPサーバーをVibe Codingで作った具体的な流れ \- $shibayu36\->blog;](https://blog.shibayu36.org/entry/2025/05/07/183000)
     - Vibe Codingの具体的な流れ（会話の例も）
+- （公開日：2025/06/04、閲覧日：2025/06/06）[「Cursor」で「素の議事録」を「要件定義書」に高速でまとめなおした話 \#Node\.js \- Qiita](https://qiita.com/WdknWdkn/items/79980f4201c8cf9145bf)
 
 
 ## 見た動画
@@ -258,3 +259,5 @@
                 > - **行番号**: 5
                 > - **指摘内容**: ファイルヘッダーの作成日コメントが `Created by Copilot on 2025/06/02.` となっています。
                 > - **理由・改善案**: レビュー対象外ではありますが、実際の作成日や最終更新日に修正することを推奨します。
+- 2025/06/06 : GitHub Copilot
+    - `〇〇関数を別のもっと良いアルゴリズムで書き直してほしい`
