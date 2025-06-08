@@ -72,6 +72,7 @@
 - （公開日：2025/05/07、閲覧日：2025/06/05）[MySQLのスキーマ情報を返すMCPサーバーをVibe Codingで作った具体的な流れ \- $shibayu36\->blog;](https://blog.shibayu36.org/entry/2025/05/07/183000)
     - Vibe Codingの具体的な流れ（会話の例も）
 - （公開日：2025/06/04、閲覧日：2025/06/06）[「Cursor」で「素の議事録」を「要件定義書」に高速でまとめなおした話 \#Node\.js \- Qiita](https://qiita.com/WdknWdkn/items/79980f4201c8cf9145bf)
+- （公開日：2025/06/04、閲覧日：2025/06/08）[Claude Code \(MAX plan\) \+ ghコマンド \+ 英語プロンプトが一旦完成系だと思った話](https://zenn.dev/engine0606/articles/9201ff4c3e837d)
 
 
 ## 見た動画
