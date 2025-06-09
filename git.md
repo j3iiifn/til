@@ -39,3 +39,10 @@ d=$(date -Iseconds -v -15M); GIT_COMMITER_DATE=$d git commit --date=$d
 ## git worktree
 - （公開日：2025/05/27、閲覧日：2025/05/29）[AIエージェントで並列実装なら必須技術！ Git Worktree を理解する](https://zenn.dev/siu_issiki/articles/git_worktree)
 - （公開日：2022/06/01、閲覧日：2025/05/29）[git\-worktreeでmultirepoの開発体験を向上させる \- Yappli Tech Blog](https://tech.yappli.io/entry/introduction-of-git-worktree)
+
+
+## コミットメッセージにMarkdownを書きたい
+- コミットメッセージにMarkdownを書くと、見出し（行頭が`#`）がコメントとして扱われ、コミットの確定時にその行が消されてしまう
+- GitHub Copilotとのチャットをコミットメッセージに貼りたい
+- `git config commit.cleanup scissors` を設定して解決した
+- 参考：[2024\-06\-24 gitのコミットメッセージでmarkdownを使う \| TTIL](https://til.toshimaru.net/2024-06-24)
