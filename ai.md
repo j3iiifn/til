@@ -73,7 +73,7 @@
     - Vibe Codingの具体的な流れ（会話の例も）
 - （公開日：2025/06/04、閲覧日：2025/06/06）[「Cursor」で「素の議事録」を「要件定義書」に高速でまとめなおした話 \#Node\.js \- Qiita](https://qiita.com/WdknWdkn/items/79980f4201c8cf9145bf)
 - （公開日：2025/06/04、閲覧日：2025/06/08）[Claude Code \(MAX plan\) \+ ghコマンド \+ 英語プロンプトが一旦完成系だと思った話](https://zenn.dev/engine0606/articles/9201ff4c3e837d)
-
+- （公開日：2025/06/09、閲覧日：2025/06/10）[\#意識低いAICodingチュートリアル \#01 インターネット老人会のサイトを作ろう \[GitHub Copilot Agent mode 版\] \#初心者向け \- Qiita](https://qiita.com/chomado/items/acaf251a2f6bf984a3df)
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
@@ -269,3 +269,7 @@
     - 同じプロンプトでGPT-4.1とGemini 2.5 Proにも修正させてみたが、全く使い物にならないし参考にもならないレベルだった
         - 特にGemini 2.5 Proは不具合とは無関係な消してはいけないコードを消したり、ログ出力を勝手に変えたりして害でしかない
     - 先月からClaude Codeが人気な理由が垣間見えた
+- 2025/06/10
+    - GitHub Copilotのコードレビュー機能（Pull RequestのReviewerにCopilotを指定するやつ）がAndroidの専門的な内容の指摘をしてくれて助かる
+        - 例：setFragmentResultListenerのLifecycleOwnerはFragment自身（`this`）ではなく`viewLifecycleOwner`を使ったほうがいいという指摘
+    - `次の試験項目書について、問題点を指摘してください。` + Googleスプレッドシートからコピペ（TSV形式）

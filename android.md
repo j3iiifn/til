@@ -166,3 +166,6 @@ layout_goneMarginBaseline
 ### Fragment#setFragmentResultListener(requestKey,listener)
 - 同じFragmentManager・同じrequestKeyでリスナーを登録すると、後から登録したリスナーが前のリスナーを上書きしてしまう
 - 同じActivity上で異なる2つのFragmentを表示しているときに、両方のFragmentで同じrequestKeyでリスナーを登録すると、リスナーが上書きされ、後から登録したリスナーだけが有効になる
+
+### LifecycleOwnerとしてのFragment自身 vs Fragment.viewLifecycleOwnerプロパティ
+- [【Android】LifecycleOwner として Fragment 自身ではなく viewLifecycleOwner を使うべき場合 \#ライフサイクル \- Qiita](https://qiita.com/sdkei/items/100580137e7b2f705205)
