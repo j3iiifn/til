@@ -74,6 +74,10 @@
 - （公開日：2025/06/04、閲覧日：2025/06/06）[「Cursor」で「素の議事録」を「要件定義書」に高速でまとめなおした話 \#Node\.js \- Qiita](https://qiita.com/WdknWdkn/items/79980f4201c8cf9145bf)
 - （公開日：2025/06/04、閲覧日：2025/06/08）[Claude Code \(MAX plan\) \+ ghコマンド \+ 英語プロンプトが一旦完成系だと思った話](https://zenn.dev/engine0606/articles/9201ff4c3e837d)
 - （公開日：2025/06/09、閲覧日：2025/06/10）[\#意識低いAICodingチュートリアル \#01 インターネット老人会のサイトを作ろう \[GitHub Copilot Agent mode 版\] \#初心者向け \- Qiita](https://qiita.com/chomado/items/acaf251a2f6bf984a3df)
+- （公開日：2025/06/09、閲覧日：2025/06/11）[Claude Codeを20万円分使ってバイブコーディングの生産性を更に向上させるツールを作った](https://zenn.dev/aktriver/articles/2025-06-claude-code-200k-vibe-coding)
+- （公開日：2025/06/10、閲覧日：2025/06/11）[【AI開発時代】Claude Code学び直しノート \- 15分で時代に追いつけるか？ \- uepon日々の備忘録](https://uepon.hatenadiary.com/entry/2025/06/10/134022)
+- （公開日：2025/06/11、閲覧日：2025/06/11）[Claude Codeで効率的に開発するための知見管理](https://zenn.dev/driller/articles/2a23ef94f1d603)
+- （公開日：2025/06/11、閲覧日：2025/06/11）[Claude Codeでトークン使用量を削減するアプローチ](https://zenn.dev/driller/articles/ff6a50ae228b2b)
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
@@ -273,3 +277,9 @@
     - GitHub Copilotのコードレビュー機能（Pull RequestのReviewerにCopilotを指定するやつ）がAndroidの専門的な内容の指摘をしてくれて助かる
         - 例：setFragmentResultListenerのLifecycleOwnerはFragment自身（`this`）ではなく`viewLifecycleOwner`を使ったほうがいいという指摘
     - `次の試験項目書について、問題点を指摘してください。` + Googleスプレッドシートからコピペ（TSV形式）
+- 2025/06/11
+    - [GitHub Copilot Agent Mode / Claude Sonnet 4] Androidアプリの不具合を修正した後に、次のようなプロンプトで試験項目書の作成を依頼したら、私が気づいていなかった影響範囲に気づいてくれてありがたかった
+        > developブランチからHEADまでの差分によって次の不具合を解消しました。これから手動で試験しようと思っています。修正の影響範囲を全て洗い出し、試験項目書を作成してください。
+        > 差分は次のコマンドで取得してください。
+        > git --no-pager diff develop...HEAD
+        > （以下、不具合の内容の説明）
