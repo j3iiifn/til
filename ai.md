@@ -78,6 +78,9 @@
 - （公開日：2025/06/10、閲覧日：2025/06/11）[【AI開発時代】Claude Code学び直しノート \- 15分で時代に追いつけるか？ \- uepon日々の備忘録](https://uepon.hatenadiary.com/entry/2025/06/10/134022)
 - （公開日：2025/06/11、閲覧日：2025/06/11）[Claude Codeで効率的に開発するための知見管理](https://zenn.dev/driller/articles/2a23ef94f1d603)
 - （公開日：2025/06/11、閲覧日：2025/06/11）[Claude Codeでトークン使用量を削減するアプローチ](https://zenn.dev/driller/articles/ff6a50ae228b2b)
+- （公開日：2025/06/11、閲覧日：2025/06/12）[AI領域における組織の強みを活かすアーキテクチャ設計](https://zenn.dev/aishift/articles/c897d0e095c3d8)
+    - タイトルの「AI領域」はAIエージェント自体のの開発を指していた
+    - この記事で述べられている取り組みはAI云々に特有なものではなく、一般的に複数のチームが同じプロダクトを共同で開発するために必要な取り組みだと思った（技術選定、依存関係の整理）
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
@@ -128,6 +131,11 @@
     - PdMがPoC作成をAIにさせる
     - 事業会社はプロダクトへの共感が求められる
     - 今まではコーディングについてのHowの質問をしていたが、今は大きなお代（例：アーキテクチャ選定）の質問へ変化している（技術そのものへの興味・理解があるか？解像度高く、深い知識があるか？）
+- （2025/06/11）Forkwell主催、LLMのプロンプトエンジニアリング FL#98 [＜connpass＞](https://forkwell.connpass.com/event/356127/) [＜イベントページ＞](https://jobs.forkwell.com/events/uogdhwwil)
+    - HOW TO READ 牛本（GitHub Japan 服部 佑樹さん）[＜資料＞](https://speakerdeck.com/yuhattor/how-to-read-prompt-engineering-for-llm-niu-ben)
+        - LLMは単にテキストの次の単語を予測するモデルに過ぎない
+        - 本書のプロンプトエンジニアリングは巷で言われているフレーズニングだけではなく、広範囲の技術が組み合わさったもの
+        - LLMは後戻りできない
 
 
 ## X
