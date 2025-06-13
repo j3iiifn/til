@@ -81,6 +81,9 @@
 - （公開日：2025/06/11、閲覧日：2025/06/12）[AI領域における組織の強みを活かすアーキテクチャ設計](https://zenn.dev/aishift/articles/c897d0e095c3d8)
     - タイトルの「AI領域」はAIエージェント自体のの開発を指していた
     - この記事で述べられている取り組みはAI云々に特有なものではなく、一般的に複数のチームが同じプロダクトを共同で開発するために必要な取り組みだと思った（技術選定、依存関係の整理）
+- （公開日：2025/06/09、閲覧日：2025/06/13）[【簡単】NotebookLMでBacklogのRAG構築をするための方法 \| DevelopersIO](https://dev.classmethod.jp/articles/backlog-notebooklm-rag-construction/)
+    - この記事では NotebookLM = RAG という認識のようだが、そうなんだっけ？
+- （公開日：2025/06/13、閲覧日：2025/06/13）[Claude Code による技術的特異点を見届けろ](https://zenn.dev/mizchi/articles/claude-code-singularity-point)
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
