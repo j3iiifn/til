@@ -139,7 +139,7 @@
         - LLMは単にテキストの次の単語を予測するモデルに過ぎない
         - 本書のプロンプトエンジニアリングは巷で言われているフレーズニングだけではなく、広範囲の技術が組み合わさったもの
         - LLMは後戻りできない
-
+- （2025/06/04）話題のClaude 4とClaude Codeに入門！（KAGと学ぼう！勉強会）[＜YouTube＞](https://www.youtube.com/watch?v=8BPfZKIa51k)
 
 ## X
 - （2025/04/27）https://x.com/hamukazu/status/1916502783018303779
