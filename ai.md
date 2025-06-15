@@ -84,6 +84,7 @@
 - （公開日：2025/06/09、閲覧日：2025/06/13）[【簡単】NotebookLMでBacklogのRAG構築をするための方法 \| DevelopersIO](https://dev.classmethod.jp/articles/backlog-notebooklm-rag-construction/)
     - この記事では NotebookLM = RAG という認識のようだが、そうなんだっけ？
 - （公開日：2025/06/13、閲覧日：2025/06/13）[Claude Code による技術的特異点を見届けろ](https://zenn.dev/mizchi/articles/claude-code-singularity-point)
+- （公開日：2025/06/15、閲覧日：2025/06/15）[Claude Codeの会話ログをDuckDBで分析して自分の仕事スタイルを改善する方法 \- yasuhisa's blog](https://www.yasuhisay.info/entry/2025/06/15/162704#google_vignette)
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
