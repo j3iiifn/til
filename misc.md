@@ -11,6 +11,9 @@
 - （2025/05/28）Forkwell主催、開発者とアーキテクトのためのコミュニケーションガイド ―パターンで学ぶ情報伝達術 [＜connpass＞](https://forkwell.connpass.com/event/354938/) [＜Forkwell＞](https://jobs.forkwell.com/events/50cbjcwyazb)
     - 筆者は無限の愛がある
 
+## マネジメント
+- （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) [＜connpass＞](https://forkwell.connpass.com/event/356977/)
+
 ## 良いコード
 - （2025/06/04）Forkwell主催、良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97 [＜イベントページ＞](https://jobs.forkwell.com/events/pa3oihbjg6nj) [＜connpass＞](https://forkwell.connpass.com/event/354821/)
 
