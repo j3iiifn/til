@@ -1,5 +1,9 @@
 # Androidアプリ開発
 
+## Google I/O 2025
+- （公開日：2025/05/23、閲覧日：2025/06/18）[Android 開発ツールの新機能](https://www.youtube.com/watch?v=KXKP2tDPW4)
+    - [Journeys for Android Studio](https://developer.android.com/studio/preview/gemini/journeys) : 自然言語でテストを記述できる機能
+
 ## edge-to-edge
 - DroidKaigi
     - [DroidKaigi 2022 \- 実践 \`edge\-to\-edge\`: 端から端まで解説 \| Yuki Ando \[JA\] \- YouTube](https://www.youtube.com/watch?v=KOUiX0_R00I)
