@@ -4,3 +4,5 @@
 - [abiosoft/colima: Container runtimes on macOS \(and Linux\) with minimal setup](https://github.com/abiosoft/colima)
 - [Colima で Docker と Docker Compose を使ってみた](https://zenn.dev/ore88ore/articles/docker-with-colima)
 - [macOS上のコンテナ実行環境をRancher DesktopからColimaに変えてみた \| DevelopersIO](https://dev.classmethod.jp/articles/migrating-from-rancher-desktop-to-colima-docker-environment/)
+
+OSログイン時に自動起動するには `brew services start colima` を実行する。
