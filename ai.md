@@ -89,6 +89,9 @@
 - （公開日：2025/06/17、閲覧日：2025/06/18）[Mac環境で手を動かしながらClaude Codeを学ぶ](https://zenn.dev/fendo181/articles/1c859828fa2e17)
     - とりあえずインストールしてちょっとだけ動かしてみたという感じの記事だった
 - （公開日：2025/06/19、閲覧日：2025/06/19）[AIでプログラミングが「楽しくなった」人たちと、少し違和感を抱く自分｜magurotuna](https://note.com/maguro_tuna/n/n81f1cabc1183)
+- （公開日：2025/06/18、閲覧日：2025/06/20）[Claude Code を Bedrock 越しに使う \- クックパッド開発者ブログ](https://techlife.cookpad.com/entry/claude-code-bedrock-2025)
+    - > Bedrock 経由の利用だとどうしても InvokeModel がエラーになってしまいがち
+    - > on-demand な呼び出しをする際はクラウド側の都合でスロットリングを受ける可能性がある
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
