@@ -92,6 +92,8 @@
 - （公開日：2025/06/18、閲覧日：2025/06/20）[Claude Code を Bedrock 越しに使う \- クックパッド開発者ブログ](https://techlife.cookpad.com/entry/claude-code-bedrock-2025)
     - > Bedrock 経由の利用だとどうしても InvokeModel がエラーになってしまいがち
     - > on-demand な呼び出しをする際はクラウド側の都合でスロットリングを受ける可能性がある
+- （公開日：2025/06/20、閲覧日：2025/06/20）[Gemma3 \+ Unsloth \+ GitLab CI/CDで構築する完全オンプレミスAIコードレビュー環境 \| フューチャー技術ブログ](https://future-architect.github.io/articles/20250620a/)
+    - 実案件に対するコードレビュー結果についての情報は無かった（まだ実験段階の模様）
 
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
