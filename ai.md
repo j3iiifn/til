@@ -43,6 +43,7 @@
 - （公開日：2025/06/18、閲覧日：2025/06/20）[Claude Code を Bedrock 越しに使う \- クックパッド開発者ブログ](https://techlife.cookpad.com/entry/claude-code-bedrock-2025)
     - > Bedrock 経由の利用だとどうしても InvokeModel がエラーになってしまいがち
     - > on-demand な呼び出しをする際はクラウド側の都合でスロットリングを受ける可能性がある
+- （公開日：2025/06/21、閲覧日：2025/06/23）[Claude Code に壊されないための denyルール完全ガイド \- izanami](https://izanami.dev/post/d6f25eec-71aa-4746-8c0d-80c67a1459be)
 
 
 ### Cursor
@@ -123,7 +124,7 @@
 - （公開日：2025/05/10、閲覧日：2025/05/11）[初めて MCP を使うなら Docker MCP Toolkit がおすすめ \#VSCode \- Qiita](https://qiita.com/falya128/items/23020ddba7a7d1ce2e1f)
 
 
-### ポエム
+### エッセイ、キャリア論
 - （公開日：2025/05/03、閲覧日：2025/05/03）[AI Coding Agent を使うことで、怒り狂い、視座が上昇する話 \- Lambdaカクテル](https://blog.3qe.us/entry/2025/05/03/000513)
     - AI Coding Agent を使うということは、AIに対してマネジメントするということ
     - 気に入った表現
@@ -131,6 +132,7 @@
 - （公開日：2025/06/19、閲覧日：2025/06/19）[AIでプログラミングが「楽しくなった」人たちと、少し違和感を抱く自分｜magurotuna](https://note.com/maguro_tuna/n/n81f1cabc1183)
 - （公開日：2025/06/22、閲覧日：2025/06/22）[Claude Code時代のソフトウェアエンジニア生存戦略｜suthio](https://note.com/suthio/n/n4f79fbe4efda)
     - いい記事だった。また読み返したい。
+- （公開日：2025/06/23、閲覧日：2025/06/23）[AIによる開発は楽しすぎるが、基礎学習が疎かになりそうで怖い \- $shibayu36\->blog;](https://blog.shibayu36.org/entry/2025/06/23/090555)
 
 
 ### その他
