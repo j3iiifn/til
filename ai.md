@@ -7,6 +7,9 @@
 - （公開日：2024/12/08、閲覧日：2025/05/24）[Xcode 16から登場したSwift AssistとGitHub Copilotの比較 \- しめ鯖日記](https://llcc.hatenablog.com/entry/2024/12/08/154818)
     - この記事で試しているのはSwift AssistではなくPredictive code completionだと思う。Swift Assistは2025年5月現在でもまだリリースされていない
 - （公開日：2025/02/20、閲覧日：2025/05/24）[「Xcode」でも「GitHub Copilot」の無料プランでコード補完機能を利用可能に　何がメリットか：チャットアシスタント機能はプレビュー段階 \- ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2502/20/news088.html)
+- （公開日：2025/03/04、閲覧日：2025/06/26）[カスタムインストラクションの一歩先！GitHub Copilot への指示を分割管理しよう](https://zenn.dev/microsoft/articles/ghcp-reusable-prompt-files)
+    - 例に挙げられているルールはむしろ`.git/copilot-instructions.md`に書くべき事項だと思った
+    - 公式ドキュメントに記載されている内容を正しく理解できてなさそうな雰囲気だった
 - （公開日：2025/04/08、閲覧日：2025/05/24）[VS CodeでCopilot Chatに与えると便利なコンテキストまとめ](https://zenn.dev/rescuenow/articles/38b955d885d561)
 - （公開日：2025/05/20、閲覧日：2025/05/20）[［速報］「GitHub Copilot Coding Agent」パブリックプレビュー。AIにIssueをアサインすると、解決に向け自律的にプログラミング － Publickey](https://www.publickey1.jp/blog/25/github_copilot_coding_agentaiissue.html)
     - `GitHub Copilot Agent Mode` と `GitHub Copilot Coding Agent` は名前が似ていて区別しづらい
@@ -44,6 +47,12 @@
     - > Bedrock 経由の利用だとどうしても InvokeModel がエラーになってしまいがち
     - > on-demand な呼び出しをする際はクラウド側の都合でスロットリングを受ける可能性がある
 - （公開日：2025/06/21、閲覧日：2025/06/23）[Claude Code に壊されないための denyルール完全ガイド \- izanami](https://izanami.dev/post/d6f25eec-71aa-4746-8c0d-80c67a1459be)
+- （公開日：2025/06/25、閲覧日：2025/06/26）[参考になった] [「Claude Code Week」既存事業で1週間AI縛りで開発したことで見えたゲームチェンジと開発フローの再構築の必要性](https://zenn.dev/loglass/articles/b286b1e8f0947b)
+    - Claude Codeに振り返らせる
+    - Claude Codeにコーディングルールを作らせる
+- （公開日：2025/06/26、閲覧日：2025/06/26）[参考になった] [Claude Codeを使い倒す方法｜suthio](https://note.com/suthio/n/n71c111ddd183)
+    - 開発タスクを四象限で分類
+    - Claude Codeの暇つぶしタスク
 
 
 ### Cursor
@@ -97,6 +106,7 @@
 
 ### Gemini CLI
 - （公開日：2025/06/25、閲覧日：2025/06/25）[Google announces Gemini CLI: your open\-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+- （公開日：2025/06/26、閲覧日：2025/06/26）[Gemini CLI の簡単チュートリアル](https://zenn.dev/schroneko/articles/gemini-cli-tutorial)
 
 
 ### Claude（モデル）
@@ -112,7 +122,7 @@
 - （公開日：2025/06/02、閲覧日：2025/06/05）[Claude Code \+ Opus 4でmysql\-schema\-explorer\-mcpの機能改善をしてみた \- $shibayu36\->blog;](https://blog.shibayu36.org/entry/2025/06/02/103000)
 - （公開日：2025/05/07、閲覧日：2025/06/05）[MySQLのスキーマ情報を返すMCPサーバーをVibe Codingで作った具体的な流れ \- $shibayu36\->blog;](https://blog.shibayu36.org/entry/2025/05/07/183000)
     - Vibe Codingの具体的な流れ（会話の例も）
-- （公開日：2025/06/24、閲覧日：2025/06/25）[AI Agent Manager \(AAM\) として生きていく : 作業環境とワークフローの設計 \#機械学習 \- Qiita](https://qiita.com/icoxfog417/items/f15e92f05b14411fd642)
+- （公開日：2025/06/24、閲覧日：2025/06/25）[参考になった] [AI Agent Manager \(AAM\) として生きていく : 作業環境とワークフローの設計 \#機械学習 \- Qiita](https://qiita.com/icoxfog417/items/f15e92f05b14411fd642)
     - このワークフローは真似したい
 
 
