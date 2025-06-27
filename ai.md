@@ -107,6 +107,7 @@
 ### Gemini CLI
 - （公開日：2025/06/25、閲覧日：2025/06/25）[Google announces Gemini CLI: your open\-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 - （公開日：2025/06/26、閲覧日：2025/06/26）[Gemini CLI の簡単チュートリアル](https://zenn.dev/schroneko/articles/gemini-cli-tutorial)
+- （公開日：2025/06/27、閲覧日：2025/06/27）[Gemini CLIを会社で使う場合のプラン選択方針](https://zenn.dev/hololab/articles/geminicli-001-75046b80817049)
 
 
 ### Claude（モデル）
@@ -371,3 +372,17 @@
         > 差分は次のコマンドで取得してください。
         > git --no-pager diff develop...HEAD
         > （以下、不具合の内容の説明）
+- 2025/06/27
+    - VSCode / GitHub Copilot Agent Mode
+        - VSCodeのPrompt files機能を使い始めた
+            - この機能はまだExperimentalの段階なので、GitHub Organization内のユーザの場合は管理者がOrganizationの Settings > Copilot > Policies で `Editor preview features` を `Enabled` にすると利用可能になる
+            - プロンプトファイルに `gh api ...` コマンドを実行するように指示を書いたら、モデルによって実行してくれるかどうかが分かれた
+                - GPT-4.1は実行してくれない
+                - Claude Sonnet 4は実行してくれた
+        - Agent modeでファイルを編集するときの挙動がモデルによって異なる
+            - GPT-4.1 : ファイル全体を1回で編集する
+            - Claude Sonnet 4 : 数行ずつ複数回に分けて編集する
+                - 同一文字列を一括置換するほうが効率が良いときはsedコマンドを使って置換してくれることもある。とても賢いね！
+        - 既存コードの設計変更やリファクタリングを伴う新機能開発はagentic codingしづらい
+        - Explore, Plan, Code, Commitを真似しようとしたけど、開発内容の粒度が大きすぎたせいか、Planの段階で私がケチつけまくって進まなかった
+            - [Claude Code Best Practices \\ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
