@@ -172,10 +172,12 @@
 
 
 ## 講演、セミナー
+- （2025/04/08）AI Coding Meetup #1 〜チーム開発×AI、みんなの実践知〜 [＜connpass＞](https://layerx.connpass.com/event/347094/) [＜YouTube＞](https://www.youtube.com/watch?v=Q783txBWcOM) ＜アーカイブ動画あり＞
 - （2025/04/24）GitHub Japan、緊急開催：GitHub Copilotエージェントモードと最新情報 [＜資料＞](https://resources.github.com/ja/githubcopilotaprilupdatewebinar2025/) [＜告知＞](https://x.com/GitHubJapan/status/1911562545069957219)
     - AIによるソフトウェア開発支援は第1フェーズ（単一モデル、会話型、AIを既存機能に埋め込む）／Pair Programmerから第2フェーズ（複数モデル、AIエージェント、AIネイティブ）／Peer Programmerへ
     - 2025年4月にGitHub Copilot Chatエージェントモードがリリースされた
     - VSCodeのCopilot拡張機能のチャットで実装したい機能を依頼するデモをやっていた。Copilotが自律的に計画を立てて、実装はもちろんのこと、ブラウザを使用したテスト（PlaywrightのMCP経由）とGitコミット、GitHubのプルリクエスト作成（GitHubのMCP経由）まで自動でやってくれていた。
+- （2025/05/13）Forkwell主催、Cursor導入で ログラス社の現場はどう変わったか - Forkwell AI Study #1 [＜connpass＞](https://forkwell.connpass.com/event/350515/) [＜イベントページ＞](https://jobs.forkwell.com/events/glkorb0-6g9) ＜アーカイブ動画あり＞
 - （2025/05/20）Findy主催、ばんくしさんが語るAI時代のエンジニアキャリア戦略 〜事業にコミットするエンジニアとは？〜 [＜イベントページ＞](https://findy-code.io/events/MCM51Yagh2VcK) ※アーカイブ動画なし、記事化予定とのこと
     - AIはジュニアエンジニアの底上げに効く
     - プログラマーの三大美徳：怠惰、傲慢、短期
@@ -222,6 +224,8 @@
         - 本書のプロンプトエンジニアリングは巷で言われているフレーズニングだけではなく、広範囲の技術が組み合わさったもの
         - LLMは後戻りできない
 - （2025/06/04）話題のClaude 4とClaude Codeに入門！（KAGと学ぼう！勉強会）[＜YouTube＞](https://www.youtube.com/watch?v=8BPfZKIa51k)
+- （2025/06/11）Findy Tools主催、AI Engineering Summitプレイベント - AI駆動開発・AIツール活用事例LT [＜connpass＞](https://findy-tools.connpass.com/event/356879/) [＜イベントページ＞](https://findy-tools.io/events/19403e12f1e38c585c98) ＜アーカイブ動画あり＞
+- （2025/06/24）Findy主催、Clineの実力と使いどころ〜 現場から見る！スピード開発実践事例〜 [＜connpass＞](https://findy.connpass.com/event/356324/) [＜イベントページ＞](https://findy-code.io/events/H57ULf5A1WLzS) ＜アーカイブ動画あり＞
 
 
 ## X
