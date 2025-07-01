@@ -53,6 +53,8 @@
 - （公開日：2025/06/26、閲覧日：2025/06/26）[参考になった] [Claude Codeを使い倒す方法｜suthio](https://note.com/suthio/n/n71c111ddd183)
     - 開発タスクを四象限で分類
     - Claude Codeの暇つぶしタスク
+- （公開日：2025/06/26、閲覧日：2025/07/01）[日常的にClaude Codeを使うようになって便利だと思ったTips集](https://zenn.dev/yareyare/articles/99f176a8b1c3a9)
+    - > カスタムコマンドは、[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) などに多数まとめられています
 
 
 ### Cursor
@@ -401,3 +403,14 @@
         - 既存コードの設計変更やリファクタリングを伴う新機能開発はagentic codingしづらい
         - Explore, Plan, Code, Commitを真似しようとしたけど、開発内容の粒度が大きすぎたせいか、Planの段階で私がケチつけまくって進まなかった
             - [Claude Code Best Practices \\ Anthropic](https://www.anthropic.com/engineering/claude-code-best-practices)
+- 2025/07/01
+    - VSCode / GitHub Copilot Agent Mode
+        - 既存実装の確認（Explore相当）
+            - GPT-4.1：プロンプトで明示的に指示しないと、コードを確認してくれない
+                - 具体的なクラス名やファイル名を添えて既存の実装を確認するように指示すると、そこをを起点にコードを探索してくれる
+                - 具体的なクラス名やファイル名を教えずに既存の実装を確認するように指示しても、基本的にコードを探索してくれない（探索してくれるときもあるが）
+            - Claude 4 Sonnet：プロンプトで明示的に指示しなくても、既存コードを自主的に確認してくれる
+        - 既存実装の確認と実装計画を1つのプロンプトに書くと、
+            - GPT-4.1：既存実装の確認をせずに一般論しか言ってくれない　→まず既存実装の確認だけをプロンプトに書いて実行し、それから次のプロンプトで設計を依頼するとうまくいく
+            - Claude 4 Sonnet：両方ちゃんとやってくれる
+        - 最初にPBIを入力し、その後は定型プロンプトを順次入力するだけで実装が完了するようなワークフローを作りたくて試行錯誤している最中
