@@ -109,7 +109,11 @@
 ### Gemini CLI
 - （公開日：2025/06/25、閲覧日：2025/06/25）[Google announces Gemini CLI: your open\-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 - （公開日：2025/06/26、閲覧日：2025/06/26）[Gemini CLI の簡単チュートリアル](https://zenn.dev/schroneko/articles/gemini-cli-tutorial)
+- （公開日：2025/06/26、閲覧日：2025/07/02）[Gemini CLIの"強み"を知る！ Gemini CLIとClaude Codeを比較してみた \#AIエージェント \- Qiita](https://qiita.com/kyuko/items/b7f7336057859f5c9b4f)
 - （公開日：2025/06/27、閲覧日：2025/06/27）[Gemini CLIを会社で使う場合のプラン選択方針](https://zenn.dev/hololab/articles/geminicli-001-75046b80817049)
+- （公開日：2025/06/27、閲覧日：2025/07/02）[Gemini CLI を試したいので Claude Code でも同じことをしてみて感じた活路 \#Gemini \- Qiita](https://qiita.com/hokutohagi/items/4eae63a48e74966aeebd)
+- （公開日：2025/06/28、閲覧日：2025/07/02）[Gemini CLI is awesome\! But only when you make Claude Code use it as its bitch\. : r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/comments/1lm3fxq/gemini_cli_is_awesome_but_only_when_you_make/)
+    - Claude Codeと比較してGemini CLIはコンテキストウィンドウが大きいのを利用して、Claude Codeがコードベースの情報を収集する際にGemini CLIを利用するようにする例
 
 
 ### Claude（モデル）

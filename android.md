@@ -3,6 +3,7 @@
 ## Google I/O 2025
 - （公開日：2025/05/23、閲覧日：2025/06/18）[Android 開発ツールの新機能](https://www.youtube.com/watch?v=KXKP2tDPW4)
     - [Journeys for Android Studio](https://developer.android.com/studio/preview/gemini/journeys) : 自然言語でテストを記述できる機能
+-　（公開日：2025/05/23、閲覧日：2025/07/02）[Androidの新機能](https://www.youtube.com/watch?v=IaNpcrCSDiI)
 
 ## edge-to-edge
 - DroidKaigi
