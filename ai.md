@@ -24,6 +24,8 @@
             - Agent Modeの搭載がVSCodeは2025/04/03、Xcodeは2025/05/19
         - 日本語で話しかけても英語で応答することが多い（日本語でお願いしますと言えば日本語で返ってくるが、プロンプトに毎回含める必要があるのは面倒）
         - スラッシュコマンドとコンテキスト変数が利用できない
+- （公開日：2025/05/25、閲覧日：2025/07/03）[GitHub Copilot Coding Agent と Claude Code \+ GitHub Actions はどちらがどんな人向きか｜Hi\-Noguchi \| 株式会社きみより代表](https://note.com/hi_noguchi/n/n15e3ba85a957)
+    - GitHub Copilot Coding Agentを750 premium requests分を使ってみての感想。内部的にどのモデルが使われているかをログで確認しているのが面白い。
 - （公開日：2025/06/09、閲覧日：2025/06/10）[\#意識低いAICodingチュートリアル \#01 インターネット老人会のサイトを作ろう \[GitHub Copilot Agent mode 版\] \#初心者向け \- Qiita](https://qiita.com/chomado/items/acaf251a2f6bf984a3df)
 
 
@@ -55,6 +57,7 @@
     - Claude Codeの暇つぶしタスク
 - （公開日：2025/06/26、閲覧日：2025/07/01）[日常的にClaude Codeを使うようになって便利だと思ったTips集](https://zenn.dev/yareyare/articles/99f176a8b1c3a9)
     - > カスタムコマンドは、[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) などに多数まとめられています
+- （公開日：2025/07/02、閲覧日：2025/07/03）[t\-wada vs テスト大好郎](https://blog.lai.so/t-wada-vs-tesuto-daisuki-rou/)
 
 
 ### Cursor
@@ -158,6 +161,10 @@
 - （公開日：2025/05/10、閲覧日：2025/05/11）[初めて MCP を使うなら Docker MCP Toolkit がおすすめ \#VSCode \- Qiita](https://qiita.com/falya128/items/23020ddba7a7d1ce2e1f)
 
 
+### 企業での導入
+- （公開日：2025/06/24、閲覧日：2025/07/03）[AIコーディングツール導入のリアル ～意思決定を後押しし、開発を加速させるための7社の実践知～ \- Findy Tools](https://findy-tools.io/articles/ai-codingtool/88)
+
+
 ### エッセイ、キャリア論
 - （公開日：2025/05/03、閲覧日：2025/05/03）[AI Coding Agent を使うことで、怒り狂い、視座が上昇する話 \- Lambdaカクテル](https://blog.3qe.us/entry/2025/05/03/000513)
     - AI Coding Agent を使うということは、AIに対してマネジメントするということ
@@ -173,6 +180,8 @@
 - （公開日：2025/06/11、閲覧日：2025/06/12）[AI領域における組織の強みを活かすアーキテクチャ設計](https://zenn.dev/aishift/articles/c897d0e095c3d8)
     - タイトルの「AI領域」はAIエージェント自体の開発を指していた
     - この記事で述べられている取り組みはAI云々に特有なものではなく、一般的に複数のチームが同じプロダクトを共同で開発するために必要な取り組みだと思った（技術選定、依存関係の整理）
+- （公開日：2025/07/03、閲覧日：2025/07/03）[AIは励まされると頑張れるらしいので、いろんな方法で奨励してみた。 \- カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2025/07/03/090000)
+- （公開日：2025/07/03、閲覧日：2025/07/03）[AIに仕様書を読ませるとテストケースを自動生成、テストコードも書いてくれる「Autify Nexus」、Autifyが発表 － Publickey](https://www.publickey1.jp/blog/25/aiautify_nexusautify.html)
 
 
 ## 見た動画
@@ -413,8 +422,8 @@
             - GPT-4.1：プロンプトで明示的に指示しないと、コードを確認してくれない
                 - 具体的なクラス名やファイル名を添えて既存の実装を確認するように指示すると、そこをを起点にコードを探索してくれる
                 - 具体的なクラス名やファイル名を教えずに既存の実装を確認するように指示しても、基本的にコードを探索してくれない（探索してくれるときもあるが）
-            - Claude 4 Sonnet：プロンプトで明示的に指示しなくても、既存コードを自主的に確認してくれる
+            - Claude Sonnet 4：プロンプトで明示的に指示しなくても、既存コードを自主的に確認してくれる
         - 既存実装の確認と実装計画を1つのプロンプトに書くと、
             - GPT-4.1：既存実装の確認をせずに一般論しか言ってくれない　→まず既存実装の確認だけをプロンプトに書いて実行し、それから次のプロンプトで設計を依頼するとうまくいく
-            - Claude 4 Sonnet：両方ちゃんとやってくれる
+            - Claude Sonnet 4：両方ちゃんとやってくれる
         - 最初にPBIを入力し、その後は定型プロンプトを順次入力するだけで実装が完了するようなワークフローを作りたくて試行錯誤している最中
