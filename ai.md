@@ -244,6 +244,10 @@
 - （2025/06/04）話題のClaude 4とClaude Codeに入門！（KAGと学ぼう！勉強会）[＜YouTube＞](https://www.youtube.com/watch?v=8BPfZKIa51k)
 - （2025/06/11）Findy Tools主催、AI Engineering Summitプレイベント - AI駆動開発・AIツール活用事例LT [＜connpass＞](https://findy-tools.connpass.com/event/356879/) [＜イベントページ＞](https://findy-tools.io/events/19403e12f1e38c585c98) ＜アーカイブ動画あり＞
 - （2025/06/24）Findy主催、Clineの実力と使いどころ〜 現場から見る！スピード開発実践事例〜 [＜connpass＞](https://findy.connpass.com/event/356324/) [＜イベントページ＞](https://findy-code.io/events/H57ULf5A1WLzS) ＜アーカイブ動画あり＞
+- （2025/06/26）Findy Tools主催、よしこさんと実践！公開Vibe Coding [＜connpass＞](https://findy-tools.connpass.com/event/357113/) [＜イベントページ＞](https://findy-tools.io/events/c72bcec80aa47ca4ac04) [＜資料＞]() ＜アーカイブ動画あり＞
+    - 要件定義
+        - 目的、必須要件、任意要件を伝え、可能性を開いたまま聞く（自分の中でhowを思いついていても伝えない）
+        - 会話の最後でMarkdownファイルを作成させるときのプロンプト例：コーディングエージェントに渡して実装を頼めるように、ここまで話した内容でrequirements.mdを作って。
 - （2025/06/30）CARTA Engineering主催、Claude Code Deep Dive 〜t-wada, mizchiとAgentic Codingの「今」を眺める 〜 [＜connpass＞](https://cartaholdings.connpass.com/event/360380/) [＜YouTube＞](https://www.youtube.com/watch?v=HqXg2vfGX3c) ＜アーカイブ動画あり＞
 
 
