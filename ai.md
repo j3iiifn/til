@@ -26,6 +26,8 @@
         - スラッシュコマンドとコンテキスト変数が利用できない
 - （公開日：2025/05/25、閲覧日：2025/07/03）[GitHub Copilot Coding Agent と Claude Code \+ GitHub Actions はどちらがどんな人向きか｜Hi\-Noguchi \| 株式会社きみより代表](https://note.com/hi_noguchi/n/n15e3ba85a957)
     - GitHub Copilot Coding Agentを750 premium requests分を使ってみての感想。内部的にどのモデルが使われているかをログで確認しているのが面白い。
+- （公開日：2025/06/08、閲覧日：2025/07/05）[GitHub Copilot Coding Agentで消費するプレミアムリクエスト等を集計してみた](https://tosi-tech.net/2025/06/premium-requests-for-github-copilot-coding-agent/)
+    - 2週間で5594 premium requestsを消費していてガチ勢だった
 - （公開日：2025/06/09、閲覧日：2025/06/10）[\#意識低いAICodingチュートリアル \#01 インターネット老人会のサイトを作ろう \[GitHub Copilot Agent mode 版\] \#初心者向け \- Qiita](https://qiita.com/chomado/items/acaf251a2f6bf984a3df)
 
 
@@ -57,7 +59,11 @@
     - Claude Codeの暇つぶしタスク
 - （公開日：2025/06/26、閲覧日：2025/07/01）[日常的にClaude Codeを使うようになって便利だと思ったTips集](https://zenn.dev/yareyare/articles/99f176a8b1c3a9)
     - > カスタムコマンドは、[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) などに多数まとめられています
+- （公開日：2025/06/26、閲覧日：2025/07/05）[Claude Codeのプロンプトやツール定義を探ってみた](https://tosi-tech.net/2025/06/claude-code-prompts-and-tools/)
+    - 私の感想：この記事で紹介されている手法でClaude Codeのシステムプロンプトを確認し、GitHub Copilot agent modeの利用時にそれを真似したら少しはCopilotの自立度合いが高くなるかな？
 - （公開日：2025/07/02、閲覧日：2025/07/03）[t\-wada vs テスト大好郎](https://blog.lai.so/t-wada-vs-tesuto-daisuki-rou/)
+- （公開日：2025/07/04、閲覧日：2025/07/05）[Claude Codeをサンドボックス上で実行する\(Mac編\)](https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec)
+    - > Macにはsandbox-execというちょうどいいコマンド(deprecated)があります。
 
 
 ### Cursor
