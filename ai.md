@@ -64,6 +64,7 @@
 - （公開日：2025/07/02、閲覧日：2025/07/03）[t\-wada vs テスト大好郎](https://blog.lai.so/t-wada-vs-tesuto-daisuki-rou/)
 - （公開日：2025/07/04、閲覧日：2025/07/05）[Claude Codeをサンドボックス上で実行する\(Mac編\)](https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec)
     - > Macにはsandbox-execというちょうどいいコマンド(deprecated)があります。
+- （公開日：2025/07/05、閲覧日：2025/07/06）[Claude Codeに要件をヒアリングしてもらった体験がかなり良かった \- Speaker Deck](https://speakerdeck.com/ryuki0947/the-experience-of-having-claude-code-gather-requirements-was-quite-good)
 
 
 ### Cursor
