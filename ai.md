@@ -256,6 +256,8 @@
         - 目的、必須要件、任意要件を伝え、可能性を開いたまま聞く（自分の中でhowを思いついていても伝えない）
         - 会話の最後でMarkdownファイルを作成させるときのプロンプト例：コーディングエージェントに渡して実装を頼めるように、ここまで話した内容でrequirements.mdを作って。
 - （2025/06/30）CARTA Engineering主催、Claude Code Deep Dive 〜t-wada, mizchiとAgentic Codingの「今」を眺める 〜 [＜connpass＞](https://cartaholdings.connpass.com/event/360380/) [＜YouTube＞](https://www.youtube.com/watch?v=HqXg2vfGX3c) ＜アーカイブ動画あり＞
+- （2025/07/07）カウシェ主催、AI開発実例の成功も失敗もぶっちゃけ！【PKSHA・Findy・LayerX・カウシェ】 [＜connpass＞](https://kauche.connpass.com/event/360073/) [＜YouTube＞](https://youtube.com/live/AW6cGiLo6Ss?feature=share) ＜アーカイブ動画あり＞
+    - Claude Code Maxは経費精算
 
 
 ## X
@@ -438,3 +440,8 @@
             - GPT-4.1：既存実装の確認をせずに一般論しか言ってくれない　→まず既存実装の確認だけをプロンプトに書いて実行し、それから次のプロンプトで設計を依頼するとうまくいく
             - Claude Sonnet 4：両方ちゃんとやってくれる
         - 最初にPBIを入力し、その後は定型プロンプトを順次入力するだけで実装が完了するようなワークフローを作りたくて試行錯誤している最中
+- 2025/07/07
+    - VSCode / GitHub Copilot Agent Mode
+        - GPT-4.1：
+            - 「●●コマンドを実行してください」とワークスペースのプロンプトファイルに記載して実行しても、「〇〇コマンドを実行し、結果を貼ってください」と応答されてしまう。「あなたが●●コマンドを実行してください」とプロンプトに書くとGPT-4.1がコマンドを実行してくれることもあるが、百発百中ではない。
+            - 結果が出力されるまで10秒程度かかるコマンドは出力されるまで待機してくれず、「結果が空のようです」と応答されてしまう。
