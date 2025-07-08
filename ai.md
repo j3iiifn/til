@@ -65,6 +65,8 @@
 - （公開日：2025/07/04、閲覧日：2025/07/05）[Claude Codeをサンドボックス上で実行する\(Mac編\)](https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec)
     - > Macにはsandbox-execというちょうどいいコマンド(deprecated)があります。
 - （公開日：2025/07/05、閲覧日：2025/07/06）[Claude Codeに要件をヒアリングしてもらった体験がかなり良かった \- Speaker Deck](https://speakerdeck.com/ryuki0947/the-experience-of-having-claude-code-gather-requirements-was-quite-good)
+- [どうして開発チームはClaude Codeをうまく活用できないのか｜suthio](https://note.com/suthio/n/nb0c1d5cb1aea)
+    - レガシーなコードや開発環境、チームにAIを導入しても生産性が上がらないという話。AIによる生産性向上には適切な準備が必要。
 
 
 ### Cursor
@@ -258,6 +260,7 @@
 - （2025/06/30）CARTA Engineering主催、Claude Code Deep Dive 〜t-wada, mizchiとAgentic Codingの「今」を眺める 〜 [＜connpass＞](https://cartaholdings.connpass.com/event/360380/) [＜YouTube＞](https://www.youtube.com/watch?v=HqXg2vfGX3c) ＜アーカイブ動画あり＞
 - （2025/07/07）カウシェ主催、AI開発実例の成功も失敗もぶっちゃけ！【PKSHA・Findy・LayerX・カウシェ】 [＜connpass＞](https://kauche.connpass.com/event/360073/) [＜YouTube＞](https://youtube.com/live/AW6cGiLo6Ss?feature=share) ＜アーカイブ動画あり＞
     - Claude Code Maxは経費精算
+- （2025/07/08）AI駆動開発主催、Claude Code Meetup Japan #1（Claude Code祭り！） [＜connpass＞](https://aid.connpass.com/event/360017/) [YouTube](https://www.youtube.com/watch?v=KzS4bs3PXlA&t=2277s)＜アーカイブ動画あり＞
 
 
 ## X
@@ -445,3 +448,8 @@
         - GPT-4.1：
             - 「●●コマンドを実行してください」とワークスペースのプロンプトファイルに記載して実行しても、「〇〇コマンドを実行し、結果を貼ってください」と応答されてしまう。「あなたが●●コマンドを実行してください」とプロンプトに書くとGPT-4.1がコマンドを実行してくれることもあるが、百発百中ではない。
             - 結果が出力されるまで10秒程度かかるコマンドは出力されるまで待機してくれず、「結果が空のようです」と応答されてしまう。
+
+
+## マインドマップ
+- AIが働きにくい環境 ＝ 人間も働きにくい環境
+    - 割れ窓がある → 割れ窓を真似してコード生成してしまう
