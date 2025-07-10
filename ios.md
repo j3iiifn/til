@@ -26,6 +26,16 @@
 - 参考: [【Xcode】iOSエンジニアが真っ先に設定すべきXcode設定集 \#Swift \- Qiita](https://qiita.com/zrn-ns/items/8493413e55b7329c023a)
 
 
+## LSP
+- [swiftlang/sourcekit\-lsp: Language Server Protocol implementation for Swift and C\-based languages](https://github.com/swiftlang/sourcekit-lsp)
+    - これをMCP化すればAIが漏れなくリネームできるようになるし、コンパイルエラーも高速に検知できるようになるはず
+
+
+## Claude Code
+- （公開日：2025/06/19、閲覧日：2025/07/10）[How to use Claude Code for iOS Development with Swift/SwiftUI \- YouTube](https://www.youtube.com/watch?v=KgWojTdbvBU)
+    - XcodeBuildMCP, context7
+
+
 ## 勉強会
 - （2025/05/21）Findy主催 - 【iOSエンジニア特集】iOSアプリ開発の裏側 開発組織が向き合う課題とこれから [＜アーカイブ動画＞](https://findy-code.io/events/5twIvDRz5VkUF)
     - クラシルリワードにおけるiOSアプリ開発の取り組み（dely株式会社 中澤 郁斗さん）[＜資料＞](https://speakerdeck.com/funzin/kurasiruriwadoniokeru-iosapurikai-fa-noqu-rizu-mi)

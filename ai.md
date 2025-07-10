@@ -29,6 +29,9 @@
 - （公開日：2025/06/08、閲覧日：2025/07/05）[GitHub Copilot Coding Agentで消費するプレミアムリクエスト等を集計してみた](https://tosi-tech.net/2025/06/premium-requests-for-github-copilot-coding-agent/)
     - 2週間で5594 premium requestsを消費していてガチ勢だった
 - （公開日：2025/06/09、閲覧日：2025/06/10）[\#意識低いAICodingチュートリアル \#01 インターネット老人会のサイトを作ろう \[GitHub Copilot Agent mode 版\] \#初心者向け \- Qiita](https://qiita.com/chomado/items/acaf251a2f6bf984a3df)
+- （公開日：2025/07/06、閲覧日：2025/07/10）[GitHub Copilot活用【サイボウズ新人研修2025】 \- Speaker Deck](https://speakerdeck.com/cybozuinsideout/github-copilot-utilization)
+    - 日本語で応答してくれるように設定する：Personal instructionsに `Always respond in Japanese.` と記述する
+    - コードリーディングの補助、設計の壁打ちとしてCopilotを使用する例
 
 
 #### 公式ドキュメント
@@ -65,9 +68,10 @@
 - （公開日：2025/07/04、閲覧日：2025/07/05）[Claude Codeをサンドボックス上で実行する\(Mac編\)](https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec)
     - > Macにはsandbox-execというちょうどいいコマンド(deprecated)があります。
 - （公開日：2025/07/05、閲覧日：2025/07/06）[Claude Codeに要件をヒアリングしてもらった体験がかなり良かった \- Speaker Deck](https://speakerdeck.com/ryuki0947/the-experience-of-having-claude-code-gather-requirements-was-quite-good)
-- [どうして開発チームはClaude Codeをうまく活用できないのか｜suthio](https://note.com/suthio/n/nb0c1d5cb1aea)
+- （公開日：2025/07/08、閲覧日：2025/07/08）[どうして開発チームはClaude Codeをうまく活用できないのか｜suthio](https://note.com/suthio/n/nb0c1d5cb1aea)
     - レガシーなコードや開発環境、チームにAIを導入しても生産性が上がらないという話。AIによる生産性向上には適切な準備が必要。
-
+- （公開日：2025/07/10、閲覧日：2025/07/10）[claude codeにNG Word集を設定すればキレなくてすむのでそのやり方](https://zenn.dev/sesere/articles/e3d5695e0a7d14)
+    - 笑えるけど実用的
 
 ### Cursor
 - （公開日：2025/02/27、閲覧日：2025/04/13）[ASCII\.jp：いま文章を書くのに「CURSOR」を使わないのは損だ](https://ascii.jp/elem/000/004/253/4253872/)
@@ -449,6 +453,9 @@
         - GPT-4.1：
             - 「●●コマンドを実行してください」とワークスペースのプロンプトファイルに記載して実行しても、「〇〇コマンドを実行し、結果を貼ってください」と応答されてしまう。「あなたが●●コマンドを実行してください」とプロンプトに書くとGPT-4.1がコマンドを実行してくれることもあるが、百発百中ではない。
             - 結果が出力されるまで10秒程度かかるコマンドは出力されるまで待機してくれず、「結果が空のようです」と応答されてしまう。
+- 2025/07/10
+    - t-wadaさんも言っていたけど、私も命名や設計についてAIに何度も「やっぱり考え直したい」って言って気が済むまで議論してる。食い下がりまくってる。人間相手だとこれはできないね。
+    - GPT-4.1はリファクタリング用途では全然使えるけど、新規コードを書かせてはダメ。ファイルの先頭（package宣言の前とか）にデータクラスの定義を書かれてしまったことが何回かあった。他にもわけのわからないミスが多かった。
 
 
 ## マインドマップ
