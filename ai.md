@@ -54,6 +54,7 @@
     - > Bedrock 経由の利用だとどうしても InvokeModel がエラーになってしまいがち
     - > on-demand な呼び出しをする際はクラウド側の都合でスロットリングを受ける可能性がある
 - （公開日：2025/06/21、閲覧日：2025/06/23）[Claude Code に壊されないための denyルール完全ガイド \- izanami](https://izanami.dev/post/d6f25eec-71aa-4746-8c0d-80c67a1459be)
+- （公開日：2025/06/23、閲覧日：2025/07/12）[ClaudeのMaxプランによって変わった個人開発のスタイル](https://zenn.dev/ryosuke_horie/articles/24768b727ff27c)
 - （公開日：2025/06/25、閲覧日：2025/06/26）[参考になった] [「Claude Code Week」既存事業で1週間AI縛りで開発したことで見えたゲームチェンジと開発フローの再構築の必要性](https://zenn.dev/loglass/articles/b286b1e8f0947b)
     - Claude Codeに振り返らせる
     - Claude Codeにコーディングルールを作らせる
@@ -207,6 +208,7 @@
 ## 見た動画
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
 - （公開日：2025/04/16、閲覧日：2025/04/24）[GitHub Copilot コードレビュー機能試してみました \- YouTube](https://www.youtube.com/watch?v=UuCJIDkRNUA)
+- （公開日：2025/07/11、閲覧日：2025/07/12）[Claude Codeで無限にUIデザインを構築する方法【バイブコーディング/Vibe Coding】 \- YouTube](https://www.youtube.com/watch?v=8vWRCYvLr94)
 
 
 ## 講演、セミナー
@@ -269,9 +271,11 @@
         - 目的、必須要件、任意要件を伝え、可能性を開いたまま聞く（自分の中でhowを思いついていても伝えない）
         - 会話の最後でMarkdownファイルを作成させるときのプロンプト例：コーディングエージェントに渡して実装を頼めるように、ここまで話した内容でrequirements.mdを作って。
 - （2025/06/30）CARTA Engineering主催、Claude Code Deep Dive 〜t-wada, mizchiとAgentic Codingの「今」を眺める 〜 [＜connpass＞](https://cartaholdings.connpass.com/event/360380/) [＜YouTube＞](https://www.youtube.com/watch?v=HqXg2vfGX3c) ＜アーカイブ動画あり＞
-- （2025/07/07）カウシェ主催、AI開発実例の成功も失敗もぶっちゃけ！【PKSHA・Findy・LayerX・カウシェ】 [＜connpass＞](https://kauche.connpass.com/event/360073/) [＜YouTube＞](https://youtube.com/live/AW6cGiLo6Ss?feature=share) ＜アーカイブ動画あり＞
-    - Claude Code Maxは経費精算
+- （2025/07/07）カウシェ主催、AI開発実例の成功も失敗もぶっちゃけ！【PKSHA・Findy・LayerX・カウシェ】 [＜connpass＞](https://kauche.connpass.com/event/360073/) [＜YouTube＞](https://youtube.com/live/AW6cGiLo6Ss) ＜アーカイブ動画あり＞
+    - Claude Maxは経費精算
 - （2025/07/08）AI駆動開発主催、Claude Code Meetup Japan #1（Claude Code祭り！） [＜connpass＞](https://aid.connpass.com/event/360017/) [YouTube](https://www.youtube.com/watch?v=KzS4bs3PXlA&t=2277s)＜アーカイブ動画あり＞
+- （2025/07/10）Findy主催、【AI特集】開発組織における生成AI活用 各社の取り組みと課題とは？ [＜connpass＞](https://findy.connpass.com/event/358866/) [＜イベントページ＞](https://findy-code.io/events/1_tind0n4OEXc)
+    - 株式会社People Xの事例：Claude Pro/Maxは個人で契約して経費精算している
 
 
 ## X
