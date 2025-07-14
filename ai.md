@@ -41,6 +41,8 @@
 
 ### Claude Code
 - （公開日：2025/06/04、閲覧日：2025/06/08）[Claude Code \(MAX plan\) \+ ghコマンド \+ 英語プロンプトが一旦完成系だと思った話](https://zenn.dev/engine0606/articles/9201ff4c3e837d)
+- （公開日：2025/06/06、閲覧日：2025/07/14）[Claude Code の CLAUDE\.mdは設定した方がいい \- じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/06/06/190847)
+    - 通知設定を真似したい
 - （公開日：2025/06/09、閲覧日：2025/06/11）[Claude Codeを20万円分使ってバイブコーディングの生産性を更に向上させるツールを作った](https://zenn.dev/aktriver/articles/2025-06-claude-code-200k-vibe-coding)
 - （公開日：2025/06/10、閲覧日：2025/06/11）[【AI開発時代】Claude Code学び直しノート \- 15分で時代に追いつけるか？ \- uepon日々の備忘録](https://uepon.hatenadiary.com/entry/2025/06/10/134022)
 - （公開日：2025/06/11、閲覧日：2025/06/11）[Claude Codeで効率的に開発するための知見管理](https://zenn.dev/driller/articles/2a23ef94f1d603)
@@ -169,6 +171,9 @@
     - 「レビュアーの人格作成用のドキュメント」の言葉がいちいち強くて面白かった
 - （公開日：2025/06/20、閲覧日：2025/06/20）[Gemma3 \+ Unsloth \+ GitLab CI/CDで構築する完全オンプレミスAIコードレビュー環境 \| フューチャー技術ブログ](https://future-architect.github.io/articles/20250620a/)
     - 実案件に対するコードレビュー結果についての情報は無かった（まだ実験段階の模様）
+- （公開日：2025/06/23、閲覧日：2025/07/14）[GitHub Copilot Agent × Github MCPが変える コードレビュー \-](https://recruit.gmo.jp/engineer/jisedai/blog/code-review-with-github-copilot-agent-x-github-mcp/)
+    - 明らかにAIが書いた記事。似た話題が何度も出てくるし、強めな語彙（「革新的」など）を選択している割に具体性に欠け、中身が薄い。信憑性が怪しい文章もちらほらある。
+    - github-mcp-serverを使用
 
 
 ### MCP
