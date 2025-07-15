@@ -94,6 +94,10 @@
     - ClineとAmazon Bedrockの間に独自プロキシを仲介させ、危険な入出力をフィルタリングしている　→独自プロキシの実装が気になる
 
 
+## Devin
+- （公開日：2025/07/15、閲覧日：2025/07/15）[Devinにはてラボのサービスを作ってもらったので、かかった費用を大公開 \- Hatena Developer Blog](https://developer.hatenastaff.com/entry/2025/07/15/121147)
+
+
 ### Codex
 - （公開日：2025/05/17、閲覧日：2025/05/17）[“やる余裕がない”を解消。ChatGPTに次世代AIコーディングパートナー｢Codex｣が追加 \| ギズモード・ジャパン](https://www.gizmodo.jp/2025/05/openai_codex.html)
     - > 私の脳と手がボトルネックになることがある
@@ -287,6 +291,7 @@
         - 後で読みたい：
             - [AI導入しても効果薄い？チーム全員AIフレンドリー！な環境の作り方、教えます\(前編\)](https://zenn.dev/fastdoctor/articles/de25424a77cf77)
             - [Cursorで実現した開発速度3\.2倍！エンジニア・PM・QA全チームでAI活用する組織変革](https://findy-tools.io/products/cursor/401/553)
+- （2025/07/14）Findy主催、各社の事例から学ぶ！AIコーディングエージェント活用の現在地 [＜connpass＞](https://findy.connpass.com/event/359453/) [＜イベントページ＞](https://findy-code.io/events/59vAgWQnlgbiD) ＜アーカイブ動画あり＞
 
 
 ## X
