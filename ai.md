@@ -41,6 +41,7 @@
 
 ### Claude Code
 - （公開日：2025/06/04、閲覧日：2025/06/08）[Claude Code \(MAX plan\) \+ ghコマンド \+ 英語プロンプトが一旦完成系だと思った話](https://zenn.dev/engine0606/articles/9201ff4c3e837d)
+- （公開日：2025/06/05、閲覧日：2025/07/16）[AI活用を加速するバクラクカード：Claude Max導入の舞台裏 \- LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2025/06/05/161631)
 - （公開日：2025/06/06、閲覧日：2025/07/14）[Claude Code の CLAUDE\.mdは設定した方がいい \- じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/06/06/190847)
     - 通知設定を真似したい
 - （公開日：2025/06/09、閲覧日：2025/06/11）[Claude Codeを20万円分使ってバイブコーディングの生産性を更に向上させるツールを作った](https://zenn.dev/aktriver/articles/2025-06-claude-code-200k-vibe-coding)
@@ -76,6 +77,7 @@
 - （公開日：2025/07/10、閲覧日：2025/07/10）[claude codeにNG Word集を設定すればキレなくてすむのでそのやり方](https://zenn.dev/sesere/articles/e3d5695e0a7d14)
     - 笑えるけど実用的
 
+
 ### Cursor
 - （公開日：2025/02/27、閲覧日：2025/04/13）[ASCII\.jp：いま文章を書くのに「CURSOR」を使わないのは損だ](https://ascii.jp/elem/000/004/253/4253872/)
 - （公開日：2025/03/17、閲覧日：2025/04/14）[ASCII\.jp：文章術としてのCursor入門 \(1/6\)](https://ascii.jp/elem/000/004/256/4256350/)
@@ -94,7 +96,7 @@
     - ClineとAmazon Bedrockの間に独自プロキシを仲介させ、危険な入出力をフィルタリングしている　→独自プロキシの実装が気になる
 
 
-## Devin
+### Devin
 - （公開日：2025/07/15、閲覧日：2025/07/15）[Devinにはてラボのサービスを作ってもらったので、かかった費用を大公開 \- Hatena Developer Blog](https://developer.hatenastaff.com/entry/2025/07/15/121147)
 
 
@@ -102,6 +104,11 @@
 - （公開日：2025/05/17、閲覧日：2025/05/17）[“やる余裕がない”を解消。ChatGPTに次世代AIコーディングパートナー｢Codex｣が追加 \| ギズモード・ジャパン](https://www.gizmodo.jp/2025/05/openai_codex.html)
     - > 私の脳と手がボトルネックになることがある
 - （公開日：2025/05/18、閲覧日：2025/05/18）[AIお任せでプログラム開発。ChatGPTの新機能｢Codex｣を試してみた \| ギズモード・ジャパン](https://www.gizmodo.jp/2025/05/chatgpt_codex_handson.html)
+
+
+### Kiro
+- （公開日：2025/07/16、閲覧日：2025/07/16）[amazonの出したIDE「kiro」がめちゃくちゃ未来だったのでClaude Codeユーザーの人はみんな一度試してみてほしい](https://zenn.dev/sesere/articles/31d4b460c949e5)
+    - > いわば 「オレオレフレームワーク全盛期」 だったわけです
 
 
 ### Xcode
@@ -292,6 +299,8 @@
             - [AI導入しても効果薄い？チーム全員AIフレンドリー！な環境の作り方、教えます\(前編\)](https://zenn.dev/fastdoctor/articles/de25424a77cf77)
             - [Cursorで実現した開発速度3\.2倍！エンジニア・PM・QA全チームでAI活用する組織変革](https://findy-tools.io/products/cursor/401/553)
 - （2025/07/14）Findy主催、各社の事例から学ぶ！AIコーディングエージェント活用の現在地 [＜connpass＞](https://findy.connpass.com/event/359453/) [＜イベントページ＞](https://findy-code.io/events/59vAgWQnlgbiD) ＜アーカイブ動画あり＞
+- （2025/07/15）Findy Tools主催、GitHub Copilot活用術~MCP・レビュー・issue・Coding Agentまで！~ [＜connpass＞](https://findy-tools.connpass.com/event/359953/) [＜イベントページ＞](https://findy-tools.io/events/70c60d6e8696586ece73) ＜アーカイブ動画あり＞
+- （2025/07/16）東京AI祭主催、Claude Code・Gemini CLIで使える！「メモリ機能」で性能をさらにアップする裏技 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/360358/) ＜アーカイブ動画あり＞
 
 
 ## X

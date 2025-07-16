@@ -22,6 +22,9 @@
 ## 良いコード
 - （2025/06/04）Forkwell主催、良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97 [＜イベントページ＞](https://jobs.forkwell.com/events/pa3oihbjg6nj) [＜connpass＞](https://forkwell.connpass.com/event/354821/)
 
+## 書籍紹介
+- （公開日：2025/07/15、閲覧日：2025/07/16）[アーキテクトになる道のりで出会った本たち｜yonekubo](https://note.com/yonekubo/n/n1169f66d4399)
+
 # 未分類
 - （公開日：2025/06/05、閲覧日：2025/06/05）[「CubePDF」の提供を続けたくて。倒産寸前のフリーソフト会社を、開発者自ら再建させるまで【フォーカス】 \| レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_680/)
 - （公開日：2025/06/20、閲覧日：2025/06/20）[古いiPhone 8を太陽光発電で動作するOCRサーバーに改造し完全オフグリッド状態で数千枚の画像処理に成功 \- GIGAZINE](https://gigazine.net/news/20250620-iphone-8-refuses-solar-powered-vision-ocr-server/)
