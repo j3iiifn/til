@@ -46,3 +46,16 @@ d=$(date -Iseconds -v -15M); GIT_COMMITER_DATE=$d git commit --date=$d
 - GitHub Copilotとのチャットをコミットメッセージに貼りたい
 - `git config commit.cleanup scissors` を設定して解決した
 - 参考：[2024\-06\-24 gitのコミットメッセージでmarkdownを使う \| TTIL](https://til.toshimaru.net/2024-06-24)
+
+
+## Co-authored-by
+2025/07/17
+- [Creating a commit with multiple authors \- GitHub Docs](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
+- [メアドが分からないけどCo\-Authored\-Byに入れたい時の解決法](https://zenn.dev/mnonamer/articles/co-author-email)
+
+
+## Commiter / Author
+2025/07/17
+- [Git での Committer と Author の違いは？ \- kz\-engineer \-SCRAP\-](https://kz-engineer-scrap.hatenablog.com/entry/2016/04/05/032916)
+- [\[Git\] 別のユーザーとしてコミットする方法 \| DevelopersIO](https://dev.classmethod.jp/articles/git_commit_as_another_user/)
+

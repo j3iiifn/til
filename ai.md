@@ -29,6 +29,7 @@
 - （公開日：2025/06/08、閲覧日：2025/07/05）[GitHub Copilot Coding Agentで消費するプレミアムリクエスト等を集計してみた](https://tosi-tech.net/2025/06/premium-requests-for-github-copilot-coding-agent/)
     - 2週間で5594 premium requestsを消費していてガチ勢だった
 - （公開日：2025/06/09、閲覧日：2025/06/10）[\#意識低いAICodingチュートリアル \#01 インターネット老人会のサイトを作ろう \[GitHub Copilot Agent mode 版\] \#初心者向け \- Qiita](https://qiita.com/chomado/items/acaf251a2f6bf984a3df)
+- （公開日：2025/06/23、閲覧日：2025/07/17）[ChatGPTやCopilot ChatでEnterで改行する方法](https://zenn.dev/barabara/articles/e6852b669532f0)
 - （公開日：2025/07/06、閲覧日：2025/07/10）[GitHub Copilot活用【サイボウズ新人研修2025】 \- Speaker Deck](https://speakerdeck.com/cybozuinsideout/github-copilot-utilization)
     - 日本語で応答してくれるように設定する：Personal instructionsに `Always respond in Japanese.` と記述する
     - コードリーディングの補助、設計の壁打ちとしてCopilotを使用する例
@@ -68,9 +69,11 @@
     - > カスタムコマンドは、[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) などに多数まとめられています
 - （公開日：2025/06/26、閲覧日：2025/07/05）[Claude Codeのプロンプトやツール定義を探ってみた](https://tosi-tech.net/2025/06/claude-code-prompts-and-tools/)
     - 私の感想：この記事で紹介されている手法でClaude Codeのシステムプロンプトを確認し、GitHub Copilot agent modeの利用時にそれを真似したら少しはCopilotの自立度合いが高くなるかな？
+- （公開日：2025/06/30、閲覧日：2025/07/17）[\[Claude Code\] AIコーディングする上でコミットするカスタムコマンドを追加したら捗った \| DevelopersIO](https://dev.classmethod.jp/articles/claude-code-custom-slash-command-smart-commit/)
 - （公開日：2025/07/02、閲覧日：2025/07/03）[t\-wada vs テスト大好郎](https://blog.lai.so/t-wada-vs-tesuto-daisuki-rou/)
 - （公開日：2025/07/04、閲覧日：2025/07/05）[Claude Codeをサンドボックス上で実行する\(Mac編\)](https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec)
     - > Macにはsandbox-execというちょうどいいコマンド(deprecated)があります。
+- （公開日：2025/07/04、閲覧日：2025/07/17）[Claude Codeによるコミットメッセージ生成](https://zenn.dev/7shi/articles/20250704-auto-commit)
 - （公開日：2025/07/05、閲覧日：2025/07/06）[Claude Codeに要件をヒアリングしてもらった体験がかなり良かった \- Speaker Deck](https://speakerdeck.com/ryuki0947/the-experience-of-having-claude-code-gather-requirements-was-quite-good)
 - （公開日：2025/07/08、閲覧日：2025/07/08）[どうして開発チームはClaude Codeをうまく活用できないのか｜suthio](https://note.com/suthio/n/nb0c1d5cb1aea)
     - レガシーなコードや開発環境、チームにAIを導入しても生産性が上がらないという話。AIによる生産性向上には適切な準備が必要。
@@ -172,6 +175,8 @@
 - （公開日：2025/06/30、閲覧日：2025/06/30）[LLMにコンテキストを効率よく渡すには？【前編】 〜大量のファイル群から欲しい部分だけ〜 \- Nealle Developer's Blog](https://nealle-dev.hatenablog.com/entry/2025/06/30/094631)
     - > LLMは「連想ゲーム超上手い君」
     - > 「やってほしいこととは関係ない情報」を渡してしまうと、その関係ない情報に関しても連想ゲームを始めてしまいます
+- （公開日：2025/07/17、閲覧日：2025/07/17）[Vide Codingで使うチケットシステムticket\.sh作ったよ｜masuidrive](https://note.com/masuidrive/n/nc68c3f47ed18)
+    - プロンプトを参考にしたい
 
 
 ### コードレビュー
@@ -491,6 +496,14 @@
 - 2025/07/10
     - t-wadaさんも言っていたけど、私も命名や設計についてAIに何度も「やっぱり考え直したい」って言って気が済むまで議論してる。食い下がりまくってる。人間相手だとこれはできないね。
     - GPT-4.1はリファクタリング用途では全然使えるけど、新規コードを書かせてはダメ。ファイルの先頭（package宣言の前とか）にデータクラスの定義を書かれてしまったことが何回かあった。他にもわけのわからないミスが多かった。
+- 2025/07/17
+    - VSCode / GitHub Copilot Agent Mode
+        - 実装作業のうち、Copilotが書いたコードと人間が書いたコードの割合を集計したい
+            - Copilotがコードを編集してコミットする場合は、Copilotが作成したことが後からわかるようにしたい
+                - 方法A. コミットのAuthorがCopilotにする
+                - 方法B. コミットメッセージの最終行にCo-authored-byを追加する（共同作成者）
+            - 上記のAとBのどちらが良いのかわからないので、とりあえず今日は両方ともやるように `.github/copilot-instructions.md` に指示を書いた
+        - Enterキー押下で誤送信しがちだったのでsubmitのキーボードショートカットを変更した
 
 
 ## マインドマップ
