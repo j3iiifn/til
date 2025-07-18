@@ -33,11 +33,14 @@
 - （公開日：2025/07/06、閲覧日：2025/07/10）[GitHub Copilot活用【サイボウズ新人研修2025】 \- Speaker Deck](https://speakerdeck.com/cybozuinsideout/github-copilot-utilization)
     - 日本語で応答してくれるように設定する：Personal instructionsに `Always respond in Japanese.` と記述する
     - コードリーディングの補助、設計の壁打ちとしてCopilotを使用する例
+- （公開日：2025/07/10、閲覧日：2025/07/18）[GitHub Copilot Coding Agent の Premium Request の消費が大幅に緩和されました at SE の雑記](https://blog.engineer-memo.com/2025/07/11/github-copilot-coding-agent-%E3%81%AE-premium-request-%E3%81%AE%E6%B6%88%E8%B2%BB%E3%81%8C%E5%A4%A7%E5%B9%85%E3%81%AB%E7%B7%A9%E5%92%8C%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/)
+- （公開日：2025/07/15、閲覧日：2025/07/18）[GitHub Copilot Coding Agentが利用しているGitHub Actionsの使用料](https://zenn.dev/mahata/articles/actions-usage-for-github-coding-agent)
 
 
 #### 公式ドキュメント
-- [Use Case: copilot \- GitHub Changelog](https://github.blog/changelog/label/copilot/)
+- 🌟定期的に確認🌟 [Use Case: copilot \- GitHub Changelog](https://github.blog/changelog/label/copilot/)
 - （閲覧日：2025/05/24）[Visual Studio Code documentation > Copilot chat context](https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context)
+- （公開日：2025/07/10、閲覧日：2025/07/18）[GitHub Copilot coding agent now uses one premium request per session \- GitHub Changelog](https://github.blog/changelog/2025-07-10-github-copilot-coding-agent-now-uses-one-premium-request-per-session/)
 
 
 ### Claude Code
@@ -45,6 +48,7 @@
 - （公開日：2025/06/05、閲覧日：2025/07/16）[AI活用を加速するバクラクカード：Claude Max導入の舞台裏 \- LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2025/06/05/161631)
 - （公開日：2025/06/06、閲覧日：2025/07/14）[Claude Code の CLAUDE\.mdは設定した方がいい \- じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/06/06/190847)
     - 通知設定を真似したい
+- （公開日：2025/06/07、閲覧日：2025/07/18）[AIコーディングのキャッチアップRTA｜erukiti](https://note.com/erukiti/n/nec669ebc6439)
 - （公開日：2025/06/09、閲覧日：2025/06/11）[Claude Codeを20万円分使ってバイブコーディングの生産性を更に向上させるツールを作った](https://zenn.dev/aktriver/articles/2025-06-claude-code-200k-vibe-coding)
 - （公開日：2025/06/10、閲覧日：2025/06/11）[【AI開発時代】Claude Code学び直しノート \- 15分で時代に追いつけるか？ \- uepon日々の備忘録](https://uepon.hatenadiary.com/entry/2025/06/10/134022)
 - （公開日：2025/06/11、閲覧日：2025/06/11）[Claude Codeで効率的に開発するための知見管理](https://zenn.dev/driller/articles/2a23ef94f1d603)
@@ -306,6 +310,15 @@
 - （2025/07/14）Findy主催、各社の事例から学ぶ！AIコーディングエージェント活用の現在地 [＜connpass＞](https://findy.connpass.com/event/359453/) [＜イベントページ＞](https://findy-code.io/events/59vAgWQnlgbiD) ＜アーカイブ動画あり＞
 - （2025/07/15）Findy Tools主催、GitHub Copilot活用術~MCP・レビュー・issue・Coding Agentまで！~ [＜connpass＞](https://findy-tools.connpass.com/event/359953/) [＜イベントページ＞](https://findy-tools.io/events/70c60d6e8696586ece73) ＜アーカイブ動画あり＞
 - （2025/07/16）東京AI祭主催、Claude Code・Gemini CLIで使える！「メモリ機能」で性能をさらにアップする裏技 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/360358/) ＜アーカイブ動画あり＞
+- （2025/07/17）Findy主催、Claude Code Meetup [＜connpass＞](https://findy.connpass.com/event/359987/) [＜イベントページ＞](https://findy-code.io/events/ues5b1nNP1m_f?fr=event_20250717&fsrc=connpass) ＜アーカイブ動画あり＞
+    - 株式会社Algomatic erukitiさん、Claude Codeを使って不確実性と戦う [＜資料＞](https://speakerdeck.com/erukiti/claude-code-fights-uncertainty)
+        - p.6: AIに頼むタスクは小さくする（特にClaude4は200k contextなので要注意）
+        - p.7: issue.mdを入力するとqueueにjobが積まれ、dispatcherが受け取り、並列でjobを実行する自動化ツール（Docker + Hooksで自動制御）
+    - Ubie株式会社 鹿野壮さん、実務で使っているClaude Codeの活用事例集 [＜資料＞](https://tonkotsuboy.github.io/20250717-findy-claudecode/)
+    - ぬこぬこさん、Claude Code 再入門 [＜資料＞](https://speakerdeck.com/schroneko/re-introduction-to-claude-code)
+    - 株式会社Scalar Akihiro Okunoさん、Claude Code SDKの話 [＜資料＞](https://speakerdeck.com/choplin/an-introduction-to-claude-code-sdk)
+    - 株式会社BLUEISH 戸塚翔太さん、Claude Codeの知らない知識に立ち向かう
+        - Claude CodeをVertex AI経由で使用している
 
 
 ## X
