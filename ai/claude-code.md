@@ -40,3 +40,32 @@
     - レガシーなコードや開発環境、チームにAIを導入しても生産性が上がらないという話。AIによる生産性向上には適切な準備が必要。
 - （公開日：2025/07/10、閲覧日：2025/07/10）[claude codeにNG Word集を設定すればキレなくてすむのでそのやり方](https://zenn.dev/sesere/articles/e3d5695e0a7d14)
     - 笑えるけど実用的
+
+## Vertex AI
+- （公開日：2025/06/27、閲覧日：2025/07/19）[業務でClaude CodeをVertex AI経由で使えるようになったので使ってみた \- Yappli Tech Blog](https://tech.yappli.io/entry/claude_code_vertex_ai)
+
+
+## Dev Containers
+### 公式情報
+- [Development containers \- Anthropic](https://docs.anthropic.com/en/docs/claude-code/devcontainer)
+- DockerfileでClaude Codeをインストールし、ファイアウォールも設定するパターン
+    - [claude\-code/\.devcontainer at main · anthropics/claude\-code](https://github.com/anthropics/claude-code/tree/main/.devcontainer)
+- Dev Container FeaturesでClaude Codeをインストールするパターン
+    - [devcontainer\-features/src/claude\-code at main · anthropics/devcontainer\-features](https://github.com/anthropics/devcontainer-features/tree/main/src/claude-code)
+
+### 記事
+- （公開日：2025/06/23、閲覧日：2025/07/19）[Claude Code を Devcontainer 環境にインストールする](https://zenn.dev/microcms/articles/7034374cddcef1)
+- （公開日：2025/07/11、閲覧日：2025/07/19）[Claude Codeの公式DevContainerについて](https://zenn.dev/mixi/articles/c2a11b1765b149)
+
+#### VSCodeを使用せずでDev Containers内でClaude Codeを起動する
+- （公開日：2025/06/09、閲覧日：2025/07/19）[ターミナルで生活する人のための Dev Container CLI \+ Claude Code \| mineoの技術ブログ的な何か](https://mineo-engine.com/posts/20250609-devcontaner-and-claude-code/)
+
+
+## 認証情報や履歴の永続化
+- （公開日：2025/06/25、閲覧日：2025/07/19）[devcontainerでClaude Codeの認証・履歴が消えるのを防ぐ設定 \#ClaudeCode \- Qiita](https://qiita.com/huton338/items/7685556744c7bbe34a6a)
+- [How to avoid re\-authenticating in docker container? · Issue \#1736 · anthropics/claude\-code](https://github.com/anthropics/claude-code/issues/1736)
+
+
+## 料金計算
+- [ryoppippi/ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files\.](https://github.com/ryoppippi/ccusage/tree/main)
+- （公開日：2025/05/30、閲覧日：2025/07/19）[Claude Codeの使用料金を可視化するCLIツール「ccusage」を作った](https://zenn.dev/ryoppippi/articles/6c9a8fe6629cd6)
