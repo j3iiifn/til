@@ -78,6 +78,8 @@
 ### Kiro
 - （公開日：2025/07/16、閲覧日：2025/07/16）[amazonの出したIDE「kiro」がめちゃくちゃ未来だったのでClaude Codeユーザーの人はみんな一度試してみてほしい](https://zenn.dev/sesere/articles/31d4b460c949e5)
     - > いわば 「オレオレフレームワーク全盛期」 だったわけです
+- （公開日：2025/07/19、閲覧日：2025/07/20）[Kiroとコンテキストエンジニアリングの時流](https://blog.lai.so/kiro-in-context-engineering/)
+    - 力作
 
 
 ### Xcode
