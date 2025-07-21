@@ -69,3 +69,4 @@
 ## 料金計算
 - [ryoppippi/ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files\.](https://github.com/ryoppippi/ccusage/tree/main)
 - （公開日：2025/05/30、閲覧日：2025/07/19）[Claude Codeの使用料金を可視化するCLIツール「ccusage」を作った](https://zenn.dev/ryoppippi/articles/6c9a8fe6629cd6)
+- （公開日：2025/06/19、閲覧日：2025/07/21）[【祝 1K Star 達成】ccusageの３週間を振り返る](https://zenn.dev/ryoppippi/articles/aad087994f26a7)
