@@ -10,6 +10,7 @@
 - （公開日：2025/06/10、閲覧日：2025/06/11）[【AI開発時代】Claude Code学び直しノート \- 15分で時代に追いつけるか？ \- uepon日々の備忘録](https://uepon.hatenadiary.com/entry/2025/06/10/134022)
 - （公開日：2025/06/11、閲覧日：2025/06/11）[Claude Codeで効率的に開発するための知見管理](https://zenn.dev/driller/articles/2a23ef94f1d603)
 - （公開日：2025/06/11、閲覧日：2025/06/11）[Claude Codeでトークン使用量を削減するアプローチ](https://zenn.dev/driller/articles/ff6a50ae228b2b)
+- （公開日：2025/06/12、閲覧日：2025/07/18）[僕がClaude Codeに食われた日 \- Stockmark Tech Blog](https://stockmark-tech.hatenablog.com/entry/2025/06/12/091850)
 - （公開日：2025/06/13、閲覧日：2025/06/13）[Claude Code による技術的特異点を見届けろ](https://zenn.dev/mizchi/articles/claude-code-singularity-point)
 - （公開日：2025/06/15、閲覧日：2025/06/15）[Claude Codeの会話ログをDuckDBで分析して自分の仕事スタイルを改善する方法 \- yasuhisa's blog](https://www.yasuhisay.info/entry/2025/06/15/162704#google_vignette)
 - （公開日：2025/06/17、閲覧日：2025/06/17）[社内でAI駆動開発ツールの使用調査したら、たった1週間で『Claude Code』一択になっていた話](https://zenn.dev/explaza/articles/f62e704e73d3ff)

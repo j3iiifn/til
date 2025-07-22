@@ -26,6 +26,11 @@
 - 参考: [【Xcode】iOSエンジニアが真っ先に設定すべきXcode設定集 \#Swift \- Qiita](https://qiita.com/zrn-ns/items/8493413e55b7329c023a)
 
 
+### コマンドでテストを実行したときの出力の整形
+- [cpisciotta/xcbeautify: A little beautifier tool for xcodebuild](https://github.com/cpisciotta/xcbeautify)
+- （公開日：2024/06/17、閲覧日：2025/07/22）[xcprettyだとXCTestExpectationのタイムアウトエラーやXCTSkipが結果に反映されず、xcbeautifyだと問題なく動く \- いけだや技術ノート](https://ikesyo.hatenablog.com/entry/2024/06/17/153954)
+
+
 ## LSP
 - [swiftlang/sourcekit\-lsp: Language Server Protocol implementation for Swift and C\-based languages](https://github.com/swiftlang/sourcekit-lsp)
     - これをMCP化すればAIが漏れなくリネームできるようになるし、コンパイルエラーも高速に検知できるようになるはず

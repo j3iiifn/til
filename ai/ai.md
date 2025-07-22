@@ -283,6 +283,7 @@
     - 株式会社Scalar Akihiro Okunoさん、Claude Code SDKの話 [＜資料＞](https://speakerdeck.com/choplin/an-introduction-to-claude-code-sdk)
     - 株式会社BLUEISH 戸塚翔太さん、Claude Codeの知らない知識に立ち向かう
         - Claude CodeをVertex AI経由で使用している
+- （2025/07/22）Forkwell主催、Clineから Claude Code まで！AIエージェント、freeeはどうやって全社導入した？ [＜connpass＞](https://forkwell.connpass.com/event/359578/) [＜イベントページ＞](https://jobs.forkwell.com/events/aistudy2) ＜アーカイブ動画あり＞
 
 
 ## X
@@ -484,6 +485,10 @@
 - 2025/07/19
     - Claude Codeに入門した。ClaudeのProプランが7日間無料だったので、とりあえずそれにしてみた。
     - Dev Container、仕様書・TODOリスト、厳密なTDDの実践（t-wadaさんを指定してコンテキスト圧縮）といったよく聞くプラクティスをやってみた
+- 2025/07/22
+    - AI coding agentにiOSアプリのUTの実行と結果の確認を効率良くやってもらうために、`xcodebuild test` コマンドの実行結果をLLMに入力するのに最適な形に変換する方法を模索した
+        - xcbeautifyでJUnit reportのXMLファイルを出力してもらうのが良さそう。でも、UTの数が多いとXMLファイルが巨大になるので、もっと出力を要約したい。
+        - JUnit reportのXMLファイルを要約する自前スクリプトを作るか、もしくは既存のOSSを探すかしたい
 
 
 ## マインドマップ
