@@ -284,6 +284,7 @@
     - 株式会社BLUEISH 戸塚翔太さん、Claude Codeの知らない知識に立ち向かう
         - Claude CodeをVertex AI経由で使用している
 - （2025/07/22）Forkwell主催、Clineから Claude Code まで！AIエージェント、freeeはどうやって全社導入した？ [＜connpass＞](https://forkwell.connpass.com/event/359578/) [＜イベントページ＞](https://jobs.forkwell.com/events/aistudy2) ＜アーカイブ動画あり＞
+- （2025/07/22）AI駆動開発主催、Gemini CLI Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/361689/) [＜YouTube＞](https://www.youtube.com/watch?v=PceVBrFOQFU) ＜アーカイブ動画あり＞
 
 
 ## X
@@ -489,6 +490,10 @@
     - AI coding agentにiOSアプリのUTの実行と結果の確認を効率良くやってもらうために、`xcodebuild test` コマンドの実行結果をLLMに入力するのに最適な形に変換する方法を模索した
         - xcbeautifyでJUnit reportのXMLファイルを出力してもらうのが良さそう。でも、UTの数が多いとXMLファイルが巨大になるので、もっと出力を要約したい。
         - JUnit reportのXMLファイルを要約する自前スクリプトを作るか、もしくは既存のOSSを探すかしたい
+- 2025/07/23
+    - VSCode / GitHub Copilot Agent Mode
+        - 待望の設定 `github.copilot.chat.agent.terminal.allowList` がExperimentalで実装されていたので設定してみた
+        - git commitを許可したのに毎回問われるのはなぜ？
 
 
 ## マインドマップ

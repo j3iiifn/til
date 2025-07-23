@@ -19,6 +19,9 @@
     - スクラム疲れ（実践方法が悪そう）
     - 個人の目標設定をDeliveryだけにした
 
+## 職場環境
+- （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)
+
 ## 良いコード
 - （2025/06/04）Forkwell主催、良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97 [＜イベントページ＞](https://jobs.forkwell.com/events/pa3oihbjg6nj) [＜connpass＞](https://forkwell.connpass.com/event/354821/)
 
