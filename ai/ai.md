@@ -198,6 +198,7 @@
 - （公開日：2024/07/26、閲覧日：2025/04/17）[【Copilot活用術 vol\.1】ビジネスパーソンの生成AI「Microsoft Copilot」活用法／Copilotで何ができる？便利な機能「ノートブック」とは／全10回シリーズで解説 \- YouTube](https://www.youtube.com/watch?v=DTCwUOd08-I)
 - （公開日：2025/04/16、閲覧日：2025/04/24）[GitHub Copilot コードレビュー機能試してみました \- YouTube](https://www.youtube.com/watch?v=UuCJIDkRNUA)
 - （公開日：2025/07/11、閲覧日：2025/07/12）[Claude Codeで無限にUIデザインを構築する方法【バイブコーディング/Vibe Coding】 \- YouTube](https://www.youtube.com/watch?v=8vWRCYvLr94)
+- （公開日：2025/07/24、閲覧日：2025/07/24）[【t\-wadaさんに聞く】なぜCursorよりClaude Codeが優れているのか \- YouTube](https://www.youtube.com/watch?v=c2IHEeBbY5s)
 
 
 ## 講演、セミナー
@@ -494,7 +495,14 @@
     - VSCode / GitHub Copilot Agent Mode
         - 待望の設定 `github.copilot.chat.agent.terminal.allowList` がExperimentalで実装されていたので設定してみた
         - git commitを許可したのに毎回問われるのはなぜ？
-
+- 2025/07/24
+    - VSCode / GitHub Copilot Agent Mode
+        - 直近で実装した開発アイテムのコミットのdiffを集計してみたら、9割はAIが生成したdiffだった
+            - 集計の前提：
+                - コミット単位で編集者（人間 or AI）を完全に分離する。各コミットに人間による編集とAIによる編集を混ぜない。
+                - AIがコミットした場合はコミットメッセージに必ず共同編集者（Co-authored-by）を含めるようにしている
+            - 集計方法：
+                - コミットメッセージに特定の共同編集者が含まれているコミットと、そうでないコミットの追加・削除行数を合計する（シェルスクリプトをGemini 2.5 Proに作ってもらった）
 
 ## マインドマップ
 - AIが働きにくい環境 ＝ 人間も働きにくい環境
