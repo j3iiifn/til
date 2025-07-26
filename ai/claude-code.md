@@ -42,6 +42,13 @@
 - （公開日：2025/07/10、閲覧日：2025/07/10）[claude codeにNG Word集を設定すればキレなくてすむのでそのやり方](https://zenn.dev/sesere/articles/e3d5695e0a7d14)
     - 笑えるけど実用的
 
+
+## 📝 Workflow
+- （公開日：2025/07/25、閲覧日：2025/07/26）[Claude CodeのSub agentsでコンテキスト枯渇問題をサクッと解決できたはなし](https://zenn.dev/tacoms/articles/552140c84aaefa)
+    - モチベーション：auto-compactが発生しないようにしたい
+    - 品質チェック、タスク分解、タスク実行の3つのSub agentsを作成
+
+
 ## Vertex AI
 - （公開日：2025/06/27、閲覧日：2025/07/19）[業務でClaude CodeをVertex AI経由で使えるようになったので使ってみた \- Yappli Tech Blog](https://tech.yappli.io/entry/claude_code_vertex_ai)
 
