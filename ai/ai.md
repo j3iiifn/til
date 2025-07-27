@@ -192,6 +192,7 @@
     - この記事で述べられている取り組みはAI云々に特有なものではなく、一般的に複数のチームが同じプロダクトを共同で開発するために必要な取り組みだと思った（技術選定、依存関係の整理）
 - （公開日：2025/07/03、閲覧日：2025/07/03）[AIは励まされると頑張れるらしいので、いろんな方法で奨励してみた。 \- カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2025/07/03/090000)
 - （公開日：2025/07/03、閲覧日：2025/07/03）[AIに仕様書を読ませるとテストケースを自動生成、テストコードも書いてくれる「Autify Nexus」、Autifyが発表 － Publickey](https://www.publickey1.jp/blog/25/aiautify_nexusautify.html)
+- （公開日：2025/07/27、閲覧日：2025/07/27）[Kimi K2とLLMのベンチマークスコア](https://blog.lai.so/kimi-k2/)
 
 
 ## 見た動画
@@ -286,6 +287,12 @@
         - Claude CodeをVertex AI経由で使用している
 - （2025/07/22）Forkwell主催、Clineから Claude Code まで！AIエージェント、freeeはどうやって全社導入した？ [＜connpass＞](https://forkwell.connpass.com/event/359578/) [＜イベントページ＞](https://jobs.forkwell.com/events/aistudy2) ＜アーカイブ動画あり＞
 - （2025/07/22）AI駆動開発主催、Gemini CLI Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/361689/) [＜YouTube＞](https://www.youtube.com/watch?v=PceVBrFOQFU) ＜アーカイブ動画あり＞
+- （2025/07/23）レバテックLAB主催、Devin/Cursor/Cline全社導入 セキュリティリスクにどう対策した？ [＜connpass＞](https://levtechlab.connpass.com/event/359758/)
+    - エムスリー株式会社VPoE 河合俊典（ぱんくし）さん、エムスリーでのAIコーディングにおける意思決定
+        - AIコーディングツール（Claude Code含む）のLLMプロバイダとしてGCP Vertex AI（こちらがメイン）やAWS Bedrockを使用してセキュアにしている
+            - gcloud authで認証
+            - 国内リージョンのモデルを利用
+            - 利用可能なモデルの選択、監査ログ、利用者集計など管理機能を利用
 
 
 ## X
