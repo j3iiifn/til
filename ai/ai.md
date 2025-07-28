@@ -515,6 +515,9 @@
         - `github.copilot.chat.agent.terminal.allowList` に `git commit` を設定してみたところ、コミットメッセージに英語だけが含まれる場合は毎回許可を求められなくなったが、日本語が含まれる場合は許可を求められてしまう
         - プロンプトに `実装が終わったらコードの自動整形・ビルド・テストを実行し、全て成功することを確認してから変更内容をGitコミットしてください。` と書くと、AndroidプロジェクトなのになぜかPythonのビルド環境を構築しようとしてしまうことが何回かあった（Claude Sonnet 4）
             - `Kotlinコードの` と明示的に書くか、もしくは `コードの` は書かない方が良いかもしれない
+- 2025/07/28
+    - VSCode / GitHub Copilot Agent Mode
+        - `.github/copilot-instructions.md` に `Authorに "github-copilot <github-copilot@users.noreply.github.com>" を必ず指定する` と書いていたが、やめた。コミットメッセージに明記する共同編集者の情報だけでいい。
 
 
 ## マインドマップ

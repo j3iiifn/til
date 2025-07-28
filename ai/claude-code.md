@@ -44,9 +44,17 @@
 
 
 ## 📝 Workflow
+- （公開日：2025/07/19、閲覧日：2025/07/28）[Kiroの仕様書駆動開発プロセスをClaude Codeで徹底的に再現した](https://zenn.dev/gotalab/articles/3db0621ce3d6d2)
+    - [gotalab/claude\-code\-spec: From prototype to production with Spec\-Driven Development for Claude Code\. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build with AI](https://github.com/gotalab/claude-code-spec)
 - （公開日：2025/07/25、閲覧日：2025/07/26）[Claude CodeのSub agentsでコンテキスト枯渇問題をサクッと解決できたはなし](https://zenn.dev/tacoms/articles/552140c84aaefa)
     - モチベーション：auto-compactが発生しないようにしたい
     - 品質チェック、タスク分解、タスク実行の3つのSub agentsを作成
+
+
+## タスク管理
+- （公開日：2025/07/23、閲覧日：2025/07/28）[大量レビューコメントが整理された瞬間、面倒なものから開放された。AI 駆動タスク管理 CLI「reviewtask」開発記｜Ryo@VibeCoder](https://note.com/biwakonbu/n/nd4e6307eae61)
+    - > レビューコメントを構造化されたタスクとして管理し、確実に処理できる仕組み
+    - 一度に大量の変更を行うから大量のレビューコメントが付くのであって、変更単位を細かくして都度レビューサイクルを回すようにすれば済む話では？
 
 
 ## Vertex AI
