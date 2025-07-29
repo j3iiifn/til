@@ -273,6 +273,8 @@
         - 後で読みたい：
             - [AI導入しても効果薄い？チーム全員AIフレンドリー！な環境の作り方、教えます\(前編\)](https://zenn.dev/fastdoctor/articles/de25424a77cf77)
             - [Cursorで実現した開発速度3\.2倍！エンジニア・PM・QA全チームでAI活用する組織変革](https://findy-tools.io/products/cursor/401/553)
+- （2025/07/10）Forkwell主催、AI時代の「良いコード／悪いコードで学ぶ設計入門」「ドメイン駆動設計をはじめよう」- FL#100 [＜connpass＞](https://forkwell.connpass.com/event/356295/) [＜イベントページ＞](https://jobs.forkwell.com/events/s4rpcjtbs) ＜アーカイブ動画あり＞
+    - ミノ駆動さんの企業秘密のプロンプトが気になる
 - （2025/07/14）Findy主催、各社の事例から学ぶ！AIコーディングエージェント活用の現在地 [＜connpass＞](https://findy.connpass.com/event/359453/) [＜イベントページ＞](https://findy-code.io/events/59vAgWQnlgbiD) ＜アーカイブ動画あり＞
 - （2025/07/15）Findy Tools主催、GitHub Copilot活用術~MCP・レビュー・issue・Coding Agentまで！~ [＜connpass＞](https://findy-tools.connpass.com/event/359953/) [＜イベントページ＞](https://findy-tools.io/events/70c60d6e8696586ece73) ＜アーカイブ動画あり＞
 - （2025/07/16）東京AI祭主催、Claude Code・Gemini CLIで使える！「メモリ機能」で性能をさらにアップする裏技 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/360358/) ＜アーカイブ動画あり＞
@@ -293,6 +295,9 @@
             - gcloud authで認証
             - 国内リージョンのモデルを利用
             - 利用可能なモデルの選択、監査ログ、利用者集計など管理機能を利用
+- （2025/07/25）Qiita主催、Qiita Tech Spark 2025 [＜connpass＞](https://increments.connpass.com/event/354942/) [＜イベントページ＞](https://qiita.com/tech-festa/2025/tech-spark) [＜YouTube＞](https://www.youtube.com/watch?v=nEgRn19x4EE) ＜アーカイブ動画あり＞
+    - 株式会社いえらぶGROUP 執行役 和田 健太郎さん、「ドキュメント駆動開発：DocDD」事始め～Cursorをチームで擦り倒した結果～
+    - まつもと ゆきひろさん、まつもとゆきひろの作り方
 
 
 ## X
@@ -518,6 +523,9 @@
 - 2025/07/28
     - VSCode / GitHub Copilot Agent Mode
         - `.github/copilot-instructions.md` に `Authorに "github-copilot <github-copilot@users.noreply.github.com>" を必ず指定する` と書いていたが、やめた。コミットメッセージに明記する共同編集者の情報だけでいい。
+- 2025/07/29
+    - VSCode / GitHub Copilot Agent Mode
+        - promptsフォルダのサブフォルダにプロンプトファイルを置いてもスラッシュコマンドとして認識された（いつの間に？以前試したときはダメだったと思う）
 
 
 ## マインドマップ

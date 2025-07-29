@@ -41,6 +41,8 @@
     - レガシーなコードや開発環境、チームにAIを導入しても生産性が上がらないという話。AIによる生産性向上には適切な準備が必要。
 - （公開日：2025/07/10、閲覧日：2025/07/10）[claude codeにNG Word集を設定すればキレなくてすむのでそのやり方](https://zenn.dev/sesere/articles/e3d5695e0a7d14)
     - 笑えるけど実用的
+- （公開日：2025/07/28、閲覧日：2025/07/29）[社内で「え、そんなことできるの？」と話題になった Claude Code Custom slash commands の実践活用](https://zenn.dev/hacobu/articles/d4a194b95aacd5)
+    - 微妙
 
 
 ## 📝 Workflow
