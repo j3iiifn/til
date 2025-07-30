@@ -43,6 +43,10 @@
     - 笑えるけど実用的
 - （公開日：2025/07/28、閲覧日：2025/07/29）[社内で「え、そんなことできるの？」と話題になった Claude Code Custom slash commands の実践活用](https://zenn.dev/hacobu/articles/d4a194b95aacd5)
     - 微妙
+- （公開日：2025/07/29、閲覧日：2025/07/30）[Claude Codeによる生産性向上の限界｜suthio](https://note.com/suthio/n/n45a179642d7d)
+    - レビューがボトルネックになるというのは先日YouTubeの動画でt-wadaさんも言っていたな
+    - > スケールに耐えうる開発環境の重要性
+    - またClaude Code Deep DiveのときのhiragramさんのXが引用されている
 
 
 ## 📝 Workflow
