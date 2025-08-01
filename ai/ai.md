@@ -67,6 +67,7 @@
 
 ### Devin
 - （公開日：2025/07/15、閲覧日：2025/07/15）[Devinにはてラボのサービスを作ってもらったので、かかった費用を大公開 \- Hatena Developer Blog](https://developer.hatenastaff.com/entry/2025/07/15/121147)
+- （公開日：2025/08/01、閲覧日：2025/08/01）[ドキュメント整備をDevinに任せたら、4週間分の作業が6時間のレビューで完了した話](https://zenn.dev/smartshopping/articles/b3d6804e932565)
 
 
 ### Codex
@@ -530,6 +531,11 @@
 - 2025/07/29
     - VSCode / GitHub Copilot Agent Mode
         - promptsフォルダのサブフォルダにプロンプトファイルを置いてもスラッシュコマンドとして認識された（いつの間に？以前試したときはダメだったと思う）
+- 2025/08/01
+    - GitHub Web / Copilot Chat
+        - GitHub WebでOSSリポジトリを開いた状態でCopilotボタンを押してチャットを開くと、そのリポジトリがコンテキストに与えられた状態でCopilotと会話できる
+        - この機能でとあるOSSに関する質問をいろいろしてみたところ、大変便利だった
+        - 質問に関連するコードをCopilotが探して答えてくれるので、OSSの挙動を効率良く調査できた
 
 
 ## マインドマップ

@@ -54,3 +54,12 @@
     - TVer iOSチームの共通認識の作り方（株式会社TVer 小森 英明さん）[＜資料＞](https://speakerdeck.com/techtver/tver-iostimunogong-tong-ren-shi-nozuo-rifang-findy-job-lt-iosapurikai-fa-noli-ce-kai-fa-zu-zhi-gaxiang-kihe-uke-ti-tokorekara)
         - レビュープロセス：UI設計レビュー、Reducer設計レビュー、Test設計レビュー
         - ドキュメント整備：コーディング規約（GitHub issueで起案、採択されたものをWikiへ追記）、ADR (Architectural Decision Records)、TIPS
+
+
+## [slackhq/PanModal: An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS\.](https://github.com/slackhq/PanModal)
+- PanModalの初期状態はshort form
+- モーダルを上へスワイプして引き上げるとモーダルが高くなる（long formに変形する）
+- long formの状態からモーダルを下へスワイプするとモーダルが低くなる（short formに変形する）
+- short formの状態からモーダルを下へスワイプするとモーダルが閉じる
+- PanModal内部では現在の状態（short formとlong formのどちらなのか）は保持していない
+- ユーザのスワイプジェスチャーの方向と、モーダルの現在位置を元に、①longFormへ変形、②shortFormへ変形、③dismissのどれを実行するかを決定している
