@@ -303,6 +303,11 @@
 - （2025/07/28）Findy主催、t-wadaさんに聞く！SQLアンチパターン第2版 - 全27章まとめて紹介！ [＜connpass＞](https://findy.connpass.com/event/359455/) [＜イベントページ＞](https://findy-code.io/events/i_Pzqt6r9dzHh) [＜YouTube＞](https://www.youtube.com/watch?v=mj62B0FlqKI) ＜アーカイブ動画あり＞
 - （2025/07/30）カウシェ主催、DeNA・令和トラベル・スマートバンク・カウシェでの開発における生成AIフル活用事例 [＜connpass＞](https://kauche.connpass.com/event/358309/) ＜アーカイブ動画あり＞
     - まず初めにDevinにやってもらってから、人間が直す
+- （2025/07/31）Forkwell主催、Claude Codeに全部賭けるために入門する勉強会 [＜connpass＞](https://forkwell.connpass.com/event/361574/) [＜イベントページ＞](https://jobs.forkwell.com/events/07z_83pmd1mo) ＜アーカイブ動画あり＞
+    - Ubie株式会社 鹿野 壮さん、Claude Codeを実務開発で使い倒して得られた知見 [＜資料＞](https://tonkotsuboy.github.io/20250731-forkwell-claude-code/)
+    - 🌟良い発表だった🌟ストックマーク株式会社 羽柴 大生さん、苦しんで向き合うLLM時代の開発 [＜資料＞](https://speakerdeck.com/hashibadaiki/ku-sindexiang-kihe-ullmshi-dai-nokai-fa)
+    - 視聴者Q&Aパネルトーク
+        - UbieではClaude CodeをVertex AIで使っている
 
 
 ## X

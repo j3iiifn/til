@@ -63,6 +63,11 @@
     - 一度に大量の変更を行うから大量のレビューコメントが付くのであって、変更単位を細かくして都度レビューサイクルを回すようにすれば済む話では？
 
 
+## Serena
+- （公開日：2025/07/31、閲覧日：2025/08/02）[Claude Codeを10倍賢くする無料ツール「Serena」の威力とトークン効率化術](https://zenn.dev/sc30gsw/articles/ff81891959aaef)
+- （公開日：2025/07/31、閲覧日：2025/08/02）[🚀 Claude Code × Serena MCP：もうバージョンダウンしなくても良いのか\.\.\.?](https://zenn.dev/studio/articles/431afa748fbed1)
+
+
 ## Vertex AI
 - （公開日：2025/06/27、閲覧日：2025/07/19）[業務でClaude CodeをVertex AI経由で使えるようになったので使ってみた \- Yappli Tech Blog](https://tech.yappli.io/entry/claude_code_vertex_ai)
 
