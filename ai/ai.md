@@ -308,6 +308,14 @@
     - 🌟良い発表だった🌟ストックマーク株式会社 羽柴 大生さん、苦しんで向き合うLLM時代の開発 [＜資料＞](https://speakerdeck.com/hashibadaiki/ku-sindexiang-kihe-ullmshi-dai-nokai-fa)
     - 視聴者Q&Aパネルトーク
         - UbieではClaude CodeをVertex AIで使っている
+- （2025/07/31）StudyCo主催、Claude Codeが働くAI中心の業務システム構築の挑戦―AIエージェント中心の働き方を目指して [＜connpass＞](https://studyco.connpass.com/event/361662/) [＜YouTube＞](https://www.youtube.com/live/6Y1zFCa2e-A) [＜資料＞](https://speakerdeck.com/os1ma/claude-codegadong-kuaizhong-xin-noye-wu-sisutemugou-zhu-notiao-zhan-aiezientozhong-xin-nodong-kifang-womu-zhi-site) ＜アーカイブ動画あり＞
+    - Claude Codeをcoding agentとして利用するのではなく、汎用的な業務を管理・遂行するために使用する話
+    - AIエージェントが中心となってタスク管理と業務を遂行し、必要に応じて人間に助けを求める仕組みづくり
+    - LangChainが提唱するAmbient Agents : Human-in-the-Loop, Agent Inbox
+    - HumanLayerのOuter Loop
+        - 第1世代: Chat
+        - 第2世代: Agentic Assistants
+        - 第3世代: Autonomous Agents - Outer Loop
 
 
 ## X
