@@ -35,6 +35,8 @@
     - コードリーディングの補助、設計の壁打ちとしてCopilotを使用する例
 - （公開日：2025/07/10、閲覧日：2025/07/18）[GitHub Copilot Coding Agent の Premium Request の消費が大幅に緩和されました at SE の雑記](https://blog.engineer-memo.com/2025/07/11/github-copilot-coding-agent-%E3%81%AE-premium-request-%E3%81%AE%E6%B6%88%E8%B2%BB%E3%81%8C%E5%A4%A7%E5%B9%85%E3%81%AB%E7%B7%A9%E5%92%8C%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/)
 - （公開日：2025/07/15、閲覧日：2025/07/18）[GitHub Copilot Coding Agentが利用しているGitHub Actionsの使用料](https://zenn.dev/mahata/articles/actions-usage-for-github-coding-agent)
+- （公開日：2025/08/01、閲覧日：2025/08/04）[【Github Copilot】設計書があるなら、全部Copilotに実装させよう](https://zenn.dev/aya/articles/3b8ea962b61bd8)
+    - まさかのeditモード縛りだった。ぜひagentモードを使ってほしい。
 
 
 #### 公式ドキュメント
