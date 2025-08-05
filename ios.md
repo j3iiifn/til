@@ -8,6 +8,12 @@
     - [ActivityKit \| Apple Developer Documentation](https://developer.apple.com/documentation/ActivityKit)
 
 
+## ipaファイルの再署名
+2025/08/05
+とある不具合が過去のどのバージョンから発生するか調査するために、過去のバージョンのAppStore用ipaファイルを実機にインストールする必要があった。
+ipaファイルを[iOS App Signer](https://github.com/DanTheMan827/ios-app-signer)で有効期限内のDevelopment証明書とProvisioning Profileで再署名すると、Apple ConfiguratorもしくはXcodeで実機にインストールできた。
+
+
 ## Xcode
 
 ### ファイル名を変更する方法

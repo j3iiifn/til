@@ -6,6 +6,7 @@
 
 ## エンジニアとして
 - （公開日：2025/04/27、閲覧日：2025/04/27）[エンジニアとして緩やかに死んでいくんだろーなと思った話 \- pospomeのプログラミング日記](https://www.pospome.work/entry/2025/04/27/144734)
+- （公開日：2025/08/04、閲覧日：2025/08/05）[エンジニアを成長させる要素を言語化する \- pospomeのプログラミング日記](https://www.pospome.work/entry/2025/08/04/130959#google_vignette)
 
 ## ソフトスキル
 - （2025/05/28）Forkwell主催、開発者とアーキテクトのためのコミュニケーションガイド ―パターンで学ぶ情報伝達術 [＜connpass＞](https://forkwell.connpass.com/event/354938/) [＜Forkwell＞](https://jobs.forkwell.com/events/50cbjcwyazb)
@@ -22,6 +23,9 @@
 
 ## 職場環境
 - （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)
+
+## 要件定義
+- （公開日：2025/08/05、閲覧日：2025/08/05）[なぜWhyを書くだけで生産性が上がるのか？｜すてぃお](https://note.com/suthio/n/nfe677919f3c9)
 
 ## 良いコード
 - （2025/06/04）Forkwell主催、良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97 [＜イベントページ＞](https://jobs.forkwell.com/events/pa3oihbjg6nj) [＜connpass＞](https://forkwell.connpass.com/event/354821/)
