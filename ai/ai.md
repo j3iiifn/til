@@ -43,6 +43,7 @@
 - 🌟定期的に確認🌟 [Use Case: copilot \- GitHub Changelog](https://github.blog/changelog/label/copilot/)
 - （閲覧日：2025/05/24）[Visual Studio Code documentation > Copilot chat context](https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context)
 - （公開日：2025/07/10、閲覧日：2025/07/18）[GitHub Copilot coding agent now uses one premium request per session \- GitHub Changelog](https://github.blog/changelog/2025-07-10-github-copilot-coding-agent-now-uses-one-premium-request-per-session/)
+- （公開日：2025/08/07、閲覧日：2025/08/08）[July 2025 \(version 1\.103\)](https://code.visualstudio.com/updates/v1_103)
 
 
 ### Claude Code
@@ -156,6 +157,7 @@
     - 共感したところ：
         - > 自分が求めるのはむしろ重箱の隅を突いてくるような口うるさいくらいのレビュアーだ
     - 「レビュアーの人格作成用のドキュメント」の言葉がいちいち強くて面白かった
+- （公開日：2025/06/06、閲覧日：2025/08/08）[CodeRabbitと過ごした1ヶ月 ─ AIコードレビュー導入で実感したチーム開発の進化 \- DMM Developers Blog](https://developersblog.dmm.com/entry/2025/06/06/110000)
 - （公開日：2025/06/20、閲覧日：2025/06/20）[Gemma3 \+ Unsloth \+ GitLab CI/CDで構築する完全オンプレミスAIコードレビュー環境 \| フューチャー技術ブログ](https://future-architect.github.io/articles/20250620a/)
     - 実案件に対するコードレビュー結果についての情報は無かった（まだ実験段階の模様）
 - （公開日：2025/06/23、閲覧日：2025/07/14）[GitHub Copilot Agent × Github MCPが変える コードレビュー \-](https://recruit.gmo.jp/engineer/jisedai/blog/code-review-with-github-copilot-agent-x-github-mcp/)
@@ -318,6 +320,13 @@
         - 第1世代: Chat
         - 第2世代: Agentic Assistants
         - 第3世代: Autonomous Agents - Outer Loop
+- （2025/08/05）ROSCAFE主催、Claude Codeと挑む、開発設計の現在地 [＜connpass＞](https://rosca.connpass.com/event/363169/)
+    - Gotaさん、データ分析のためのClaude Code ~marimoを使おう~ [＜資料＞](https://speakerdeck.com/gotalab555/detafen-xi-notamenoclaude-code-marimowoshi-ou)
+        - Jupyter Notebook(.ipynb)形式とClaude Codeの相性が悪すぎるので、Jupyter Notebookを捨ててmarimoを使っている
+        - [Claude Codeでmarimo使う時用のhttp://CLAUDE.md](https://github.com/gotalab/claude-code-marimo)
+    - Oikonさん、Claude Codeから我々が学ぶべきこと [＜資料＞](https://speakerdeck.com/s4yuba/claude-codekarawo-gaxue-bubekikoto)
+    - しば田さん、作ってよかったカスタムスラッシュコマンド [＜資料＞](https://speakerdeck.com/ks0318/zuo-tuteyokatutakasutamusuratusiyukomando)
+        - カスタムスラッシュコマンドを作成・編集するためのカスタムスラッシュコマンドを自作
 
 
 ## X
@@ -551,6 +560,13 @@
         - GitHub WebでOSSリポジトリを開いた状態でCopilotボタンを押してチャットを開くと、そのリポジトリがコンテキストに与えられた状態でCopilotと会話できる
         - この機能でとあるOSSに関する質問をいろいろしてみたところ、大変便利だった
         - 質問に関連するコードをCopilotが探して答えてくれるので、OSSの挙動を効率良く調査できた
+- 2025/08/08
+    - VSCode / GitHub Copilot Agent Mode
+        - VSCodeを昨日リリースされたv1.103（Copilot拡張はv0.30.0）にアップデートしたら、prompt fileが使用できなくなってしまった
+            - チャットでスラッシュを打った後に表示される補完の候補にprompt.mdファイルが表示されるが、いざ実行しようとするとprompt.mdの中身を一切読み取ってくれない
+                - 以前は `Follow instructions in {ファイル名}` と表示されてprompt.mdの中身を読んでくれたが、今はそれすら表示されない
+            - VSCodeをv1.102にダウングレードしたらprompt fileが使用できた
+        - v1.103で `github.copilot.chat.agent.terminal.allowList` が `chat.tools.terminal.autoApprove` に変わった
 
 
 ## マインドマップ
