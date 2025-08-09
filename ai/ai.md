@@ -327,6 +327,13 @@
     - Oikonさん、Claude Codeから我々が学ぶべきこと [＜資料＞](https://speakerdeck.com/s4yuba/claude-codekarawo-gaxue-bubekikoto)
     - しば田さん、作ってよかったカスタムスラッシュコマンド [＜資料＞](https://speakerdeck.com/ks0318/zuo-tuteyokatutakasutamusuratusiyukomando)
         - カスタムスラッシュコマンドを作成・編集するためのカスタムスラッシュコマンドを自作
+- （2025/08/08）AI駆動開発(AI-Driven Development)主催、Claude Code Meetup Japan #2（Claude Code祭り！#2） [＜connpass＞](https://aid.connpass.com/event/361635/) [＜YouTube＞](https://www.youtube.com/watch?v=1IfoHU7UEgQ) ＜アーカイブ動画あり＞
+    - 📝 Gotaさん、Claude Codeは仕様駆動の夢を見ない [＜資料＞](https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai)
+    - Ubie CTO こたにゆうくさん、Scale out your Claude Code ~自社専用Agentで10xする開発プロセス~
+        - 変更前タイトル：Claude CodeをDevinにしよう - 叩き駆動開発のススメ
+        - Uvin
+    - BLUEISH CEO/CTO 為藤アキラさん、Claude Codeと始める“自律型プロジェクト運用“
+        - Claude Code サブエージェント
 
 
 ## X
