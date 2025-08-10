@@ -328,13 +328,21 @@
     - しば田さん、作ってよかったカスタムスラッシュコマンド [＜資料＞](https://speakerdeck.com/ks0318/zuo-tuteyokatutakasutamusuratusiyukomando)
         - カスタムスラッシュコマンドを作成・編集するためのカスタムスラッシュコマンドを自作
 - （2025/08/08）AI駆動開発(AI-Driven Development)主催、Claude Code Meetup Japan #2（Claude Code祭り！#2） [＜connpass＞](https://aid.connpass.com/event/361635/) [＜YouTube＞](https://www.youtube.com/watch?v=1IfoHU7UEgQ) ＜アーカイブ動画あり＞
-    - 📝 Gotaさん、Claude Codeは仕様駆動の夢を見ない [＜資料＞](https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai)
-    - Ubie CTO こたにゆうくさん、Scale out your Claude Code ~自社専用Agentで10xする開発プロセス~
+    - 📝 7:16- @gota_baraさん『Claude Codeは仕様駆動の夢を見ない』 [＜資料＞](https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai)
+    - 29:47- @yukukotaniさん『Scale out your Claude Code ~自社専用Agentで10xする開発プロセス~』 [＜資料＞](https://speakerdeck.com/yukukotani/scale-out-your-claude-code)
         - 変更前タイトル：Claude CodeをDevinにしよう - 叩き駆動開発のススメ
         - Uvin
-    - BLUEISH CEO/CTO 為藤アキラさん、Claude Codeと始める“自律型プロジェクト運用“
-        - Claude Code サブエージェント
-
+    - 45:53- @AkiraTametoさん『Claude Codeサブエージェント機能』
+    - 1:10:48- XServer 前島さん『リモート環境(VPS)を活用したClaude Codeの導入と運用』
+    - 1:24:01- @t_fujita24さん『hooksのStopをつかって永遠にpbi定義&開発を繰り返させ続けて、自律的にプロダクトに新機能を追加させるSingularity的方法』
+    - 1:31:49- @enzerubankさん『スクラムイベントの議事録をAIが書く時代 〜Claude Code活用事例〜』
+    - 1:40:04- @NakaOtonowaさん『Claudeと一緒に仕様書から実装してみた』
+        - Claude Codeと対話を繰り返してドメインモデル図を洗練させ、ペアプロの指摘内容をルールに追加していき、Clean Architectureを実装
+    - 📝 1:46:33- @sakas1231さん『俺的 instruction の書き方』 [＜資料＞](https://speakerdeck.com/sakas/an-de-instructionnozuo-rifang)
+        - 独自に開発フローを試行錯誤していたらKiroと同じようなフローに行き着いた
+    - 1:54:21- @shuntaka_jpさん『Claude Codeをdotfiles管理しよう！(おすすめの設定を添えて)』 [＜資料＞](https://speakerdeck.com/shuntaka/lets-manage-claude-code-with-dotfiles)
+        - HooksのStopイベントで静的解析結果をフィードバックする
+    - 2:01:38- @watarumoriokaさん『Claude CodeでmacOSのアプリを作ってみた』
 
 ## X
 - （2025/04/27）https://x.com/hamukazu/status/1916502783018303779

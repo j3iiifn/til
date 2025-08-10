@@ -47,6 +47,7 @@
     - レビューがボトルネックになるというのは先日YouTubeの動画でt-wadaさんも言っていたな
     - > スケールに耐えうる開発環境の重要性
     - またClaude Code Deep DiveのときのhiragramさんのXが引用されている
+- （公開日：2025/08/08、閲覧日：2025/08/10）[Claude Codeで2週間→3日に短縮！AI駆動開発でWebサイトを爆速リプレイス](https://zenn.dev/sakupanda/articles/bfc84e54f97504)
 
 
 ## 📝 Workflow
