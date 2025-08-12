@@ -301,6 +301,11 @@
             - gcloud authで認証
             - 国内リージョンのモデルを利用
             - 利用可能なモデルの選択、監査ログ、利用者集計など管理機能を利用
+- （2025/07/25）Findy主催、Gemini CLI実験レポート ─基礎理解から活用の可能性について [＜connpass＞](https://findy.connpass.com/event/361358/) [＜イベントページ＞](https://findy-code.io/events/spLfZxzESnY3s) ＜アーカイブ動画あり＞
+    - 豊田陽介(@youtoy)さん、公開初日に個人環境で試した Gemini CLI 体験記など [＜資料＞](https://speakerdeck.com/you/gemini-cli-report)
+    - 🌟KDDIアジャイル開発センター株式会社 久古幸汰(@nvidia_inside)さん、Gemini CLIの"強み"を知る！ Gemini CLIとClaude Codeを比較してみた [＜資料＞](https://speakerdeck.com/kotahisafuru/gemini-clino-qiang-mi-wozhi-ru-gemini-clitoclaude-codewobi-jiao-sitemita)
+        - p.4〜14のスライドがとても良い。理系研究者目線で物事を要素分解できている。
+            - AIコーディングエージェント性能の決定要因5つ：LLMモデルの性能、ツール内のプロンプト、メモリ機能のプロンプト、参照されるファイル、ユーザー入力のプロンプト
 - （2025/07/25）Qiita主催、Qiita Tech Spark 2025 [＜connpass＞](https://increments.connpass.com/event/354942/) [＜イベントページ＞](https://qiita.com/tech-festa/2025/tech-spark) [＜YouTube＞](https://www.youtube.com/watch?v=nEgRn19x4EE) ＜アーカイブ動画あり＞
     - 株式会社いえらぶGROUP 執行役 和田 健太郎さん、「ドキュメント駆動開発：DocDD」事始め～Cursorをチームで擦り倒した結果～
     - まつもと ゆきひろさん、まつもとゆきひろの作り方
@@ -582,6 +587,12 @@
                 - 以前は `Follow instructions in {ファイル名}` と表示されてprompt.mdの中身を読んでくれたが、今はそれすら表示されない
             - VSCodeをv1.102にダウングレードしたらprompt fileが使用できた
         - v1.103で `github.copilot.chat.agent.terminal.allowList` が `chat.tools.terminal.autoApprove` に変わった
+- 2025/08/12
+    - VSCode / GitHub Copilot Agent Mode
+        - VSCode v1.103でreusable prompt fileの内容を認識してくれなくなった問題について
+            - 別のGitHubアカウントでも試してみたが、認識しなかった
+            - VSCode 1.104.0-insider でも試してみたが、認識しなかった
+            - [ブログ](https://j3iiifn.hatenablog.com/entry/2025/08/13/023000)を書いた
 
 
 ## マインドマップ
