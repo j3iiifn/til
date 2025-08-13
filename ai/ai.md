@@ -332,6 +332,8 @@
     - Oikonさん、Claude Codeから我々が学ぶべきこと [＜資料＞](https://speakerdeck.com/s4yuba/claude-codekarawo-gaxue-bubekikoto)
     - しば田さん、作ってよかったカスタムスラッシュコマンド [＜資料＞](https://speakerdeck.com/ks0318/zuo-tuteyokatutakasutamusuratusiyukomando)
         - カスタムスラッシュコマンドを作成・編集するためのカスタムスラッシュコマンドを自作
+- （2025/08/08）Findy主催、Kiro使ってみてどうだった？ ～試してわかった活用のヒント～ [＜connpass＞](https://findy.connpass.com/event/362924/) [＜イベントページ＞](https://findy-code.io/events/mNYVOt1Bds7LU) ＜YouTubeアーカイブ動画あり＞
+    - メルカリ Kuu(@Fumiya_Kume)さん、KDDIアジャイル開発センター みのるん(@minorun365)さん、NTTテクノクロス @_watanyさん
 - （2025/08/08）AI駆動開発(AI-Driven Development)主催、Claude Code Meetup Japan #2（Claude Code祭り！#2） [＜connpass＞](https://aid.connpass.com/event/361635/) [＜YouTube＞](https://www.youtube.com/watch?v=1IfoHU7UEgQ) ＜アーカイブ動画あり＞
     - 📝 7:16- @gota_baraさん『Claude Codeは仕様駆動の夢を見ない』 [＜資料＞](https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai)
     - 29:47- @yukukotaniさん『Scale out your Claude Code ~自社専用Agentで10xする開発プロセス~』 [＜資料＞](https://speakerdeck.com/yukukotani/scale-out-your-claude-code)
@@ -348,6 +350,7 @@
     - 1:54:21- @shuntaka_jpさん『Claude Codeをdotfiles管理しよう！(おすすめの設定を添えて)』 [＜資料＞](https://speakerdeck.com/shuntaka/lets-manage-claude-code-with-dotfiles)
         - HooksのStopイベントで静的解析結果をフィードバックする
     - 2:01:38- @watarumoriokaさん『Claude CodeでmacOSのアプリを作ってみた』
+
 
 ## X
 - （2025/04/27）https://x.com/hamukazu/status/1916502783018303779
