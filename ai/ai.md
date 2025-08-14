@@ -325,6 +325,8 @@
         - 第1世代: Chat
         - 第2世代: Agentic Assistants
         - 第3世代: Autonomous Agents - Outer Loop
+- （2025/08/04）東京AI祭主催、AIがルールを破らない世界へ！ClaudeCodeHooks超入門 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/362938/) ＜Zoomアーカイブ動画あり＞
+    - 📝 株式会社フェズ Gota(@gota_bara)さん、Claude CodeでKiroの仕様駆動開発を実現させるには... [＜資料＞](https://speakerdeck.com/gotalab555/claude-codedekironoshi-yang-qu-dong-kai-fa-woshi-xian-saseruniha-dot-dot-dot)
 - （2025/08/05）ROSCAFE主催、Claude Codeと挑む、開発設計の現在地 [＜connpass＞](https://rosca.connpass.com/event/363169/)
     - Gotaさん、データ分析のためのClaude Code ~marimoを使おう~ [＜資料＞](https://speakerdeck.com/gotalab555/detafen-xi-notamenoclaude-code-marimowoshi-ou)
         - Jupyter Notebook(.ipynb)形式とClaude Codeの相性が悪すぎるので、Jupyter Notebookを捨ててmarimoを使っている
@@ -332,6 +334,11 @@
     - Oikonさん、Claude Codeから我々が学ぶべきこと [＜資料＞](https://speakerdeck.com/s4yuba/claude-codekarawo-gaxue-bubekikoto)
     - しば田さん、作ってよかったカスタムスラッシュコマンド [＜資料＞](https://speakerdeck.com/ks0318/zuo-tuteyokatutakasutamusuratusiyukomando)
         - カスタムスラッシュコマンドを作成・編集するためのカスタムスラッシュコマンドを自作
+- （2025/08/07）Findy主催、GitHub Copilotの全体像と活用のヒント AI駆動開発の最初の一歩 [＜connpass＞](https://findy.connpass.com/event/359954/) [＜イベントページ＞](https://findy-code.io/events/xjb2NH7xQ1k9m) ＜YouTubeアーカイブ動画あり＞
+    - GO株式会社 Atsushi Morimoto (@74th)さん [＜資料＞](https://speakerdeck.com/74th/github-copilot-an-overview-and-tips-for-effective-use)
+        - GitHub Copilotの多岐にわたるサービスを網羅的に説明している良発表
+            - コード補完、チャット（VSCode拡張、IDE拡張、Web）、チャット内のAsk/Edit/Agentモード、Coding Agent、PRレビュー、…
+        - Copilot Chatで `@vscode` とつけるとVS Codeの使い方を質問できる
 - （2025/08/08）Findy主催、Kiro使ってみてどうだった？ ～試してわかった活用のヒント～ [＜connpass＞](https://findy.connpass.com/event/362924/) [＜イベントページ＞](https://findy-code.io/events/mNYVOt1Bds7LU) ＜YouTubeアーカイブ動画あり＞
     - メルカリ Kuu(@Fumiya_Kume)さん、KDDIアジャイル開発センター みのるん(@minorun365)さん、NTTテクノクロス @_watanyさん
 - （2025/08/08）AI駆動開発(AI-Driven Development)主催、Claude Code Meetup Japan #2（Claude Code祭り！#2） [＜connpass＞](https://aid.connpass.com/event/361635/) [＜YouTube＞](https://www.youtube.com/watch?v=1IfoHU7UEgQ) ＜アーカイブ動画あり＞

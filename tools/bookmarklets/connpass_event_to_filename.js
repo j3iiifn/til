@@ -9,8 +9,14 @@ javascript:(function(){
     const ogTitle = document.querySelector('meta[property="og:title"]');
     const eventTitle = ogTitle.getAttribute('content').replace(/\s*\([^)]*\)\s*$/, '');
     
-    const groupElement = document.querySelector('.group_title');
-    const groupName = groupElement.textContent.trim();
+    let groupName = "";
+    const eventOwner = document.querySelector('.event_owner');
+    if (eventOwner) {
+        groupName = eventOwner.textContent.trim().replace(/^主催\s*[:：]\s*/, '');
+    } else {
+        const groupElement = document.querySelector('.group_title');
+        groupName = groupElement.textContent.trim();
+    }
     
     const ymdElement = document.querySelector('.ymd');
     const eventDate = ymdElement.textContent.trim().replace(/\([^)]*\)/, '').replace(/\//g, '');
