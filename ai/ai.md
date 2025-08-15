@@ -334,6 +334,12 @@
     - Oikonさん、Claude Codeから我々が学ぶべきこと [＜資料＞](https://speakerdeck.com/s4yuba/claude-codekarawo-gaxue-bubekikoto)
     - しば田さん、作ってよかったカスタムスラッシュコマンド [＜資料＞](https://speakerdeck.com/ks0318/zuo-tuteyokatutakasutamusuratusiyukomando)
         - カスタムスラッシュコマンドを作成・編集するためのカスタムスラッシュコマンドを自作
+- （2025/08/07）Findy主催、著者陣に聞く！現場で活用するためのAIエージェント実践入門 [＜connpass＞](https://findy.connpass.com/event/363543/) [＜イベントページ＞](https://findy-code.io/events/EmPLr08575_jm) ＜YouTubeアーカイブ動画あり＞
+    - 株式会社ジェネラティブエージェンツ 西見公宏 (@mah_lab)さん、書籍紹介
+    - Sakana AI株式会社 太田真人 (@ottamm_190)さん、AIエージェントを知る
+    - 電通総研 阿田木勇八 (@eightOJ1)さん、AIエージェントを作る
+    - 株式会社Algomatic 宮脇峻平 (@catshun_)さん、AIエージェントを現場で使う [＜資料＞](https://speakerdeck.com/smiyawaki0820/2025-dot-08-dot-07-zhu-zhe-zhen-niwen-ku-xian-chang-dehuo-yong-surutamenoaiezientoshi-jian-ru-men-findyrantisetusiyon)
+        - マイクのノイズが最悪だったが、スライドの図やグラフはきれいだった
 - （2025/08/07）Findy主催、GitHub Copilotの全体像と活用のヒント AI駆動開発の最初の一歩 [＜connpass＞](https://findy.connpass.com/event/359954/) [＜イベントページ＞](https://findy-code.io/events/xjb2NH7xQ1k9m) ＜YouTubeアーカイブ動画あり＞
     - GO株式会社 Atsushi Morimoto (@74th)さん [＜資料＞](https://speakerdeck.com/74th/github-copilot-an-overview-and-tips-for-effective-use)
         - GitHub Copilotの多岐にわたるサービスを網羅的に説明している良発表
@@ -603,7 +609,12 @@
             - 別のGitHubアカウントでも試してみたが、認識しなかった
             - VSCode 1.104.0-insider でも試してみたが、認識しなかった
             - [ブログ](https://j3iiifn.hatenablog.com/entry/2025/08/13/023000)を書いた
-
+- 2025/08/15
+    - VSCode / GitHub Copilot Agent Mode
+        - VSCode v1.103でreusable prompt fileの内容を認識してくれなくなった問題について
+            - ファイル名に数字が含まれていると認識されないというデグレードが発生していることがわかった
+            - VS CodeのGitHubに[Issue](https://github.com/microsoft/vscode/issues/261702)と[Pull Request](https://github.com/microsoft/vscode/pull/261704)を作成した
+            - [ブログ](https://j3iiifn.hatenablog.com/entry/2025/08/15/173000)も書いた
 
 ## マインドマップ
 - AIが働きにくい環境 ＝ 人間も働きにくい環境
