@@ -40,11 +40,16 @@
 
 
 #### 公式ドキュメント
+__Changelog__
+
 - 🌟定期的に確認🌟 [Use Case: copilot \- GitHub Changelog](https://github.blog/changelog/label/copilot/)
-- （閲覧日：2025/05/24）[Visual Studio Code documentation > Copilot chat context](https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context)
 - （公開日：2025/07/10、閲覧日：2025/07/18）[GitHub Copilot coding agent now uses one premium request per session \- GitHub Changelog](https://github.blog/changelog/2025-07-10-github-copilot-coding-agent-now-uses-one-premium-request-per-session/)
 - （公開日：2025/08/07、閲覧日：2025/08/08）[July 2025 \(version 1\.103\)](https://code.visualstudio.com/updates/v1_103)
 
+__Docs__
+
+- （閲覧日：2025/05/24）[Visual Studio Code documentation > Copilot chat context](https://code.visualstudio.com/docs/copilot/chat/copilot-chat-context)
+    - （2025/08/16）`#codebase` を使うには `github.copilot.chat.codesearch.enabled` という設定を有効にする必要がある（デフォルトでは無効になっている）
 
 ### Claude Code
 [claude-code.md](claude-code.md)
@@ -110,6 +115,9 @@
 
 ### Gemini
 - （公開日：2025/05/09、閲覧日：2025/05/11）[Gemini の新機能 「Canvas」入門： アイデアをカタチにする活用法をわかりやすく徹底解説！｜Gemini \- Google の AI](https://note.com/google_gemini/n/na32ff1b28878)
+- （公開日：2025/08/16、閲覧日：2025/08/16）[【神回】Googleスライドが一瞬で完成する"奇跡"のプロンプト教えます｜まじん](https://note.com/majin_108/n/n39235bcacbfc)
+    - スライドのレイアウトや構成要素を定義するJSONをGeminiに作成させ、そのJSONをもとにGoogle Apps ScriptがGoogleスライドを描画するという手法
+    - ゴリ押し感がすごい
 
 
 ### Gemini CLI
@@ -178,7 +186,8 @@
 - （公開日：2025/07/10、閲覧日：2025/07/11）[降霊術で t\_wada を AI に降ろして PR レビューして貰うテクニックが伸びたのでその裏側記事を書きました！｜Ryo@VibeCoder](https://note.com/biwakonbu/n/n0f1c75418030)
     - 降霊術というワードチョイスが面白い
     - 圧縮プロンプトについての先行研究（？）についても触れられていて、さながら論文のよう。良記事
-
+- （公開日：2025/08/15、閲覧日：2025/08/16）[AI「先輩、この仕様よく分からないっす」 \- ABAの日誌](https://aba.hatenablog.com/entry/2025/08/15/124732)
+    - AIが必要に応じて人間に助けを求めるようにさせるプロンプトの紹介。🌟良記事
 
 ### エッセイ、キャリア論
 - （公開日：2025/05/03、閲覧日：2025/05/03）[AI Coding Agent を使うことで、怒り狂い、視座が上昇する話 \- Lambdaカクテル](https://blog.3qe.us/entry/2025/05/03/000513)
@@ -309,6 +318,9 @@
 - （2025/07/25）Qiita主催、Qiita Tech Spark 2025 [＜connpass＞](https://increments.connpass.com/event/354942/) [＜イベントページ＞](https://qiita.com/tech-festa/2025/tech-spark) [＜YouTube＞](https://www.youtube.com/watch?v=nEgRn19x4EE) ＜アーカイブ動画あり＞
     - 株式会社いえらぶGROUP 執行役 和田 健太郎さん、「ドキュメント駆動開発：DocDD」事始め～Cursorをチームで擦り倒した結果～
     - まつもと ゆきひろさん、まつもとゆきひろの作り方
+- （2025/07/25）AI駆動開発主催、Windsurf Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/359327/) [＜YouTube＞](https://youtube.com/live/CPgMGzWzPZw) ＜YouTubeアーカイブ動画あり＞
+    - Walden Yanさん、Windsurf Update & Better Together
+    - テックファーム 石立宏志(@techfirm_jp)さん、Windsurfでちょっとラクする大規模サイト運用
 - （2025/07/28）Findy主催、t-wadaさんに聞く！SQLアンチパターン第2版 - 全27章まとめて紹介！ [＜connpass＞](https://findy.connpass.com/event/359455/) [＜イベントページ＞](https://findy-code.io/events/i_Pzqt6r9dzHh) [＜YouTube＞](https://www.youtube.com/watch?v=mj62B0FlqKI) ＜アーカイブ動画あり＞
 - （2025/07/30）カウシェ主催、DeNA・令和トラベル・スマートバンク・カウシェでの開発における生成AIフル活用事例 [＜connpass＞](https://kauche.connpass.com/event/358309/) ＜アーカイブ動画あり＞
     - まず初めにDevinにやってもらってから、人間が直す
@@ -331,9 +343,10 @@
     - Gotaさん、データ分析のためのClaude Code ~marimoを使おう~ [＜資料＞](https://speakerdeck.com/gotalab555/detafen-xi-notamenoclaude-code-marimowoshi-ou)
         - Jupyter Notebook(.ipynb)形式とClaude Codeの相性が悪すぎるので、Jupyter Notebookを捨ててmarimoを使っている
         - [Claude Codeでmarimo使う時用のhttp://CLAUDE.md](https://github.com/gotalab/claude-code-marimo)
-    - Oikonさん、Claude Codeから我々が学ぶべきこと [＜資料＞](https://speakerdeck.com/s4yuba/claude-codekarawo-gaxue-bubekikoto)
+    - Oikon(@oikon48)さん、Claude Codeから我々が学ぶべきこと [＜資料＞](https://speakerdeck.com/oikon48/claude-codekarawo-gaxue-bubekikoto)
     - しば田さん、作ってよかったカスタムスラッシュコマンド [＜資料＞](https://speakerdeck.com/ks0318/zuo-tuteyokatutakasutamusuratusiyukomando)
         - カスタムスラッシュコマンドを作成・編集するためのカスタムスラッシュコマンドを自作
+- （2025/08/06）Forkwell主催、生成AIのプロンプトエンジニアリング - Forkwell Library#102 [＜connpass＞](https://forkwell.connpass.com/event/359565/) [＜イベントページ＞](https://jobs.forkwell.com/events/lhl51w6p9) ＜YouTubeアーカイブ動画あり＞
 - （2025/08/07）Findy主催、著者陣に聞く！現場で活用するためのAIエージェント実践入門 [＜connpass＞](https://findy.connpass.com/event/363543/) [＜イベントページ＞](https://findy-code.io/events/EmPLr08575_jm) ＜YouTubeアーカイブ動画あり＞
     - 株式会社ジェネラティブエージェンツ 西見公宏 (@mah_lab)さん、書籍紹介
     - Sakana AI株式会社 太田真人 (@ottamm_190)さん、AIエージェントを知る

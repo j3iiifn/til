@@ -48,6 +48,14 @@
     - > スケールに耐えうる開発環境の重要性
     - またClaude Code Deep DiveのときのhiragramさんのXが引用されている
 - （公開日：2025/08/08、閲覧日：2025/08/10）[Claude Codeで2週間→3日に短縮！AI駆動開発でWebサイトを爆速リプレイス](https://zenn.dev/sakupanda/articles/bfc84e54f97504)
+- （公開日：2025/08/15、閲覧日：2025/08/16）[技術書知識を即戦力化！Sub Agent化から設計支援・レビューまでの最短フロー](https://zenn.dev/furedea/articles/53b5117b389454)
+    - 技術書・技術記事から得られた知識をObsidianにまとめ、それをMCPサーバ経由でClaude Codeのカスタムスラッシュコマンドに読み取らせ、SubagentのMarkdownファイルを作ってもらうというアプローチ
+- （公開日：2025/08/14、閲覧日：2025/08/16）[UserPromptSubmitを使って、pull requestの詳細に使用したプロンプトが全て記載されるようにした](https://tech.algomatic.jp/entry/2025/08/14/175747)
+    - プロンプトの記録
+    - > UserPromptSubmitを使って、pull requestの詳細に使用したプロンプトが全て記載されるようにした
+        1. UserPromptSubmitでプロンプトを `.claude/prompts.log` に保存
+        2. Gitのprepare-commit-msgフックでプロンプトをコミットメッセージに含める
+        3. GitHub Actionsでコミットメッセージからプロンプト履歴を抽出し、Pull Requestのdescriptionに自動追記
 
 
 ## 📝 Workflow

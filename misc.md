@@ -13,7 +13,7 @@
     - 筆者は無限の愛がある
 
 ## マネジメント
-- （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) [＜connpass＞](https://forkwell.connpass.com/event/356977/)
+- （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
 - （公開日：2025/08/12、閲覧日：2025/08/12）[1on1の功罪について｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/times_serizawa_0002)
 
 ## 開発体制
