@@ -302,6 +302,8 @@ __Docs__
     - 株式会社Scalar Akihiro Okunoさん、Claude Code SDKの話 [＜資料＞](https://speakerdeck.com/choplin/an-introduction-to-claude-code-sdk)
     - 株式会社BLUEISH 戸塚翔太さん、Claude Codeの知らない知識に立ち向かう
         - Claude CodeをVertex AI経由で使用している
+- （2025/07/17）Findy Tools主催、Deep Security Conference [＜connpass＞](https://findy.connpass.com/event/356605/) [＜イベントページ＞](https://deep-security-con.findy-tools.io/) [＜YouTubeアーカイブ動画あり＞](https://findy-tools.io/events/archives/deep-security-con/6)
+    - EGセキュアソリューションズ 徳丸 浩さん、セキュリティ専門家が生成AIと過ごす日常
 - （2025/07/22）Forkwell主催、Clineから Claude Code まで！AIエージェント、freeeはどうやって全社導入した？ [＜connpass＞](https://forkwell.connpass.com/event/359578/) [＜イベントページ＞](https://jobs.forkwell.com/events/aistudy2) ＜アーカイブ動画あり＞
 - （2025/07/22）AI駆動開発主催、Gemini CLI Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/361689/) [＜YouTube＞](https://www.youtube.com/watch?v=PceVBrFOQFU) ＜アーカイブ動画あり＞
 - （2025/07/23）レバテックLAB主催、Devin/Cursor/Cline全社導入 セキュリティリスクにどう対策した？ [＜connpass＞](https://levtechlab.connpass.com/event/359758/)
@@ -321,6 +323,8 @@ __Docs__
 - （2025/07/25）AI駆動開発主催、Windsurf Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/359327/) [＜YouTube＞](https://youtube.com/live/CPgMGzWzPZw) ＜YouTubeアーカイブ動画あり＞
     - Walden Yanさん、Windsurf Update & Better Together
     - テックファーム 石立宏志(@techfirm_jp)さん、Windsurfでちょっとラクする大規模サイト運用
+        - 日本Top30位以内の大規模サイト、十数年保守している
+    - SmartHR ほりゆう(@yuki8251198)さん、SmartHRにおけるAIコーディングツール導入の歴史 -Cursorが普及した状態でWindsurfも導入した話-
 - （2025/07/28）Findy主催、t-wadaさんに聞く！SQLアンチパターン第2版 - 全27章まとめて紹介！ [＜connpass＞](https://findy.connpass.com/event/359455/) [＜イベントページ＞](https://findy-code.io/events/i_Pzqt6r9dzHh) [＜YouTube＞](https://www.youtube.com/watch?v=mj62B0FlqKI) ＜アーカイブ動画あり＞
 - （2025/07/30）カウシェ主催、DeNA・令和トラベル・スマートバンク・カウシェでの開発における生成AIフル活用事例 [＜connpass＞](https://kauche.connpass.com/event/358309/) ＜アーカイブ動画あり＞
     - まず初めにDevinにやってもらってから、人間が直す
@@ -337,6 +341,19 @@ __Docs__
         - 第1世代: Chat
         - 第2世代: Agentic Assistants
         - 第3世代: Autonomous Agents - Outer Loop
+- （2025/08/01）LayerX主催、AIカンファレンス「Bet AI Day」LayerXのリアルなAI知見を大公開！CTO, CPO, VPoEたちが語ります [＜connpass＞](https://layerx.connpass.com/event/357958/) ＜YouTubeアーカイブ動画あり＞
+    - 🌟代表取締役 CTO 松本 勇気さん、AI時代の経営とBet AI Vision [＜資料＞](https://speakerdeck.com/layerx/ai-era-management-and-bet-ai)
+        - 過去2年半の生成AIの変遷
+        - 自動運転の6段階のレベルとAIによる業務遂行度合いを対比した表
+        - AIツールを使ってください、ではうまくいかない。慣性の壁、セキュリティの壁、学習・理解の壁
+            - AI包括予算
+    - 🌟バクラク事業 CTO 中川 佳希さん、バクラクによるコーポレート業務の自動運転 [＜資料＞](https://speakerdeck.com/layerx/bakuraku-corporate-autonomous-driving)
+        - Chat-oriented programming (CHOP)
+        - 自動車の自動運転になぞらえ、業務の自動運転を6段階でレベル分け
+        - 🌟AIエージェントを構成要素 (Tools, Memory, ...) ← [Building Effective AI Agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+        - 🌟Sourcegraphのブログ [How to Build an Agent - Amp](https://ampcode.com/how-to-build-an-agent) -> 400行に満たないGoコードで実装されたcode-editing agent
+    - Fintech事業 VPoE 髙橋 健太郎さん、金融サービスにおける高速な価値提供とAIの役割
+    - AI・LLM事業 CPO 小林 篤さん、LLMをツールからプラットフォームへ〜AI Workforceの戦略〜
 - （2025/08/04）東京AI祭主催、AIがルールを破らない世界へ！ClaudeCodeHooks超入門 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/362938/) ＜Zoomアーカイブ動画あり＞
     - 📝 株式会社フェズ Gota(@gota_bara)さん、Claude CodeでKiroの仕様駆動開発を実現させるには... [＜資料＞](https://speakerdeck.com/gotalab555/claude-codedekironoshi-yang-qu-dong-kai-fa-woshi-xian-saseruniha-dot-dot-dot)
 - （2025/08/05）ROSCAFE主催、Claude Codeと挑む、開発設計の現在地 [＜connpass＞](https://rosca.connpass.com/event/363169/)

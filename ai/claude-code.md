@@ -82,6 +82,10 @@
 - （公開日：2025/06/27、閲覧日：2025/07/19）[業務でClaude CodeをVertex AI経由で使えるようになったので使ってみた \- Yappli Tech Blog](https://tech.yappli.io/entry/claude_code_vertex_ai)
 
 
+## 導入
+- （公開日：2025/06/25、閲覧日：2025/08/17）[会社でClaude Code導入する場合はTeam planで十分 \- 橋本商会](https://scrapbox.io/shokai/%E4%BC%9A%E7%A4%BE%E3%81%A7Claude_Code%E5%B0%8E%E5%85%A5%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AFTeam_plan%E3%81%A7%E5%8D%81%E5%88%86)
+
+
 ## Dev Containers
 ### 公式情報
 - [Development containers \- Anthropic](https://docs.anthropic.com/en/docs/claude-code/devcontainer)
