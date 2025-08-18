@@ -59,6 +59,8 @@ Robert C.Martin = ボブおじさん
 ### 第22章 クリーンアーキテクチャ
 - アーキテクチャはソフトウェアをレイヤーに分割することで関心事の分離を実現している
 - 常に円の外側から内側へ依存するようにする
+- GUIのMVC architectureのPresenter, View, ControllerはInterface Adapterのレイヤーに属する
+    - ModelはController→UseCase、UseCase→Presenter/Viewで受け渡しされるデータ構造にすぎない
 
 ## 誤植？
 - p.141 8行目：`こうしたライブラリのIの値は1になるが` → `こうしたライブラリのIの値は0になるが`
