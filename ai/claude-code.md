@@ -80,6 +80,7 @@
 
 ## Vertex AI
 - （公開日：2025/06/27、閲覧日：2025/07/19）[業務でClaude CodeをVertex AI経由で使えるようになったので使ってみた \- Yappli Tech Blog](https://tech.yappli.io/entry/claude_code_vertex_ai)
+- （公開日：2025/06/30、閲覧日：2025/08/19）[GCPでVertex AIを使ってAIコーディングエージェントの認証をセキュアでポータブルに管理してみる \- エムスリーテックブログ](https://www.m3tech.blog/entry/vertex_ai_dashboard)
 
 
 ## 導入

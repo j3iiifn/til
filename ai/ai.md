@@ -393,7 +393,15 @@ __Docs__
     - 1:54:21- @shuntaka_jpさん『Claude Codeをdotfiles管理しよう！(おすすめの設定を添えて)』 [＜資料＞](https://speakerdeck.com/shuntaka/lets-manage-claude-code-with-dotfiles)
         - HooksのStopイベントで静的解析結果をフィードバックする
     - 2:01:38- @watarumoriokaさん『Claude CodeでmacOSのアプリを作ってみた』
-
+- （2025/08/19）東京AI祭主催、Kiroで始めるビヘイビア駆動開発 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/364230/)
+    - 📝 Galirage 森重 真純(@umi_mori_jp)さん
+        - GalirageのメンバーではClaude Codeの利用割合が多い
+        - SDD: Spec-Driven Development (仕様駆動開発)
+        - BDD: Behavior-Driven Development (ビヘイビア駆動開発)
+            - TDD: Test-Driven Development (テスト駆動開発) の派生
+            - Given-When-Then フォーマット（Gherkin記法）
+        - [Cognition \| Don’t Build Multi\-Agents](https://cognition.ai/blog/dont-build-multi-agents)
+        - マルチエージェントについて https://x.com/umi_mori_jp/status/1948156173514846642
 
 ## X
 - （2025/04/27）https://x.com/hamukazu/status/1916502783018303779
