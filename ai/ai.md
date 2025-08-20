@@ -144,19 +144,22 @@ __Docs__
     - Vibe Codingの具体的な流れ（会話の例も）
 - （公開日：2025/05/16、閲覧日：2025/06/28）[Agentic Coding を Reconciliation Loop で効果的に実現するための実装戦略](https://zenn.dev/bitkey_dev/articles/098257fda90c67)
 - （公開日：2025/05/26、閲覧日：2025/06/28）[Agentic Coding 感想戦](https://zenn.dev/fumi_sagawa/articles/adc50605a4e1c5)
-    - 要件定義とタスク管理をprojectフォルダに保存 [＜実例＞](https://github.com/fumi-sagawa/obsidian-mcp-server/commit/29121a5f1bb023b58e67af97e76ceb1e3352a291)
+    - 📝 要件定義とタスク管理をprojectフォルダに保存 [＜実例＞](https://github.com/fumi-sagawa/obsidian-mcp-server/commit/29121a5f1bb023b58e67af97e76ceb1e3352a291)
 - （公開日：2025/06/02、閲覧日：2025/06/05）[Claude Code \+ Opus 4でmysql\-schema\-explorer\-mcpの機能改善をしてみた \- $shibayu36\->blog;](https://blog.shibayu36.org/entry/2025/06/02/103000)
-- （公開日：2025/06/10、閲覧日：2025/06/28）[パンチカードからプロンプトへ 〜コードの90%をAIが書く世界で何が待っているのか〜](https://zenn.dev/r_kaga/articles/6d7607c83cefb4)
+- 🌟（公開日：2025/06/10、閲覧日：2025/06/28）[パンチカードからプロンプトへ 〜コードの90%をAIが書く世界で何が待っているのか〜](https://zenn.dev/r_kaga/articles/6d7607c83cefb4)
     - > 不労コード生活
+        - 📝 人間が仕様書を更新したらPRが自動作成させる
+    - arxivの論文『Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI』を引用
 - （公開日：2025/06/21、閲覧日：2025/06/28）[もうコードを書く時代は終わり？Vibe CodingとAgentic Codingをわかりやすく解説｜世界のアオキ@生成AI探究者 \| 個人開発withAI](https://note.com/aoki_monpro/n/n986999b320a6)
     - 元ネタはarxivの論文
-- （公開日：2025/06/24、閲覧日：2025/06/25）[参考になった] [AI Agent Manager \(AAM\) として生きていく : 作業環境とワークフローの設計 \#機械学習 \- Qiita](https://qiita.com/icoxfog417/items/f15e92f05b14411fd642)
-    - このワークフローは真似したい
+- 🌟（公開日：2025/06/24、閲覧日：2025/06/25）[参考になった] [AI Agent Manager \(AAM\) として生きていく : 作業環境とワークフローの設計 \#機械学習 \- Qiita](https://qiita.com/icoxfog417/items/f15e92f05b14411fd642)
+    - > カスタムコマンドを決められたルール通り実行していくだけで作業が終わる
+    - 📝 このワークフローは真似したい
 - （公開日：2025/06/30、閲覧日：2025/06/30）[LLMにコンテキストを効率よく渡すには？【前編】 〜大量のファイル群から欲しい部分だけ〜 \- Nealle Developer's Blog](https://nealle-dev.hatenablog.com/entry/2025/06/30/094631)
     - > LLMは「連想ゲーム超上手い君」
     - > 「やってほしいこととは関係ない情報」を渡してしまうと、その関係ない情報に関しても連想ゲームを始めてしまいます
 - （公開日：2025/07/17、閲覧日：2025/07/17）[Vide Codingで使うチケットシステムticket\.sh作ったよ｜masuidrive](https://note.com/masuidrive/n/nc68c3f47ed18)
-    - プロンプトを参考にしたい
+    - 📝 プロンプトを参考にしたい
 
 
 ### コードレビュー
@@ -412,6 +415,10 @@ __Docs__
         - > AIに知らないことを壁打ちして自分の知識を増幅
     - 少し方向性が違うけど、自分のアイデアの理論的肉付けをAIにしてもらうことで、自信を増幅させるような使い方を私はしているなと思った
 
+## はてなブックマーク
+- https://b.hatena.ne.jp/entry/4774738814939967713/comment/yoiIT
+    - スライドを生成AIで作成する手法を紹介した記事に対するはてなブックマーク
+    - Gemini DeepResearchのレポート → NotebookLM → 骨子 → Geminiで評価＆改善 → Genspark用プロンプト → Gensparkで仕上げ
 
 ## 読んだ書籍
 - ＃100日チャレンジ 毎日連続100本アプリを作ったら人生が変わった（大塚あみ、日経BP）
