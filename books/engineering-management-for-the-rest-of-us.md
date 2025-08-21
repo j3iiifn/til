@@ -5,3 +5,6 @@
 
 ## Audiobook
 - 1周目：2025/08/12、2025/08/17（Kindleアシストリーダー）
+
+## 動画
+- （2025/08/20）SHIFT  EVOLVE主催、逆fukabori․fm: iwashi氏が向き合うエンジニアのマネジメントという難問達 [＜connpass＞](https://shiftevolve.connpass.com/event/360569/) [＜YouTube＞](https://www.youtube.com/watch?v=cZRss0WQ48M) ＜YouTubeアーカイブ動画あり＞
