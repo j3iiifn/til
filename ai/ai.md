@@ -409,8 +409,16 @@ __Docs__
         - 自動車の自動運転になぞらえ、業務の自動運転を6段階でレベル分け
         - 🌟AIエージェントを構成要素 (Tools, Memory, ...) ← [Building Effective AI Agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
         - 🌟Sourcegraphのブログ [How to Build an Agent - Amp](https://ampcode.com/how-to-build-an-agent) -> 400行に満たないGoコードで実装されたcode-editing agent
-    - Fintech事業 VPoE 髙橋 健太郎さん、金融サービスにおける高速な価値提供とAIの役割
-    - AI・LLM事業 CPO 小林 篤さん、LLMをツールからプラットフォームへ〜AI Workforceの戦略〜
+    - Fintech事業 VPoE 髙橋 健太郎さん、金融サービスにおける高速な価値提供とAIの役割 [＜資料＞](https://speakerdeck.com/layerx/accelerating-value-with-ai-in-finance-service)
+    - AI・LLM事業 CPO 小林 篤さん、LLMをツールからプラットフォームへ〜AI Workforceの戦略〜 [＜資料＞](https://speakerdeck.com/layerx/llm-from-tool-to-platform-ai-workforce-strategy)
+    - 執行役員 CISO 星 北斗さん、Bet "Bet AI" - Accelerating Our AI Journey [＜資料＞](https://speakerdeck.com/layerx/bet-bet-ai-accelerating-our-ai-journey)
+    - 🌟Principal 名村 卓さん、人に寄り添うAIエージェントとアーキテクチャ [＜資料＞](https://speakerdeck.com/layerx/empathetic-ai-agent-architecture)
+        - p.25: コンテキストの制約：サイズ上限、大きいと混乱、時間とともに増えていく
+        - p.25: コンテキストの構成要素：セッション上の会話、過去の行動履歴、手順書、マニュアル・ガイドライン、システムプロンプト、ツールコールの結果
+    - バクラク事業 AI・機械学習部 部長 松村 優也さん、Tech Lead 島越 直人さん、生成AI時代におけるAI・機械学習技術を用いたプロダクト開発の深化と進化 [＜資料＞](https://speakerdeck.com/layerx/evolving-ai-ml-products-in-genai-era)
+    - クロージング
+        - ReActの考案者による記事。AIはthe second half (後半戦)に入った。今まではモデルの進化によってできることが増えてきたが、これからはアプリケーションの勝負になってきている
+            - [The Second Half – Shunyu Yao – 姚顺雨](https://ysymyth.github.io/The-Second-Half/)
 - （2025/08/04）東京AI祭主催、AIがルールを破らない世界へ！ClaudeCodeHooks超入門 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/362938/) ＜Zoomアーカイブ動画あり＞
     - 📝 株式会社フェズ Gota(@gota_bara)さん、Claude CodeでKiroの仕様駆動開発を実現させるには... [＜資料＞](https://speakerdeck.com/gotalab555/claude-codedekironoshi-yang-qu-dong-kai-fa-woshi-xian-saseruniha-dot-dot-dot)
 - （2025/08/05）ROSCAFE主催、Claude Codeと挑む、開発設計の現在地 [＜connpass＞](https://rosca.connpass.com/event/363169/)
@@ -463,6 +471,17 @@ __Docs__
     - 🌟米久保 剛(@tyonekubo)さん、AI時代に問い直す ユニットテストの価値 [＜資料＞](https://www.docswell.com/s/tyonekubo/K44MXJ-value-of-unittesting)
     - 合同会社CAPH TECH りず(@rizumita)さん、$99.99と¥100の間にある深い溝 - 批判的に問い、明示的に伝える
     - 松谷峰生 (まつ)(@mty_mno)さん、テスト最適化 : AIは変更差分からユニットテスト/結合テスト/システムテストでテストすべきことが出せるのか？
+- （2025/08/21）Forkwell主催、ABEMAにおける生成AI活用の現在地 - Forkwell AI Study #3 [＜connpass＞](https://forkwell.connpass.com/event/362360/) [＜イベントページ＞](https://jobs.forkwell.com/events/u1ksk3pswz) ＜YouTubeアーカイブ動画あり＞
+    - 波戸 勇二(@dekatotoro)さん、菅 俊弥さん [＜資料＞](https://speakerdeck.com/dekatotoro/the-current-status-of-generative-ai-at-abema)
+    - p.20: AIツールに200ドル/人/月を費用負担(必要性に応じてさらに増額)、トレーニング、ワークショップ、先行導入事例の共有、ナレッジベース
+    - p.22: 利用している生成AIツール一覧
+    - p.23: 利用を許可しているMCPサーバの一覧
+    - p.28-: 業務プロセスにおけるAIの活用事例
+        - p.33: 従来のテスト項目書を生成AIで分類・シナリオ化し、YAML形式でGit管理
+        - p.34: AI Agentによるシナリオテストの自動化
+            - [takahirom/arbigent: AI Agent for testing Android, iOS, and Web apps\. Get Started in 5 Minutes\. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature ensures scalability for even the most complex tasks\.](https://github.com/takahirom/arbigent)
+            - [AIエージェントによるテストフレームワーク Arbigent \- Speaker Deck](https://speakerdeck.com/takahirom/arbigent-test-by-ai-agent-ff262ea0-4da4-40b3-a34a-6d19afe6447e)
+    - p.52: LangChainが提唱しているコンテキストエンジニアリングの手法：記述(Write)、選択(Select)、圧縮(Compress)、分離(Isolate)
 
 
 ## X

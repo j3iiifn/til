@@ -78,6 +78,10 @@
 - （公開日：2025/08/14、閲覧日：2025/08/15）[なぜSerenaを使うとAIのコード編集が正確になるのか？](https://zenn.dev/aki_think/articles/c4f5b2a75ff4d4)
 
 
+## Amazon Bedrock
+- （公開日：2025/08/20、閲覧日：2025/08/21）[組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）](https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action)
+
+
 ## Vertex AI
 - （公開日：2025/06/27、閲覧日：2025/07/19）[業務でClaude CodeをVertex AI経由で使えるようになったので使ってみた \- Yappli Tech Blog](https://tech.yappli.io/entry/claude_code_vertex_ai)
 - （公開日：2025/06/30、閲覧日：2025/08/19）[GCPでVertex AIを使ってAIコーディングエージェントの認証をセキュアでポータブルに管理してみる \- エムスリーテックブログ](https://www.m3tech.blog/entry/vertex_ai_dashboard)
@@ -85,6 +89,11 @@
 
 ## 導入
 - （公開日：2025/06/25、閲覧日：2025/08/17）[会社でClaude Code導入する場合はTeam planで十分 \- 橋本商会](https://scrapbox.io/shokai/%E4%BC%9A%E7%A4%BE%E3%81%A7Claude_Code%E5%B0%8E%E5%85%A5%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AFTeam_plan%E3%81%A7%E5%8D%81%E5%88%86)
+
+
+## プラン
+- （公開日：2025/08/21、閲覧日：2025/08/21）[Claude Code and new admin controls for business plans \\ Anthropic](https://www.anthropic.com/news/claude-code-on-team-and-enterprise)
+    - 待望のTeam/BusinessプランでもClaude Codeが月額定額で使えるようになったが、利用制限が厳しすぎて結局Max 20xプランのほうがいいなと思った
 
 
 ## Dev Containers
