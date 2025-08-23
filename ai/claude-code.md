@@ -64,6 +64,7 @@
 - （公開日：2025/07/25、閲覧日：2025/07/26）[Claude CodeのSub agentsでコンテキスト枯渇問題をサクッと解決できたはなし](https://zenn.dev/tacoms/articles/552140c84aaefa)
     - モチベーション：auto-compactが発生しないようにしたい
     - 品質チェック、タスク分解、タスク実行の3つのSub agentsを作成
+- （閲覧日：2025/08/23）[takahirom/claude\-code\-quality\-gate\-example: Example implementation of quality gate system for Claude Code using Hooks and Subagents](https://github.com/takahirom/claude-code-quality-gate-example/tree/main)
 
 
 ## タスク管理
@@ -125,3 +126,7 @@
 
 ## コンテキスト残量
 - [Claude Code のコンテキスト残量を常に表示する](https://zenn.dev/pnd/articles/claude-code-statusline)
+
+
+## `/output-style` コマンド
+- （公開日：2025/08/23、閲覧日：2025/08/23）[Claude Code の学習モードで自分の手でコードを書く練習をしよう](https://azukiazusa.dev/blog/claude-code-learning-mode/)

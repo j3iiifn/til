@@ -738,6 +738,12 @@ __Docs__
             - ファイル名に数字が含まれていると認識されないというデグレードが発生していることがわかった
             - VS CodeのGitHubに[Issue](https://github.com/microsoft/vscode/issues/261702)と[Pull Request](https://github.com/microsoft/vscode/pull/261704)を作成した
             - [ブログ](https://j3iiifn.hatenablog.com/entry/2025/08/15/173000)も書いた
+- 2025/08/22
+    - VSCode / GitHub Copilot Chat
+        - Agent Modeでユーザの許可が必要になったとき（コマンドの実行時など）に音を鳴らしてほしいなと思って、チャットで `@vscode` という感じにメンションをつけて聞いてみたら `accessibility.signals.chatUserActionRequired` という設定があることを教えてくれた。
+            - https://github.com/microsoft/vscode/pull/248952
+            - https://github.com/microsoft/vscode/issues/249657
+
 
 ## マインドマップ
 - AIが働きにくい環境 ＝ 人間も働きにくい環境
