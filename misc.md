@@ -15,6 +15,7 @@
 ## マネジメント
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
 - （公開日：2025/08/12、閲覧日：2025/08/12）[1on1の功罪について｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/times_serizawa_0002)
+- （公開日：2025/08/24、閲覧日：2025/08/25）[チームの問題の原因は外側にあることが多いよなぁ。「チームの力で組織を動かす」を読んだ。 \- Mitsuyuki\.Shiiba](https://bufferings.hatenablog.com/entry/2025/08/24/170220)
 
 ## 開発体制
 - （公開日：2025/06/26、閲覧日：2025/06/29）[SmartHR「給与計算開発」の裏話 〜スクラムとか色々やめました〜 ｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/voices_0002)
