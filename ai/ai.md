@@ -482,6 +482,18 @@ __Docs__
             - [takahirom/arbigent: AI Agent for testing Android, iOS, and Web apps\. Get Started in 5 Minutes\. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature ensures scalability for even the most complex tasks\.](https://github.com/takahirom/arbigent)
             - [AIエージェントによるテストフレームワーク Arbigent \- Speaker Deck](https://speakerdeck.com/takahirom/arbigent-test-by-ai-agent-ff262ea0-4da4-40b3-a34a-6d19afe6447e)
     - p.52: LangChainが提唱しているコンテキストエンジニアリングの手法：記述(Write)、選択(Select)、圧縮(Compress)、分離(Isolate)
+- （2025/08/26）Findy主催、実例から学ぶ！モバイルアプリ開発における「AIの使いどころ」 [＜connpass＞](https://findy.connpass.com/event/363471/) [＜イベントページ＞](https://findy-code.io/events/cj_4BfmogJr6w) ＜YouTubeアーカイブ動画あり＞
+    - フリーランス 堤 修一@shu223さん、『ふつうのAI駆動iOSアプリ開発』 [＜資料＞](https://www.docswell.com/s/shu223/5M63LG-ios-with-ai)
+        - > AIがイマイチなことを言い始めたらさっさと人間側で巻き取る
+        - CLAUDE.mdが現状と合っているかAIに確認してもらう
+        - CLAUDE.mdが大きくなったら下位コンテキストファイルに切り出す
+    - Ubie株式会社 坂本 一弥@sakamotokazuyatさん、『モバイルアプリからWebへの横展開を加速した話 Claude Code 実践術』 [＜資料＞](https://speakerdeck.com/kazuyasakamoto/mohairuahurikarawebhenoheng-zhan-kai-wojia-su-sitahua-claude-code-shi-jian-shu)
+    - 株式会社ウフィカ あんざいゆき@yanzmさん、『Devinを使ったモバイルアプリ開発』 [＜資料＞](https://speakerdeck.com/yanzm/mobile-app-development-with-devin)
+    - dely株式会社 青山 凱さん、『figma MCP ✖️ iOS開発でできることを模索してみた』 [＜資料＞](https://gamma.app/docs/Figma-MCPAI-r9307i3ovkd1182)
+        - 前提として、Figma上で定義されているデザインシステムのコンポーネントと一対一に紐づく形でアプリ側にもそのコンポーネントを用意しておかないとうまくいかなそう
+    - akippa株式会社 @hiragramさん、『Claude Codeで作る自分のエンジニアリングチーム』→『LLMエージェント時代に適応した開発フロー』 [＜資料＞](https://speakerdeck.com/hiragram/llmezientoshi-dai-nishi-ying-sitakai-fa-huro)
+        - ccusageのtotalが$2424というのは、さすがに数カ月分…だよね…？
+        - GitHub Actionsの「claude-code-action」をself hosted runner (自分のMac) で動かすと費用がゼロになる
 
 
 ## X

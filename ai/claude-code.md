@@ -97,6 +97,10 @@
     - 待望のTeam/BusinessプランでもClaude Codeが月額定額で使えるようになったが、利用制限が厳しすぎて結局Max 20xプランのほうがいいなと思った
 
 
+## 設定
+- 🌟（公開日：2025/08/26、閲覧日：2025/08/26）["あの頃"の強かったClaude Codeを少しでも取り戻す方法](https://zenn.dev/discus0434/scraps/e0b1a0aa5406eb)
+    - micro compactを無効化する
+
 ## Dev Containers
 ### 公式情報
 - [Development containers \- Anthropic](https://docs.anthropic.com/en/docs/claude-code/devcontainer)
