@@ -365,7 +365,7 @@ __Docs__
     - EGセキュアソリューションズ 徳丸 浩さん、セキュリティ専門家が生成AIと過ごす日常
 - （2025/07/22）Forkwell主催、Clineから Claude Code まで！AIエージェント、freeeはどうやって全社導入した？ [＜connpass＞](https://forkwell.connpass.com/event/359578/) [＜イベントページ＞](https://jobs.forkwell.com/events/aistudy2) ＜アーカイブ動画あり＞
 - （2025/07/22）AI駆動開発主催、Gemini CLI Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/361689/) [＜YouTube＞](https://www.youtube.com/watch?v=PceVBrFOQFU) ＜アーカイブ動画あり＞
-- （2025/07/23）レバテックLAB主催、Devin/Cursor/Cline全社導入 セキュリティリスクにどう対策した？ [＜connpass＞](https://levtechlab.connpass.com/event/359758/)
+- （2025/07/23）レバテックLAB主催、Devin/Cursor/Cline全社導入 セキュリティリスクにどう対策した？ [＜connpass＞](https://levtechlab.connpass.com/event/359758/) ＜YouTubeアーカイブ動画あり＞
     - エムスリー株式会社VPoE 河合俊典（ぱんくし）さん、エムスリーでのAIコーディングにおける意思決定
         - AIコーディングツール（Claude Code含む）のLLMプロバイダとしてGCP Vertex AI（こちらがメイン）やAWS Bedrockを使用してセキュアにしている
             - gcloud authで認証
@@ -400,7 +400,7 @@ __Docs__
         - 第1世代: Chat
         - 第2世代: Agentic Assistants
         - 第3世代: Autonomous Agents - Outer Loop
-- （2025/08/01）LayerX主催、AIカンファレンス「Bet AI Day」LayerXのリアルなAI知見を大公開！CTO, CPO, VPoEたちが語ります [＜connpass＞](https://layerx.connpass.com/event/357958/) ＜YouTubeアーカイブ動画あり＞
+- （2025/08/01）LayerX主催、AIカンファレンス「Bet AI Day」LayerXのリアルなAI知見を大公開！CTO, CPO, VPoEたちが語ります [＜connpass＞](https://layerx.connpass.com/event/357958/) [＜YouTube＞](https://www.youtube.com/playlist?list=PLJVoIeJBhpXVmZhGHLAoOUIEtr60xpZr6) ＜YouTubeアーカイブ動画あり＞
     - 🌟代表取締役 CTO 松本 勇気さん、AI時代の経営とBet AI Vision [＜資料＞](https://speakerdeck.com/layerx/ai-era-management-and-bet-ai)
         - 過去2年半の生成AIの変遷
         - 自動運転の6段階のレベルとAIによる業務遂行度合いを対比した表
@@ -496,6 +496,11 @@ __Docs__
     - akippa株式会社 @hiragramさん、『Claude Codeで作る自分のエンジニアリングチーム』→『LLMエージェント時代に適応した開発フロー』 [＜資料＞](https://speakerdeck.com/hiragram/llmezientoshi-dai-nishi-ying-sitakai-fa-huro)
         - ccusageのtotalが$2424というのは、さすがに数カ月分…だよね…？
         - GitHub Actionsの「claude-code-action」をself hosted runner (自分のMac) で動かすと費用がゼロになる
+- （2025/08/26）Forkwell主催、生成AI時代だからこそ学ぶコミュニケーションとマネジメント [＜connpass＞](https://forkwell.connpass.com/event/364485/) [＜イベントページ＞](https://jobs.forkwell.com/events/2bw5wli9bd8u) ＜YouTubeアーカイブ動画あり＞
+    - 🌟株式会社GENDA FE/BE開発部 部長 中島 裕聡さん、『プロダクトも人もさらに成長する組織へ〜生成AI導入で求められていること〜』
+        - 技術力は不要になったわけではない
+        - AIが人間の入力を全肯定してしまう　→「Asking For A Friend」メソッド（〜って同僚が言っているんだけど、どう思う？）と聞くと、忖度なしのAIの本音を引き出せる
+    - 株式会社令和トラベル エンジニアリングUnit マネージャー 吉田 圭佑@y0shikei_さん、『変わる手段と変わらない本質 ── AI時代のリーダーシップ再設計』 [＜資料＞](https://speakerdeck.com/y0shikei/bian-warushou-duan-tobian-waranaiben-zhi-aishi-dai-noridasitupuzai-she-ji)
 
 
 ## X
