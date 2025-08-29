@@ -174,6 +174,11 @@ __Docs__
 - （公開日：2025/06/23、閲覧日：2025/07/14）[GitHub Copilot Agent × Github MCPが変える コードレビュー \-](https://recruit.gmo.jp/engineer/jisedai/blog/code-review-with-github-copilot-agent-x-github-mcp/)
     - 明らかにAIが書いた記事。似た話題が何度も出てくるし、強めな語彙（「革新的」など）を選択している割に具体性に欠け、中身が薄い。信憑性が怪しい文章もちらほらある。
     - github-mcp-serverを使用
+- （公開日：2025/06/25、閲覧日：2025/08/29）[Claude Codeでドメインに特化したコードレビューをする](https://zenn.dev/microcms/articles/a359034053416a)
+- （公開日：2025/07/07、閲覧日：2025/08/29）[Claude Code Actionでコードレビューを効率化する｜REALITY株式会社](https://note.com/reality_eng/n/n873a4cab65ee)
+- （閲覧日：2025/08/29）[How to Use Claude Code for Code Review \| ClaudeLog](https://claudelog.com/faqs/how-to-use-claude-code-for-code-review/)
+    - > Second Opinion: Get Claude's perspective when unsure about human reviewer feedback
+        - （自分の感想）自分がこれから指摘しようとしていることについて、それが客観的に見て正しいかを確かめるために、AIにセカンドオピニオンを求めることはよくやる
 
 
 ### MCP
@@ -484,6 +489,12 @@ __Docs__
             - [takahirom/arbigent: AI Agent for testing Android, iOS, and Web apps\. Get Started in 5 Minutes\. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature ensures scalability for even the most complex tasks\.](https://github.com/takahirom/arbigent)
             - [AIエージェントによるテストフレームワーク Arbigent \- Speaker Deck](https://speakerdeck.com/takahirom/arbigent-test-by-ai-agent-ff262ea0-4da4-40b3-a34a-6d19afe6447e)
     - p.52: LangChainが提唱しているコンテキストエンジニアリングの手法：記述(Write)、選択(Select)、圧縮(Compress)、分離(Isolate)
+- 🌟（2025/08/25）Creationline主催、和田卓人(t_wada)さんと考える AIとテストと若手の未来 [＜connpass＞](https://creationline.connpass.com/event/363530/) [＜YouTube＞](https://www.youtube.com/watch?v=rucS5uKZd0I) ＜YouTubeアーカイブ動画あり＞
+    - 和田 卓人(@t_wada)さん、ソフトウェアエンジニア人生サバイバルガイド
+    - 若手エンジニアの実践ミニトーク
+        - 山本 烈也(@re2osushi8888)さん
+        - 柄池 大輔(@garagara21kt)さん [＜資料＞](https://speakerdeck.com/contour_gara/tdd-shi-jian-minitoku)
+    - 座談会、質疑応答
 - （2025/08/26）Findy主催、実例から学ぶ！モバイルアプリ開発における「AIの使いどころ」 [＜connpass＞](https://findy.connpass.com/event/363471/) [＜イベントページ＞](https://findy-code.io/events/cj_4BfmogJr6w) ＜YouTubeアーカイブ動画あり＞
     - フリーランス 堤 修一@shu223さん、『ふつうのAI駆動iOSアプリ開発』 [＜資料＞](https://www.docswell.com/s/shu223/5M63LG-ios-with-ai)
         - > AIがイマイチなことを言い始めたらさっさと人間側で巻き取る
@@ -501,6 +512,13 @@ __Docs__
         - 技術力は不要になったわけではない
         - AIが人間の入力を全肯定してしまう　→「Asking For A Friend」メソッド（〜って同僚が言っているんだけど、どう思う？）と聞くと、忖度なしのAIの本音を引き出せる
     - 株式会社令和トラベル エンジニアリングUnit マネージャー 吉田 圭佑@y0shikei_さん、『変わる手段と変わらない本質 ── AI時代のリーダーシップ再設計』 [＜資料＞](https://speakerdeck.com/y0shikei/bian-warushou-duan-tobian-waranaiben-zhi-aishi-dai-noridasitupuzai-she-ji)
+- （2025/08/27）Findy主催、【AIエージェント活用企業特集】1時間で6社と出会う！リクルーティングピッチイベント [＜TECH PLAY＞](https://techplay.jp/event/985007) [＜イベントページ＞](https://findy-code.io/events/0H8_yYMAB5a7j)
+    - 株式会社リチェルカ：Claude Code利用可、全員でAI駆動開発
+    - 株式会社Algomatic：Claude Code利用可
+    - Gen-AX株式会社：Claude Code（Max 20xプラン）利用可
+    - テックタッチ株式会社：Claude Code利用可、生成AIサービスの利用ガイドラインを整備、AI活用開発ワーキングチーム、nrwl/nx#32522のインシデント（プロンプトインジェクション）
+    - エムスリーキャリア株式会社：Claude Code利用可
+    - 株式会社BuySell Technologies：Claude Code（Maxプラン）利用可、生成AI利用ガイドラインを整備、AIハッカソン、生成AIの知見共有会
 
 
 ## X
@@ -762,6 +780,9 @@ __Docs__
         - Agent Modeでユーザの許可が必要になったとき（コマンドの実行時など）に音を鳴らしてほしいなと思って、チャットで `@vscode` という感じにメンションをつけて聞いてみたら `accessibility.signals.chatUserActionRequired` という設定があることを教えてくれた。
             - https://github.com/microsoft/vscode/pull/248952
             - https://github.com/microsoft/vscode/issues/249657
+- 2025/08/29
+    - VSCode / GitHub Copilot Agent Mode
+        - 独自のプロンプトでコードレビューする試みを5月から試行錯誤しているが、AIから返ってくるレビューコメントの半数以上が的外れで困っている
 
 
 ## マインドマップ
