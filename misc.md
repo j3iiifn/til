@@ -23,6 +23,9 @@
     - 個人の目標設定をDeliveryだけにした
 - （公開日：2025/08/01、閲覧日：2025/08/04）[一人で没頭したいか、何でも一緒にやりたいか \- hitode909の日記](https://blog.sushi.money/entry/2025/08/01/235900)
 
+## 開発組織
+- （2025/08/25）Forkwell主催、チームの力で組織を動かす 〜ソフトウェア開発を加速するチーム指向の組織設計 - FL#104 [＜connpass＞](https://forkwell.connpass.com/event/363891/) [＜イベントページ＞](https://jobs.forkwell.com/events/uwhw8s2h2t2) ＜YouTubeアーカイブ動画あり＞
+
 ## 職場環境
 - （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)
 

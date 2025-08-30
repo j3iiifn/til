@@ -181,6 +181,12 @@ __Docs__
         - （自分の感想）自分がこれから指摘しようとしていることについて、それが客観的に見て正しいかを確かめるために、AIにセカンドオピニオンを求めることはよくやる
 
 
+#### PR-Agent
+- （閲覧日：2025/08/30）[qodo\-ai/pr\-agent: 🚀 PR\-Agent: An AI\-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More\! 💻🔍 \(For more advanced: check Qodo Merge\)](https://github.com/qodo-ai/pr-agent)
+- （公開日：2025/05/16、閲覧日：2025/08/30）[Bet PR\-Agent 〜全自動コードレビューの夢〜 \- LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2025/05/16/195429)
+- （公開日：2025/08/08、閲覧日：2025/08/30）[OSS の AI レビューツール「PR\-Agent」を全社導入し、コスト効率の高い開発支援を実現した話 \| BLOG \- DeNA Engineering](https://engineering.dena.com/blog/2025/08/pr-agent/)
+
+
 ### MCP
 - （公開日：2025/04/27、閲覧日：2025/04/27）[最小限のMCP Host/Client/Serverをスクラッチで実装する](https://zenn.dev/razokulover/articles/9a0aee8ceb9f3f)
 - （公開日：2025/05/10、閲覧日：2025/05/11）[初めて MCP を使うなら Docker MCP Toolkit がおすすめ \#VSCode \- Qiita](https://qiita.com/falya128/items/23020ddba7a7d1ce2e1f)
@@ -783,7 +789,10 @@ __Docs__
 - 2025/08/29
     - VSCode / GitHub Copilot Agent Mode
         - 独自のプロンプトでコードレビューする試みを5月から試行錯誤しているが、AIから返ってくるレビューコメントの半数以上が的外れで困っている
-
+- 2025/08/30
+    - AIを利用したOSSのコードレビューツールを探した
+    - [PR-Agent](https://github.com/qodo-ai/pr-agent)をコードリーディングして、LLMにレビューを依頼する際のプロンプトでコード差分をどのように渡しているかを調べた
+    - VS Codeの `Copilot > Review and Comments` を実行したときのシステムプロンプトをCopilot Chat Debug Viewで確認した
 
 ## マインドマップ
 - AIが働きにくい環境 ＝ 人間も働きにくい環境
