@@ -223,6 +223,7 @@ __Docs__
 - （公開日：2025/07/03、閲覧日：2025/07/03）[AIは励まされると頑張れるらしいので、いろんな方法で奨励してみた。 \- カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2025/07/03/090000)
 - （公開日：2025/07/03、閲覧日：2025/07/03）[AIに仕様書を読ませるとテストケースを自動生成、テストコードも書いてくれる「Autify Nexus」、Autifyが発表 － Publickey](https://www.publickey1.jp/blog/25/aiautify_nexusautify.html)
 - （公開日：2025/07/27、閲覧日：2025/07/27）[Kimi K2とLLMのベンチマークスコア](https://blog.lai.so/kimi-k2/)
+- （公開日：2025/08/30、閲覧日：2025/08/31）[AIプログラムの開発演習に使う低消費リソースローカルLLMはQwen3 1\.7B Q4がベスト \- きしだのHatena](https://nowokay.hatenablog.com/entry/2025/08/30/104903)
 
 
 ## 見た動画

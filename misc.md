@@ -25,6 +25,14 @@
 
 ## 開発組織
 - （2025/08/25）Forkwell主催、チームの力で組織を動かす 〜ソフトウェア開発を加速するチーム指向の組織設計 - FL#104 [＜connpass＞](https://forkwell.connpass.com/event/363891/) [＜イベントページ＞](https://jobs.forkwell.com/events/uwhw8s2h2t2) ＜YouTubeアーカイブ動画あり＞
+    - 松本 成幸(@mtx2s)さん、モダンな現場と従来型の組織 ——そこに生じる "不整合" を解消してこそチームがパフォーマンスを発揮できる [＜資料＞](https://speakerdeck.com/mtx2s/team-oriented-organization-design-20250825)
+- （2025/08/27）Findy主催、著者mtx2sさんご講演 【開発現場の課題から読み解く 、組織設計の考え方】 [＜connpass＞](https://findy.connpass.com/event/364235/) [＜イベントページ＞](https://findy-code.io/events/0ZxAdW2VVFWEB) ＜YouTubeアーカイブ動画あり＞
+    - 松本 成幸(@mtx2s)さん、現場が抱える様々な問題は “組織設計上” の問題によって生じていることがある [＜資料＞](https://speakerdeck.com/mtx2s/team-oriented-organization-design-20250827)
+
+## 内製開発
+- （2025/08/28）Findy主催、LIXIL・イオンに学ぶ 内製開発による事業貢献 ─推進と文化醸成のリアル Tech Seminar [＜connpass＞](https://findy.connpass.com/event/362971/) [＜イベントページ＞](https://findy-code.io/events/90c3z4N2lfOn7) ＜YouTubeアーカイブ動画あり＞
+    - イオンスマートテクノロジー株式会社 中村 剛さん、翁長 聡史さん、矢追 かおるさん、「JTCにおける内製×スクラム開発への挑戦〜内製化率95%達成の舞台裏」
+    - 株式会社LIXIL 原田 篤(@meteor0090)さん、「ビジネスアジリティを高める内製化戦略」
 
 ## 職場環境
 - （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)
