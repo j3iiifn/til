@@ -65,6 +65,10 @@
     - モチベーション：auto-compactが発生しないようにしたい
     - 品質チェック、タスク分解、タスク実行の3つのSub agentsを作成
 - （閲覧日：2025/08/23）[takahirom/claude\-code\-quality\-gate\-example: Example implementation of quality gate system for Claude Code using Hooks and Subagents](https://github.com/takahirom/claude-code-quality-gate-example/tree/main)
+- （公開日：2025/08/29、閲覧日：2025/09/01）[最近のClaude Codeの使い方](https://zenn.dev/sun_asterisk/articles/7dafd83f1d0454)
+    - few-shot prompting
+    - 一連の流れをSubagentにやらせる（`/task`コマンド）：tasks.mdから未完了のタスクを取得→実装→test/lint→(エラー修正をiterate)→チェックボックスにチェックを入れる→コミット
+    - Subagentのコンテキスト汚染を防ぐために、Claude Codeを2つ立ち上げて、Subagentを使うプロセスと修正指示を加えるプロセスを分ける
 
 
 ## タスク管理
