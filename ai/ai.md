@@ -91,6 +91,10 @@ __Docs__
     - 力作
 
 
+### Spec Kit
+- （公開日：2025/09/03、閲覧日：2025/09/03）[GitHub、仕様駆動開発ツールキット「Spec Kit」を紹介 ——コーディングエージェントを利用して仕様を解釈し、開発計画・タスク分解・実装をおこなう \| gihyo\.jp](https://gihyo.jp/article/2025/09/github-spec-kit)
+
+
 ### Xcode
 - （公開日：2024/06/11、閲覧日：2025/05/24）WWDC2024 - Platforms State of the Union
     - [\[21:43〜\]](https://developer.apple.com/videos/play/wwdc2024/102/?time=1303) Predictive code completion
