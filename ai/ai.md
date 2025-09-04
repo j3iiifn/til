@@ -798,6 +798,11 @@ __Docs__
     - AIを利用したOSSのコードレビューツールを探した
     - [PR-Agent](https://github.com/qodo-ai/pr-agent)をコードリーディングして、LLMにレビューを依頼する際のプロンプトでコード差分をどのように渡しているかを調べた
     - VS Codeの `Copilot > Review and Comments` を実行したときのシステムプロンプトをCopilot Chat Debug Viewで確認した
+- 2025/09/04
+    - VSCode / GitHub Copilot Agent Mode
+        - Androidアプリ(3万行弱)の機能開発で[Spec Kit](https://github.com/github/spec-kit)を試してみたが、`/plan`で使えない文書が大量に生成されて手に負えなかった
+            - プロジェクトのコンテキスト（Spec Kitでは`memory/constitution.md`に保存する。constitutionは直訳すると憲法）をきちんと与えなかったため、AIがプロジェクトについて誤解し、その誤解に基づいて大量の文書が生成されてしまったように見受けられる
+
 
 ## マインドマップ
 - AIが働きにくい環境 ＝ 人間も働きにくい環境
