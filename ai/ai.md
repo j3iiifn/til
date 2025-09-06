@@ -71,6 +71,9 @@ __Docs__
 -  （公開日：2025/05/07、閲覧日：2025/05/08）[AIエージェントCline、freeeはどうやって全社導入した？ \- freee Developers Hub](https://developers.freee.co.jp/entry/ai-cline-rolling-out)
     - Clineで利用する基盤モデルとしてAmazon Bedrockを採用している
     - ClineとAmazon Bedrockの間に独自プロキシを仲介させ、危険な入出力をフィルタリングしている　→独自プロキシの実装が気になる
+- 🌟（公開日：2025/08/19、閲覧日：2025/09/06）[「仕様駆動開発」へのアンサーとしてのCline v3\.25\.0 \#cline \- Qiita](https://qiita.com/watany/items/8b08958427c9e48a20fb)
+    - > "LLMs Get Lost in Multi-Turn Conversation": https://arxiv.org/abs/2505.06120
+        - > 会話を重ねるほどに、生成された仮定や誤りの訂正、ツールの入出力、失敗した記録も積み重なっていく。推論が残置された不要な情報に引きずられる現象を「チェーホフの銃の誤謬」と呼ぶが、まさにこの積み重なった履歴によってコンテキストが汚染される。
 
 
 ### Devin
@@ -534,6 +537,22 @@ __Docs__
     - エムスリーキャリア株式会社：Claude Code利用可
     - 株式会社BuySell Technologies：Claude Code（Maxプラン）利用可、生成AI利用ガイドラインを整備、AIハッカソン、生成AIの知見共有会
 - （2025/09/03）東京AI祭主催、スライドが一瞬で作成される「けいたろう式 & まじん式プロンプト」 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/366908/)
+- （2025/09/03）Findy主催、Kiro Meetup Japan #1 [＜connpass＞](https://findy.connpass.com/event/365956/) [＜イベントページ＞](https://findy-code.io/events/GKICQJTiSnYVl) ＜YouTubeアーカイブ動画あり＞
+    - AWSジャパン 山口 能迪(@ymotongpoo)さん、「The AI IDE for prototype to production」[＜資料＞]()
+    - 電通総研 山下 剛さん、「Amazon Q Developerでアプリ開発してみた 〜使い方・工夫・Kiroとの違い〜」[＜資料＞]()
+    - フューチャーアーキテクト 渋川 よしき(@shibu_jp)さん、「Kiroを使ってみた 〜そこから見える今どきの開発〜」[＜資料＞]()
+    - Algomatic清水 顕(@kaonash_)さん、「Kiroで始めるAI-DLC」[＜資料＞]()
+    - メルカリ Kuu(@Fumiya_Kume)さん、「Kiroは設計が7割」[＜資料＞]()
+    - 🌟Oikon(@oikon48)さん、「Kiroと学ぶコンテキストエンジニアリング」[＜資料＞](https://speakerdeck.com/oikon48/kirotoxue-bukontekisutoenziniaringu)
+        - p.12: コンテキストエンジニアリングの課題: Context Distraction, Multi-turn conversation, Lost in the middle, Context Window Overflow
+        - p.14: コンテキストエンジニアリングの代表的なアプローチ: ToDoリスト・関連する情報のみの提供・リマインド・外部メモリファイル化・コンテキスト外のガードレール作成
+        - p.20: Kiroはスキル差を埋められるツール
+    - Kiro開発チーム責任者 Nathan JonesさんへのQ&A
+- （2025/09/05）Findy主催、QAエンジニアの思考を映す テスト自動化事例 [＜connpass＞](https://findy.connpass.com/event/366000/) [＜イベントページ＞](https://findy-code.io/events/baC2Qi90C4s_q) ＜YouTubeアーカイブ動画あり＞
+    - ユニファ株式会社/高田佑樹（a.k.a ゆきたか）さん、“品質”は、電気羊の夢を見るか？ー デカルトの四規則で始める「自動テスト導入前」の品質保証ー [＜資料＞](https://speakerdeck.com/tkd_yuki/pin-zhi-ha-dian-qi-yang-nomeng-wojian-ruka-dekarutonosi-gui-ze-deshi-meru-zi-dong-tesutodao-ru-qian-nopin-zhi-bao-zheng)
+    - ウェルスナビ株式会社/木下 智弘さん、QAが目指す良い品質〜 手動テストと自動テスト、そして生成AIの三本矢 〜 [＜資料＞](https://www.docswell.com/s/kikkis/KJQNJX-2025-09-05-120000)
+        - AIでテストケースの説明表を出力→テストコードを出力
+    - 株式会社IVRy/関 凌麻さん、音声認識から画面検証まで、生成AI時代の電話サービス品質を支える自動テストの全貌 [＜資料＞](https://speakerdeck.com/rymsk21/2025-09-05-qaensinianosi-kao-woying-su-tesutozi-dong-hua-shi-li-f830cbcf-2870-4bea-a1f3-9da1cc707679)
 
 
 ## X

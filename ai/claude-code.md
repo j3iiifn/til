@@ -87,6 +87,7 @@
 
 
 ## Amazon Bedrock
+- （公開日：2025/06/13、閲覧日：2025/09/06）[Claude Code \+ Amazon Bedrockはアプリケーション推論プロファイルでも動く \#bedrock \- Qiita](https://qiita.com/watany/items/dc4cf574b6bc66508a81)
 - （公開日：2025/08/20、閲覧日：2025/08/21）[組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）](https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action)
 
 

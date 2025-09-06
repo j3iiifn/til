@@ -59,3 +59,7 @@ d=$(date -Iseconds -v -15M); GIT_COMMITER_DATE=$d git commit --date=$d
 - [Git での Committer と Author の違いは？ \- kz\-engineer \-SCRAP\-](https://kz-engineer-scrap.hatenablog.com/entry/2016/04/05/032916)
 - [\[Git\] 別のユーザーとしてコミットする方法 \| DevelopersIO](https://dev.classmethod.jp/articles/git_commit_as_another_user/)
 
+
+## Git内部
+- （2025/09/04）サポーターズCoLab主催、【勉強会】Gitを内部構造で完全理解する1時間 [＜connpass＞](https://supporterz-seminar.connpass.com/event/365286/)
+    - Woven by Toyota 梅原 隆一(@rxuichiii)さん [＜資料＞](https://docs.google.com/presentation/d/1ukjfgaF7uiNzeSvD7yTMz9vlcl3USD95PvgcLV9YkXg/edit?usp=sharing)
