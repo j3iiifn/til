@@ -46,6 +46,10 @@
 ## 書籍紹介
 - （公開日：2025/07/15、閲覧日：2025/07/16）[アーキテクトになる道のりで出会った本たち｜yonekubo](https://note.com/yonekubo/n/n1169f66d4399)
 
+## 学習方法
+- 🌟（2025/09/02）Forkwell主催、【増田亨氏登壇】技術書を「血肉」に変える 、ITエンジニアの学習戦略 [＜connpass＞](https://forkwell.connpass.com/event/363903/) [＜イベントページ＞](https://jobs.forkwell.com/events/ebm5r8k_b05) ＜YouTubeアーカイブ動画あり＞
+    - 有限会社システム設計 増田 亨(@masuda220)さん、技術書を効果的に内面化する実践技法 [＜資料＞](https://speakerdeck.com/masuda220/ji-shu-shu-woxiao-guo-de-ninei-mian-hua-surushi-jian-ji-fa)
+
 # 未分類
 - （公開日：2025/06/05、閲覧日：2025/06/05）[「CubePDF」の提供を続けたくて。倒産寸前のフリーソフト会社を、開発者自ら再建させるまで【フォーカス】 \| レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_680/)
 - （公開日：2025/06/20、閲覧日：2025/06/20）[古いiPhone 8を太陽光発電で動作するOCRサーバーに改造し完全オフグリッド状態で数千枚の画像処理に成功 \- GIGAZINE](https://gigazine.net/news/20250620-iphone-8-refuses-solar-powered-vision-ocr-server/)

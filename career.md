@@ -8,3 +8,6 @@
     - 成長環境の見極め方
 - （2025/06/05）Findy主催、AIでどう変わる？開発現場のトレンドとエンジニア転職市場 [＜イベントページ＞](https://techplay.jp/event/981668)
 - （2025/09/03）Findy主催、AIツール経験は加点要素になるのか？〜調査レポートから読み解く変化するエンジニア転職のいま〜 [＜TECH PLAY＞](https://techplay.jp/event/985029) [＜イベントページ＞](https://findy-code.io/events/v3Q2dSbab6QFW)
+
+## フリーランス
+- （2025/09/03）ファインディ株式会社主催、増井さんに聞く！フリーランスエンジニアになるための独立準備 [＜connpass＞](https://findy.connpass.com/event/365061/) [＜イベントページ＞](https://freelance.findy-code.io/events/kpYMPLIl6ZADK/viewer-link) ＜YouTubeアーカイブ動画あり＞

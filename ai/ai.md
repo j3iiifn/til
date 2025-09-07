@@ -334,6 +334,9 @@ __Docs__
 - （2025/06/24）Findy主催、Clineの実力と使いどころ〜 現場から見る！スピード開発実践事例〜 [＜connpass＞](https://findy.connpass.com/event/356324/) [＜イベントページ＞](https://findy-code.io/events/H57ULf5A1WLzS) ＜アーカイブ動画あり＞
     - 『Clineを200人でためしてみた 〜モノタロウのAI駆動開発より〜』	株式会社MonotaRO	市原功太郎@ichi_taro3さん [＜資料＞](https://speakerdeck.com/monotaro/monotarounoaiqu-dong-kai-fa-clinebian-clinewo200-deshi-sitemitajian)
     - 『大規模組織のCline導入効果〜開発フェーズだけじゃない活用事例〜』	合同会社DMM.com	石垣雅人@i35_267さん [＜資料＞](https://speakerdeck.com/i35_267/introducing-ai-agents-into-your-organization)
+- （2025/06/25）AWS Summit Japan 2025 [＜イベントページ＞](https://aws.amazon.com/jp/summits/japan/) [＜YouTube＞](https://www.youtube.com/playlist?list=PLzWGOASvSx6GlBQPNhLRBDLqKgYHJHOml) ＜YouTubeアーカイブ動画あり＞
+    - 🌟AWS 高野 賢司さん、AI Agent 時代のソフトウェア開発の型 ～ Everything as Code で叡智を伝える ～（AWS-57） [＜資料＞](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-57_Development_AWS-Summit-JP-2025.pdf)
+        - これまでの生成AIを活用したコーディングの進化と、AI駆動開発の具体例がわかりやすく話されていた。初学者向けに良さそう。
 - （2025/06/26）Findy Tools主催、よしこさんと実践！公開Vibe Coding [＜connpass＞](https://findy-tools.connpass.com/event/357113/) [＜イベントページ＞](https://findy-tools.io/events/c72bcec80aa47ca4ac04) ＜アーカイブ動画あり＞
     - 要件定義
         - 目的、必須要件、任意要件を伝え、可能性を開いたまま聞く（自分の中でhowを思いついていても伝えない）
