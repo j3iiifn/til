@@ -54,3 +54,4 @@
 - （公開日：2025/06/05、閲覧日：2025/06/05）[「CubePDF」の提供を続けたくて。倒産寸前のフリーソフト会社を、開発者自ら再建させるまで【フォーカス】 \| レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_680/)
 - （公開日：2025/06/20、閲覧日：2025/06/20）[古いiPhone 8を太陽光発電で動作するOCRサーバーに改造し完全オフグリッド状態で数千枚の画像処理に成功 \- GIGAZINE](https://gigazine.net/news/20250620-iphone-8-refuses-solar-powered-vision-ocr-server/)
 - （公開日：2025/08/26、閲覧日：2025/08/27）[「プログラムが複雑になりすぎてバグなしで運営が難しくなった（意訳）」…10年続いた『星ドラ』のサ終理由、あらゆる長寿ソシャゲが抱える障壁かもしれない \- Togetter \[トゥギャッター\]](https://togetter.com/li/2594262)
+- （公開日：2025/09/08、閲覧日：2025/09/08）[オライリー・ジャパンにおける翻訳書の制作体制の変化と「もうすぐ消滅するという人間の翻訳について」 \- YAMDAS現更新履歴](https://yamdas.hatenablog.com/entry/20250908/oreilly_japan_translation)
