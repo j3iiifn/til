@@ -2,8 +2,9 @@
 - [イベントページ](https://2025.droidkaigi.jp/)
 - [アーカイブ一覧](https://www.youtube.com/playlist?list=PLaOdaBFokChxaOXJWpabH4s9t7cqTCHc_)
 
-## 視聴したセッション
+## 聴講・視聴したセッション
 - JetBrains / Sebastian Aignerさん＆Márton Braun、KotlinでのAI活用による開発 [＜イベントページ＞](https://2025.droidkaigi.jp/timetable/989391)
+    - 原題: Building with AI in Kotlin
     - AIにアシストされたプログラミングのレベルについて（＝これまでのAIコーディングの進化）
         - NES = Next Edit Suggestion
         - Agent-assisted programming "Directive coding"
@@ -21,3 +22,6 @@
 - ZOZO, Inc. / 中鉢かける(@b4tchkn)さん、これでもう迷わない！Jetpack Composeの書き方実践ガイド [＜イベントページ＞](https://2025.droidkaigi.jp/timetable/943991)
     - Compose用のLintがある
     - この発表で紹介されているルールをMarkdownにまとめてAIエージェントのコンテキストにしたいと思った
+- Snapp Mobile / Kikosoさん、ComposeではないコードをCompose化する
+    - 原題: Composifying Your Not-Compose Code
+    - MapViewをCompose UIに組み込む話。AndroidViewを橋渡し役として使用する。ライフサイクルの処理をしっかりやる。

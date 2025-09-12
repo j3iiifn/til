@@ -12,6 +12,7 @@
 - （2025/05/28）Forkwell主催、開発者とアーキテクトのためのコミュニケーションガイド ―パターンで学ぶ情報伝達術 [＜connpass＞](https://forkwell.connpass.com/event/354938/) [＜Forkwell＞](https://jobs.forkwell.com/events/50cbjcwyazb)
     - 筆者は無限の愛がある
 - （公開日：2025/09/08、閲覧日：2025/09/09）[チャットコミュニケーションでの不満の表明は悪手 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/09/08/200939)
+- （公開日：2025/09/11、閲覧日：2025/09/12）[根回し入門 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/09/11/203610)
 
 ## マネジメント
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
