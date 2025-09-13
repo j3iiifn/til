@@ -126,6 +126,8 @@ __Docs__
     - スライドのレイアウトや構成要素を定義するJSONをGeminiに作成させ、そのJSONをもとにGoogle Apps ScriptがGoogleスライドを描画するという手法
     - ゴリ押し感がすごい
 
+#### Gemini 2.5 Flash Image (nano-banana)
+- （公開日：2025/09/13、閲覧日：2025/09/13）[nano\-bananaでモバイルアプリUIモックアップを作る](https://zenn.dev/oikon/articles/nanobanana-mobile-mock)
 
 ### Gemini CLI
 - （公開日：2025/06/25、閲覧日：2025/06/25）[Google announces Gemini CLI: your open\-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)

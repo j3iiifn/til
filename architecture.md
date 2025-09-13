@@ -1,5 +1,10 @@
 # アーキテクチャ
 
+## 記事
+- （公開日：2025/09/09、閲覧日：2025/09/13）[「ドメイン駆動設計をはじめよう」を3回読んで学んだ事をまとめる](https://zenn.dev/fendo181/articles/6ed5dfc71898da)
+- （公開日：2025/09/11、閲覧日：2025/09/13）[バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点](https://zenn.dev/ficilcom/articles/4e16d9b523e480)
+    - 何か勘違いがありそう
+
 ## スライド
 - 🌟（公開日：2025/08/26、閲覧日：2025/08/28）有限会社システム設計 増田 亨さん、[開発チーム・開発組織の設計改善スキルの向上 \- Speaker Deck](https://speakerdeck.com/masuda220/kai-fa-timukai-fa-zu-zhi-noshe-ji-gai-shan-sukirunoxiang-shang)
     - （2025/08/27）Levii主催、エンジニアリングマネージャーのためのソフトウェア設計再考 [＜connpass＞](https://levii.connpass.com/event/363660/) の講演
