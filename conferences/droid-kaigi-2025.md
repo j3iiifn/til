@@ -1,6 +1,7 @@
 # DroidKaigi 2025
 - [イベントページ](https://2025.droidkaigi.jp/)
 - [アーカイブ一覧](https://www.youtube.com/playlist?list=PLaOdaBFokChxaOXJWpabH4s9t7cqTCHc_)
+- [自分の参加報告](https://j3iiifn.hatenablog.com/entry/2025/09/13/190000)
 
 ## 聴講・視聴したセッション
 - JetBrains / Sebastian Aignerさん＆Márton Braun、KotlinでのAI活用による開発 [＜イベントページ＞](https://2025.droidkaigi.jp/timetable/989391)
