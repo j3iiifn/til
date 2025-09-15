@@ -558,6 +558,15 @@ __Docs__
     - ウェルスナビ株式会社/木下 智弘さん、QAが目指す良い品質〜 手動テストと自動テスト、そして生成AIの三本矢 〜 [＜資料＞](https://www.docswell.com/s/kikkis/KJQNJX-2025-09-05-120000)
         - AIでテストケースの説明表を出力→テストコードを出力
     - 株式会社IVRy/関 凌麻さん、音声認識から画面検証まで、生成AI時代の電話サービス品質を支える自動テストの全貌 [＜資料＞](https://speakerdeck.com/rymsk21/2025-09-05-qaensinianosi-kao-woying-su-tesutozi-dong-hua-shi-li-f830cbcf-2870-4bea-a1f3-9da1cc707679)
+- （2025/09/10）Forkwell主催、原論文から解き明かす生成AI - Forkwell Library #106 [＜connpass＞](https://forkwell.connpass.com/event/365363/) [＜イベントページ＞](https://jobs.forkwell.com/events/zqyd6e8mjiig) ＜YouTubeアーカイブ動画あり＞
+    - 菊田遥平(@yohei_kikuta)さん
+- （2025/09/08）Qiita株式会社主催、【Qiita Bash】AI時代の相棒は、キミに決めた！ 〜キミはどのAIエージェントにする？〜 [＜connpass＞](https://increments.connpass.com/event/364559/) [＜YouTube＞](https://www.youtube.com/live/YvWV8Gqm2c0) ＜YouTubeアーカイブ動画あり＞
+    - もずますさん、CLI資産を活かせ! Claude Codeで整えるアウトプットワークフロー [＜資料＞](https://mozumasu.github.io/slidev-template)
+    - yuka_wagataさん、Cursorと作ったAIエージェントーデータサイエンティスト開発奮闘録ー
+    - IkegaiRyotaさん、誰も使ってないCodexをせっかくだから使いまくってみた [＜資料＞](https://publish.obsidian.md/kamibukuro18/AI/Seminor/20250909_qiitabash)
+    - pawnさん、Gemini&Devinで作るアプリケーション開発
+    - Taiga-Goさん、GitHub Copilotは、大体全てを内包している相棒だぜ！！ [＜資料＞](https://speakerdeck.com/taigakono/github-copilotha-da-ti-quan-tewonei-bao-siteiruxiang-bang-daze)
+    - KentaroWadaさん、Claude Code 導入で現場が逆に混乱した話
 
 
 ## X
