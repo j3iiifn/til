@@ -188,6 +188,7 @@ __Docs__
 - （閲覧日：2025/08/29）[How to Use Claude Code for Code Review \| ClaudeLog](https://claudelog.com/faqs/how-to-use-claude-code-for-code-review/)
     - > Second Opinion: Get Claude's perspective when unsure about human reviewer feedback
         - （自分の感想）自分がこれから指摘しようとしていることについて、それが客観的に見て正しいかを確かめるために、AIにセカンドオピニオンを求めることはよくやる
+- （公開日：2025/09/01、閲覧日：2025/09/14）[GitHub Copilot code review にブログ記事をレビューしてもらう \- NTT docomo Business Engineers' Blog](https://engineers.ntt.com/entry/202508-github-copilot-review/entry)
 
 
 #### PR-Agent
