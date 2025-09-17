@@ -26,3 +26,6 @@
 - Snapp Mobile / Kikosoさん、ComposeではないコードをCompose化する
     - 原題: Composifying Your Not-Compose Code
     - MapViewをCompose UIに組み込む話。AndroidViewを橋渡し役として使用する。ライフサイクルの処理をしっかりやる。
+
+## 記事
+- （公開日：2025/09/16、閲覧日：2025/09/17）[Droidkaigi各社ブース紹介！クイズやノベルティなど・・・ブース企画の参考に🙌 \| イベントレポート！](https://www.wantedly.com/companies/dip/post_articles/1007674)
