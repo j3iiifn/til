@@ -141,6 +141,7 @@ __Docs__
 
 ### Claude（モデル）
 - （公開日：2025/05/08、閲覧日：2025/05/10）[うさぎでもわかるClaude 3\.7システムプロンプト流出の解説と示唆](https://zenn.dev/taku_sid/articles/20250508_claude_leak)
+- （公開日：2025/09/18、閲覧日：2025/09/18）[AI「Claude」の応答品質が断続的に低下していたのは3つのバグが原因 \- GIGAZINE](https://gigazine.net/news/20250918-anthropic-three-issues/)
 
 
 ### Vibe Coding / Agentic Coding
