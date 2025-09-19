@@ -37,6 +37,7 @@
 - （公開日：2025/07/15、閲覧日：2025/07/18）[GitHub Copilot Coding Agentが利用しているGitHub Actionsの使用料](https://zenn.dev/mahata/articles/actions-usage-for-github-coding-agent)
 - （公開日：2025/08/01、閲覧日：2025/08/04）[【Github Copilot】設計書があるなら、全部Copilotに実装させよう](https://zenn.dev/aya/articles/3b8ea962b61bd8)
     - まさかのeditモード縛りだった。ぜひagentモードを使ってほしい。
+- 📝🌟（公開日：2025/09/18、閲覧日：2025/09/19）[Issue, Pull\-request, GitHub Copilotによる「普通」の一人チーム開発 \- Cybozu Inside Out \| サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2025/09/18/113000)
 
 
 #### 公式ドキュメント
