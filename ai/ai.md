@@ -570,6 +570,12 @@ __Docs__
     - pawnさん、Gemini&Devinで作るアプリケーション開発
     - Taiga-Goさん、GitHub Copilotは、大体全てを内包している相棒だぜ！！ [＜資料＞](https://speakerdeck.com/taigakono/github-copilotha-da-ti-quan-tewonei-bao-siteiruxiang-bang-daze)
     - KentaroWadaさん、Claude Code 導入で現場が逆に混乱した話
+- （2025/09/18）レバテックLAB主催、AIコードレビューをチームで使いこなす ― 仕組みづくりから運用までの試行錯誤 ― [＜connpass＞](https://levtechlab.connpass.com/event/364919/)
+    - 株式会社LayerX 松永大(@zabeth129)さん、「最新の AI コードレビューを導入してみたら意外とスムーズだった話」[＜資料＞](https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua)
+        - Greptile ← Cursor Bugbot ← PR-Agent
+    - 株式会社グロービス 大沼和也(@technuma)さん、「AIレビューから始めるPRサイクル改善」
+    - 合同会社DMM.com 阿部寛之(@HKs_2er0_)さん、「CodeRabbit と共に歩む PR レビュー最適化 〜 AI × チーム開発の実践知」 [＜資料＞](https://speakerdeck.com/hks2er0/coderabbit-togong-nibu-mu-pr-rebiyuzui-shi-hua-ai-x-timukai-fa-noshi-jian-zhi)
+        - CodeRabbit ← PR-Agent
 
 
 ## X
