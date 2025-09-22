@@ -8,6 +8,8 @@
     - 成長環境の見極め方
 - （2025/06/05）Findy主催、AIでどう変わる？開発現場のトレンドとエンジニア転職市場 [＜イベントページ＞](https://techplay.jp/event/981668)
 - （2025/09/03）Findy主催、AIツール経験は加点要素になるのか？〜調査レポートから読み解く変化するエンジニア転職のいま〜 [＜TECH PLAY＞](https://techplay.jp/event/985029) [＜イベントページ＞](https://findy-code.io/events/v3Q2dSbab6QFW)
+- （2025/09/17）Findy主催、VPoE面接の視点〜「一緒に働きたい」は何で決まる？〜 [TEC PLAY](https://techplay.jp/event/986302) [＜イベントページ＞](https://findy-code.io/events/UeqCVL8cU5QQ0)
+    - ファインディ株式会社 VPoE 神谷 健さん
 
 ## フリーランス
 - （2025/09/03）ファインディ株式会社主催、増井さんに聞く！フリーランスエンジニアになるための独立準備 [＜connpass＞](https://findy.connpass.com/event/365061/) [＜イベントページ＞](https://freelance.findy-code.io/events/kpYMPLIl6ZADK/viewer-link) ＜YouTubeアーカイブ動画あり＞
