@@ -572,6 +572,13 @@ __Docs__
     - pawnさん、Gemini&Devinで作るアプリケーション開発
     - Taiga-Goさん、GitHub Copilotは、大体全てを内包している相棒だぜ！！ [＜資料＞](https://speakerdeck.com/taigakono/github-copilotha-da-ti-quan-tewonei-bao-siteiruxiang-bang-daze)
     - KentaroWadaさん、Claude Code 導入で現場が逆に混乱した話
+- （2025/09/10）DeNA主催、DeNA × AI Talks #2 - エンジニアのための、AIツール導入・活用最前線 - [＜connpass＞](https://dena.connpass.com/event/364933/) [＜YouTube＞](https://www.youtube.com/watch?v=r0CO2zEWgJg) ＜YouTubeアーカイブ動画あり＞
+    - yugo.matsudaさん、PocochaのAI駆動開発推進体制 [＜資料＞](https://www.docswell.com/s/DeNA_Tech/5M634W-DeNA_AI_Talk_2-01)
+    - yuki.hirakoさ(@kocchi)ん、AIオールインの現場感、EMとしてどう思考し、どう動くか [＜資料＞](https://www.docswell.com/s/DeNA_Tech/KEYJ6N-DeNA_AI_Talk_2-02)
+    - 黒木 保(@John-bardera)さん、PRDから始める、生きたドキュメントと実装への最短ルート [＜資料＞](https://www.docswell.com/s/DeNA_Tech/KYVQYD-DeNA_AI_Talk_2-03)
+    - 🌟小野寺 宏司さん、新しいペアプロ相手、AIとの向き合い方 [＜資料＞](https://www.docswell.com/s/DeNA_Tech/ZN9QEL-DeNA_AI_Talk_2-04)
+        - > 効果を感じているプロンプト
+            - > 不明点、進めていくうえで確認すべきことがあったら都度ユーザーに質問してください。対話しながら進めましょう。また、作業中に問題があったら中断して都度ユーザーに確認してください
 - （2025/09/16）サポーターズCoLab主催、【ハイブリッド勉強会】AI×プロダクト開発の最前線〜AIにフルベットする4社の挑戦と現在地〜 [＜connpass＞](https://supporterz-seminar.connpass.com/event/365993/) [＜イベントページ＞]() [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
     - 株式会社TOKIUM 木下 博揮（@hiroki_ddd）さん、経理AIエージェントを支えるAI駆動のプロダクトマネジメント [＜資料＞](https://speakerdeck.com/tokium/jing-li-aiezientowozhi-eruaiqu-dong-nopurodakutomanezimento)
     - 株式会社PKSHA Technology 藤岡 和真（@kakka_q）さん、HR領域のAIプロダクト開発から見えたAI UXの本質
