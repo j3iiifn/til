@@ -592,7 +592,11 @@ __Docs__
     - 株式会社グロービス 大沼和也(@technuma)さん、「AIレビューから始めるPRサイクル改善」
     - 合同会社DMM.com 阿部寛之(@HKs_2er0_)さん、「CodeRabbit と共に歩む PR レビュー最適化 〜 AI × チーム開発の実践知」 [＜資料＞](https://speakerdeck.com/hks2er0/coderabbit-togong-nibu-mu-pr-rebiyuzui-shi-hua-ai-x-timukai-fa-noshi-jian-zhi)
         - CodeRabbit ← PR-Agent
-
+- （2025/09/19）Findy主催、フロントエンド開発の現在地-PoCの壁を越えるAIフレンドリーな開発の挑戦- [＜connpass＞](https://findy.connpass.com/event/367865/) [＜イベントページ＞](https://findy-code.io/events/rFQxksF0vZPnT) ＜YouTubeアーカイブ動画あり＞
+    - 株式会社Hacobu/高橋 悟生さん、AIフレンドリーなコードベースを目指して [＜資料＞](https://speakerdeck.com/hacobu/deng-tan-zi-liao-gao-qiao-wu-sheng)
+    - 株式会社SODA/Mapleさん、AI Agentでフロントエンドリプレイスを倍速にした話 [＜資料＞](https://speakerdeck.com/fuuki12/jian-suo-ji-neng-ripureisuwo4keyue-2keyue-ni-ai-agentdeshi-xian-sita2bei-su-ripureisu)
+        - 並列Agent
+    - 🌟株式会社Almondo/北見 海貴さん、エンジニアがデザインまで担うためのAI駆動UIデザイン/フロントエンド開発実践 [＜資料＞](https://speakerdeck.com/kitami/hurontoendokai-fa-shi-jian-9c69dbf3-b457-499b-8570-34be01784ff0)
 
 ## X
 - （2025/04/27）https://x.com/hamukazu/status/1916502783018303779

@@ -11,3 +11,7 @@
 どれか1つのコメントの `Show resolved` を Option + Click すると、PR全体のコメントが展開される。
 
 参考： [Show all resolved comments in a Github Pull Request](https://gist.github.com/agamm/ea65f0510e65e67f65eca189d55ee32b?permalink_comment_id=3799250#gistcomment-3799250)
+
+
+## 新機能
+- （公開日：2025/09/26、閲覧日：2025/09/27）[GitHub、プルリクエストの新しいFiles changedページで未変更行へのコメントを可能に \| gihyo\.jp](https://gihyo.jp/article/2025/09/github-pull-request-support-unchanged-lines-comment)
