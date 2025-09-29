@@ -191,6 +191,9 @@ __Docs__
     - > Second Opinion: Get Claude's perspective when unsure about human reviewer feedback
         - （自分の感想）自分がこれから指摘しようとしていることについて、それが客観的に見て正しいかを確かめるために、AIにセカンドオピニオンを求めることはよくやる
 - （公開日：2025/09/01、閲覧日：2025/09/14）[GitHub Copilot code review にブログ記事をレビューしてもらう \- NTT docomo Business Engineers' Blog](https://engineers.ntt.com/entry/202508-github-copilot-review/entry)
+- 🌟（公開日：2025/09/28、閲覧日：2025/09/29）[そのAI生成コード、全部レビューしますか？全部信じますか？](https://zenn.dev/r_kaga/articles/66c190413d3ab9)
+    - > 「AIが間違う確率 × ミスがあった時のヤバさ × ミスに気づけるか」の3軸でリスクを評価しよう
+    - 3軸への向き合い方を論文ベースで解説
 
 
 #### PR-Agent
@@ -598,6 +601,10 @@ __Docs__
     - 株式会社SODA/Mapleさん、AI Agentでフロントエンドリプレイスを倍速にした話 [＜資料＞](https://speakerdeck.com/fuuki12/jian-suo-ji-neng-ripureisuwo4keyue-2keyue-ni-ai-agentdeshi-xian-sita2bei-su-ripureisu)
         - 並列Agent
     - 🌟株式会社Almondo/北見 海貴さん、エンジニアがデザインまで担うためのAI駆動UIデザイン/フロントエンド開発実践 [＜資料＞](https://speakerdeck.com/kitami/hurontoendokai-fa-shi-jian-9c69dbf3-b457-499b-8570-34be01784ff0)
+- （2025/09/24）Findy Team+主催、「使われるAI」を育てる ─ 開発現場で活きる仕組みを推進するには [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/367603/)
+    - 🌟株式会社asken 山口 将央さん、「LLMを浸透させるための泥臭い話」 [＜資料＞](https://speakerdeck.com/oprstchn/llmwojin-tou-saserutamenoni-chou-ihua)
+    - 🌟合同会社DMM.com 渡邊 泰裕さん、「AI時代における業務改善の第一歩」 [＜資料＞](https://www.slideshare.net/slideshow/dmm-com-ai-_-e39e/283369397)
+    - 🌟株式会社ログラス 中村 翼(@nakamura_meg)さん、「自律的に成長するAI-Nativeな組織・チームを作るために」 [＜資料＞](https://speakerdeck.com/nakamuratsubasa/ai-native)
 - （2025/09/25）StudyCo主催、【GPT-5本出版記念】npaka による AIの今とこれから と AI時代の生存戦略 [＜connpass＞](https://studyco.connpass.com/event/367120/) [＜YouTube＞](https://www.youtube.com/live/a0X1-kguPcY) ＜YouTubeアーカイブ動画あり＞
     - 布留川 英一(@npaka123)さん [＜資料＞](https://speakerdeck.com/npaka/gpt-5ben-chu-ban-ji-nian-npaka-niyoru-ainojin-tokorekara-to-aishi-dai-nosheng-cun-zhan-lue)
 - （2025/09/26）LayerX主催、ソフトウェアだけじゃ解けない課題 AIでオペレーションに向き合うしかNight [＜connpass＞](https://layerx.connpass.com/event/365523/)
@@ -606,6 +613,9 @@ __Docs__
     - 株式会社LayerX 望月 瑛太(@mochi_vs_mochi)さん、AIと立ち上げ、AIと走る [＜資料＞](https://speakerdeck.com/eitamochizuki/ai)
     - 株式会社ログラス 荒木 慎平(@shim_surprise)さん、AI-Opsが語るAI活用の「見えざる壁」を乗り越え方 [＜資料＞](https://speakerdeck.com/shim_surprise/ai-opsgayu-ru-aihuo-yong-no-jian-ezarubi-wocheng-riyue-efang-250926-deng-tan-zi-liao)
     - Sansan株式会社猿田 貴之(@srt_taka)さん、AI x Data x SaaS x Operation [＜資料＞](https://speakerdeck.com/sansantech/20250926)
+- （2025/09/29）ニジボックス主催、【アラン・ケイ登壇！】POST Dev｜AI x ◯◯ エンジニアリングの未来を描く、想像する。 [＜connpass＞](https://nijibox.connpass.com/event/362179/) [＜イベントページ＞](https://lp.nijibox.jp/cp/postdev/) ＜後日アーカイブ配信予定あり＞
+    - 🌟タワーズ・クエスト株式会社 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/09版）
+
 
 ## X
 - （2025/04/27）https://x.com/hamukazu/status/1916502783018303779

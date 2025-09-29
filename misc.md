@@ -15,6 +15,8 @@
 - （公開日：2025/09/08、閲覧日：2025/09/09）[チャットコミュニケーションでの不満の表明は悪手 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/09/08/200939)
 - （公開日：2025/09/11、閲覧日：2025/09/12）[根回し入門 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/09/11/203610)
 - （公開日：2025/09/22、閲覧日：2025/09/26）[ソフトウェアエンジニアがプロダクトにオーナーシップを持てないアンチパターン、構造 \- 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く](https://nekogata.hatenablog.com/entry/2025/09/22/094637)
+- （公開日：2025/09/26、閲覧日：2025/09/29）[リモートワークが上手な人たち \- Money Forward Developers Blog](https://moneyforward-dev.jp/entry/2025/09/26/110000)
+- （公開日：2025/09/28、閲覧日：2025/09/29）[会議の参加意義がわからなくなった時のお作法 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415)
 
 ## マネジメント
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
