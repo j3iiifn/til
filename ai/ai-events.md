@@ -346,6 +346,10 @@
     - 🌟株式会社asken 山口 将央さん、「LLMを浸透させるための泥臭い話」 [＜資料＞](https://speakerdeck.com/oprstchn/llmwojin-tou-saserutamenoni-chou-ihua)
     - 🌟合同会社DMM.com 渡邊 泰裕さん、「AI時代における業務改善の第一歩」 [＜資料＞](https://www.slideshare.net/slideshow/dmm-com-ai-_-e39e/283369397)
     - 🌟株式会社ログラス 中村 翼(@nakamura_meg)さん、「自律的に成長するAI-Nativeな組織・チームを作るために」 [＜資料＞](https://speakerdeck.com/nakamuratsubasa/ai-native)
+- （2025/09/25）Findy主催、突撃！となりのSRE - 現場で試したAI活用事例 [＜connpass＞](https://findy.connpass.com/event/368449/) [＜イベントページ＞](https://findy-code.io/events/Cv_d8R1HNXLqF)
+    - 株式会社はてな heleeen(@he1eeen)さん、『アラートと運用知見から始める、自律的なインシデント調査への第一歩 (仮)』
+    - 株式会社グロービス 会川(@yaml_villager)さん、『AI活用でEnabling SREの加速を模索する』
+    - 株式会社サイバーエージェント 岡 麦(@mugiokax)さん、『うちのチームにAIの新人くん(Devin)が配属された件』 [＜資料＞](https://www.docswell.com/s/mugioka/KLV6XG-2025-09-26-172120)
 - （2025/09/25）StudyCo主催、【GPT-5本出版記念】npaka による AIの今とこれから と AI時代の生存戦略 [＜connpass＞](https://studyco.connpass.com/event/367120/) [＜YouTube＞](https://www.youtube.com/live/a0X1-kguPcY) ＜YouTubeアーカイブ動画あり＞
     - 布留川 英一(@npaka123)さん [＜資料＞](https://speakerdeck.com/npaka/gpt-5ben-chu-ban-ji-nian-npaka-niyoru-ainojin-tokorekara-to-aishi-dai-nosheng-cun-zhan-lue)
 - （2025/09/26）LayerX主催、ソフトウェアだけじゃ解けない課題 AIでオペレーションに向き合うしかNight [＜connpass＞](https://layerx.connpass.com/event/365523/)
