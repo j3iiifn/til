@@ -1,0 +1,358 @@
+# 生成AIに関する勉強会・カンファレンス
+- （2025/04/08）AI Coding Meetup #1 〜チーム開発×AI、みんなの実践知〜 [＜connpass＞](https://layerx.connpass.com/event/347094/) [＜YouTube＞](https://www.youtube.com/watch?v=Q783txBWcOM) ＜アーカイブ動画あり＞
+    - Devin時代の開発組織	Teramoto Daikiさん
+    - Enabling Coding Agent - 生成AI時代に理想のコードベース	Yuku Kotaniさん
+    - ためす、つくる、Model Context Protocol	Yoshiki Nakagawaさん
+    - AIコーディングワークフローへの挑戦	kagayaさん
+    - "知のインストール"戦略：テキスト資産をAIの文脈理解に活かす	zawakinさん
+- （2025/04/24）GitHub Japan、緊急開催：GitHub Copilotエージェントモードと最新情報 [＜資料＞](https://resources.github.com/ja/githubcopilotaprilupdatewebinar2025/) [＜告知＞](https://x.com/GitHubJapan/status/1911562545069957219)
+    - AIによるソフトウェア開発支援は第1フェーズ（単一モデル、会話型、AIを既存機能に埋め込む）／Pair Programmerから第2フェーズ（複数モデル、AIエージェント、AIネイティブ）／Peer Programmerへ
+    - 2025年4月にGitHub Copilot Chatエージェントモードがリリースされた
+    - VSCodeのCopilot拡張機能のチャットで実装したい機能を依頼するデモをやっていた。Copilotが自律的に計画を立てて、実装はもちろんのこと、ブラウザを使用したテスト（PlaywrightのMCP経由）とGitコミット、GitHubのプルリクエスト作成（GitHubのMCP経由）まで自動でやってくれていた。
+- （2025/05/13）Forkwell主催、Cursor導入で ログラス社の現場はどう変わったか - Forkwell AI Study #1 [＜connpass＞](https://forkwell.connpass.com/event/350515/) [＜イベントページ＞](https://jobs.forkwell.com/events/glkorb0-6g9) ＜アーカイブ動画あり＞
+    - 『Cursorを全エンジニアに配布、その先に見据えるAI駆動開発の未来』	伊藤 博志 氏
+    - 『AIコーディングエージェントをオンボーディングする工夫』	加賀谷 諒 氏
+    - パネルトークセッション、視聴者Q&A
+        - AI時代において、各世代のエンジニアは今後のキャリア戦略をどうするか	
+        - 20代、30代、40代以降で、それぞれの生き方はどう変わるのか、変わらないのか。
+        - 個人としてはこの時代をどう生きようと思っているのか
+- （2025/05/20）Findy主催、ばんくしさんが語るAI時代のエンジニアキャリア戦略 〜事業にコミットするエンジニアとは？〜 [＜イベントページ＞](https://findy-code.io/events/MCM51Yagh2VcK) ※アーカイブ動画なし、記事化予定とのこと
+    - AIはジュニアエンジニアの底上げに効く
+    - プログラマーの三大美徳：怠惰、傲慢、短期
+    - エンジニアリングから事業へ
+- （2025/05/28）Findy主催、- AIエージェントのオンボーディング -ヒトとAIの協同を支える”役割設計”とは [＜connpass＞](https://findy.connpass.com/event/353481/) [＜イベントページ＞](https://findy-code.io/events/RjgPRJ6Qt86pC)
+    - AIオンボーディングとAIプロセスマイニング（株式会社LayerX	中村 龍矢さん）[＜資料＞](https://speakerdeck.com/nrryuya/aionbodeingutoaipurosesumainingu)
+        - プロセスマイニングを人手でやるのは大変なのでLLMに任せる
+            - LLMは①常識を事前学習済みなので企業固有のものだけ学べば良い、②非構造的な過去資料をそのまま扱える、③モデルや特徴量の設計が不要で推論可能なので、プロセスマイニングに適している
+    - Devinで実践する！AIエージェントと協働する開発組織の作り方（株式会社ジェネラティブエージェンツ	西見 公宏さん）[＜資料＞](https://speakerdeck.com/masahiro_nishimi/devindeshi-jian-suru-aiezientotoxie-dong-surukai-fa-zu-zhi-nozuo-rifang)
+        - 開発組織におけるAIエージェントの役割：①同期的に支援（Cursor）/scale up、②非同期的に支援（Devin）/scale out、③イベント駆動で作動/ambient agents
+        - Devinのオンボーディングステップ：①リポジトリのセットアップ→②伴奏してシステムナレッジを育てる→③プレイブックとナレッジを整える
+        - Devinのナレッジ
+            - System Knowledge : Built-in knowledge, Repo indexes
+            - User Knowledge
+        - 焦らずに、やれることを一つずつ増やそう
+        - エージェント横断で育てたナレッジを一箇所に集め、Devinに情報整理させる（プループリント）
+    - AIのためのオンボーディングドキュメントを整備する（株式会社スマートバンク hiroteaさん）[＜資料＞](https://speakerdeck.com/hirotea/ainotameno-onbodeingudokiyumentowozheng-bei-suru)
+        - 2025年5月時点で増加中：自立度の高いリモート型エージェント、CLIベースのエージェント
+        - 複数のAIを併用するにあたり、共通のオンボーディングドキュメントの必要性が増す　→コードと同じリポジトリでナレッジを管理
+        - ナレッジはAIエージェントの探索最適な形で保持する
+        - ドキュメント作成をAIエージェントに行わせる：推論力が強く、コンテキストウィンドウが大きいLLMに戦略を立ててもらう→Cursor Agentに戦略を実行してもらい、探索とドキュメンテーションをさせる
+- （2025/05/28）【Qiita Bash - 増枠】最近ハマっている生成AI活用法を語ろう！
+    - TDD + AIエージェントで設計に集中できる開発環境を作る（Tommyさん）[＜資料＞](https://speakerdeck.com/ryosukedtomita/number-qiitabash-tdddeainishe-ji-imeziwochuan-eru)
+        - 人間があらかじめテストを書いておき、そのテストが通るようにAIエージェントに実装してもらう
+    - AIコードエディタは開発を変えるか？Cursorをチームに導入して1ヶ月経った本音（iota2023さん）[＜資料＞](https://speakerdeck.com/ota1022/aikodoedeitahakai-fa-wobian-eruka-cursorwotimunidao-ru-site1keyue-jing-tutaben-yin)
+        - VSCodeのフォークエディタへの影響：Cursorの機能をGitHub Copilot/VSCodeが追従してきている。Microsoft製拡張機能がフォークエディタで使えなくなった（4月）。GitHub Copilot Chat extensionのOSS化で開発が加速中（5月）
+    - 生成AIで実現！スッキリ解決、デッドコードの整理術（kn555）[＜資料＞](https://speakerdeck.com/lmi/cleaning-up-dead-code-link-and-motivation)
+        - AI Assistantは活用できているが、AI Agentは活用しきれていない（人間による修正が頻発）
+        - AI Agentに詳細なTODOリストを与え、デッドコードを削除してもらった（AIエージェントに任せやすいタスク）
+    - 生成AIのエッジ×音声認識×ロボット：フルローカルでここまでできる（RyosukeAmano）
+    - 生成AIが変えるアパレル撮影（野田昂希）
+    - AIと私、時々ゴースト（株式会社ココナラ 三浦さん）
+        - AIの出力の特徴：一見完璧だが微妙に足りない、人間に専門知識がないと評価できない、適切な指示を与えるために深い理解が必要
+- （2025/05/29）Findy主催、採用の現場から見るAI利用のリアルな変化〜年間400名以上とお会いするVPoEの本音〜（ファインディ株式会社 VPoE 神谷 健さん） [＜イベントページ＞](https://findy-code.io/events/GXYZbp38tWPZw)
+    - エンジニア採用基準：論理的思考力・言語化能力、より一段高いエンジニアスキル、ビジネス感度・理解度、__新しいことに挑戦するバイタリティ__（[IT/Webエンジニア企業動向調査レポート2025年3月版](https://findy-code.io/job-market-trends/20250326)より）
+    - 一次情報を取りに行っているかどうか
+    - AIで職種の垣根がなくなっていく
+    - PdMがPoC作成をAIにさせる
+    - 事業会社はプロダクトへの共感が求められる
+    - 今まではコーディングについてのHowの質問をしていたが、今は大きなお代（例：アーキテクチャ選定）の質問へ変化している（技術そのものへの興味・理解があるか？解像度高く、深い知識があるか？）
+- （2025/06/11）Forkwell主催、LLMのプロンプトエンジニアリング FL#98 [＜connpass＞](https://forkwell.connpass.com/event/356127/) [＜イベントページ＞](https://jobs.forkwell.com/events/uogdhwwil)
+    - HOW TO READ 牛本（GitHub Japan 服部 佑樹さん）[＜資料＞](https://speakerdeck.com/yuhattor/how-to-read-prompt-engineering-for-llm-niu-ben)
+        - LLMは単にテキストの次の単語を予測するモデルに過ぎない
+        - 本書のプロンプトエンジニアリングは巷で言われているフレーズニングだけではなく、広範囲の技術が組み合わさったもの
+        - LLMは後戻りできない
+- （2025/06/04）KDDIアジャイル開発センター株式会社主催、話題のClaude 4とClaude Codeに入門！（KAGと学ぼう！勉強会） [＜connpass＞](https://kddi-agile.connpass.com/event/357337/) [＜YouTube＞](https://www.youtube.com/watch?v=8BPfZKIa51k) ＜YouTubeアーカイブ動画あり＞
+    - Claude 4とClaude Codeの入門解説 ＆ 実演デモ	KAG みのるん 氏
+    - Claude Code のすすめ	ぬこぬこ 氏
+    - スマホからVibe Coding？ Claude Code Action解説	KAG 久古 氏
+    - AWSのBedrockでClaude 4とClaude Codeをセキュアに活用しよう！	森田 和明 氏
+- （2025/06/11）Findy Tools主催、AI Engineering Summitプレイベント - AI駆動開発・AIツール活用事例LT [＜connpass＞](https://findy-tools.connpass.com/event/356879/) [＜イベントページ＞](https://findy-tools.io/events/19403e12f1e38c585c98) ＜アーカイブ動画あり＞
+    1. 「VibeCodingで加速する開発と支援」	永田 哲平 @tetsuwo0717	GMOペパボ株式会社
+    2. 「コードだけじゃない！言語化xAIで上流の常識を覆す」	三木 宏昭 @cloudeep_mikiさん	オイシックス・ラ・大地株式会社
+    3. 「LangfuseプラグインによるDifyプロンプト管理効率化」	高木 駿作さん	ガオ株式会社
+    4. 「OSS×生成AIで“やってみる”エンジニアリングのススメ」	松尾 宏介さん	楽天カード株式会社
+    5. 「Vibe Codingの裏で、"考える力"をどう取り戻すか」	関根 千加@mscll24さん	株式会社クイック
+    6. 「新卒エンジニア育成とAIエージェント活用のベストプラクティス」	和田 健太郎さん	株式会社いえらぶGROUP
+    7. 「新卒が複数の10年モノのサービスにAIでどう戦ったか」	横山 遥乙@haruotsu_hyさん	GMOペパボ株式会社
+    8. 「開発周辺におけるAIツール活用 ー雑感やメンタルモデルを添えてー」	井上 洋樹さん	株式会社スマートラウンド
+    9. 「レガシーシステムの機能調査・開発におけるAI利活用」	大隣 卓也さん	オイシックス・ラ・大地株式会社
+    10. 「Devin x Terraform：AIはインフラコードの変更とデプロイをどこまで自動化できるか？」	織田 薫さん	株式会社Voicy
+    11. 「生成AIによるボイスボットの世界」	高橋 克己@_katsumiさん	株式会社KDDIウェブコミュニケーションズ
+    12. 「AIとペアプロしてわかった3つのヒューマンエラー」	池川 貴裕@takapiro_ikeikeさん	株式会社ユーザベース
+    13. 「AI活用を前提とした新しい開発スタイル確立の挑戦」	木村 祐太さん	株式会社令和トラベル
+    14. 「Perplexity Slack Botを作ってAI活用を進めた話」	大浦 優太郎@yukyan_pさん	GMOペパボ株式会社
+    15. 「AIエージェント開発を加速させるLLM実験基盤」	藤岡 和真@kakka_qさん	株式会社PKSHA Technology
+    16. 「AI と入社３ヶ月目の私の軌跡 〜Cursorを中心にしたサービス開発体験の構築〜」	金子 冴@sai_kaneko_31さん	株式会社ココナラ
+    17. 「AI元年宣言！自家製Devinから始める生産性改革」	望月 慎太郎さん	パーソルキャリア株式会社
+    18. 「話題のDevin、エンプラ開発で〇人分の仕事はできるのか！？」	山河 征紀@MasakiYamakawaさん	ウルシステムズ株式会社
+- （2025/06/24）Findy主催、Clineの実力と使いどころ〜 現場から見る！スピード開発実践事例〜 [＜connpass＞](https://findy.connpass.com/event/356324/) [＜イベントページ＞](https://findy-code.io/events/H57ULf5A1WLzS) ＜アーカイブ動画あり＞
+    - 『Clineを200人でためしてみた 〜モノタロウのAI駆動開発より〜』	株式会社MonotaRO	市原功太郎@ichi_taro3さん [＜資料＞](https://speakerdeck.com/monotaro/monotarounoaiqu-dong-kai-fa-clinebian-clinewo200-deshi-sitemitajian)
+    - 『大規模組織のCline導入効果〜開発フェーズだけじゃない活用事例〜』	合同会社DMM.com	石垣雅人@i35_267さん [＜資料＞](https://speakerdeck.com/i35_267/introducing-ai-agents-into-your-organization)
+- （2025/06/25）AWS Summit Japan 2025 [＜イベントページ＞](https://aws.amazon.com/jp/summits/japan/) [＜YouTube＞](https://www.youtube.com/playlist?list=PLzWGOASvSx6GlBQPNhLRBDLqKgYHJHOml) ＜YouTubeアーカイブ動画あり＞
+    - 🌟AWS 高野 賢司さん、AI Agent 時代のソフトウェア開発の型 ～ Everything as Code で叡智を伝える ～（AWS-57） [＜資料＞](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-57_Development_AWS-Summit-JP-2025.pdf)
+        - これまでの生成AIを活用したコーディングの進化と、AI駆動開発の具体例がわかりやすく話されていた。初学者向けに良さそう。
+- （2025/06/26）Findy Tools主催、よしこさんと実践！公開Vibe Coding [＜connpass＞](https://findy-tools.connpass.com/event/357113/) [＜イベントページ＞](https://findy-tools.io/events/c72bcec80aa47ca4ac04) ＜アーカイブ動画あり＞
+    - 要件定義
+        - 目的、必須要件、任意要件を伝え、可能性を開いたまま聞く（自分の中でhowを思いついていても伝えない）
+        - 会話の最後でMarkdownファイルを作成させるときのプロンプト例：コーディングエージェントに渡して実装を頼めるように、ここまで話した内容でrequirements.mdを作って。
+- 🌟（2025/06/30）CARTA Engineering主催、Claude Code Deep Dive 〜t-wada, mizchiとAgentic Codingの「今」を眺める 〜 [＜connpass＞](https://cartaholdings.connpass.com/event/360380/) [＜YouTube＞](https://www.youtube.com/watch?v=HqXg2vfGX3c) ＜アーカイブ動画あり＞
+    - akippa Yuya Hirayama(@hiragram)さん、Deep Dive into ~/.claude/projects [＜資料＞](https://speakerdeck.com/hiragram/projects)
+        - Claude Codeのチャット履歴をブラウザで閲覧できるようにするツール（会話ログビューア）を作ったという話
+        - akippaではエンジニアにClaude Maxを配布している
+    - パネルディスカッション
+- （2025/07/07）カウシェ主催、AI開発実例の成功も失敗もぶっちゃけ！【PKSHA・Findy・LayerX・カウシェ】 [＜connpass＞](https://kauche.connpass.com/event/360073/) [＜YouTube＞](https://youtube.com/live/AW6cGiLo6Ss) ＜アーカイブ動画あり＞
+    - 株式会社PKSHA Technology CEO室 室長 大野 紗和子 氏
+    - 株式会社PKSHA Technology Workplaceカンパニー執行役員 製品開発統括 山本 健介 氏
+    - ファインディ株式会社 取締役CTO 佐藤 将高 氏
+    - 株式会社LayerX バクラク事業部CPO 榎本 悠介 氏
+    - 株式会社カウシェ／執行役員CTO 池松 恭平 氏
+    - Claude Maxは経費精算
+- （2025/07/08）AI駆動開発主催、Claude Code Meetup Japan #1（Claude Code祭り！） [＜connpass＞](https://aid.connpass.com/event/360017/) [YouTube](https://www.youtube.com/watch?v=KzS4bs3PXlA&t=4497s) ＜アーカイブ動画あり＞
+    - クラスメソッド株式会社の事例 1:12:26-：Claude Codeのために400名でAnthropic APIを使用したら1日で3千ドル課金されてしまった →Pro/Maxを個別契約して経費申請
+    - AI時代もTDD with Claude Code	kagayaさん(@ry0_kaga)
+    - Claude Codeにプロジェクト管理やらせたみた	さとけい@生成AIビジネスの最前線 さん(@AIBizNavigator)
+    - 「Claude CodeでClaude Codeをハックする」 〜自作ツールで開発体験を加速する〜	Akihiro Okunoさん (@choplin)
+    - Claude Codeの知らない知識、ADK, A2Aを用いたプロダクト開発をClaude Codeで行う	Totsukaさん (@totsukash)
+    - Claude codeで https://ezboard.ai/ 開発しました。	hidenori_morikawaさん (morimori.com)
+    - Claude Codeによる並列開発のすゝめ	Naturalclarさん(@natural_clar)
+    - 「Claude CodeでVibe codingして作った、Claude Codeをコマンドラインから呼ぶためのsimonw/llmプラグイン」。なお「それってClaude Codeでよくない？」	nikkieさん(@ftnext)
+    - Claude Code+Cursor+Container use(C3stack仮)で作るローカル並列開発環境のススメ	kaelaelaさん(@_kaelaela)
+- （2025/07/10）Findy主催、【AI特集】開発組織における生成AI活用 各社の取り組みと課題とは？ [＜connpass＞](https://findy.connpass.com/event/358866/) [＜イベントページ＞](https://findy-code.io/events/1_tind0n4OEXc)
+    - 株式会社フーディソン 木村 竜介さん、IT イノベーション史の類似点から AI 活用を推測する [＜資料＞](https://speakerdeck.com/foodisonhr2020/it-inobesiyonshi-nolei-si-dian-kara-ai-huo-yong-wotui-ce-suru-af4ff77c-03ad-43d9-92dd-deea1efc38bd)
+    - 株式会社PeopleX 橘 大雅さん、生成AIファーストの事業・開発組織への変革
+        - 株式会社People Xの事例：Claude Pro/Maxは個人で契約して経費申請している
+    - 🌟ファストドクター株式会社 宮田 芳郎さん、AI駆動開発で実現した開発生産性3.2倍向上 - 現実のシステム開発における工程横断AI活用のチームプラクティス [＜資料＞](https://speakerdeck.com/fast_doctor/deng-tan-zi-liao-aiqu-dong-kai-fa-teshi-xian-sitakai-fa-sheng-chan-xing-3-dot-2bei-xiang-shang-d8fd6014-c2bf-449d-b477-75438b2b51c7)
+        - 良い発表だった
+        - 後で読みたい：
+            - [AI導入しても効果薄い？チーム全員AIフレンドリー！な環境の作り方、教えます\(前編\)](https://zenn.dev/fastdoctor/articles/de25424a77cf77)
+            - [Cursorで実現した開発速度3\.2倍！エンジニア・PM・QA全チームでAI活用する組織変革](https://findy-tools.io/products/cursor/401/553)
+- （2025/07/10）Forkwell主催、AI時代の「良いコード／悪いコードで学ぶ設計入門」「ドメイン駆動設計をはじめよう」- FL#100 [＜connpass＞](https://forkwell.connpass.com/event/356295/) [＜イベントページ＞](https://jobs.forkwell.com/events/s4rpcjtbs) ＜アーカイブ動画あり＞
+    - ミノ駆動さんの企業秘密のプロンプトが気になる
+- （2025/07/14）Findy主催、各社の事例から学ぶ！AIコーディングエージェント活用の現在地 [＜connpass＞](https://findy.connpass.com/event/359453/) [＜イベントページ＞](https://findy-code.io/events/59vAgWQnlgbiD) ＜アーカイブ動画あり＞
+- （2025/07/15）Findy Tools主催、GitHub Copilot活用術~MCP・レビュー・issue・Coding Agentまで！~ [＜connpass＞](https://findy-tools.connpass.com/event/359953/) [＜イベントページ＞](https://findy-tools.io/events/70c60d6e8696586ece73) ＜アーカイブ動画あり＞
+- （2025/07/16）東京AI祭主催、Claude Code・Gemini CLIで使える！「メモリ機能」で性能をさらにアップする裏技 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/360358/) ＜アーカイブ動画あり＞
+- （2025/07/17）Findy主催、Claude Code Meetup [＜connpass＞](https://findy.connpass.com/event/359987/) [＜イベントページ＞](https://findy-code.io/events/ues5b1nNP1m_f?fr=event_20250717&fsrc=connpass) ＜アーカイブ動画あり＞
+    - 株式会社Algomatic erukitiさん、Claude Codeを使って不確実性と戦う [＜資料＞](https://speakerdeck.com/erukiti/claude-code-fights-uncertainty)
+        - p.6: AIに頼むタスクは小さくする（特にClaude4は200k contextなので要注意）
+        - p.7: issue.mdを入力するとqueueにjobが積まれ、dispatcherが受け取り、並列でjobを実行する自動化ツール（Docker + Hooksで自動制御）
+    - Ubie株式会社 鹿野壮さん、実務で使っているClaude Codeの活用事例集 [＜資料＞](https://tonkotsuboy.github.io/20250717-findy-claudecode/)
+    - ぬこぬこさん、Claude Code 再入門 [＜資料＞](https://speakerdeck.com/schroneko/re-introduction-to-claude-code)
+    - 株式会社Scalar Akihiro Okunoさん、Claude Code SDKの話 [＜資料＞](https://speakerdeck.com/choplin/an-introduction-to-claude-code-sdk)
+    - 株式会社BLUEISH 戸塚翔太さん、Claude Codeの知らない知識に立ち向かう
+        - Claude CodeをVertex AI経由で使用している
+- （2025/07/17）Findy Tools主催、Deep Security Conference [＜connpass＞](https://findy.connpass.com/event/356605/) [＜イベントページ＞](https://deep-security-con.findy-tools.io/) [＜YouTubeアーカイブ動画あり＞](https://findy-tools.io/events/archives/deep-security-con/6)
+    - EGセキュアソリューションズ 徳丸 浩さん、セキュリティ専門家が生成AIと過ごす日常
+- （2025/07/22）Forkwell主催、Clineから Claude Code まで！AIエージェント、freeeはどうやって全社導入した？ [＜connpass＞](https://forkwell.connpass.com/event/359578/) [＜イベントページ＞](https://jobs.forkwell.com/events/aistudy2) ＜アーカイブ動画あり＞
+- （2025/07/22）AI駆動開発主催、Gemini CLI Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/361689/) [＜YouTube＞](https://www.youtube.com/watch?v=PceVBrFOQFU) ＜アーカイブ動画あり＞
+- （2025/07/23）レバテックLAB主催、Devin/Cursor/Cline全社導入 セキュリティリスクにどう対策した？ [＜connpass＞](https://levtechlab.connpass.com/event/359758/) ＜YouTubeアーカイブ動画あり＞
+    - エムスリー株式会社VPoE 河合俊典（ぱんくし）さん、エムスリーでのAIコーディングにおける意思決定
+        - AIコーディングツール（Claude Code含む）のLLMプロバイダとしてGCP Vertex AI（こちらがメイン）やAWS Bedrockを使用してセキュアにしている
+            - gcloud authで認証
+            - 国内リージョンのモデルを利用
+            - 利用可能なモデルの選択、監査ログ、利用者集計など管理機能を利用
+- （2025/07/25）Findy主催、Gemini CLI実験レポート ─基礎理解から活用の可能性について [＜connpass＞](https://findy.connpass.com/event/361358/) [＜イベントページ＞](https://findy-code.io/events/spLfZxzESnY3s) ＜アーカイブ動画あり＞
+    - 豊田陽介(@youtoy)さん、公開初日に個人環境で試した Gemini CLI 体験記など [＜資料＞](https://speakerdeck.com/you/gemini-cli-report)
+    - 🌟KDDIアジャイル開発センター株式会社 久古幸汰(@nvidia_inside)さん、Gemini CLIの"強み"を知る！ Gemini CLIとClaude Codeを比較してみた [＜資料＞](https://speakerdeck.com/kotahisafuru/gemini-clino-qiang-mi-wozhi-ru-gemini-clitoclaude-codewobi-jiao-sitemita)
+        - p.4〜14のスライドがとても良い。理系研究者目線で物事を要素分解できている。
+            - AIコーディングエージェント性能の決定要因5つ：LLMモデルの性能、ツール内のプロンプト、メモリ機能のプロンプト、参照されるファイル、ユーザー入力のプロンプト
+- （2025/07/25）Qiita主催、Qiita Tech Spark 2025 [＜connpass＞](https://increments.connpass.com/event/354942/) [＜イベントページ＞](https://qiita.com/tech-festa/2025/tech-spark) [＜YouTube＞](https://www.youtube.com/watch?v=nEgRn19x4EE) ＜アーカイブ動画あり＞
+    - 株式会社いえらぶGROUP 執行役 和田 健太郎さん、「ドキュメント駆動開発：DocDD」事始め～Cursorをチームで擦り倒した結果～
+    - まつもと ゆきひろさん、まつもとゆきひろの作り方
+- （2025/07/25）AI駆動開発主催、Windsurf Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/359327/) [＜YouTube＞](https://youtube.com/live/CPgMGzWzPZw) ＜YouTubeアーカイブ動画あり＞
+    - Walden Yanさん、Windsurf Update & Better Together
+    - テックファーム 石立宏志(@techfirm_jp)さん、Windsurfでちょっとラクする大規模サイト運用
+        - 日本Top30位以内の大規模サイト、十数年保守している
+    - SmartHR ほりゆう(@yuki8251198)さん、SmartHRにおけるAIコーディングツール導入の歴史 -Cursorが普及した状態でWindsurfも導入した話-
+- （2025/07/28）Findy主催、t-wadaさんに聞く！SQLアンチパターン第2版 - 全27章まとめて紹介！ [＜connpass＞](https://findy.connpass.com/event/359455/) [＜イベントページ＞](https://findy-code.io/events/i_Pzqt6r9dzHh) [＜YouTube＞](https://www.youtube.com/watch?v=mj62B0FlqKI) ＜アーカイブ動画あり＞
+- （2025/07/30）カウシェ主催、DeNA・令和トラベル・スマートバンク・カウシェでの開発における生成AIフル活用事例 [＜connpass＞](https://kauche.connpass.com/event/358309/) ＜アーカイブ動画あり＞
+    - まず初めにDevinにやってもらってから、人間が直す
+- （2025/07/31）Forkwell主催、Claude Codeに全部賭けるために入門する勉強会 [＜connpass＞](https://forkwell.connpass.com/event/361574/) [＜イベントページ＞](https://jobs.forkwell.com/events/07z_83pmd1mo) ＜アーカイブ動画あり＞
+    - Ubie株式会社 鹿野 壮さん、Claude Codeを実務開発で使い倒して得られた知見 [＜資料＞](https://tonkotsuboy.github.io/20250731-forkwell-claude-code/)
+    - 🌟良い発表だった🌟ストックマーク株式会社 羽柴 大生さん、苦しんで向き合うLLM時代の開発 [＜資料＞](https://speakerdeck.com/hashibadaiki/ku-sindexiang-kihe-ullmshi-dai-nokai-fa)
+    - 視聴者Q&Aパネルトーク
+        - UbieではClaude CodeをVertex AIで使っている
+- （2025/07/31）StudyCo主催、Claude Codeが働くAI中心の業務システム構築の挑戦―AIエージェント中心の働き方を目指して [＜connpass＞](https://studyco.connpass.com/event/361662/) [＜YouTube＞](https://www.youtube.com/live/6Y1zFCa2e-A) [＜資料＞](https://speakerdeck.com/os1ma/claude-codegadong-kuaizhong-xin-noye-wu-sisutemugou-zhu-notiao-zhan-aiezientozhong-xin-nodong-kifang-womu-zhi-site) ＜アーカイブ動画あり＞
+    - Claude Codeをcoding agentとして利用するのではなく、汎用的な業務を管理・遂行するために使用する話
+    - AIエージェントが中心となってタスク管理と業務を遂行し、必要に応じて人間に助けを求める仕組みづくり
+    - LangChainが提唱するAmbient Agents : Human-in-the-Loop, Agent Inbox
+    - HumanLayerのOuter Loop
+        - 第1世代: Chat
+        - 第2世代: Agentic Assistants
+        - 第3世代: Autonomous Agents - Outer Loop
+- （2025/08/01）LayerX主催、AIカンファレンス「Bet AI Day」LayerXのリアルなAI知見を大公開！CTO, CPO, VPoEたちが語ります [＜connpass＞](https://layerx.connpass.com/event/357958/) [＜YouTube＞](https://www.youtube.com/playlist?list=PLJVoIeJBhpXVmZhGHLAoOUIEtr60xpZr6) ＜YouTubeアーカイブ動画あり＞
+    - 🌟代表取締役 CTO 松本 勇気さん、AI時代の経営とBet AI Vision [＜資料＞](https://speakerdeck.com/layerx/ai-era-management-and-bet-ai)
+        - 過去2年半の生成AIの変遷
+        - 自動運転の6段階のレベルとAIによる業務遂行度合いを対比した表
+        - AIツールを使ってください、ではうまくいかない。慣性の壁、セキュリティの壁、学習・理解の壁
+            - AI包括予算
+    - 🌟バクラク事業 CTO 中川 佳希さん、バクラクによるコーポレート業務の自動運転 [＜資料＞](https://speakerdeck.com/layerx/bakuraku-corporate-autonomous-driving)
+        - Chat-oriented programming (CHOP)
+        - 自動車の自動運転になぞらえ、業務の自動運転を6段階でレベル分け
+        - 🌟AIエージェントを構成要素 (Tools, Memory, ...) ← [Building Effective AI Agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+        - 🌟Sourcegraphのブログ [How to Build an Agent - Amp](https://ampcode.com/how-to-build-an-agent) -> 400行に満たないGoコードで実装されたcode-editing agent
+    - Fintech事業 VPoE 髙橋 健太郎さん、金融サービスにおける高速な価値提供とAIの役割 [＜資料＞](https://speakerdeck.com/layerx/accelerating-value-with-ai-in-finance-service)
+    - AI・LLM事業 CPO 小林 篤さん、LLMをツールからプラットフォームへ〜AI Workforceの戦略〜 [＜資料＞](https://speakerdeck.com/layerx/llm-from-tool-to-platform-ai-workforce-strategy)
+    - 執行役員 CISO 星 北斗さん、Bet "Bet AI" - Accelerating Our AI Journey [＜資料＞](https://speakerdeck.com/layerx/bet-bet-ai-accelerating-our-ai-journey)
+    - 🌟Principal 名村 卓さん、人に寄り添うAIエージェントとアーキテクチャ [＜資料＞](https://speakerdeck.com/layerx/empathetic-ai-agent-architecture)
+        - p.25: コンテキストの制約：サイズ上限、大きいと混乱、時間とともに増えていく
+        - p.25: コンテキストの構成要素：セッション上の会話、過去の行動履歴、手順書、マニュアル・ガイドライン、システムプロンプト、ツールコールの結果
+    - バクラク事業 AI・機械学習部 部長 松村 優也さん、Tech Lead 島越 直人さん、生成AI時代におけるAI・機械学習技術を用いたプロダクト開発の深化と進化 [＜資料＞](https://speakerdeck.com/layerx/evolving-ai-ml-products-in-genai-era)
+    - クロージング
+        - ReActの考案者による記事。AIはthe second half (後半戦)に入った。今まではモデルの進化によってできることが増えてきたが、これからはアプリケーションの勝負になってきている
+            - [The Second Half – Shunyu Yao – 姚顺雨](https://ysymyth.github.io/The-Second-Half/)
+- （2025/08/04）東京AI祭主催、AIがルールを破らない世界へ！ClaudeCodeHooks超入門 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/362938/) ＜Zoomアーカイブ動画あり＞
+    - 📝 株式会社フェズ Gota(@gota_bara)さん、Claude CodeでKiroの仕様駆動開発を実現させるには... [＜資料＞](https://speakerdeck.com/gotalab555/claude-codedekironoshi-yang-qu-dong-kai-fa-woshi-xian-saseruniha-dot-dot-dot)
+- （2025/08/05）ROSCAFE主催、Claude Codeと挑む、開発設計の現在地 [＜connpass＞](https://rosca.connpass.com/event/363169/)
+    - Gotaさん、データ分析のためのClaude Code ~marimoを使おう~ [＜資料＞](https://speakerdeck.com/gotalab555/detafen-xi-notamenoclaude-code-marimowoshi-ou)
+        - Jupyter Notebook(.ipynb)形式とClaude Codeの相性が悪すぎるので、Jupyter Notebookを捨ててmarimoを使っている
+        - [Claude Codeでmarimo使う時用のhttp://CLAUDE.md](https://github.com/gotalab/claude-code-marimo)
+    - Oikon(@oikon48)さん、Claude Codeから我々が学ぶべきこと [＜資料＞](https://speakerdeck.com/oikon48/claude-codekarawo-gaxue-bubekikoto)
+    - しば田さん、作ってよかったカスタムスラッシュコマンド [＜資料＞](https://speakerdeck.com/ks0318/zuo-tuteyokatutakasutamusuratusiyukomando)
+        - カスタムスラッシュコマンドを作成・編集するためのカスタムスラッシュコマンドを自作
+- （2025/08/06）Forkwell主催、生成AIのプロンプトエンジニアリング - Forkwell Library#102 [＜connpass＞](https://forkwell.connpass.com/event/359565/) [＜イベントページ＞](https://jobs.forkwell.com/events/lhl51w6p9) ＜YouTubeアーカイブ動画あり＞
+- （2025/08/07）Findy主催、著者陣に聞く！現場で活用するためのAIエージェント実践入門 [＜connpass＞](https://findy.connpass.com/event/363543/) [＜イベントページ＞](https://findy-code.io/events/EmPLr08575_jm) ＜YouTubeアーカイブ動画あり＞
+    - 株式会社ジェネラティブエージェンツ 西見公宏 (@mah_lab)さん、書籍紹介
+    - Sakana AI株式会社 太田真人 (@ottamm_190)さん、AIエージェントを知る
+    - 電通総研 阿田木勇八 (@eightOJ1)さん、AIエージェントを作る
+    - 株式会社Algomatic 宮脇峻平 (@catshun_)さん、AIエージェントを現場で使う [＜資料＞](https://speakerdeck.com/smiyawaki0820/2025-dot-08-dot-07-zhu-zhe-zhen-niwen-ku-xian-chang-dehuo-yong-surutamenoaiezientoshi-jian-ru-men-findyrantisetusiyon)
+        - マイクのノイズが最悪だったが、スライドの図やグラフはきれいだった
+- （2025/08/07）Findy主催、GitHub Copilotの全体像と活用のヒント AI駆動開発の最初の一歩 [＜connpass＞](https://findy.connpass.com/event/359954/) [＜イベントページ＞](https://findy-code.io/events/xjb2NH7xQ1k9m) ＜YouTubeアーカイブ動画あり＞
+    - GO株式会社 Atsushi Morimoto (@74th)さん [＜資料＞](https://speakerdeck.com/74th/github-copilot-an-overview-and-tips-for-effective-use)
+        - GitHub Copilotの多岐にわたるサービスを網羅的に説明している良発表
+            - コード補完、チャット（VSCode拡張、IDE拡張、Web）、チャット内のAsk/Edit/Agentモード、Coding Agent、PRレビュー、…
+        - Copilot Chatで `@vscode` とつけるとVS Codeの使い方を質問できる
+- （2025/08/08）Findy主催、Kiro使ってみてどうだった？ ～試してわかった活用のヒント～ [＜connpass＞](https://findy.connpass.com/event/362924/) [＜イベントページ＞](https://findy-code.io/events/mNYVOt1Bds7LU) ＜YouTubeアーカイブ動画あり＞
+    - メルカリ Kuu(@Fumiya_Kume)さん、KDDIアジャイル開発センター みのるん(@minorun365)さん、NTTテクノクロス @_watanyさん
+- （2025/08/08）AI駆動開発(AI-Driven Development)主催、Claude Code Meetup Japan #2（Claude Code祭り！#2） [＜connpass＞](https://aid.connpass.com/event/361635/) [＜YouTube＞](https://www.youtube.com/watch?v=1IfoHU7UEgQ) ＜アーカイブ動画あり＞
+    - 📝 7:16- @gota_baraさん『Claude Codeは仕様駆動の夢を見ない』 [＜資料＞](https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai)
+    - 29:47- @yukukotaniさん『Scale out your Claude Code ~自社専用Agentで10xする開発プロセス~』 [＜資料＞](https://speakerdeck.com/yukukotani/scale-out-your-claude-code)
+        - 変更前タイトル：Claude CodeをDevinにしよう - 叩き駆動開発のススメ
+        - Uvin
+    - 45:53- @AkiraTametoさん『Claude Codeサブエージェント機能』
+    - 1:10:48- XServer 前島さん『リモート環境(VPS)を活用したClaude Codeの導入と運用』
+    - 1:24:01- @t_fujita24さん『hooksのStopをつかって永遠にpbi定義&開発を繰り返させ続けて、自律的にプロダクトに新機能を追加させるSingularity的方法』
+    - 1:31:49- @enzerubankさん『スクラムイベントの議事録をAIが書く時代 〜Claude Code活用事例〜』
+    - 1:40:04- @NakaOtonowaさん『Claudeと一緒に仕様書から実装してみた』
+        - Claude Codeと対話を繰り返してドメインモデル図を洗練させ、ペアプロの指摘内容をルールに追加していき、Clean Architectureを実装
+    - 📝 1:46:33- @sakas1231さん『俺的 instruction の書き方』 [＜資料＞](https://speakerdeck.com/sakas/an-de-instructionnozuo-rifang)
+        - 独自に開発フローを試行錯誤していたらKiroと同じようなフローに行き着いた
+    - 1:54:21- @shuntaka_jpさん『Claude Codeをdotfiles管理しよう！(おすすめの設定を添えて)』 [＜資料＞](https://speakerdeck.com/shuntaka/lets-manage-claude-code-with-dotfiles)
+        - HooksのStopイベントで静的解析結果をフィードバックする
+    - 2:01:38- @watarumoriokaさん『Claude CodeでmacOSのアプリを作ってみた』
+- （2025/08/19）東京AI祭主催、Kiroで始めるビヘイビア駆動開発 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/364230/)
+    - 📝 Galirage 森重 真純(@umi_mori_jp)さん
+        - GalirageのメンバーではClaude Codeの利用割合が多い
+        - SDD: Spec-Driven Development (仕様駆動開発)
+        - BDD: Behavior-Driven Development (ビヘイビア駆動開発)
+            - TDD: Test-Driven Development (テスト駆動開発) の派生
+            - Given-When-Then フォーマット（Gherkin記法）
+        - [Cognition \| Don’t Build Multi\-Agents](https://cognition.ai/blog/dont-build-multi-agents)
+        - マルチエージェントについて https://x.com/umi_mori_jp/status/1948156173514846642
+- （2025/08/19）ファインディ株式会社主催、AI時代におけるユニットテストの現在地 [＜connpass＞](https://findy.connpass.com/event/363174/) [＜イベントページ＞](https://findy-code.io/events/6RpiQWJ3ugowE) ＜YouTubeアーカイブ動画あり＞
+    - 🌟米久保 剛(@tyonekubo)さん、AI時代に問い直す ユニットテストの価値 [＜資料＞](https://www.docswell.com/s/tyonekubo/K44MXJ-value-of-unittesting)
+    - 合同会社CAPH TECH りず(@rizumita)さん、$99.99と¥100の間にある深い溝 - 批判的に問い、明示的に伝える
+    - 松谷峰生 (まつ)(@mty_mno)さん、テスト最適化 : AIは変更差分からユニットテスト/結合テスト/システムテストでテストすべきことが出せるのか？
+- （2025/08/21）Forkwell主催、ABEMAにおける生成AI活用の現在地 - Forkwell AI Study #3 [＜connpass＞](https://forkwell.connpass.com/event/362360/) [＜イベントページ＞](https://jobs.forkwell.com/events/u1ksk3pswz) ＜YouTubeアーカイブ動画あり＞
+    - 波戸 勇二(@dekatotoro)さん、菅 俊弥さん [＜資料＞](https://speakerdeck.com/dekatotoro/the-current-status-of-generative-ai-at-abema)
+    - p.20: AIツールに200ドル/人/月を費用負担(必要性に応じてさらに増額)、トレーニング、ワークショップ、先行導入事例の共有、ナレッジベース
+    - p.22: 利用している生成AIツール一覧
+    - p.23: 利用を許可しているMCPサーバの一覧
+    - p.28-: 業務プロセスにおけるAIの活用事例
+        - p.33: 従来のテスト項目書を生成AIで分類・シナリオ化し、YAML形式でGit管理
+        - p.34: AI Agentによるシナリオテストの自動化
+            - [takahirom/arbigent: AI Agent for testing Android, iOS, and Web apps\. Get Started in 5 Minutes\. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature ensures scalability for even the most complex tasks\.](https://github.com/takahirom/arbigent)
+            - [AIエージェントによるテストフレームワーク Arbigent \- Speaker Deck](https://speakerdeck.com/takahirom/arbigent-test-by-ai-agent-ff262ea0-4da4-40b3-a34a-6d19afe6447e)
+    - p.52: LangChainが提唱しているコンテキストエンジニアリングの手法：記述(Write)、選択(Select)、圧縮(Compress)、分離(Isolate)
+- 🌟（2025/08/25）Creationline主催、和田卓人(t_wada)さんと考える AIとテストと若手の未来 [＜connpass＞](https://creationline.connpass.com/event/363530/) [＜YouTube＞](https://www.youtube.com/watch?v=rucS5uKZd0I) ＜YouTubeアーカイブ動画あり＞
+    - 和田 卓人(@t_wada)さん、ソフトウェアエンジニア人生サバイバルガイド
+    - 若手エンジニアの実践ミニトーク
+        - 山本 烈也(@re2osushi8888)さん
+        - 柄池 大輔(@garagara21kt)さん [＜資料＞](https://speakerdeck.com/contour_gara/tdd-shi-jian-minitoku)
+    - 座談会、質疑応答
+- （2025/08/26）Findy主催、実例から学ぶ！モバイルアプリ開発における「AIの使いどころ」 [＜connpass＞](https://findy.connpass.com/event/363471/) [＜イベントページ＞](https://findy-code.io/events/cj_4BfmogJr6w) ＜YouTubeアーカイブ動画あり＞
+    - フリーランス 堤 修一@shu223さん、『ふつうのAI駆動iOSアプリ開発』 [＜資料＞](https://www.docswell.com/s/shu223/5M63LG-ios-with-ai)
+        - > AIがイマイチなことを言い始めたらさっさと人間側で巻き取る
+        - CLAUDE.mdが現状と合っているかAIに確認してもらう
+        - CLAUDE.mdが大きくなったら下位コンテキストファイルに切り出す
+    - Ubie株式会社 坂本 一弥@sakamotokazuyatさん、『モバイルアプリからWebへの横展開を加速した話 Claude Code 実践術』 [＜資料＞](https://speakerdeck.com/kazuyasakamoto/mohairuahurikarawebhenoheng-zhan-kai-wojia-su-sitahua-claude-code-shi-jian-shu)
+    - 株式会社ウフィカ あんざいゆき@yanzmさん、『Devinを使ったモバイルアプリ開発』 [＜資料＞](https://speakerdeck.com/yanzm/mobile-app-development-with-devin)
+    - dely株式会社 青山 凱さん、『figma MCP ✖️ iOS開発でできることを模索してみた』 [＜資料＞](https://gamma.app/docs/Figma-MCPAI-r9307i3ovkd1182)
+        - 前提として、Figma上で定義されているデザインシステムのコンポーネントと一対一に紐づく形でアプリ側にもそのコンポーネントを用意しておかないとうまくいかなそう
+    - akippa株式会社 @hiragramさん、『Claude Codeで作る自分のエンジニアリングチーム』→『LLMエージェント時代に適応した開発フロー』 [＜資料＞](https://speakerdeck.com/hiragram/llmezientoshi-dai-nishi-ying-sitakai-fa-huro)
+        - ccusageのtotalが$2424というのは、さすがに数カ月分…だよね…？
+        - GitHub Actionsの「claude-code-action」をself hosted runner (自分のMac) で動かすと費用がゼロになる
+- （2025/08/26）Forkwell主催、生成AI時代だからこそ学ぶコミュニケーションとマネジメント [＜connpass＞](https://forkwell.connpass.com/event/364485/) [＜イベントページ＞](https://jobs.forkwell.com/events/2bw5wli9bd8u) ＜YouTubeアーカイブ動画あり＞
+    - 🌟株式会社GENDA FE/BE開発部 部長 中島 裕聡さん、『プロダクトも人もさらに成長する組織へ〜生成AI導入で求められていること〜』
+        - 技術力は不要になったわけではない
+        - AIが人間の入力を全肯定してしまう　→「Asking For A Friend」メソッド（〜って同僚が言っているんだけど、どう思う？）と聞くと、忖度なしのAIの本音を引き出せる
+    - 株式会社令和トラベル エンジニアリングUnit マネージャー 吉田 圭佑@y0shikei_さん、『変わる手段と変わらない本質 ── AI時代のリーダーシップ再設計』 [＜資料＞](https://speakerdeck.com/y0shikei/bian-warushou-duan-tobian-waranaiben-zhi-aishi-dai-noridasitupuzai-she-ji)
+- （2025/08/27）Findy主催、【AIエージェント活用企業特集】1時間で6社と出会う！リクルーティングピッチイベント [＜TECH PLAY＞](https://techplay.jp/event/985007) [＜イベントページ＞](https://findy-code.io/events/0H8_yYMAB5a7j)
+    - 株式会社リチェルカ：Claude Code利用可、全員でAI駆動開発
+    - 株式会社Algomatic：Claude Code利用可
+    - Gen-AX株式会社：Claude Code（Max 20xプラン）利用可
+    - テックタッチ株式会社：Claude Code利用可、生成AIサービスの利用ガイドラインを整備、AI活用開発ワーキングチーム、nrwl/nx#32522のインシデント（プロンプトインジェクション）
+    - エムスリーキャリア株式会社：Claude Code利用可
+    - 株式会社BuySell Technologies：Claude Code（Maxプラン）利用可、生成AI利用ガイドラインを整備、AIハッカソン、生成AIの知見共有会
+- （2025/09/03）東京AI祭主催、スライドが一瞬で作成される「けいたろう式 & まじん式プロンプト」 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/366908/)
+- （2025/09/03）Findy主催、Kiro Meetup Japan #1 [＜connpass＞](https://findy.connpass.com/event/365956/) [＜イベントページ＞](https://findy-code.io/events/GKICQJTiSnYVl) ＜YouTubeアーカイブ動画あり＞
+    - AWSジャパン 山口 能迪(@ymotongpoo)さん、「The AI IDE for prototype to production」[＜資料＞]()
+    - 電通総研 山下 剛さん、「Amazon Q Developerでアプリ開発してみた 〜使い方・工夫・Kiroとの違い〜」[＜資料＞]()
+    - フューチャーアーキテクト 渋川 よしき(@shibu_jp)さん、「Kiroを使ってみた 〜そこから見える今どきの開発〜」[＜資料＞]()
+    - Algomatic清水 顕(@kaonash_)さん、「Kiroで始めるAI-DLC」[＜資料＞]()
+    - メルカリ Kuu(@Fumiya_Kume)さん、「Kiroは設計が7割」[＜資料＞]()
+    - 🌟Oikon(@oikon48)さん、「Kiroと学ぶコンテキストエンジニアリング」[＜資料＞](https://speakerdeck.com/oikon48/kirotoxue-bukontekisutoenziniaringu)
+        - p.12: コンテキストエンジニアリングの課題: Context Distraction, Multi-turn conversation, Lost in the middle, Context Window Overflow
+        - p.14: コンテキストエンジニアリングの代表的なアプローチ: ToDoリスト・関連する情報のみの提供・リマインド・外部メモリファイル化・コンテキスト外のガードレール作成
+        - p.20: Kiroはスキル差を埋められるツール
+    - Kiro開発チーム責任者 Nathan JonesさんへのQ&A
+- （2025/09/05）Findy主催、QAエンジニアの思考を映す テスト自動化事例 [＜connpass＞](https://findy.connpass.com/event/366000/) [＜イベントページ＞](https://findy-code.io/events/baC2Qi90C4s_q) ＜YouTubeアーカイブ動画あり＞
+    - ユニファ株式会社/高田佑樹（a.k.a ゆきたか）さん、“品質”は、電気羊の夢を見るか？ー デカルトの四規則で始める「自動テスト導入前」の品質保証ー [＜資料＞](https://speakerdeck.com/tkd_yuki/pin-zhi-ha-dian-qi-yang-nomeng-wojian-ruka-dekarutonosi-gui-ze-deshi-meru-zi-dong-tesutodao-ru-qian-nopin-zhi-bao-zheng)
+    - ウェルスナビ株式会社/木下 智弘さん、QAが目指す良い品質〜 手動テストと自動テスト、そして生成AIの三本矢 〜 [＜資料＞](https://www.docswell.com/s/kikkis/KJQNJX-2025-09-05-120000)
+        - AIでテストケースの説明表を出力→テストコードを出力
+    - 株式会社IVRy/関 凌麻さん、音声認識から画面検証まで、生成AI時代の電話サービス品質を支える自動テストの全貌 [＜資料＞](https://speakerdeck.com/rymsk21/2025-09-05-qaensinianosi-kao-woying-su-tesutozi-dong-hua-shi-li-f830cbcf-2870-4bea-a1f3-9da1cc707679)
+- （2025/09/10）Forkwell主催、原論文から解き明かす生成AI - Forkwell Library #106 [＜connpass＞](https://forkwell.connpass.com/event/365363/) [＜イベントページ＞](https://jobs.forkwell.com/events/zqyd6e8mjiig) ＜YouTubeアーカイブ動画あり＞
+    - 菊田遥平(@yohei_kikuta)さん
+- （2025/09/08）Qiita株式会社主催、【Qiita Bash】AI時代の相棒は、キミに決めた！ 〜キミはどのAIエージェントにする？〜 [＜connpass＞](https://increments.connpass.com/event/364559/) [＜YouTube＞](https://www.youtube.com/live/YvWV8Gqm2c0) ＜YouTubeアーカイブ動画あり＞
+    - もずますさん、CLI資産を活かせ! Claude Codeで整えるアウトプットワークフロー [＜資料＞](https://mozumasu.github.io/slidev-template)
+    - yuka_wagataさん、Cursorと作ったAIエージェントーデータサイエンティスト開発奮闘録ー
+    - IkegaiRyotaさん、誰も使ってないCodexをせっかくだから使いまくってみた [＜資料＞](https://publish.obsidian.md/kamibukuro18/AI/Seminor/20250909_qiitabash)
+    - pawnさん、Gemini&Devinで作るアプリケーション開発
+    - Taiga-Goさん、GitHub Copilotは、大体全てを内包している相棒だぜ！！ [＜資料＞](https://speakerdeck.com/taigakono/github-copilotha-da-ti-quan-tewonei-bao-siteiruxiang-bang-daze)
+    - KentaroWadaさん、Claude Code 導入で現場が逆に混乱した話
+- （2025/09/10）DeNA主催、DeNA × AI Talks #2 - エンジニアのための、AIツール導入・活用最前線 - [＜connpass＞](https://dena.connpass.com/event/364933/) [＜YouTube＞](https://www.youtube.com/watch?v=r0CO2zEWgJg) ＜YouTubeアーカイブ動画あり＞
+    - yugo.matsudaさん、PocochaのAI駆動開発推進体制 [＜資料＞](https://www.docswell.com/s/DeNA_Tech/5M634W-DeNA_AI_Talk_2-01)
+    - yuki.hirakoさ(@kocchi)ん、AIオールインの現場感、EMとしてどう思考し、どう動くか [＜資料＞](https://www.docswell.com/s/DeNA_Tech/KEYJ6N-DeNA_AI_Talk_2-02)
+    - 黒木 保(@John-bardera)さん、PRDから始める、生きたドキュメントと実装への最短ルート [＜資料＞](https://www.docswell.com/s/DeNA_Tech/KYVQYD-DeNA_AI_Talk_2-03)
+    - 🌟小野寺 宏司さん、新しいペアプロ相手、AIとの向き合い方 [＜資料＞](https://www.docswell.com/s/DeNA_Tech/ZN9QEL-DeNA_AI_Talk_2-04)
+        - > 効果を感じているプロンプト
+            - > 不明点、進めていくうえで確認すべきことがあったら都度ユーザーに質問してください。対話しながら進めましょう。また、作業中に問題があったら中断して都度ユーザーに確認してください
+- （2025/09/16）サポーターズCoLab主催、【ハイブリッド勉強会】AI×プロダクト開発の最前線〜AIにフルベットする4社の挑戦と現在地〜 [＜connpass＞](https://supporterz-seminar.connpass.com/event/365993/) [＜イベントページ＞]() [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
+    - 株式会社TOKIUM 木下 博揮（@hiroki_ddd）さん、経理AIエージェントを支えるAI駆動のプロダクトマネジメント [＜資料＞](https://speakerdeck.com/tokium/jing-li-aiezientowozhi-eruaiqu-dong-nopurodakutomanezimento)
+    - 株式会社PKSHA Technology 藤岡 和真（@kakka_q）さん、HR領域のAIプロダクト開発から見えたAI UXの本質
+    - 株式会社Legalscape 富田 晃弘さん、Kaggle Grandmasterと創る、リーガルAIモデル開発の最前線
+    - 株式会社サイバーエージェント 齋藤 泰史さん、AI駆動開発で量と質を両立する複数プロダクト開発
+- （2025/09/18）レバテックLAB主催、AIコードレビューをチームで使いこなす ― 仕組みづくりから運用までの試行錯誤 ― [＜connpass＞](https://levtechlab.connpass.com/event/364919/)
+    - 株式会社LayerX 松永大(@zabeth129)さん、「最新の AI コードレビューを導入してみたら意外とスムーズだった話」[＜資料＞](https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua)
+        - Greptile ← Cursor Bugbot ← PR-Agent
+    - 株式会社グロービス 大沼和也(@technuma)さん、「AIレビューから始めるPRサイクル改善」
+    - 合同会社DMM.com 阿部寛之(@HKs_2er0_)さん、「CodeRabbit と共に歩む PR レビュー最適化 〜 AI × チーム開発の実践知」 [＜資料＞](https://speakerdeck.com/hks2er0/coderabbit-togong-nibu-mu-pr-rebiyuzui-shi-hua-ai-x-timukai-fa-noshi-jian-zhi)
+        - CodeRabbit ← PR-Agent
+- （2025/09/19）Findy主催、フロントエンド開発の現在地-PoCの壁を越えるAIフレンドリーな開発の挑戦- [＜connpass＞](https://findy.connpass.com/event/367865/) [＜イベントページ＞](https://findy-code.io/events/rFQxksF0vZPnT) ＜YouTubeアーカイブ動画あり＞
+    - 株式会社Hacobu/高橋 悟生さん、AIフレンドリーなコードベースを目指して [＜資料＞](https://speakerdeck.com/hacobu/deng-tan-zi-liao-gao-qiao-wu-sheng)
+    - 株式会社SODA/Mapleさん、AI Agentでフロントエンドリプレイスを倍速にした話 [＜資料＞](https://speakerdeck.com/fuuki12/jian-suo-ji-neng-ripureisuwo4keyue-2keyue-ni-ai-agentdeshi-xian-sita2bei-su-ripureisu)
+        - 並列Agent
+    - 🌟株式会社Almondo/北見 海貴さん、エンジニアがデザインまで担うためのAI駆動UIデザイン/フロントエンド開発実践 [＜資料＞](https://speakerdeck.com/kitami/hurontoendokai-fa-shi-jian-9c69dbf3-b457-499b-8570-34be01784ff0)
+- （2025/09/24）Findy Team+主催、「使われるAI」を育てる ─ 開発現場で活きる仕組みを推進するには [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/367603/)
+    - 🌟株式会社asken 山口 将央さん、「LLMを浸透させるための泥臭い話」 [＜資料＞](https://speakerdeck.com/oprstchn/llmwojin-tou-saserutamenoni-chou-ihua)
+    - 🌟合同会社DMM.com 渡邊 泰裕さん、「AI時代における業務改善の第一歩」 [＜資料＞](https://www.slideshare.net/slideshow/dmm-com-ai-_-e39e/283369397)
+    - 🌟株式会社ログラス 中村 翼(@nakamura_meg)さん、「自律的に成長するAI-Nativeな組織・チームを作るために」 [＜資料＞](https://speakerdeck.com/nakamuratsubasa/ai-native)
+- （2025/09/25）StudyCo主催、【GPT-5本出版記念】npaka による AIの今とこれから と AI時代の生存戦略 [＜connpass＞](https://studyco.connpass.com/event/367120/) [＜YouTube＞](https://www.youtube.com/live/a0X1-kguPcY) ＜YouTubeアーカイブ動画あり＞
+    - 布留川 英一(@npaka123)さん [＜資料＞](https://speakerdeck.com/npaka/gpt-5ben-chu-ban-ji-nian-npaka-niyoru-ainojin-tokorekara-to-aishi-dai-nosheng-cun-zhan-lue)
+- （2025/09/26）LayerX主催、ソフトウェアだけじゃ解けない課題 AIでオペレーションに向き合うしかNight [＜connpass＞](https://layerx.connpass.com/event/365523/)
+    - 株式会社kubell 藤井 謙太郎(@kentaro_fujii)さん、SaaSではない人とAIがオペレーションする前提のプロダクトとは（仮） → Sell Workによる価値とは何か？ [＜資料＞](https://speakerdeck.com/kubell_hr/250926-fujii)
+    - 株式会社IVRy 金井 佑真(@yu_k_28)さん、PdMが挑む、世界を変えるAIプロダクトの創出と成長
+    - 株式会社LayerX 望月 瑛太(@mochi_vs_mochi)さん、AIと立ち上げ、AIと走る [＜資料＞](https://speakerdeck.com/eitamochizuki/ai)
+    - 株式会社ログラス 荒木 慎平(@shim_surprise)さん、AI-Opsが語るAI活用の「見えざる壁」を乗り越え方 [＜資料＞](https://speakerdeck.com/shim_surprise/ai-opsgayu-ru-aihuo-yong-no-jian-ezarubi-wocheng-riyue-efang-250926-deng-tan-zi-liao)
+    - Sansan株式会社猿田 貴之(@srt_taka)さん、AI x Data x SaaS x Operation [＜資料＞](https://speakerdeck.com/sansantech/20250926)
+- （2025/09/29）ニジボックス主催、【アラン・ケイ登壇！】POST Dev｜AI x ◯◯ エンジニアリングの未来を描く、想像する。 [＜connpass＞](https://nijibox.connpass.com/event/362179/) [＜イベントページ＞](https://lp.nijibox.jp/cp/postdev/) ＜後日アーカイブ配信予定あり＞
+    - 🌟タワーズ・クエスト株式会社 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/09版）
