@@ -352,6 +352,9 @@
     - 株式会社サイバーエージェント 岡 麦(@mugiokax)さん、『うちのチームにAIの新人くん(Devin)が配属された件』 [＜資料＞](https://www.docswell.com/s/mugioka/KLV6XG-2025-09-26-172120)
 - （2025/09/25）StudyCo主催、【GPT-5本出版記念】npaka による AIの今とこれから と AI時代の生存戦略 [＜connpass＞](https://studyco.connpass.com/event/367120/) [＜YouTube＞](https://www.youtube.com/live/a0X1-kguPcY) ＜YouTubeアーカイブ動画あり＞
     - 布留川 英一(@npaka123)さん [＜資料＞](https://speakerdeck.com/npaka/gpt-5ben-chu-ban-ji-nian-npaka-niyoru-ainojin-tokorekara-to-aishi-dai-nosheng-cun-zhan-lue)
+- （2025/09/26）Findy主催、GMO Flatt Securityに学ぶ！LLMアプリ開発のセキュリティ対策 [＜connpass＞](https://findy.connpass.com/event/368973/) [＜イベントページ＞](https://findy-code.io/events/0o_S6z13lG8_J) ＜YouTubeアーカイブ動画あり＞
+    - GMO Flatt Security株式会社 松井遼太朗 (@ryotaromosao)さん [＜資料＞](https://speakerdeck.com/flatt_security/llm-application-security)
+        - プロンプトインジェクション、RAGアプリケーションの脆弱性、EDoS、外部通信のリスク（最小権限の原則、人間による承認フロー）
 - （2025/09/26）LayerX主催、ソフトウェアだけじゃ解けない課題 AIでオペレーションに向き合うしかNight [＜connpass＞](https://layerx.connpass.com/event/365523/)
     - 株式会社kubell 藤井 謙太郎(@kentaro_fujii)さん、SaaSではない人とAIがオペレーションする前提のプロダクトとは（仮） → Sell Workによる価値とは何か？ [＜資料＞](https://speakerdeck.com/kubell_hr/250926-fujii)
     - 株式会社IVRy 金井 佑真(@yu_k_28)さん、PdMが挑む、世界を変えるAIプロダクトの創出と成長
