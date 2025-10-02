@@ -363,3 +363,10 @@
     - Sansan株式会社猿田 貴之(@srt_taka)さん、AI x Data x SaaS x Operation [＜資料＞](https://speakerdeck.com/sansantech/20250926)
 - （2025/09/29）ニジボックス主催、【アラン・ケイ登壇！】POST Dev｜AI x ◯◯ エンジニアリングの未来を描く、想像する。 [＜connpass＞](https://nijibox.connpass.com/event/362179/) [＜イベントページ＞](https://lp.nijibox.jp/cp/postdev/) ＜後日アーカイブ配信予定あり＞
     - 🌟タワーズ・クエスト株式会社 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/09版）
+- （2025/09/29）Findy主催、AI開発のNext Stage コンテキストエンジニアリングを学ぶ [＜connpass＞](https://findy.connpass.com/event/369181/) [＜イベントページ＞](https://findy-code.io/events/wETeV_jZQrQzW) ＜YouTubeアーカイブ動画あり＞
+    - 株式会社ナレッジセンス CTO/sasakuna(@sasa_kuna_)さん、コンテキストエンジニアリングとは? 考え方と応用方法 [＜資料＞](https://speakerdeck.com/findy_eventslides/kontekisutoenziniaringutoha-kao-efang-toying-yong-fang-fa)
+        - [LangChain - Context Engineering](https://blog.langchain.com/context-engineering-for-agents/) → write, select, compress, isolate
+    - Studio株式会社/wadakatu(@koyolympus)さん、Serena MCPのすすめ [＜資料＞](https://speakerdeck.com/wadakatu/serena-mcpnosusume)
+    - 株式会社メルカリ/じゃっこ(@jackojacko_)さん、非エンジニアのあなたもできる＆もうやってる！コンテキストエンジニアリング [＜資料＞](https://speakerdeck.com/findy_eventslides/fei-enzinianoanatamodekiru-and-mouyatuteru-kontekisutoenziniaringu)
+        - 職業：データアナリスト
+        - データアナリストの仕事をSDD（仕様駆動開発）に当てはめる

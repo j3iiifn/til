@@ -7,6 +7,7 @@
 
 ## メール
 - （公開日：2025/09/10、閲覧日：2025/09/10）[150万通のメールを送るのに5万円の専用サービスを使わずにAWS SESを使ったら結局工数的に高くかかった話→「餅作りが困難なほど餅屋の価値は上昇する」「警告メールが総務省から来たのは草」 \- posfie](https://posfie.com/@kalofollow/p/pitX5KT)
+- （公開日：2025/10/02、閲覧日：2025/10/02）[「NHK ONE」移行エラーは「Gmailにスパム認定されていた可能性」　徐々に解消か \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2510/02/news061.html)
 
 ## エンジニアとして
 - （公開日：2025/04/27、閲覧日：2025/04/27）[エンジニアとして緩やかに死んでいくんだろーなと思った話 \- pospomeのプログラミング日記](https://www.pospome.work/entry/2025/04/27/144734)
@@ -20,6 +21,9 @@
 - （公開日：2025/09/22、閲覧日：2025/09/26）[ソフトウェアエンジニアがプロダクトにオーナーシップを持てないアンチパターン、構造 \- 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く](https://nekogata.hatenablog.com/entry/2025/09/22/094637)
 - （公開日：2025/09/26、閲覧日：2025/09/29）[リモートワークが上手な人たち \- Money Forward Developers Blog](https://moneyforward-dev.jp/entry/2025/09/26/110000)
 - （公開日：2025/09/28、閲覧日：2025/09/29）[会議の参加意義がわからなくなった時のお作法 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415)
+
+## システム思考
+- （公開日：2025/10/01、閲覧日：2025/10/02）[システムを作る人がまず理解すべきシステム思考の基礎 \- じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/10/01/203633)
 
 ## マネジメント
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
