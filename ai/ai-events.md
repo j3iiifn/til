@@ -370,3 +370,17 @@
     - 株式会社メルカリ/じゃっこ(@jackojacko_)さん、非エンジニアのあなたもできる＆もうやってる！コンテキストエンジニアリング [＜資料＞](https://speakerdeck.com/findy_eventslides/fei-enzinianoanatamodekiru-and-mouyatuteru-kontekisutoenziniaringu)
         - 職業：データアナリスト
         - データアナリストの仕事をSDD（仕様駆動開発）に当てはめる
+- （2025/10/01）Findy主催、Codex使ってみてどうだった？AIコーディングエージェント最前線Lunch Talk [＜connpass＞](https://findy.connpass.com/event/369743/) [＜イベントページ＞](https://findy-code.io/events/HG2tUkPuPV9) ＜YouTubeアーカイブ動画あり＞
+    - クラシル株式会社 SRE ラク(@rakutek)さん、Codex CLIの機能とSandboxを理解する [＜資料＞](https://www.docswell.com/s/rakutek/KJQYQM-2025-09-codex#p1)
+        - GPT-5-codexはモデル内部で思考の長さをダイナミックに調整してくれるため、model_reasoning_effortはデフォルト値（medium）がオススメ
+        - `/review` コマンドのプロンプト：https://github.com/openai/codex/blob/main/codex-rs/core/review_prompt.md
+            - 実装：https://github.com/openai/codex/blob/a95605a8679650a9344e355afc5d97ce2ff3915b/codex-rs/core/src/codex.rs#L1518
+    - 株式会社エクスプラザ リードLLMアプリケーションエンジニア Unsu(@unsu0707)さん、Deep dive into gpt-5-codex [＜資料＞](https://speakerdeck.com/unsu0707/deep-dive-into-gpt-5-codex)
+        - GPT-5-codexは自身が持てるまで調査を続ける。指示しなくても調査→計画→実装→レビューを自発的にやる。
+        - 最初のプロンプトにいつも含めている定型文　→🌟真似したい
+            > ## GENERAL RULES:
+            > - No over-engineering.
+            > - Implement required parts only.
+            > - Respect each layer(DTOs, Repositories, ...) for current project's architecture strictly.
+    - 株式会社Algomatic AIエンジニア @erukitiさん、Codex時代の新たなバイブコーディングワークフロー (Before CodexとAfter Codex) [＜資料＞](https://speakerdeck.com/erukiti/after-codex)
+        - 軽量な動くモック
