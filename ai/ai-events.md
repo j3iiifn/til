@@ -370,6 +370,11 @@
     - 株式会社メルカリ/じゃっこ(@jackojacko_)さん、非エンジニアのあなたもできる＆もうやってる！コンテキストエンジニアリング [＜資料＞](https://speakerdeck.com/findy_eventslides/fei-enzinianoanatamodekiru-and-mouyatuteru-kontekisutoenziniaringu)
         - 職業：データアナリスト
         - データアナリストの仕事をSDD（仕様駆動開発）に当てはめる
+- （2025/09/30）Findy主催、AI時代の意思決定を支える 各社のデータ基盤Lunch Talk [＜connpass＞](https://findy.connpass.com/event/368980/) [＜イベントページ＞](https://findy-code.io/events/6T1Zwfq__HFeO)
+    - 株式会社 IVRy アナリティクスエンジニア 和田 悠佑さん、Databricks Genieを利用した分析基盤とデータモデリングの IVRy の現在地 [＜資料＞](https://speakerdeck.com/wxyzzz/databricks-genie-woli-yong-sitafen-xi-ji-pan-todetamoderinguno-ivry-noxian-zai-di)
+    - 株式会社hacomono データ基盤エンジニア 濵野 友隆さん、1,000万人の利用者に応えるウェルネスSaaSと新たな挑戦を支えるデータ基盤
+    - STORES 株式会社 アナリティクスエンジニア 小野 嵩征(@taaaaaaakayuki)さん、AIが活躍できるデータ基盤を目指して [＜資料＞](https://speakerdeck.com/takahal/aigahuo-yue-dekirudetaji-pan-womu-zhi-site)
+        - Google Agent Developer Kitを使用してデータ分析Agentを作成
 - （2025/10/01）Findy主催、Codex使ってみてどうだった？AIコーディングエージェント最前線Lunch Talk [＜connpass＞](https://findy.connpass.com/event/369743/) [＜イベントページ＞](https://findy-code.io/events/HG2tUkPuPV9) ＜YouTubeアーカイブ動画あり＞
     - クラシル株式会社 SRE ラク(@rakutek)さん、Codex CLIの機能とSandboxを理解する [＜資料＞](https://www.docswell.com/s/rakutek/KJQYQM-2025-09-codex#p1)
         - GPT-5-codexはモデル内部で思考の長さをダイナミックに調整してくれるため、model_reasoning_effortはデフォルト値（medium）がオススメ
@@ -384,3 +389,10 @@
             > - Respect each layer(DTOs, Repositories, ...) for current project's architecture strictly.
     - 株式会社Algomatic AIエンジニア @erukitiさん、Codex時代の新たなバイブコーディングワークフロー (Before CodexとAfter Codex) [＜資料＞](https://speakerdeck.com/erukiti/after-codex)
         - 軽量な動くモック
+- （2025/10/03）LayerX主催、AI Coding Meetup #3 AI時代の開発スピードと品質のバランス術 [＜connpass＞](https://layerx.connpass.com/event/367170/) ＜YouTubeアーカイブ動画あり＞
+    - パネルディスカッション登壇者
+        - タワーズ・クエスト株式会社 取締役社長 和田 卓人 (Takuto Wada) @t_wada さん
+        - 株式会社一休 CTO 伊藤 直也 @naoya_ito さん
+        - 株式会社LayerX バクラク事業部 プログラマ、QA エンジニア teyamagu @teyamagu さん
+        - 株式会社LayerX バクラク事業部 スタッフエンジニア izumin @izumin5210 さん
+    - 現在、AIは幻滅期。でもこれから普及期が来る。

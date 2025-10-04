@@ -22,9 +22,6 @@
 - （公開日：2025/09/26、閲覧日：2025/09/29）[リモートワークが上手な人たち \- Money Forward Developers Blog](https://moneyforward-dev.jp/entry/2025/09/26/110000)
 - （公開日：2025/09/28、閲覧日：2025/09/29）[会議の参加意義がわからなくなった時のお作法 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415)
 
-## システム思考
-- （公開日：2025/10/01、閲覧日：2025/10/02）[システムを作る人がまず理解すべきシステム思考の基礎 \- じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/10/01/203633)
-
 ## マネジメント
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
 - （公開日：2025/08/12、閲覧日：2025/08/12）[1on1の功罪について｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/times_serizawa_0002)
