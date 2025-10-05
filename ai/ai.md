@@ -174,6 +174,10 @@ __Docs__
     - 📝 プロンプトを参考にしたい
 
 
+## AI-DLC
+- （公開日：2025/08/08、閲覧日：2025/10/05）[AI 駆動開発ライフサイクル:ソフトウェアエンジニアリングの再構築 \| Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/ai-driven-development-life-cycle/)
+
+
 ### コードレビュー
 - （公開日：2025/03/31、閲覧日：2025/04/11）[GoogleのLLM「Gemini」でコードレビューをするGitHub Actionsを自力で構築してみた \- NTT Communications Engineers' Blog](https://engineers.ntt.com/entry/202503-gemini-cicd-code-review/entry)
 - （公開日：2025/05/05、閲覧日：2025/05/06）[LLMでコードレビューする際の自分用環境を整える](https://zenn.dev/razokulover/articles/058fede74dbbe0)
@@ -260,7 +264,8 @@ __Docs__
     - 大学生向けのスライド
     - > AIによって生成された結果について理解できていない人　→必要なくない？
     - > 人間の仕事：AIの出力に責任を追うこと、AIの出力に付加価値をつけること（リテイクを出すためには専門知識が不可欠）
-
+- 🌟（公開日：2025/10/02、閲覧日：2025/10/05）[どのくらい生成AIに任せているかをあらわす指標 \- Mitsuyuki\.Shiiba](https://bufferings.hatenablog.com/entry/2025/10/02/235024)
+    - > 生成されたコードを自分が読んでいない割合
 
 ### その他
 - （公開日：2025/06/11、閲覧日：2025/06/12）[AI領域における組織の強みを活かすアーキテクチャ設計](https://zenn.dev/aishift/articles/c897d0e095c3d8)

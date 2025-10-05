@@ -61,6 +61,9 @@
     - 有限会社システム設計 増田 亨(@masuda220)さん、技術書を効果的に内面化する実践技法 [＜資料＞](https://speakerdeck.com/masuda220/ji-shu-shu-woxiao-guo-de-ninei-mian-hua-surushi-jian-ji-fa)
 - （公開日：2025/09/27、閲覧日：2025/09/28）[コードを読む、コードを書くの最初の一歩目 ― 目の前の「知らない」と向き合って成長する \- そーだいなるらくがき帳](https://soudai.hatenablog.com/entry/2025/09/27/165806)
 
+## OCR
+- （公開日：2025/09/28、閲覧日：2025/10/05）[GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い](https://zenn.dev/harumikun/articles/fb9c435acf4070)
+
 # 未分類
 - （公開日：2025/06/05、閲覧日：2025/06/05）[「CubePDF」の提供を続けたくて。倒産寸前のフリーソフト会社を、開発者自ら再建させるまで【フォーカス】 \| レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_680/)
 - （公開日：2025/06/20、閲覧日：2025/06/20）[古いiPhone 8を太陽光発電で動作するOCRサーバーに改造し完全オフグリッド状態で数千枚の画像処理に成功 \- GIGAZINE](https://gigazine.net/news/20250620-iphone-8-refuses-solar-powered-vision-ocr-server/)

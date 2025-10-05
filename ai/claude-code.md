@@ -58,6 +58,10 @@
         3. GitHub Actionsでコミットメッセージからプロンプト履歴を抽出し、Pull Requestのdescriptionに自動追記
 
 
+## Claude Code本体のアップデート
+- （公開日：2025/10/04、閲覧日：2025/10/05）[Claude Code 2\.0\.0 のメジャーアップデートについて](https://zenn.dev/oikon/articles/claude-code-2)
+
+
 ## 📝 Workflow
 - （公開日：2025/07/19、閲覧日：2025/07/28）[Kiroの仕様書駆動開発プロセスをClaude Codeで徹底的に再現した](https://zenn.dev/gotalab/articles/3db0621ce3d6d2)
     - [gotalab/claude\-code\-spec: From prototype to production with Spec\-Driven Development for Claude Code\. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build with AI](https://github.com/gotalab/claude-code-spec)

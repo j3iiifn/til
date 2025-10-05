@@ -370,7 +370,7 @@
     - 株式会社メルカリ/じゃっこ(@jackojacko_)さん、非エンジニアのあなたもできる＆もうやってる！コンテキストエンジニアリング [＜資料＞](https://speakerdeck.com/findy_eventslides/fei-enzinianoanatamodekiru-and-mouyatuteru-kontekisutoenziniaringu)
         - 職業：データアナリスト
         - データアナリストの仕事をSDD（仕様駆動開発）に当てはめる
-- （2025/09/30）Findy主催、AI時代の意思決定を支える 各社のデータ基盤Lunch Talk [＜connpass＞](https://findy.connpass.com/event/368980/) [＜イベントページ＞](https://findy-code.io/events/6T1Zwfq__HFeO)
+- （2025/09/30）Findy主催、AI時代の意思決定を支える 各社のデータ基盤Lunch Talk [＜connpass＞](https://findy.connpass.com/event/368980/) [＜イベントページ＞](https://findy-code.io/events/6T1Zwfq__HFeO) ＜YouTubeアーカイブ動画あり＞
     - 株式会社 IVRy アナリティクスエンジニア 和田 悠佑さん、Databricks Genieを利用した分析基盤とデータモデリングの IVRy の現在地 [＜資料＞](https://speakerdeck.com/wxyzzz/databricks-genie-woli-yong-sitafen-xi-ji-pan-todetamoderinguno-ivry-noxian-zai-di)
     - 株式会社hacomono データ基盤エンジニア 濵野 友隆さん、1,000万人の利用者に応えるウェルネスSaaSと新たな挑戦を支えるデータ基盤
     - STORES 株式会社 アナリティクスエンジニア 小野 嵩征(@taaaaaaakayuki)さん、AIが活躍できるデータ基盤を目指して [＜資料＞](https://speakerdeck.com/takahal/aigahuo-yue-dekirudetaji-pan-womu-zhi-site)
