@@ -128,6 +128,18 @@
             - [Cursorで実現した開発速度3\.2倍！エンジニア・PM・QA全チームでAI活用する組織変革](https://findy-tools.io/products/cursor/401/553)
 - （2025/07/10）Forkwell主催、AI時代の「良いコード／悪いコードで学ぶ設計入門」「ドメイン駆動設計をはじめよう」- FL#100 [＜connpass＞](https://forkwell.connpass.com/event/356295/) [＜イベントページ＞](https://jobs.forkwell.com/events/s4rpcjtbs) ＜アーカイブ動画あり＞
     - ミノ駆動さんの企業秘密のプロンプトが気になる
+- （2025/07/11）AIエージェントユーザー会（AIAU）主催、GitHub Copilot Meetup Tokyo [＜connpass＞](https://aiau.connpass.com/event/357272/) [＜YouTube＞](https://www.youtube.com/watch?v=M-rvq2LJKlU) ＜YouTubeアーカイブ動画あり＞
+    - AIエージェントユーザー会 株式会社USEN-ALMEX（U-NEXT.HD） taigaさん、GitHubCopilotのカスタムと機能に関する話
+    - AI駆動開発勉強会 LINEヤフー 河本さん、LINEヤフーの取り組み一部ご紹介と企業におけるGitHub Copilotの導入・推進、他
+    - yaegashiさん、GitHub CopilotとPremium Requestsのビリングについて
+    - Haruki Kondoさん、次世代web3AI agent をGitHub Copilotから呼び出してみた！
+    - tnirさん、Copilot coding agentにベットしたいCTOが開発組織で取り組んだこと（仮）
+    - 74thさん、書いた技術同人誌をMCP Seever化したら趣味の組込開発が捗った話
+    - 🌟VS Code Meetup 株式会社CARTA HOLDINGS yamachuさん、VS CodeとGitHub Copilotで爆速開発！ アップデートの波に乗るおさらい会 [＜資料＞](https://speakerdeck.com/yamachu/rapid-development-with-vs-code-and-github-copilot-catch-the-latest-wave)
+        - p.16: Reading chat requests : "Developer: Show Chat Debug View" で起動する。自分が送ったプロンプト、システムプロンプト、ツールの履歴を確認できる。
+    - Shotaro Suzuki, FPT Japanさん、GitHub Copilot for Xcode : 最新 AI 機能で Swift 開発を⾰新する [＜資料＞](https://www.docswell.com/s/shosuz/KDG7XR-2025-07-12-001017)
+    - サイボウズ株式会社 加瀬 健太さん、きっとあなたの知らないgithub.comで使えるGitHub Copilotの機能 [＜資料＞](https://www.docswell.com/s/Kesin11/5GGJYL-2025-07-11-github-copilot-on-github)
+        - > github.com内のGitHub Copilotへの自分用の指示を設定可能 → Personal instructions
 - （2025/07/14）Findy主催、各社の事例から学ぶ！AIコーディングエージェント活用の現在地 [＜connpass＞](https://findy.connpass.com/event/359453/) [＜イベントページ＞](https://findy-code.io/events/59vAgWQnlgbiD) ＜アーカイブ動画あり＞
 - （2025/07/15）Findy Tools主催、GitHub Copilot活用術~MCP・レビュー・issue・Coding Agentまで！~ [＜connpass＞](https://findy-tools.connpass.com/event/359953/) [＜イベントページ＞](https://findy-tools.io/events/70c60d6e8696586ece73) ＜アーカイブ動画あり＞
 - （2025/07/16）東京AI祭主催、Claude Code・Gemini CLIで使える！「メモリ機能」で性能をさらにアップする裏技 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/360358/) ＜アーカイブ動画あり＞
