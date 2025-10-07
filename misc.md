@@ -64,6 +64,9 @@
 ## OCR
 - （公開日：2025/09/28、閲覧日：2025/10/05）[GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い](https://zenn.dev/harumikun/articles/fb9c435acf4070)
 
+## Google日本語入力 小技
+- （公開日：2025/10/06、閲覧日：2025/10/07）[「Google 日本語入力」で“20251006”（YYYYMMDD）形式の日付を変換する方法が便利 \- やじうまの杜 \- 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2052832.html)
+
 # 未分類
 - （公開日：2025/06/05、閲覧日：2025/06/05）[「CubePDF」の提供を続けたくて。倒産寸前のフリーソフト会社を、開発者自ら再建させるまで【フォーカス】 \| レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_680/)
 - （公開日：2025/06/20、閲覧日：2025/06/20）[古いiPhone 8を太陽光発電で動作するOCRサーバーに改造し完全オフグリッド状態で数千枚の画像処理に成功 \- GIGAZINE](https://gigazine.net/news/20250620-iphone-8-refuses-solar-powered-vision-ocr-server/)
