@@ -39,6 +39,7 @@ d=$(date -Iseconds -v -15M); GIT_COMMITER_DATE=$d git commit --date=$d
 ## git worktree
 - （公開日：2025/05/27、閲覧日：2025/05/29）[AIエージェントで並列実装なら必須技術！ Git Worktree を理解する](https://zenn.dev/siu_issiki/articles/git_worktree)
 - （公開日：2022/06/01、閲覧日：2025/05/29）[git\-worktreeでmultirepoの開発体験を向上させる \- Yappli Tech Blog](https://tech.yappli.io/entry/introduction-of-git-worktree)
+- （公開日：2025/06/15、閲覧日：2025/10/08）[Git Worktreeをわかりやすく解説](https://zenn.dev/hiraoku/articles/56f4f9ffc6d186)
 
 
 ## コミットメッセージにMarkdownを書きたい

@@ -86,6 +86,8 @@ __Docs__
 - （公開日：2025/05/17、閲覧日：2025/05/17）[“やる余裕がない”を解消。ChatGPTに次世代AIコーディングパートナー｢Codex｣が追加 \| ギズモード・ジャパン](https://www.gizmodo.jp/2025/05/openai_codex.html)
     - > 私の脳と手がボトルネックになることがある
 - （公開日：2025/05/18、閲覧日：2025/05/18）[AIお任せでプログラム開発。ChatGPTの新機能｢Codex｣を試してみた \| ギズモード・ジャパン](https://www.gizmodo.jp/2025/05/chatgpt_codex_handson.html)
+- （公開日：2025/10/07、閲覧日：2025/10/08）[OpenAI DevDay 2025 発表まとめ](https://zenn.dev/schroneko/articles/openai-devday-2025)
+    - Codexが正式リリース
 
 
 ### Kiro
