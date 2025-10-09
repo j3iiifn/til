@@ -408,3 +408,10 @@
         - 株式会社LayerX バクラク事業部 プログラマ、QA エンジニア teyamagu @teyamagu さん
         - 株式会社LayerX バクラク事業部 スタッフエンジニア izumin @izumin5210 さん
     - 現在、AIは幻滅期。でもこれから普及期が来る。
+- （2025/10/08）カウシェ主催、AI開発の実戦メソッドとアーキテクチャ事例 ― toCサービスの高速デリバリを支える技術 [＜connpass＞](https://kauche.connpass.com/event/368490/) [＜YouTube＞](https://www.youtube.com/watch?v=OUbCGm03uK0) ＜YouTubeアーカイブ動画あり＞
+    - タイミー 口藏 佳希さん、こうして私たちは顧客UXを守りながら数億円を手にした [＜資料＞](https://speakerdeck.com/mizunokura/kousitesi-tatihagu-ke-uxwoshou-rinagara-shu-yi-yuan-woshou-nisita)
+    - カウシェ 魚住 伸さん、実装計画を活用しAIの効果を最大化する ＜資料未公開＞
+        - チームとして実装計画を丁寧にやる
+    - Gaudiy Ryoさん、AI-DLCの本質から考える、これからのAI駆動開発 [＜資料＞](https://speakerdeck.com/ryio101010/ai-dlcnosi-xiang-niji-dukukorekaranoaiqu-dong-kai-fa)
+        - 0→1フェーズでのAI-DLCの適用
+    - ユーザベース 崔 井源(@jonlpstudy)さん、システムをあるべき姿から設計し直してみた [＜資料＞](https://speakerdeck.com/magicpieh28/sisutemuwoarubekizi-kara-she-ji-sizhi-sitemita)
