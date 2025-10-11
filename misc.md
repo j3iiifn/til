@@ -27,6 +27,9 @@
 - （公開日：2025/08/12、閲覧日：2025/08/12）[1on1の功罪について｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/times_serizawa_0002)
 - （公開日：2025/08/24、閲覧日：2025/08/25）[チームの問題の原因は外側にあることが多いよなぁ。「チームの力で組織を動かす」を読んだ。 \- Mitsuyuki\.Shiiba](https://bufferings.hatenablog.com/entry/2025/08/24/170220)
 
+## エンジニアリングマネージャ
+- （公開日：2025/10/10、閲覧日：2025/10/11）[最近エンジニアリングマネージャになったので、最近やっていることを紹介 \#DevKan \- hitode909の日記](https://blog.sushi.money/entry/2025/10/10/195616)
+
 ## 開発体制
 - （公開日：2025/06/26、閲覧日：2025/06/29）[SmartHR「給与計算開発」の裏話 〜スクラムとか色々やめました〜 ｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/voices_0002)
     - スクラム疲れ（実践方法が悪そう）
