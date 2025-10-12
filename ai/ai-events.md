@@ -354,6 +354,8 @@
     - 株式会社SODA/Mapleさん、AI Agentでフロントエンドリプレイスを倍速にした話 [＜資料＞](https://speakerdeck.com/fuuki12/jian-suo-ji-neng-ripureisuwo4keyue-2keyue-ni-ai-agentdeshi-xian-sita2bei-su-ripureisu)
         - 並列Agent
     - 🌟株式会社Almondo/北見 海貴さん、エンジニアがデザインまで担うためのAI駆動UIデザイン/フロントエンド開発実践 [＜資料＞](https://speakerdeck.com/kitami/hurontoendokai-fa-shi-jian-9c69dbf3-b457-499b-8570-34be01784ff0)
+- （2025/09/19）Azureわいがや会主催、VS Code Copilot Chatのコードを読む【GitHub Vibe Riders】 [＜connpass＞](https://azure-waigaya.connpass.com/event/367733/) [＜YouTube＞](https://www.youtube.com/watch?v=PthAK2ktwbg) ＜YouTubeアーカイブ動画あり＞
+    - DeepWikiを初めて見た。便利そうだと思った
 - （2025/09/24）Findy Team+主催、「使われるAI」を育てる ─ 開発現場で活きる仕組みを推進するには [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/367603/)
     - 🌟株式会社asken 山口 将央さん、「LLMを浸透させるための泥臭い話」 [＜資料＞](https://speakerdeck.com/oprstchn/llmwojin-tou-saserutamenoni-chou-ihua)
     - 🌟合同会社DMM.com 渡邊 泰裕さん、「AI時代における業務改善の第一歩」 [＜資料＞](https://www.slideshare.net/slideshow/dmm-com-ai-_-e39e/283369397)

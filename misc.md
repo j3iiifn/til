@@ -21,6 +21,8 @@
 - （公開日：2025/09/22、閲覧日：2025/09/26）[ソフトウェアエンジニアがプロダクトにオーナーシップを持てないアンチパターン、構造 \- 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く](https://nekogata.hatenablog.com/entry/2025/09/22/094637)
 - （公開日：2025/09/26、閲覧日：2025/09/29）[リモートワークが上手な人たち \- Money Forward Developers Blog](https://moneyforward-dev.jp/entry/2025/09/26/110000)
 - （公開日：2025/09/28、閲覧日：2025/09/29）[会議の参加意義がわからなくなった時のお作法 \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415)
+- （公開日：2025/10/09、閲覧日：2025/10/12）[認知負荷を下げるテキストコミュニケーション \- ジンジャー研究室](https://jinjor-labo.hatenablog.com/entry/2025/10/09/042519)
+- （公開日：2025/10/11、閲覧日：2025/10/12）[会議で "理由" を聞かれた時に焦らないようにする \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/10/11/195900)
 
 ## マネジメント
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
@@ -49,6 +51,9 @@
 
 ## 職場環境
 - （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)
+
+## 技術広報
+- （2025/10/09）Forkwell主催、技術広報の教科書 - Forkwell Library #109 [＜connpass＞](https://forkwell.connpass.com/event/368229/) ＜YouTubeアーカイブ動画あり＞
 
 ## 要件定義
 - （公開日：2025/08/05、閲覧日：2025/08/05）[なぜWhyを書くだけで生産性が上がるのか？｜すてぃお](https://note.com/suthio/n/nfe677919f3c9)

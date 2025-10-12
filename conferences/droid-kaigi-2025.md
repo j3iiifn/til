@@ -28,6 +28,7 @@
     - MapViewをCompose UIに組み込む話。AndroidViewを橋渡し役として使用する。ライフサイクルの処理をしっかりやる。
 - 公正取引委員会 / 鈴木健太さん、スマホ新法って何？１２月施行？アプリビジネスに影響あるの？ [＜イベントページ＞](https://2025.droidkaigi.jp/timetable/981378/)
     - 一般のアプリ開発企業に対する法律ではない
+- STORES inc / みっちゃんさん、Android値受け渡し大全 〜設計を制する者が「渡す」を制す！〜 [＜イベントページ＞](https://2025.droidkaigi.jp/timetable/940354/)
 
 ## 記事
 - （公開日：2025/09/16、閲覧日：2025/09/17）[Droidkaigi各社ブース紹介！クイズやノベルティなど・・・ブース企画の参考に🙌 \| イベントレポート！](https://www.wantedly.com/companies/dip/post_articles/1007674)

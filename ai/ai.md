@@ -88,6 +88,9 @@ __Docs__
 - （公開日：2025/05/18、閲覧日：2025/05/18）[AIお任せでプログラム開発。ChatGPTの新機能｢Codex｣を試してみた \| ギズモード・ジャパン](https://www.gizmodo.jp/2025/05/chatgpt_codex_handson.html)
 - （公開日：2025/10/07、閲覧日：2025/10/08）[OpenAI DevDay 2025 発表まとめ](https://zenn.dev/schroneko/articles/openai-devday-2025)
     - Codexが正式リリース
+- （公開日：2025/10/10、閲覧日：2025/10/12）[我々はCodexとどう向き合うべきなのか](https://zenn.dev/aki_think/articles/5fb93a15a6257a)
+    - > Codexでは「アンチプロンプティング」という発想が重要になる。これは、前処理（仕様・設計）は外部化し、入力は極小にするという方針だ。
+    - > 「コードレビューが得意」……GPT-5-Codexは従来のモデルと比べて強情で細かい。
 
 
 ### Kiro
