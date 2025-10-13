@@ -275,6 +275,12 @@
             - [takahirom/arbigent: AI Agent for testing Android, iOS, and Web apps\. Get Started in 5 Minutes\. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature ensures scalability for even the most complex tasks\.](https://github.com/takahirom/arbigent)
             - [AIエージェントによるテストフレームワーク Arbigent \- Speaker Deck](https://speakerdeck.com/takahirom/arbigent-test-by-ai-agent-ff262ea0-4da4-40b3-a34a-6d19afe6447e)
     - p.52: LangChainが提唱しているコンテキストエンジニアリングの手法：記述(Write)、選択(Select)、圧縮(Compress)、分離(Isolate)
+- （2025/08/22）Findy主催、【AI特集】3社が語るClaude Code活用 開発組織の取り組みと課題とは？ [＜connpass＞](https://findy.connpass.com/event/364178/) [＜イベントページ＞](https://findy-code.io/events/TLmRHsiWnyIRf) ＜YouTubeアーカイブ動画あり＞
+    - 千株式会社 んださん「Claude Codeで実装以外の開発フロー、どこまで自動化できるか？失敗と成功」[＜資料＞](https://speakerdeck.com/ndadayo/claude-codedeshi-zhuang-yi-wai-nokai-fa-huro-dokomadezi-dong-hua-dekiruka-shi-bai-tocheng-gong)
+        - ユーザ要望のやる・やら判定に必要な情報収集の自動化
+    - 株式会社カナリー 松本 真生「Claude Code を開発チームに迎え入れるためにやっておきたい環境整備」[＜資料＞](https://www.docswell.com/s/matsu3m/ZN9NEE-2025-08-22-090728)
+    - クラシル株式会社 橘井 貴輝さん「レガシープロジェクトで最大限AIの恩恵を受けられるようClaude Codeを利用する」[＜資料＞](https://speakerdeck.com/tk1351/regasipuroziekutodezui-da-xian-ainoen-hui-woshou-kerareruyouclaude-codewoli-yong-suru)
+        - > Plan modeで実行計画を擦り合わせてから実際の作業に移ってもらうことで方針違いを軽減
 - 🌟（2025/08/25）Creationline主催、和田卓人(t_wada)さんと考える AIとテストと若手の未来 [＜connpass＞](https://creationline.connpass.com/event/363530/) [＜YouTube＞](https://www.youtube.com/watch?v=rucS5uKZd0I) ＜YouTubeアーカイブ動画あり＞
     - 和田 卓人(@t_wada)さん、ソフトウェアエンジニア人生サバイバルガイド
     - 若手エンジニアの実践ミニトーク
