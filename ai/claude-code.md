@@ -57,6 +57,7 @@
         2. Gitのprepare-commit-msgフックでプロンプトをコミットメッセージに含める
         3. GitHub Actionsでコミットメッセージからプロンプト履歴を抽出し、Pull Requestのdescriptionに自動追記
 - （公開日：2025/09/11、閲覧日：2025/10/09）[Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い](https://zenn.dev/readyfor_blog/articles/11d4e6b6129428)
+- （公開日：2025/10/13、閲覧日：2025/10/14）[Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説](https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide)
 
 
 ## Claude Code本体のアップデート
