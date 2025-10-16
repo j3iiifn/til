@@ -176,3 +176,9 @@ layout_goneMarginBaseline
 
 ### LifecycleOwnerとしてのFragment自身 vs Fragment.viewLifecycleOwnerプロパティ
 - [【Android】LifecycleOwner として Fragment 自身ではなく viewLifecycleOwner を使うべき場合 \#ライフサイクル \- Qiita](https://qiita.com/sdkei/items/100580137e7b2f705205)
+
+
+## 未分類
+- （公開日：2025/10/16、閲覧日：2025/10/16）[頑張らない開発フロー（Android）｜haru067](https://note.com/haru067/n/n0aa6f9e8a239)
+    - > 我々のチームは全員Android歴が10年以上
+        - 普通そんなメンツを採用できないし、haru067さんのネームバリューは強い
