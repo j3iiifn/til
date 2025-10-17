@@ -423,3 +423,6 @@
     - Gaudiy Ryoさん、AI-DLCの本質から考える、これからのAI駆動開発 [＜資料＞](https://speakerdeck.com/ryio101010/ai-dlcnosi-xiang-niji-dukukorekaranoaiqu-dong-kai-fa)
         - 0→1フェーズでのAI-DLCの適用
     - ユーザベース 崔 井源(@jonlpstudy)さん、システムをあるべき姿から設計し直してみた [＜資料＞](https://speakerdeck.com/magicpieh28/sisutemuwoarubekizi-kara-she-ji-sizhi-sitemita)
+- （2025/10/15）Findy主催、大AI時代の航海術のヒント?「プロの流しのエンジニアが レガシーコードを読む意味」 [＜connpass＞](https://findy.connpass.com/event/370952/) [＜イベントページ＞](https://findy-code.io/events/nKcQ8zZCbkd1f) ＜YouTubeアーカイブ動画あり＞
+    - 石田 絢一 (@uzulla)さん、全部が教材 [＜資料＞](https://speakerdeck.com/uzulla/all-code-base-are-belong-to-study)
+    - 株式会社リンケージ COO・ CTO 曽根 壮大(そね たけとも)(@soudai1025)さん、言語化のコツ - AIも人間も5W1Hで上手くいく [＜資料＞](https://soudai.hatenablog.com/entry/5w1h)
