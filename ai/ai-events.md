@@ -426,3 +426,20 @@
 - （2025/10/15）Findy主催、大AI時代の航海術のヒント?「プロの流しのエンジニアが レガシーコードを読む意味」 [＜connpass＞](https://findy.connpass.com/event/370952/) [＜イベントページ＞](https://findy-code.io/events/nKcQ8zZCbkd1f) ＜YouTubeアーカイブ動画あり＞
     - 石田 絢一 (@uzulla)さん、全部が教材 [＜資料＞](https://speakerdeck.com/uzulla/all-code-base-are-belong-to-study)
     - 株式会社リンケージ COO・ CTO 曽根 壮大(そね たけとも)(@soudai1025)さん、言語化のコツ - AIも人間も5W1Hで上手くいく [＜資料＞](https://soudai.hatenablog.com/entry/5w1h)
+- （2025/10/17）AIエージェントユーザー会（AIAU）主催、Claude Code Meetup Tokyo [＜connpass＞](https://aiau.connpass.com/event/369265/) ＜YouTubeアーカイブ動画あり＞
+    - 🌟Oikon(@oikon48)さん、Claude Codeを駆使した初めてのiOSアプリ開発 [＜資料＞](https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade)
+        - > Claude is Horce, Claude Code is Harness
+        - 3種類のSubagent: Implementor, Validator, Architect
+        - ビルド・テストのフィードバックループをAIに回させる
+        - Claude Code(/review, /security-review), Codex CLI(/review), CodeRabbit(coderabbit --plain)の3種類のコードレビューを実行し、それぞれのレビュー結果をマージしたものをClaude Codeに食わせて妥当なものだけを抽出する
+    - ryoppippi(@ryoppippi)さん、claude codeの進化とccusage、そしてこれから [＜資料＞](https://talks.ryoppippi.com/2025-10-17/1)
+    - Kuu(@Fumiya_Kume)さん、Context Engineering を意識して Claude Code を最大限活用しよう！ [＜資料＞]()
+    - mae616(@mae616_)さん、AIと人間の共創開発！OSSで試行錯誤した開発スタイル [＜資料＞](https://speakerdeck.com/mae616/aitoren-jian-nogong-chuang-kai-fa-ossdeshi-xing-cuo-wu-sitakai-fa-sutairu)
+    - aq(@aqhayami)さん、Claude Agent SDK を使ってみよう [＜資料＞](https://speakerdeck.com/hyshu/ccrunner)
+    - MaikoKojima(@maikokojima)さん、3年ぶりにコードを書いた元CTOがClaude Codeと30分でMVPを作った話 [＜資料＞](https://speakerdeck.com/maikokojima/3nian-burinikodowoshu-itayuan-ctoga-claude-codeto30fen-demvpwozuo-tutahua)
+    - いちご(@ichigoooo015)さん、テスト生成で気づいた、Claude Codeとのベストな役割分担 [＜資料＞](https://speakerdeck.com/irishkooky/tesutosheng-cheng-deqi-duita-claude-codetonobesutonayi-ge-fen-dan)
+    - Gota(@gota_bara)さん、Subagents 再入門 ~cc-sdd Subagents版の実装で学んだこと~ [＜資料＞](https://speakerdeck.com/gotalab555/claude-code-subagents-zai-ru-men-cc-sddnoshi-zhuang-dexue-ndakoto)
+        - Xより https://x.com/gota_bara/status/1979774878862688742
+            - > ・@をつけてsubagrntsを明示的に指定して使う
+            - > ・CLAUDE .mdにいつ使うか書く
+    - Günther(グンタ)(@gunta85)さん、複数のGemini CLIが同時開発する狂気 - Jujutsuが実現するAIエージェント協調の新世界 [＜資料＞](https://speakerdeck.com/gunta/fu-shu-nogemini-cligatong-shi-kai-fa-surukuang-qi-jujutsugashi-xian-suruaiezientoxie-diao-noxin-shi-jie)
