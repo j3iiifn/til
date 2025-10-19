@@ -426,6 +426,10 @@
 - （2025/10/15）Findy主催、大AI時代の航海術のヒント?「プロの流しのエンジニアが レガシーコードを読む意味」 [＜connpass＞](https://findy.connpass.com/event/370952/) [＜イベントページ＞](https://findy-code.io/events/nKcQ8zZCbkd1f) ＜YouTubeアーカイブ動画あり＞
     - 石田 絢一 (@uzulla)さん、全部が教材 [＜資料＞](https://speakerdeck.com/uzulla/all-code-base-are-belong-to-study)
     - 株式会社リンケージ COO・ CTO 曽根 壮大(そね たけとも)(@soudai1025)さん、言語化のコツ - AIも人間も5W1Hで上手くいく [＜資料＞](https://soudai.hatenablog.com/entry/5w1h)
+- （2025/10/16）Forkwell主催、AIエージェント開発 / 運用入門 [生成AI深掘りガイド] - FL#110 [＜connpass＞](https://forkwell.connpass.com/event/369810/) [＜イベントページ＞](https://jobs.forkwell.com/events/r_n1m96f8) ＜YouTubeアーカイブ動画あり＞
+    - KDDIアジャイル開発センター株式会社 テックエバンジェリスト 御田 稔（みのるん） 氏（@minorun365）
+    - 三菱電機株式会社 ソフトウェアエンジニア 塚田 真規 氏（@ma_tsukada）
+    - コーディングエージェントはAIエージェントの中の1ジャンルにすぎない
 - （2025/10/17）AIエージェントユーザー会（AIAU）主催、Claude Code Meetup Tokyo [＜connpass＞](https://aiau.connpass.com/event/369265/) ＜YouTubeアーカイブ動画あり＞
     - 🌟Oikon(@oikon48)さん、Claude Codeを駆使した初めてのiOSアプリ開発 [＜資料＞](https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade)
         - > Claude is Horce, Claude Code is Harness

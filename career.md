@@ -16,3 +16,7 @@
 
 ## フリーランス
 - （2025/09/03）ファインディ株式会社主催、増井さんに聞く！フリーランスエンジニアになるための独立準備 [＜connpass＞](https://findy.connpass.com/event/365061/) [＜イベントページ＞](https://freelance.findy-code.io/events/kpYMPLIl6ZADK/viewer-link) ＜YouTubeアーカイブ動画あり＞
+
+
+## 個人開発
+- （2025/10/16）Findy主催、個人開発したサービスは40個以上！入江慎吾さんが語る個人開発のアンチパターン [＜connpass＞](https://findy.connpass.com/event/370179/) [＜イベントページ＞](https://freelance.findy-code.io/events/endHc8iVWFHub/) ＜YouTubeアーカイブ動画あり＞
