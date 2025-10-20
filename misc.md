@@ -57,7 +57,8 @@
 - （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)
 
 ## 技術広報
-- （2025/10/09）Forkwell主催、技術広報の教科書 - Forkwell Library #109 [＜connpass＞](https://forkwell.connpass.com/event/368229/) ＜YouTubeアーカイブ動画あり＞
+- （2025/10/09）Forkwell主催、技術広報の教科書 - Forkwell Library #109 [＜connpass＞](https://forkwell.connpass.com/event/368229/) ＜YouTubeアーカイブ動画あり＞ [＜資料＞](https://speakerdeck.com/r_kawamata/ji-shu-guang-bao-nojiao-ke-shu-dexue-bukai-fa-zu-zhi-nomei-li-nochuan-efang)
+    - 行動量目標（回数・件数）、定性目標＋補助的な定量指標
 
 ## 要件定義
 - （公開日：2025/08/05、閲覧日：2025/08/05）[なぜWhyを書くだけで生産性が上がるのか？｜すてぃお](https://note.com/suthio/n/nfe677919f3c9)
