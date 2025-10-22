@@ -24,6 +24,7 @@
 - （公開日：2025/10/09、閲覧日：2025/10/12）[認知負荷を下げるテキストコミュニケーション \- ジンジャー研究室](https://jinjor-labo.hatenablog.com/entry/2025/10/09/042519)
 - （公開日：2025/10/11、閲覧日：2025/10/12）[会議で "理由" を聞かれた時に焦らないようにする \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/10/11/195900)
 - （公開日：2025/10/13、閲覧日：2025/10/13）[思考速度がはやく見える人はそれまでの "思考量" が多い \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/10/13/082920)
+- （公開日：2025/10/19、閲覧日：2025/10/22）[進捗報告のやり方 \- Slava Akhmechet](https://zenn.dev/contradiction29/articles/f482262d1ab3c0)
 
 ## マネジメント
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞

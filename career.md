@@ -19,4 +19,9 @@
 
 
 ## 個人開発
-- （2025/10/16）Findy主催、個人開発したサービスは40個以上！入江慎吾さんが語る個人開発のアンチパターン [＜connpass＞](https://findy.connpass.com/event/370179/) [＜イベントページ＞](https://freelance.findy-code.io/events/endHc8iVWFHub/) ＜YouTubeアーカイブ動画あり＞
+- （2025/10/16）Findy主催、個人開発したサービスは40個以上！入江慎吾さんが語る個人開発のアンチパターン [＜connpass＞](https://findy.connpass.com/event/370179/) [＜イベントページ＞](https://freelance.findy-code.io/events/endHc8iVWFHub/viewer-link) ＜YouTubeアーカイブ動画あり＞
+- （2025/10/20）Findy主催、個人開発のアプリが10万DL突破するまでにしたこと [＜connpass＞](https://findy.connpass.com/event/370680/) [＜イベントページ＞](https://freelance.findy-code.io/events/skPuMolkwzb_3/viewer-link) ＜YouTubeアーカイブ動画あり＞
+    - アタカさん @atagon、「再現性が高そうな事を色々言います」 [＜資料＞](https://speakerdeck.com/atakadeck/zai-xian-xing-gagao-sounakotowose-yan-imasu)
+    - 又来 薫さん @mcz9mm、「自己満アプリから脱却するためにしたUI改善とは」
+    - 坂本 浩さん @hirothings、「minto 10万ダウンロードまでにやったこと・やらなかったこと」 [＜資料＞](https://speakerdeck.com/hirothings/minto-100k-dl)
+    - にょすさん @nyosubro0706、「意識したプロダクト戦略と、継続することの重要性」 [＜資料＞](https://speakerdeck.com/nyosu/yi-shi-sitapurodakutozhan-lue-to-ji-sok-surukotonozhong-yao-xing)
