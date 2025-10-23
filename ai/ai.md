@@ -147,6 +147,10 @@ __Docs__
 - （公開日：2025/09/30、閲覧日：2025/09/30）[Claude Sonnet 4\.5 発表関連情報まとめ](https://zenn.dev/schroneko/articles/claude-sonnet-4-5)
 
 
+### DeepSeek
+- （公開日：2025/10/22、閲覧日：2025/10/23）[画像でテキストをトークン圧縮するDeepSeek\-OCRがいろいろすごい \- きしだのHatena](https://nowokay.hatenablog.com/entry/2025/10/22/200049)
+
+
 ### Vibe Coding / Agentic Coding
 - （公開日：2025/04/11、閲覧日：2025/04/11）[最近1行もコードを書いていない](https://zenn.dev/notahotel/articles/e70325e770ffa6)
 - （公開日：2025/04/18、閲覧日：2025/04/19）[個人的 Vibe Coding のやりかた](https://zenn.dev/yoshiko/articles/my-vibe-coding)

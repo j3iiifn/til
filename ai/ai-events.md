@@ -447,5 +447,6 @@
             - > ・@をつけてsubagrntsを明示的に指定して使う
             - > ・CLAUDE .mdにいつ使うか書く
     - Günther(グンタ)(@gunta85)さん、複数のGemini CLIが同時開発する狂気 - Jujutsuが実現するAIエージェント協調の新世界 [＜資料＞](https://speakerdeck.com/gunta/fu-shu-nogemini-cligatong-shi-kai-fa-surukuang-qi-jujutsugashi-xian-suruaiezientoxie-diao-noxin-shi-jie)
+- （2025/10/17）社内限定イベント（非公開）
 - （2025/10/20）LINE Developer Community主催、LINE DC Generative AI Meetup #7 [＜connpass＞](https://linedevelopercommunity.connpass.com/event/371716/) [＜YouTube＞](https://www.youtube.com/watch?v=hrDWU4fzHJ8) ＜YouTubeアーカイブ動画あり＞
     - aki.ts (@HedgehogPython)さん、やさしいClaude Skills入門 [＜資料＞](https://www.docswell.com/s/harinezumi/5M683X-2025-10-21-003933)
