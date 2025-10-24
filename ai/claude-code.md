@@ -58,6 +58,8 @@
         3. GitHub Actionsでコミットメッセージからプロンプト履歴を抽出し、Pull Requestのdescriptionに自動追記
 - （公開日：2025/09/11、閲覧日：2025/10/09）[Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い](https://zenn.dev/readyfor_blog/articles/11d4e6b6129428)
 - （公開日：2025/10/13、閲覧日：2025/10/14）[Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説](https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide)
+- 🌟（公開日：2025/10/23、閲覧日：2025/10/24）[Claude Code導入3ヶ月後の社内アンケートから分かったこと](https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07)
+    - > 「AIによる効率化=楽になる」ではないという認識を持つ
 
 
 ## Claude Code本体のアップデート

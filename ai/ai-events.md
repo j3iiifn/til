@@ -450,3 +450,9 @@
 - （2025/10/17）社内限定イベント（非公開）
 - （2025/10/20）LINE Developer Community主催、LINE DC Generative AI Meetup #7 [＜connpass＞](https://linedevelopercommunity.connpass.com/event/371716/) [＜YouTube＞](https://www.youtube.com/watch?v=hrDWU4fzHJ8) ＜YouTubeアーカイブ動画あり＞
     - aki.ts (@HedgehogPython)さん、やさしいClaude Skills入門 [＜資料＞](https://www.docswell.com/s/harinezumi/5M683X-2025-10-21-003933)
+- （2025/10/21）Fusic Events主催、Fusic Tech Live 生成AI活用 ~AI CodingからAgents実装まで~ [＜connpass＞](https://fusic.connpass.com/event/366402/) [＜YouTube＞](https://www.youtube.com/live/kAhnKpEPl7M) ＜YouTubeアーカイブ動画あり＞
+    - 浦田 大貴さん、社内でのAIコーディング実践と効果 [＜資料＞](https://speakerdeck.com/7nohe/she-nei-denoaikodeingushi-jian-toxiao-guo)
+    - 山路 雅之さん、実案件でのAI活用 [＜資料＞](https://speakerdeck.com/masayuki031/21)
+        - 「事前検死」という言葉を初めて聞いた
+            - プロジェクト開始前のリスク洗い出し
+    - 大宮 佑仁さん、AWS Bedrock AgentCore に社内文書検索Botを構築する 〜AgentCoreの基本機能と実践的なChatBotの構築〜 [＜資料＞](https://speakerdeck.com/omiya0555/agentcorenoji-ben-ji-neng-toshi-jian-de-nachatbotnogou-zhu)
