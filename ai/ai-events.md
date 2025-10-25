@@ -423,6 +423,18 @@
     - Gaudiy Ryoさん、AI-DLCの本質から考える、これからのAI駆動開発 [＜資料＞](https://speakerdeck.com/ryio101010/ai-dlcnosi-xiang-niji-dukukorekaranoaiqu-dong-kai-fa)
         - 0→1フェーズでのAI-DLCの適用
     - ユーザベース 崔 井源(@jonlpstudy)さん、システムをあるべき姿から設計し直してみた [＜資料＞](https://speakerdeck.com/magicpieh28/sisutemuwoarubekizi-kara-she-ji-sizhi-sitemita)
+- （2025/10/14）AI駆動開発勉強会主催、Codex Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/369420/) [＜YouTube＞](https://www.youtube.com/live/Ur1tqTClx48) ＜YouTubeアーカイブ動画あり＞
+    - Kinopee/きのぴーさん(@kinopee_ai)、コードレビューでの Codex 活用法 [＜資料＞](https://speakerdeck.com/kinopeee/kodorebiyudeno-codex-huo-yong-fa)
+    - Haruki Kondo (mashharuki)さん(@haruki_web3)、kiroとCodeXで最高のSpec駆動開発を！！数時間で web3ネイティブなミニゲームを作ってみたよ！ [＜資料＞](https://speakerdeck.com/mashharuki/kirotocodexdezui-gao-nospecqu-dong-kai-fa-wo-shu-shi-jian-de-web3neiteibunaminigemuwozuo-tutemitayo)
+    - オカムラさん@株式会社メイク・ア・チェンジ (@masa_oka108)、OpenAIの公式情報を元にマルチプラットフォームとしてCodexの開発効率を最大化する話 [＜資料＞](https://speakerdeck.com/masahiro_okamura/14-openaigong-shi-noqing-bao-woyuan-nimarutihuratutohuomu-tositecodexnokai-fa-xiao-lu-wozui-da-hua-suruhua-a)
+    - Kuuさん(@Kuu)、Deep Dive into the Codex Cloud Environment [＜資料＞](https://www.docswell.com/s/fumiya-kume/5M68JL-2025-10-28-203259)
+    - アツシ@MOONGIFTさん(@goofmint)、Codexとも仲良く。CodeRabbit CLIの紹介 [＜資料＞](https://speakerdeck.com/moongift/codextomozhong-liang-ku-coderabbit-clinoshao-jie)
+    - [NG] Kenichi Kambaraさん(@korodroid)、Codex-Powered Mobile Apps Development [＜資料＞](https://speakerdeck.com/korodroid/codex-meetup-japan-number-1-codex-powered-mobile-apps-development)
+    - yume (ism-k)さん(https://x.com/engix_dev)、AGENTS.md速習：5分で精度を上げる“3ブロック”テンプレ [＜資料＞](https://speakerdeck.com/ismk/su-xi-agents-dot-md-5fen-dejing-du-woshang-geru-3burotuku-tenpure)
+    - nikkie (takuya_futatsugi)さん(@ftnext)、ねぇ、Codex CLI。私だけにあなたのコンテキスト、教えて？ [＜資料＞](https://ftnext.github.io/2025-slides/aidd-codex1/codex-rs-telemetry.html#/2)
+    - [NG] DAICHI (daichi-m)さん、非エンジニアがどこまで作れる？—20人で検証したCodex開発のリアル
+    - [NG] Shotaro Suzukiさん(@shosuz)、Codex が変える開発体験！設定ファイル生成から SwiftUI 改良まで [＜資料＞](https://www.docswell.com/s/shosuz/5M68XW-2025-10-14-210109)
+    - [NG] 佐藤勝彦さん(@jrpj2010)、[AI独学超大全] 非エンジニアのVibeWritingによる商業出版！次回作はCodex CLIで執筆中♫ [＜資料＞](https://docs.google.com/presentation/d/17EBLS62gncsxYPuQCMyDnIr2_DvcFKG4BgyyHs8iAAQ/edit)
 - （2025/10/15）Findy主催、大AI時代の航海術のヒント?「プロの流しのエンジニアが レガシーコードを読む意味」 [＜connpass＞](https://findy.connpass.com/event/370952/) [＜イベントページ＞](https://findy-code.io/events/nKcQ8zZCbkd1f) ＜YouTubeアーカイブ動画あり＞
     - 石田 絢一 (@uzulla)さん、全部が教材 [＜資料＞](https://speakerdeck.com/uzulla/all-code-base-are-belong-to-study)
     - 株式会社リンケージ COO・ CTO 曽根 壮大(そね たけとも)(@soudai1025)さん、言語化のコツ - AIも人間も5W1Hで上手くいく [＜資料＞](https://soudai.hatenablog.com/entry/5w1h)

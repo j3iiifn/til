@@ -91,7 +91,8 @@ __Docs__
 - （公開日：2025/10/10、閲覧日：2025/10/12）[我々はCodexとどう向き合うべきなのか](https://zenn.dev/aki_think/articles/5fb93a15a6257a)
     - > Codexでは「アンチプロンプティング」という発想が重要になる。これは、前処理（仕様・設計）は外部化し、入力は極小にするという方針だ。
     - > 「コードレビューが得意」……GPT-5-Codexは従来のモデルと比べて強情で細かい。
-
+- （公開日：2025/10/24、閲覧日：2025/10/25）[今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選](https://zenn.dev/fastdoctor/articles/ebe3e41039a98f)
+    - 「SDD用PromptをAGENTS.mdで構築」とのことだが、そういうのは普通 [Custom Prompts](https://github.com/openai/codex/blob/main/docs/prompts.md) に分離して書くべきでは？
 
 ### Kiro
 - （公開日：2025/07/16、閲覧日：2025/07/16）[amazonの出したIDE「kiro」がめちゃくちゃ未来だったのでClaude Codeユーザーの人はみんな一度試してみてほしい](https://zenn.dev/sesere/articles/31d4b460c949e5)
@@ -284,6 +285,10 @@ __Docs__
     - > 人間の仕事：AIの出力に責任を追うこと、AIの出力に付加価値をつけること（リテイクを出すためには専門知識が不可欠）
 - 🌟（公開日：2025/10/02、閲覧日：2025/10/05）[どのくらい生成AIに任せているかをあらわす指標 \- Mitsuyuki\.Shiiba](https://bufferings.hatenablog.com/entry/2025/10/02/235024)
     - > 生成されたコードを自分が読んでいない割合
+
+### 業務活用
+- （公開日：2025/10/23、閲覧日：2025/10/25）[『Gemini と NotebookLM を組み合わせて 目標設定の負荷を軽減する方法』というお題で登壇しました \- Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2025/10/23/095714)
+
 
 ### その他
 - （公開日：2025/06/11、閲覧日：2025/06/12）[AI領域における組織の強みを活かすアーキテクチャ設計](https://zenn.dev/aishift/articles/c897d0e095c3d8)
