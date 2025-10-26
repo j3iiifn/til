@@ -93,6 +93,7 @@ __Docs__
     - > 「コードレビューが得意」……GPT-5-Codexは従来のモデルと比べて強情で細かい。
 - （公開日：2025/10/24、閲覧日：2025/10/25）[今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選](https://zenn.dev/fastdoctor/articles/ebe3e41039a98f)
     - 「SDD用PromptをAGENTS.mdで構築」とのことだが、そういうのは普通 [Custom Prompts](https://github.com/openai/codex/blob/main/docs/prompts.md) に分離して書くべきでは？
+- （公開日：2025/10/25、閲覧日：2025/10/26）[ここが変だよLLMコーディングエージェント\(Codex\)](https://zenn.dev/takeshy/articles/20b8b2ab499b6f)
 
 ### Kiro
 - （公開日：2025/07/16、閲覧日：2025/07/16）[amazonの出したIDE「kiro」がめちゃくちゃ未来だったのでClaude Codeユーザーの人はみんな一度試してみてほしい](https://zenn.dev/sesere/articles/31d4b460c949e5)
@@ -242,6 +243,9 @@ __Docs__
     - AIが必要に応じて人間に助けを求めるようにさせるプロンプトの紹介。🌟良記事
 - 🌟（公開日：2025/09/26、閲覧日：2025/09/28）[AIと『対話しない』対話法、モノローグ法 \#ChatGPT \- Qiita](https://qiita.com/makotosaekit/items/2e5c7d3b4504aeccf456)
 - （公開日：2025/10/14、閲覧日：2025/10/16）[言語化のコツ \- AIも人間も5W1Hで上手くいく \- そーだいなるらくがき帳](https://soudai.hatenablog.com/entry/5w1h)
+- （公開日：2025/10/25、閲覧日：2025/10/26）[統一的プロンプトの終焉：もはやllmモデルに互換性はありません](https://www.coderabbit.ai/ja/blog/the-end-of-one-sized-fits-all-prompts-why-llm-models-are-no-longer-interchangeable-ja)
+    - モデルによって性格が異なるため、単一のプロンプトで複数のモデルを動かすのは無理がある
+
 
 ### エッセイ、キャリア論
 - （公開日：2025/05/03、閲覧日：2025/05/03）[AI Coding Agent を使うことで、怒り狂い、視座が上昇する話 \- Lambdaカクテル](https://blog.3qe.us/entry/2025/05/03/000513)

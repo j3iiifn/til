@@ -423,6 +423,12 @@
     - Gaudiy Ryoさん、AI-DLCの本質から考える、これからのAI駆動開発 [＜資料＞](https://speakerdeck.com/ryio101010/ai-dlcnosi-xiang-niji-dukukorekaranoaiqu-dong-kai-fa)
         - 0→1フェーズでのAI-DLCの適用
     - ユーザベース 崔 井源(@jonlpstudy)さん、システムをあるべき姿から設計し直してみた [＜資料＞](https://speakerdeck.com/magicpieh28/sisutemuwoarubekizi-kara-she-ji-sizhi-sitemita)
+- （2025/10/10）レバテックLAB主催、実装の精度を上げる、設計フェーズのAI活用 [＜connpass＞](https://levtechlab.connpass.com/event/369166/) [＜イベントページ＞]() [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
+    - 株式会社ラクス　平川 裕多(@hirasan333)さん「設計フェーズを加速するAI活用戦略」 [＜資料＞](https://speakerdeck.com/rakus_dev/ai-strategy-for-accelerated-design)
+        - 実装作業の9割をAIがやる、概要設計をAIにやらせて4〜6割を使用
+    - 株式会社ログラス　南部 豪(@go_dev5)さん「設計において人間が担う責務とAIの活用例」 [＜資料＞](https://speakerdeck.com/gonambu/human-responsibilities-in-design-and-examples-of-ai-use)
+        - draw.ioをAIに書かせる
+    - 株式会社スマートバンク　井谷 裕紀(@w650)さん「仕様書駆動開発の理想と現実 ─ Claude Code実践で直面した課題」
 - （2025/10/14）AI駆動開発勉強会主催、Codex Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/369420/) [＜YouTube＞](https://www.youtube.com/live/Ur1tqTClx48) ＜YouTubeアーカイブ動画あり＞
     - Kinopee/きのぴーさん(@kinopee_ai)、コードレビューでの Codex 活用法 [＜資料＞](https://speakerdeck.com/kinopeee/kodorebiyudeno-codex-huo-yong-fa)
     - Haruki Kondo (mashharuki)さん(@haruki_web3)、kiroとCodeXで最高のSpec駆動開発を！！数時間で web3ネイティブなミニゲームを作ってみたよ！ [＜資料＞](https://speakerdeck.com/mashharuki/kirotocodexdezui-gao-nospecqu-dong-kai-fa-wo-shu-shi-jian-de-web3neiteibunaminigemuwozuo-tutemitayo)
@@ -460,6 +466,7 @@
             - > ・CLAUDE .mdにいつ使うか書く
     - Günther(グンタ)(@gunta85)さん、複数のGemini CLIが同時開発する狂気 - Jujutsuが実現するAIエージェント協調の新世界 [＜資料＞](https://speakerdeck.com/gunta/fu-shu-nogemini-cligatong-shi-kai-fa-surukuang-qi-jujutsugashi-xian-suruaiezientoxie-diao-noxin-shi-jie)
 - （2025/10/17）社内限定イベント（非公開）
+    - [【資料公開】生成AIでスクラムによる開発はどう変わるか \| Ryuzee\.com](https://www.ryuzee.com/contents/blog/14605#)
 - （2025/10/20）LINE Developer Community主催、LINE DC Generative AI Meetup #7 [＜connpass＞](https://linedevelopercommunity.connpass.com/event/371716/) [＜YouTube＞](https://www.youtube.com/watch?v=hrDWU4fzHJ8) ＜YouTubeアーカイブ動画あり＞
     - aki.ts (@HedgehogPython)さん、やさしいClaude Skills入門 [＜資料＞](https://www.docswell.com/s/harinezumi/5M683X-2025-10-21-003933)
 - （2025/10/21）Fusic Events主催、Fusic Tech Live 生成AI活用 ~AI CodingからAgents実装まで~ [＜connpass＞](https://fusic.connpass.com/event/366402/) [＜YouTube＞](https://www.youtube.com/live/kAhnKpEPl7M) ＜YouTubeアーカイブ動画あり＞
@@ -468,3 +475,9 @@
         - 「事前検死」という言葉を初めて聞いた
             - プロジェクト開始前のリスク洗い出し
     - 大宮 佑仁さん、AWS Bedrock AgentCore に社内文書検索Botを構築する 〜AgentCoreの基本機能と実践的なChatBotの構築〜 [＜資料＞](https://speakerdeck.com/omiya0555/agentcorenoji-ben-ji-neng-toshi-jian-de-nachatbotnogou-zhu)
+- （2025/10/21）Findy主催、GitHub服部さんと一緒に考える、AI時代のコーディングと コードレビューのこれから [＜connpass＞](https://findy.connpass.com/event/371170/) [＜イベントページ＞](https://findy-code.io/events/YEmf4L_kDxHOD) ＜YouTubeアーカイブ動画あり＞
+- 🌟（2025/10/22）サポーターズCoLab主催、AIプロダクトのプロンプト実践テクニック [＜connpass＞](https://supporterz-seminar.connpass.com/event/371242/)
+    - PeopleX 坂津潤平(@saka2jp)さん [＜資料＞](https://speakerdeck.com/saka2jp/practical-techniques-for-ai-product-prompts)
+    - GPTの動作メカニズム：事前学習、Transformer、ファインチューニング
+    - プロンプトエンジニアリング
+    - 最適なモデル選択、zero-shotから始める、「するな」より「しろ」、指示は最小限に、「重要」は危険信号
