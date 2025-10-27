@@ -57,6 +57,17 @@
 ## 職場環境
 - （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)
 
+## デスク
+- （2025/10/23）Findy主催、Engineer Desk Tour - みんなのおすすめガジェット祭 [＜connpass＞](https://findy.connpass.com/event/371827/) [＜イベントページ＞](https://findy-code.io/events/1yeRlczJCO7cQ)
+    - 🌟mozumasuさん、「モテるデスク環境」[＜資料＞](https://speakerdeck.com/mozumasu/moterudesukuhuan-jing)
+        - 無印良品の羽織れる電気ブランケット
+    - 🌟もっちさん、「もう外には出ない。より快適なフルリモート環境を目指して」[＜資料＞](https://speakerdeck.com/mottyzzz/mouwai-nihachu-nai-yorikuai-shi-nahururimotohuan-jing-womu-zhi-site)
+        - 昇降デスク＋ウォーキングマシン
+    - サリチル酸さん、「自作キーボードのススメ」
+    - JAESOON JEONGさん、「デスク環境について」
+    - 高須賀 将秀さん、「私の考える最強のデスクスペース」
+    - odashoさん、「iPhoneとｦﾚの14年史」
+
 ## 技術広報
 - （2025/10/09）Forkwell主催、技術広報の教科書 - Forkwell Library #109 [＜connpass＞](https://forkwell.connpass.com/event/368229/) ＜YouTubeアーカイブ動画あり＞ [＜資料＞](https://speakerdeck.com/r_kawamata/ji-shu-guang-bao-nojiao-ke-shu-dexue-bukai-fa-zu-zhi-nomei-li-nochuan-efang)
     - 行動量目標（回数・件数）、定性目標＋補助的な定量指標

@@ -69,3 +69,7 @@ ipaファイルを[iOS App Signer](https://github.com/DanTheMan827/ios-app-signe
 - short formの状態からモーダルを下へスワイプするとモーダルが閉じる
 - PanModal内部では現在の状態（short formとlong formのどちらなのか）は保持していない
 - ユーザのスワイプジェスチャーの方向と、モーダルの現在位置を元に、①longFormへ変形、②shortFormへ変形、③dismissのどれを実行するかを決定している
+
+
+## マルチプラットフォーム
+- （公開日：2025/10/27、閲覧日：2025/10/27）[Apple、「Swift SDK for Android」プレビュー公開。Swift言語でAndroid対応アプリを開発 － Publickey](https://www.publickey1.jp/blog/25/appleswift_sdk_for_androidswiftandroid.html)
