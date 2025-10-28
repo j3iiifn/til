@@ -60,6 +60,7 @@
 - （公開日：2025/10/13、閲覧日：2025/10/14）[Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説](https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide)
 - 🌟（公開日：2025/10/23、閲覧日：2025/10/24）[Claude Code導入3ヶ月後の社内アンケートから分かったこと](https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07)
     - > 「AIによる効率化=楽になる」ではないという認識を持つ
+- （公開日：2025/10/28、閲覧日：2025/10/28）[ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 \- RAKUS Developers Blog \| ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming)
 
 
 ## Claude Code本体のアップデート

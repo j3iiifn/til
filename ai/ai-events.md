@@ -429,6 +429,9 @@
     - 株式会社ログラス　南部 豪(@go_dev5)さん「設計において人間が担う責務とAIの活用例」 [＜資料＞](https://speakerdeck.com/gonambu/human-responsibilities-in-design-and-examples-of-ai-use)
         - draw.ioをAIに書かせる
     - 株式会社スマートバンク　井谷 裕紀(@w650)さん「仕様書駆動開発の理想と現実 ─ Claude Code実践で直面した課題」
+        - 作業しやすい粒度に分割した単位（例：ユースケース単位）に対して仕様駆動開発
+        - [Spec Workflow MCP](https://github.com/Pimzino/spec-workflow-mcp)
+            - 明確な承認フローをGUIで提供
 - （2025/10/14）AI駆動開発勉強会主催、Codex Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/369420/) [＜YouTube＞](https://www.youtube.com/live/Ur1tqTClx48) ＜YouTubeアーカイブ動画あり＞
     - Kinopee/きのぴーさん(@kinopee_ai)、コードレビューでの Codex 活用法 [＜資料＞](https://speakerdeck.com/kinopeee/kodorebiyudeno-codex-huo-yong-fa)
     - Haruki Kondo (mashharuki)さん(@haruki_web3)、kiroとCodeXで最高のSpec駆動開発を！！数時間で web3ネイティブなミニゲームを作ってみたよ！ [＜資料＞](https://speakerdeck.com/mashharuki/kirotocodexdezui-gao-nospecqu-dong-kai-fa-wo-shu-shi-jian-de-web3neiteibunaminigemuwozuo-tutemitayo)

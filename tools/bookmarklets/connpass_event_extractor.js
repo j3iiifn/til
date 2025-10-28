@@ -15,6 +15,7 @@ javascript:(function(){
         const groupElement = document.querySelector('.group_title');
         groupName = groupElement.textContent.trim();
     }
+    groupName = groupName.replace('ファインディ株式会社', 'Findy')
     
     const ymdElement = document.querySelector('.ymd');
     const eventDate = ymdElement.textContent.trim().replace(/\([^)]*\)/, '');
