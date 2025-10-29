@@ -25,3 +25,7 @@
     - 又来 薫さん @mcz9mm、「自己満アプリから脱却するためにしたUI改善とは」
     - 坂本 浩さん @hirothings、「minto 10万ダウンロードまでにやったこと・やらなかったこと」 [＜資料＞](https://speakerdeck.com/hirothings/minto-100k-dl)
     - にょすさん @nyosubro0706、「意識したプロダクト戦略と、継続することの重要性」 [＜資料＞](https://speakerdeck.com/nyosu/yi-shi-sitapurodakutozhan-lue-to-ji-sok-surukotonozhong-yao-xing)
+
+
+## 評価
+- （2025/10/28）LAPRAS主催、Songmuさん、「自己アピール」を正しくできるようにするにはどう向き合うといいですか？ [＜connpass＞](https://lapras.connpass.com/event/371687/) [＜イベントページ＞](https://lapras.com/events/19) [＜資料＞](https://www.docswell.com/s/Songmu/ZN9347-self-evaluation-skills-v2)
