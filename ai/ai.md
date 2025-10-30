@@ -39,6 +39,7 @@
     - まさかのeditモード縛りだった。ぜひagentモードを使ってほしい。
 - 📝🌟（公開日：2025/09/18、閲覧日：2025/09/19）[Issue, Pull\-request, GitHub Copilotによる「普通」の一人チーム開発 \- Cybozu Inside Out \| サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2025/09/18/113000)
 - （公開日：2025/10/29、閲覧日：2025/10/29）[［速報］GitHub、AIエージェントを統べる「Agent HQ」構想を発表。ClaudeやCodex、Devinなど他社AIエージェントも利用可能に － Publickey](https://www.publickey1.jp/blog/25/githubaiagent_hqgithubclaudecodexdevinai.html)
+- （公開日：2025/10/30、閲覧日：2025/10/30）[VS Code、Copilotが仕様作成を支援する「Planモード」が追加 － Publickey](https://www.publickey1.jp/blog/25/vs_codecopilotplan.html)
 
 
 #### 公式ドキュメント
@@ -303,6 +304,8 @@ __Docs__
 - （公開日：2025/07/03、閲覧日：2025/07/03）[AIに仕様書を読ませるとテストケースを自動生成、テストコードも書いてくれる「Autify Nexus」、Autifyが発表 － Publickey](https://www.publickey1.jp/blog/25/aiautify_nexusautify.html)
 - （公開日：2025/07/27、閲覧日：2025/07/27）[Kimi K2とLLMのベンチマークスコア](https://blog.lai.so/kimi-k2/)
 - （公開日：2025/08/30、閲覧日：2025/08/31）[AIプログラムの開発演習に使う低消費リソースローカルLLMはQwen3 1\.7B Q4がベスト \- きしだのHatena](https://nowokay.hatenablog.com/entry/2025/08/30/104903)
+- （公開日：2025/10/24、閲覧日：2025/10/30）[Notionの中の小人 \- クソパンダの健康生活](https://monoooki.net/2025/10/little-people-in-notion#%E3%81%AF%E3%81%84%E3%81%93%E3%81%A1%E3%82%89%E5%B0%8F%E4%BA%BA%E8%A8%AD%E8%A8%88%E5%B1%80%E3%81%A7%E3%81%99)
+    - 小人設計局
 
 
 ## 見た動画

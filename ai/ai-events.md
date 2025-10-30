@@ -484,3 +484,4 @@
     - GPTの動作メカニズム：事前学習、Transformer、ファインチューニング
     - プロンプトエンジニアリング
     - 最適なモデル選択、zero-shotから始める、「するな」より「しろ」、指示は最小限に、「重要」は危険信号
+- （2025/10/21）Findy主催、広木大地さん新刊先取り！AI疲れの正体と生産性の行方 [＜connpass＞](https://findy.connpass.com/event/370273/) [＜イベントページ＞](https://findy-code.io/events/TKG9kmGx2oGED) ＜YouTubeアーカイブ動画あり＞
