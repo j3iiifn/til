@@ -485,3 +485,11 @@
     - プロンプトエンジニアリング
     - 最適なモデル選択、zero-shotから始める、「するな」より「しろ」、指示は最小限に、「重要」は危険信号
 - （2025/10/21）Findy主催、広木大地さん新刊先取り！AI疲れの正体と生産性の行方 [＜connpass＞](https://findy.connpass.com/event/370273/) [＜イベントページ＞](https://findy-code.io/events/TKG9kmGx2oGED) ＜YouTubeアーカイブ動画あり＞
+- （2025/10/29）AIエージェントユーザー会（AIAU）主催、Cursor Meetup Tokyo #2 [＜connpass＞](https://aiau.connpass.com/event/371661/) [＜イベントページ＞](https://luma.com/wreptkh6?tk=EHNW6r) [＜YouTube＞](https://www.youtube.com/watch?v=HSMohYjj2QA) ＜YouTubeアーカイブ動画あり＞
+    - 湯川 昇平(@Perk_sh)さん、Vibe Coding禁止！ Cursorを先生にしてにiOSアプリ開発を学習 [＜資料＞](https://speakerdeck.com/yukawashouhei/iosapuriwocursortoxue-xi-suru2025nian-10yue-no-zi-fen-no-besutopurakuteisu)
+    - taaakoさん、非エンジニアがCursorで創り始めた時、エンジニアは何をすべきか
+    - MKさん、「あなたのAI、私のシェル」 - プロンプトインジェクションによるエージェントのハイジャック [＜資料＞](https://speakerdeck.com/mk0721/20251029-cursor-meetup-tokyo-number-02-mk-anatanoai-si-nosieru-puronputoinziekusiyonniyoruezientonohaiziyatuku)
+    - りくお(@riku720720)さん、AIプロダクト開発の裏側：Cursorの活用方法 [＜資料＞](https://speakerdeck.com/link2004/29-cursor-meetup-tokyo-number-02-deng-tan-zi-liao)
+        - 改題：どこまでをAIに任せるべきか
+        - 「どのくらい生成AIに任せているかをあらわす指標」という記事を引用
+        - AIに任せる3つの判断軸：時間軸、影響範囲、汎用性
