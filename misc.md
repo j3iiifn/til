@@ -37,6 +37,12 @@
     - ssssschangさんのブコメと私も同じ意見
         - > 発信することが目的化している
 
+## Product Manager (プロダクトマネージャー)
+- （2025/10/02）Findy主催、【プロダクトエンジニア特集】3社が語るプロダクトエンジニア ~事業課題と向き合う役割と組織~ [＜connpass＞](https://findy.connpass.com/event/366535/) [＜イベントページ＞](https://findy-code.io/events/HqxXuRxgHB9yo) ＜YouTubeアーカイブ動画あり＞
+    - MOSH株式会社 益田 祐輔 @massyuu85さん、「多様な事業ドメインのクリエイターへ価値を届けるための営みについて」 [＜資料＞](https://speakerdeck.com/massyuu/duo-yang-nashi-ye-domeinnokurieitahe-jia-zhi-wojie-kerutamenoying-minituite)
+    - ファストドクター株式会社 加藤 倫弘さん、「レガシー医療システムを進化させるプロダクトエンジニアの本音（仮） [＜資料＞]()
+    - 株式会社グラファー 河治 寿都さん、「プロダクトエンジニアへのご招待 -良くある誤解と価値ある未来-」 [＜資料＞](https://speakerdeck.com/graffer/purodakutoenziniahenogozhao-dai)
+
 ## 開発体制
 - （公開日：2025/06/26、閲覧日：2025/06/29）[SmartHR「給与計算開発」の裏話 〜スクラムとか色々やめました〜 ｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/voices_0002)
     - スクラム疲れ（実践方法が悪そう）
