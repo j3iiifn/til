@@ -36,6 +36,8 @@
 - （公開日：2025/10/14、閲覧日：2025/10/15）[エンジニアが外部への技術発信をしない3つの理由と、EMができること \- るさんちまん](https://naopr.hatenablog.com/entry/2025/10/14/085021)
     - ssssschangさんのブコメと私も同じ意見
         - > 発信することが目的化している
+- （2025/10/30）Forkwell主催、エンジニアリングリーダー　―技術組織を育てるリーダーシップとセルフマネジメント - FL#112 [＜connpass＞](https://forkwell.connpass.com/event/372038/) [＜イベントページ＞](https://jobs.forkwell.com/events/ja_90_38w4) ＜YouTubeアーカイブ動画あり＞
+    - 岩瀬 義昌 氏（@iwashi86）さん、「ざっくり学ぶ『エンジニアリングリーダー　技術組織を育てるリーダーシップとセルフマネジメント』」 [＜資料＞](https://speakerdeck.com/iwashi86/50-minute-engineering-leader)
 
 ## Product Manager (プロダクトマネージャー)
 - （2025/10/02）Findy主催、【プロダクトエンジニア特集】3社が語るプロダクトエンジニア ~事業課題と向き合う役割と組織~ [＜connpass＞](https://findy.connpass.com/event/366535/) [＜イベントページ＞](https://findy-code.io/events/HqxXuRxgHB9yo) ＜YouTubeアーカイブ動画あり＞

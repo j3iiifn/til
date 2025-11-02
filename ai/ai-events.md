@@ -451,6 +451,16 @@
     - KDDIアジャイル開発センター株式会社 テックエバンジェリスト 御田 稔（みのるん） 氏（@minorun365）
     - 三菱電機株式会社 ソフトウェアエンジニア 塚田 真規 氏（@ma_tsukada）
     - コーディングエージェントはAIエージェントの中の1ジャンルにすぎない
+- （2025/10/16）Findy主催、＃QATT番外編　秋の夜長に品質ゆるトーク交流会 [＜connpass＞](https://findy.connpass.com/event/370888/) [＜イベントページ＞]() [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
+    - Sum (金田直純)さん、LT①「ファインディQAチーム これからのチャレンジ！」[＜資料＞](https://speakerdeck.com/findy_eventslides/findy-team-plus-qatimu-korekaranotiyarenzi)
+        - 1人目 QAエンジニア
+    - 株式会社TRAILBLAZER おかやまさん、LT②「常識を打ち破れ　〜大企業とスタートアップの狭間で生まれた、チーム再生の物語〜」
+    - すずきさん、LT③「『改善』ってこれでいいんだっけ？」[＜資料＞](https://speakerdeck.com/ukigmo_hiro/gai-shan-tutekoredeiindatuke-findyyang-number-qattfan-wai-bian-qiu-noye-chang-nipin-zhi-yurutokujiao-liu-hui-20251016)
+    - スタメン株式会社 にいくらさん、LT④「QAが辿るべき思想」
+    - ユニファ株式会社 高田佑樹（a.k.a ゆきたか）(@tackaaaada)さん、LT⑤「やわらかな"評価"と、その敵　〜ゆるゆる Ver.〜」[＜資料＞](https://speakerdeck.com/tkd_yuki/yawarakana-ping-jia-to-sonodi-yuruyuru-ver-dot)
+    - 株式会社マネーフォワード yoya(@yoya_k)さん、LT⑥「英語で境界値を表現する難しさ」
+    - 株式会社ニーリー ysekii(@ysekii_)さん、LT⑦「品質ワークショップをやってみた」[＜資料＞](https://speakerdeck.com/nealle/pin-zhi-wakusiyotupuwoyatutemita)
+    - 株式会社Voicy Sammy(@AWorkingholiday)さん、LT⑧「テストでの生成AI活用〜つまずきと学び〜」[＜資料＞](https://speakerdeck.com/moritamasami/tesutotenosheng-cheng-aihuo-yong-tumasukitoxue-hi)
 - （2025/10/17）AIエージェントユーザー会（AIAU）主催、Claude Code Meetup Tokyo [＜connpass＞](https://aiau.connpass.com/event/369265/) ＜YouTubeアーカイブ動画あり＞
     - 🌟Oikon(@oikon48)さん、Claude Codeを駆使した初めてのiOSアプリ開発 [＜資料＞](https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade)
         - > Claude is Horce, Claude Code is Harness
@@ -485,6 +495,12 @@
     - プロンプトエンジニアリング
     - 最適なモデル選択、zero-shotから始める、「するな」より「しろ」、指示は最小限に、「重要」は危険信号
 - （2025/10/21）Findy主催、広木大地さん新刊先取り！AI疲れの正体と生産性の行方 [＜connpass＞](https://findy.connpass.com/event/370273/) [＜イベントページ＞](https://findy-code.io/events/TKG9kmGx2oGED) ＜YouTubeアーカイブ動画あり＞
+- （2025/10/27）Findy主催、AIエージェント進化の鍵 音声・動画 によって拓かれた未来を知る [＜connpass＞](https://findy.connpass.com/event/371950/) [＜イベントページ＞](https://findy-code.io/events/nwn6dCYgbyKVD) ＜YouTubeアーカイブ動画あり＞
+    - 🌟株式会社Almondo 松本 悠秀(@YuhoMatsumoto)さん、マルチエージェントとは [＜資料＞](https://speakerdeck.com/almondo_event/20251027-marutiezientotoha)
+        - AIエージェントの定義を3個紹介
+        - LLMとAIエージェントの歴史
+    - TIS株式会社 横井 公紀(@nasuvit_z)さん、AIエージェントによる業務効率化への飽くなき挑戦 - AWS上の実開発事例から学んだ効果、現実そしてギャップ- [＜資料＞](https://speakerdeck.com/nasuvitz/aiezientoniyoruye-wu-xiao-lu-hua-henobao-kunakitiao-zhan-awsshang-noshi-kai-fa-shi-li-karaxue-ndaxiao-guo-xian-shi-sositegiyatupu)
+    - 株式会社Almondo 松本 悠秀(@YuhoMatsumoto)さん、音声対話エージェントから学ぶマルチエージェント設計 [＜資料＞](https://speakerdeck.com/almondo_event/20251027-findysan-multi-agent)
 - （2025/10/29）AIエージェントユーザー会（AIAU）主催、Cursor Meetup Tokyo #2 [＜connpass＞](https://aiau.connpass.com/event/371661/) [＜イベントページ＞](https://luma.com/wreptkh6?tk=EHNW6r) [＜YouTube＞](https://www.youtube.com/watch?v=HSMohYjj2QA) ＜YouTubeアーカイブ動画あり＞
     - 湯川 昇平(@Perk_sh)さん、Vibe Coding禁止！ Cursorを先生にしてにiOSアプリ開発を学習 [＜資料＞](https://speakerdeck.com/yukawashouhei/iosapuriwocursortoxue-xi-suru2025nian-10yue-no-zi-fen-no-besutopurakuteisu)
     - taaakoさん、非エンジニアがCursorで創り始めた時、エンジニアは何をすべきか
@@ -493,3 +509,16 @@
         - 改題：どこまでをAIに任せるべきか
         - 「どのくらい生成AIに任せているかをあらわす指標」という記事を引用
         - AIに任せる3つの判断軸：時間軸、影響範囲、汎用性
+- （2025/10/30）FindyTeam主催、AIをどこまで組み込ませるか - 要件定義からテストまで拡張する開発プロセス [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/370510/)
+    - PRONI株式会社 竹澤 裕次郎 (@yutake125)さん、「現場起点×プロトタイピングで“最速PDCA”を実現する」[＜資料＞](https://speakerdeck.com/proni/proni-event-20251030)
+    - 株式会社ナレッジワーク zi (@iz_dot)さん、「AIを使ってテストを楽にする」[＜資料＞](https://speakerdeck.com/kworkdev/make-testing-easier-with-ai)
+    - ファインディ株式会社 熊野 修太 (@shoota)さん、「AIの個性を理解し、指揮する」[＜資料＞](https://speakerdeck.com/shoota/ai-characteristic)
+- （2025/10/31）Findy主催、開発環境自慢Night 〜CLI型AIエージェント×ターミナル編〜 [＜connpass＞](https://findy.connpass.com/event/372055/) [＜イベントページ＞](https://findy-code.io/events/OiI6NcysBE3YZ)
+    - 株式会社テックリード ゴリラ(@gorilla0513)さん、Talk①「とあるVimmerとAIエージェントの作業環境のご紹介」[＜資料＞](https://speakerdeck.com/skanehira/findy-ai-terminal)
+    - 株式会社アットマーク たけてぃ(@takeokunn)さん、Talk②「nixos-containerで100並列AI実行に挑戦する」[＜資料＞](https://docs.google.com/presentation/d/10qX6OyLWo-MhrBmquHdfkruKben9q6QT_W7tAGYb60o/edit)
+    - 株式会社Kaizen Platform yano(@yuki_ycino)さん、Talk③「Vibe Codingで育てる自分に最適化した開発環境」[＜資料＞]()
+    - しゅんそく(@shunsock)さん、公募LT 「AIが迷わないローカル環境 as a Code」[＜資料＞](https://speakerdeck.com/shunsock/local-env-as-a-code-with-nix)
+- （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room CD  [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/Rei97TSw64g) ＜YouTubeアーカイブ動画あり＞
+    - Anthropicの責任あるAIの開発とClaude Codeのご紹介
+        - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム
+        - Anthropic Applied Al Product Engineer Jason Kimさん、Mastering Claude Code
