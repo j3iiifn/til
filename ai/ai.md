@@ -233,6 +233,10 @@ __Docs__
 - （公開日：2025/08/08、閲覧日：2025/08/30）[OSS の AI レビューツール「PR\-Agent」を全社導入し、コスト効率の高い開発支援を実現した話 \| BLOG \- DeNA Engineering](https://engineering.dena.com/blog/2025/08/pr-agent/)
 
 
+### RAG
+- （公開日：2025/10/30、閲覧日：2025/11/03）[社内AIヘルプデスク 正答率80%達成 RAG精度改善の軌跡 \| BLOG \- DeNA Engineering](https://engineering.dena.com/blog/2025/10/findoutai_rag/)
+
+
 ### MCP
 - （公開日：2025/04/27、閲覧日：2025/04/27）[最小限のMCP Host/Client/Serverをスクラッチで実装する](https://zenn.dev/razokulover/articles/9a0aee8ceb9f3f)
 - （公開日：2025/05/10、閲覧日：2025/05/11）[初めて MCP を使うなら Docker MCP Toolkit がおすすめ \#VSCode \- Qiita](https://qiita.com/falya128/items/23020ddba7a7d1ce2e1f)

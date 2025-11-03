@@ -522,3 +522,6 @@
     - Anthropicの責任あるAIの開発とClaude Codeのご紹介
         - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム
         - Anthropic Applied Al Product Engineer Jason Kimさん、Mastering Claude Code
+- （2025/11/01）AIエージェントユーザー会（AIAU）主催、AI Coding Meetup Aichi [＜connpass＞](https://aiau.connpass.com/event/369264/) ＜YouTubeアーカイブ動画あり＞
+    - sunagakuさん、AIを本気で使って分かった“現実と課題” 〜効率化の先にある、AIと共に成長するエンジニアリング〜 [＜資料＞](https://speakerdeck.com/sunagaku/aiwoben-qi-deshi-tutefen-katuta-xian-shi-toke-ti-xiao-lu-hua-noxian-niaru-aitogong-nicheng-chang-suruenziniaringu) [＜記事＞](https://zenn.dev/sunagaku/articles/2865d09ec6731b)
+    - taigaさん、マルチリポジトリで開発する際のTips [＜資料＞](https://speakerdeck.com/taigakono/marutiripozitoridekai-fa-suruji-notips)
