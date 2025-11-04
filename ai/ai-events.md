@@ -525,3 +525,7 @@
 - （2025/11/01）AIエージェントユーザー会（AIAU）主催、AI Coding Meetup Aichi [＜connpass＞](https://aiau.connpass.com/event/369264/) ＜YouTubeアーカイブ動画あり＞
     - sunagakuさん、AIを本気で使って分かった“現実と課題” 〜効率化の先にある、AIと共に成長するエンジニアリング〜 [＜資料＞](https://speakerdeck.com/sunagaku/aiwoben-qi-deshi-tutefen-katuta-xian-shi-toke-ti-xiao-lu-hua-noxian-niaru-aitogong-nicheng-chang-suruenziniaringu) [＜記事＞](https://zenn.dev/sunagaku/articles/2865d09ec6731b)
     - taigaさん、マルチリポジトリで開発する際のTips [＜資料＞](https://speakerdeck.com/taigakono/marutiripozitoridekai-fa-suruji-notips)
+    - Kuuさん、DeepDive into Composer 1 & SWE-1.5 [＜資料＞](https://www.docswell.com/s/fumiya-kume/K441VY-2025-11-01-162050)
+    - Katz Uenoさん、AWSが提案するAI駆動開発のカタチ:KiroとAI-DLCのご紹介
+    - CTCさん、Devinのサンドボックスで色々やってみる
+    - KokiMiuraさん、AIエージェントの開発が捗るLLMs.txtって何？ [＜資料＞](https://www.docswell.com/s/k_miura_io/ZM6PXL-2025-11-01-170140/1)
