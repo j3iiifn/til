@@ -529,3 +529,6 @@
     - Katz Uenoさん、AWSが提案するAI駆動開発のカタチ:KiroとAI-DLCのご紹介
     - CTCさん、Devinのサンドボックスで色々やってみる
     - KokiMiuraさん、AIエージェントの開発が捗るLLMs.txtって何？ [＜資料＞](https://www.docswell.com/s/k_miura_io/ZM6PXL-2025-11-01-170140/1)
+    - Junさん、ACPってなに？ [＜資料＞](https://speakerdeck.com/juninaba/ai-coding-meetup-aichi-acptutenani)
+    - 4geruさん、AI様、あとは“よしなに”やっといて！〜MCPサーバ開発「裏」入門〜 [＜資料＞](https://speakerdeck.com/4geru/aiyang-atoha-yosinani-yatutoite-mcpsabakai-fa-li-ru-men)
+    - マルチンゲールさん、Amazon Q Developer CLIをClaude Codeから使うためのベストプラクティスを考えてみた [＜資料＞](https://speakerdeck.com/dar_kuma_san/amazon-q-developer-cliwoclaude-codekarashi-utamenobesutopurakuteisuwokao-etemita)
