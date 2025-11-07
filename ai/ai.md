@@ -306,6 +306,11 @@ __Docs__
 - （公開日：2025/10/23、閲覧日：2025/10/25）[『Gemini と NotebookLM を組み合わせて 目標設定の負荷を軽減する方法』というお題で登壇しました \- Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2025/10/23/095714)
 
 
+### AI活用推進
+- （公開日：2025/07/29、閲覧日：2025/11/07）[開発組織のAI活用を推進した3ヶ月間を振り返る](https://zenn.dev/knowledgework/articles/ai-dev-enablement)
+- （公開日：2025/11/03、閲覧日：2025/11/07）[AI推進におけるKPI設計の勘所：経営層と現場の共通目標を作ろう｜しば田](https://note.com/keisuke_shibata/n/n3996ab043797)
+
+
 ### その他
 - （公開日：2025/06/11、閲覧日：2025/06/12）[AI領域における組織の強みを活かすアーキテクチャ設計](https://zenn.dev/aishift/articles/c897d0e095c3d8)
     - タイトルの「AI領域」はAIエージェント自体の開発を指していた

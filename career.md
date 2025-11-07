@@ -12,6 +12,7 @@
 - （2025/09/10）Findy主催、FindyのVPoEが語る書類選考のホンネ〜面接につながる職務経歴書とは？〜 [＜TECH PLAY＞](https://techplay.jp/event/985837)
 - （2025/09/17）Findy主催、VPoE面接の視点〜「一緒に働きたい」は何で決まる？〜 [TEC PLAY](https://techplay.jp/event/986302) [＜イベントページ＞](https://findy-code.io/events/UeqCVL8cU5QQ0)
     - ファインディ株式会社 VPoE 神谷 健さん
+- （2025/11/05）Forkwell主催、ITエンジニアの転職学 年収交渉 Deep Dive―フェアな評価を引き出す技術 [＜connpass＞](https://forkwell.connpass.com/event/370191/) [＜イベントページ＞](https://jobs.forkwell.com/events/4-6qcdptxms) ＜YouTubeアーカイブ動画あり＞
 
 
 ## フリーランス
