@@ -501,6 +501,15 @@
         - LLMとAIエージェントの歴史
     - TIS株式会社 横井 公紀(@nasuvit_z)さん、AIエージェントによる業務効率化への飽くなき挑戦 - AWS上の実開発事例から学んだ効果、現実そしてギャップ- [＜資料＞](https://speakerdeck.com/nasuvitz/aiezientoniyoruye-wu-xiao-lu-hua-henobao-kunakitiao-zhan-awsshang-noshi-kai-fa-shi-li-karaxue-ndaxiao-guo-xian-shi-sositegiyatupu)
     - 株式会社Almondo 松本 悠秀(@YuhoMatsumoto)さん、音声対話エージェントから学ぶマルチエージェント設計 [＜資料＞](https://speakerdeck.com/almondo_event/20251027-findysan-multi-agent)
+- （2025/10/24）Findy主催、【アーカイブ】「AIエージェント開発 運用入門」出版記念 〜AIエージェント元年！もう「使う」のは当たり前。 「作れる」エンジニアになろう〜 [＜connpass＞](https://findy.connpass.com/event/371914/) [＜イベントページ＞](https://findy-code.io/events/Ees4PRYPsR1QQ) ＜YouTubeアーカイブ動画あり＞
+    - KDDIアジャイル開発センター株式会社 みのるん(@minorun365)さん、AIエージェント開発＆運用に入門しよう！便利な開発フレームワークと運用ツールの紹介
+    - KDDIアジャイル開発センター株式会社 大坪 悠(@tubone24)さん、難しい？でもわかる！？MastraでAIエージェントに入門しよう [＜資料＞](https://slide-tubone24.pages.dev/slides/mastraai/1)
+    - 三菱電機株式会社 塚田 真規(@ma_tsukada)さん、LangGraphを使ったAIエージェントの構築、LLMOps入門
+- （2025/10/27）Findy Freelance主催、モバイルアプリのUIデザイン実践術 ～個人開発で役立つ構築フロー〜 [＜connpass＞](https://findy.connpass.com/event/371279/) [＜イベントページ＞](https://freelance.findy-code.io/events/KHpfS0s9kqRKV/viewer-link) [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
+    - 荒川聖悟(@adsholoko)さん 、「Researchlyの開発で影響を受けたデザインたち」[＜資料＞](https://speakerdeck.com/adsholoko/researchlynokai-fa-decan-kao-nisitadezain)
+    - poteboy(@_poteboy_)さん、「Vibe Codingデザインシステム」[＜資料＞](https://speakerdeck.com/poteboy/vibe-coding-dezainsisutemu)
+    - bannzai(@_bannzai_)さん、「迷わないUI設計」[＜資料＞](https://www.docswell.com/s/bannzai/5PG762-2025-10-27-112926)
+    - 長澤光希(@pixyzehn)さん、「プラットフォームに馴染むモバイルアプリデザイン」[＜資料＞](https://speakerdeck.com/pixyzehn/mobile-app-ui-design-lunch-lt)
 - （2025/10/29）AIエージェントユーザー会（AIAU）主催、Cursor Meetup Tokyo #2 [＜connpass＞](https://aiau.connpass.com/event/371661/) [＜イベントページ＞](https://luma.com/wreptkh6?tk=EHNW6r) [＜YouTube＞](https://www.youtube.com/watch?v=HSMohYjj2QA) ＜YouTubeアーカイブ動画あり＞
     - 湯川 昇平(@Perk_sh)さん、Vibe Coding禁止！ Cursorを先生にしてにiOSアプリ開発を学習 [＜資料＞](https://speakerdeck.com/yukawashouhei/iosapuriwocursortoxue-xi-suru2025nian-10yue-no-zi-fen-no-besutopurakuteisu)
     - taaakoさん、非エンジニアがCursorで創り始めた時、エンジニアは何をすべきか
