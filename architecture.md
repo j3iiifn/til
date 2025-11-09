@@ -30,3 +30,4 @@
     - 増田さん：AIから自分の発想にはなかったアイデアをもらい、ワンランク上げられたことがある。AIをセカンドオピニオンや別の見方を引き出すような壁打ち相手として使う。
 - （2025/10/28）Findy主催、アーキテクチャ年表  - 各社の意思決定の変遷と葛藤 [＜connpass＞](https://findy.connpass.com/event/371331/) [＜イベントページ＞](https://findy-code.io/events/5NvA8F6GIZxui)
     - 株式会社ビットキー 菊地 英太さん『事業成長とアーキテクチャ変遷の軌跡』
+    - 株式会社hacomono 志賀 誠(@Maco_Tasu)さん ＆ 有働 開(@PbwBi)さん『事業成長からみるhacomonoアーキテクチャの変遷』[＜資料＞](https://speakerdeck.com/hacomono/business_growth_and_the_evolution_of_hacomono_architecture)
