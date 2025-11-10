@@ -529,6 +529,7 @@
 - （2025/10/30）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 1日目 Room CD [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/lXsFIbkjhDY) ＜YouTubeアーカイブ動画あり＞
     - ULSコンサルティング株式会社 漆原 茂さん & クリエーションライン株式会社 荒井 康宏さん、【対談】AI駆動開発の未来へ ～ AI駆動開発がもたらす未来と変革 ～
     - Windsurf Jeff Wangさん、Agents that work Better Together (Windsurf + Devin = Cognition)
+    - 株式会社Algomatic 渋谷 優介さん、仕様駆動開発を実現する上流工程におけるAIエージェント活用 [＜資料＞](https://speakerdeck.com/sergicalsix/shi-yang-qu-dong-kai-fa-woshi-xian-surushang-liu-gong-cheng-niokeruaiesientohuo-yong)
 - （2025/10/31）Findy主催、開発環境自慢Night 〜CLI型AIエージェント×ターミナル編〜 [＜connpass＞](https://findy.connpass.com/event/372055/) [＜イベントページ＞](https://findy-code.io/events/OiI6NcysBE3YZ)
     - 株式会社テックリード ゴリラ(@gorilla0513)さん、Talk①「とあるVimmerとAIエージェントの作業環境のご紹介」[＜資料＞](https://speakerdeck.com/skanehira/findy-ai-terminal)
     - 株式会社アットマーク たけてぃ(@takeokunn)さん、Talk②「nixos-containerで100並列AI実行に挑戦する」[＜資料＞](https://docs.google.com/presentation/d/10qX6OyLWo-MhrBmquHdfkruKben9q6QT_W7tAGYb60o/edit)

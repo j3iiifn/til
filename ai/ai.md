@@ -144,6 +144,10 @@ __Docs__
 - （公開日：2025/06/28、閲覧日：2025/07/02）[Gemini CLI is awesome\! But only when you make Claude Code use it as its bitch\. : r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/comments/1lm3fxq/gemini_cli_is_awesome_but_only_when_you_make/)
     - Claude Codeと比較してGemini CLIはコンテキストウィンドウが大きいのを利用して、Claude Codeがコードベースの情報を収集する際にGemini CLIを利用するようにする例
 
+### Gemini API
+- （公開日：2025/11/10、閲覧日：2025/11/10）[GeminiにPDFやWord、Excel、テキストファイルなどの検索機能を組み込める「File Search in Gemini API」提供開始、フルマネージドなRAGシステムを提供 － Publickey](https://www.publickey1.jp/blog/25/geminipdfwordexcelfile_search_in_gemini_apirag.html)
+    - NotebookLMのGemini API版みたいな感じ？
+
 
 ### Claude（モデル）
 - （公開日：2025/05/08、閲覧日：2025/05/10）[うさぎでもわかるClaude 3\.7システムプロンプト流出の解説と示唆](https://zenn.dev/taku_sid/articles/20250508_claude_leak)
@@ -304,6 +308,7 @@ __Docs__
 
 ### 業務活用
 - （公開日：2025/10/23、閲覧日：2025/10/25）[『Gemini と NotebookLM を組み合わせて 目標設定の負荷を軽減する方法』というお題で登壇しました \- Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2025/10/23/095714)
+- （公開日：2025/11/09、閲覧日：2025/11/10）[RAGを活用してセキュリティチェックシートの記入作業を自動化した話](https://zenn.dev/delisit/articles/0b4977d79500fa)
 
 
 ### AI活用推進
