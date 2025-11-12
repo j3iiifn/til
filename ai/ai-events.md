@@ -533,6 +533,7 @@
     - 🌟株式会社MonotaRO 普川 泰如さん ＆ 市原 功太郎さん ＆ 山本 華名美さん、モノタロウのAI駆動開発の最新状況 〜 AIと共に進化するモノタロウ ― 現場実践から未来ビジョンへ 〜 [＜資料＞](https://speakerdeck.com/monotaro/monotaro-ai-conference-autumn-2025)
         - キャズムを超えるための施策
     - CodeRabbit Inc. 中津川 篤司さん、AIで急増したコード生産「量」の荒波をCodeRabbitで乗りこなそう [＜資料＞](https://speakerdeck.com/moongift/aiteji-zeng-sitasheng-chan-liang-nohuang-bo-wocoderabbittecheng-rikonasou)
+    - 🌟和田 卓人さん、AI時代のソフトウェア開発を考える [＜資料(7月版)＞](https://speakerdeck.com/twada/agentic-software-engineering-findy-2025-07-edition)
 - （2025/10/31）Findy主催、開発環境自慢Night 〜CLI型AIエージェント×ターミナル編〜 [＜connpass＞](https://findy.connpass.com/event/372055/) [＜イベントページ＞](https://findy-code.io/events/OiI6NcysBE3YZ)
     - 株式会社テックリード ゴリラ(@gorilla0513)さん、Talk①「とあるVimmerとAIエージェントの作業環境のご紹介」[＜資料＞](https://speakerdeck.com/skanehira/findy-ai-terminal)
     - 株式会社アットマーク たけてぃ(@takeokunn)さん、Talk②「nixos-containerで100並列AI実行に挑戦する」[＜資料＞](https://docs.google.com/presentation/d/10qX6OyLWo-MhrBmquHdfkruKben9q6QT_W7tAGYb60o/edit)
