@@ -539,6 +539,8 @@
     - 株式会社アットマーク たけてぃ(@takeokunn)さん、Talk②「nixos-containerで100並列AI実行に挑戦する」[＜資料＞](https://docs.google.com/presentation/d/10qX6OyLWo-MhrBmquHdfkruKben9q6QT_W7tAGYb60o/edit)
     - 株式会社Kaizen Platform yano(@yuki_ycino)さん、Talk③「Vibe Codingで育てる自分に最適化した開発環境」[＜資料＞]()
     - しゅんそく(@shunsock)さん、公募LT 「AIが迷わないローカル環境 as a Code」[＜資料＞](https://speakerdeck.com/shunsock/local-env-as-a-code-with-nix)
+- （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room A [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/xBzJi-efuvk) ＜YouTubeアーカイブ動画あり＞
+    - Autify, Inc. 松浦 隼人さん、AI駆動開発にはAI駆動品質保証 [＜資料＞](https://speakerdeck.com/autifyhq/aiqu-dong-kai-fa-kanhuarensuautumn2025-aiqu-dong-kai-fa-nihaaiqu-dong-pin-zhi-bao-zheng)
 - （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room CD  [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/Rei97TSw64g) ＜YouTubeアーカイブ動画あり＞
     - Anthropicの責任あるAIの開発とClaude Codeのご紹介
         - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム

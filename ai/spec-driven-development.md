@@ -17,3 +17,7 @@
 ## Serena
 - （公開日：2025/08/04、閲覧日：2025/08/08）[Claude Code × serenaでKiro風仕様書駆動開発をやる](https://zenn.dev/sasakir/articles/ecca27ffe5e2ee)
     - よくわからなかった
+
+## 独自ワークフロー
+- （公開日：2025/11/11、閲覧日：2025/11/13）[仕様駆動開発（SDD）を採用したAI駆動開発の実態と課題](https://zenn.dev/assign/articles/ab66b2843d9380#%E8%AA%B2%E9%A1%8C1%EF%BC%9A%E4%BD%9C%E6%A5%AD%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97%E3%81%AE%E8%82%A5%E5%A4%A7%E5%8C%96)
+    - バックエンドとフロントエンドで設計・実装のワークフローをそれぞれ分けて定義しているのが特徴的だと思った
