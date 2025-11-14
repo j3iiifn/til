@@ -148,6 +148,9 @@ __Docs__
 - （公開日：2025/11/10、閲覧日：2025/11/10）[GeminiにPDFやWord、Excel、テキストファイルなどの検索機能を組み込める「File Search in Gemini API」提供開始、フルマネージドなRAGシステムを提供 － Publickey](https://www.publickey1.jp/blog/25/geminipdfwordexcelfile_search_in_gemini_apirag.html)
     - NotebookLMのGemini API版みたいな感じ？
 
+### Code Wiki
+- （公開日：2025/11/14、閲覧日：2025/11/14）[ドキュメントを手作業で保守する時代は終わり ～Google、「Code Wiki」を公開プレビュー \- 窓の杜](https://forest.watch.impress.co.jp/docs/news/2063281.html)
+
 
 ### Claude（モデル）
 - （公開日：2025/05/08、閲覧日：2025/05/10）[うさぎでもわかるClaude 3\.7システムプロンプト流出の解説と示唆](https://zenn.dev/taku_sid/articles/20250508_claude_leak)

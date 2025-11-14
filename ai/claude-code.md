@@ -63,6 +63,11 @@
 - （公開日：2025/10/28、閲覧日：2025/10/28）[ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 \- RAKUS Developers Blog \| ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming)
 
 
+## セキュリティインシデント
+- （公開日：2025/11/14、閲覧日：2025/11/14）[Anthropic、「Claude」が中国政府系攻撃者に悪用されたと報告 \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2511/14/news061.html)
+    - 裏を返すと、悪用の疑いがあればClaudeの会話や生成物の履歴をAnthropic社員が閲覧することがあるということ。これを理由に業務利用を禁止する企業がありそうだなと思った。
+
+
 ## Claude Code本体のアップデート
 - （公開日：2025/10/04、閲覧日：2025/10/05）[Claude Code 2\.0\.0 のメジャーアップデートについて](https://zenn.dev/oikon/articles/claude-code-2)
 
@@ -151,3 +156,7 @@
 
 ## `/output-style` コマンド
 - （公開日：2025/08/23、閲覧日：2025/08/23）[Claude Code の学習モードで自分の手でコードを書く練習をしよう](https://azukiazusa.dev/blog/claude-code-learning-mode/)
+
+
+## Skill
+- （公開日：2025/11/13、閲覧日：2025/11/14）[書いたコードを“スキル化”して再利用してる話](https://zenn.dev/explaza/articles/9f3271d1a9ce70)

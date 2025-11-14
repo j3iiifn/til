@@ -534,17 +534,22 @@
         - キャズムを超えるための施策
     - CodeRabbit Inc. 中津川 篤司さん、AIで急増したコード生産「量」の荒波をCodeRabbitで乗りこなそう [＜資料＞](https://speakerdeck.com/moongift/aiteji-zeng-sitasheng-chan-liang-nohuang-bo-wocoderabbittecheng-rikonasou)
     - 🌟和田 卓人さん、AI時代のソフトウェア開発を考える [＜資料(7月版)＞](https://speakerdeck.com/twada/agentic-software-engineering-findy-2025-07-edition)
+- （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room A [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/xBzJi-efuvk) ＜YouTubeアーカイブ動画あり＞
+    - Autify, Inc. 松浦 隼人さん、AI駆動開発にはAI駆動品質保証 [＜資料＞](https://speakerdeck.com/autifyhq/aiqu-dong-kai-fa-kanhuarensuautumn2025-aiqu-dong-kai-fa-nihaaiqu-dong-pin-zhi-bao-zheng)
+    - 株式会社Stellaps 星野 里樹 Rinte(@rinte0321)さん、AI駆動要件定義ツールの開発から見えてくるシステム開発の未来
+    - 🌟シンプレクス株式会社 氏弘 一也さん、AI駆動開発実践！ SI企業における開発プロセス再設計の取り組み紹介 [＜資料＞](https://www.docswell.com/s/Simplex/KX67W4-simplex_ujihiro01)
+        - 大規模SIerがAI駆動開発を各案件に横展開するために本気で開発プロセスを構築・検証している話だった
+        - AI駆動開発によって従来よりも小さな体制で案件チームを組成→余力を新たな案件対応に割り当てて売上拡大
+        - 過去案件を使用してAI駆動開発プロセスを構築・検証
+- （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room CD  [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/Rei97TSw64g) ＜YouTubeアーカイブ動画あり＞
+    - Anthropicの責任あるAIの開発とClaude Codeのご紹介
+        - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム
+        - Anthropic Applied Al Product Engineer Jason Kimさん、Mastering Claude Code
 - （2025/10/31）Findy主催、開発環境自慢Night 〜CLI型AIエージェント×ターミナル編〜 [＜connpass＞](https://findy.connpass.com/event/372055/) [＜イベントページ＞](https://findy-code.io/events/OiI6NcysBE3YZ)
     - 株式会社テックリード ゴリラ(@gorilla0513)さん、Talk①「とあるVimmerとAIエージェントの作業環境のご紹介」[＜資料＞](https://speakerdeck.com/skanehira/findy-ai-terminal)
     - 株式会社アットマーク たけてぃ(@takeokunn)さん、Talk②「nixos-containerで100並列AI実行に挑戦する」[＜資料＞](https://docs.google.com/presentation/d/10qX6OyLWo-MhrBmquHdfkruKben9q6QT_W7tAGYb60o/edit)
     - 株式会社Kaizen Platform yano(@yuki_ycino)さん、Talk③「Vibe Codingで育てる自分に最適化した開発環境」[＜資料＞]()
     - しゅんそく(@shunsock)さん、公募LT 「AIが迷わないローカル環境 as a Code」[＜資料＞](https://speakerdeck.com/shunsock/local-env-as-a-code-with-nix)
-- （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room A [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/xBzJi-efuvk) ＜YouTubeアーカイブ動画あり＞
-    - Autify, Inc. 松浦 隼人さん、AI駆動開発にはAI駆動品質保証 [＜資料＞](https://speakerdeck.com/autifyhq/aiqu-dong-kai-fa-kanhuarensuautumn2025-aiqu-dong-kai-fa-nihaaiqu-dong-pin-zhi-bao-zheng)
-- （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room CD  [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/Rei97TSw64g) ＜YouTubeアーカイブ動画あり＞
-    - Anthropicの責任あるAIの開発とClaude Codeのご紹介
-        - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム
-        - Anthropic Applied Al Product Engineer Jason Kimさん、Mastering Claude Code
 - （2025/11/01）AIエージェントユーザー会（AIAU）主催、AI Coding Meetup Aichi [＜connpass＞](https://aiau.connpass.com/event/369264/) ＜YouTubeアーカイブ動画あり＞
     - sunagakuさん、AIを本気で使って分かった“現実と課題” 〜効率化の先にある、AIと共に成長するエンジニアリング〜 [＜資料＞](https://speakerdeck.com/sunagaku/aiwoben-qi-deshi-tutefen-katuta-xian-shi-toke-ti-xiao-lu-hua-noxian-niaru-aitogong-nicheng-chang-suruenziniaringu) [＜記事＞](https://zenn.dev/sunagaku/articles/2865d09ec6731b)
     - taigaさん、マルチリポジトリで開発する際のTips [＜資料＞](https://speakerdeck.com/taigakono/marutiripozitoridekai-fa-suruji-notips)
