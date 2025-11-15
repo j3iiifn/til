@@ -106,3 +106,4 @@
 - （公開日：2025/08/26、閲覧日：2025/08/27）[「プログラムが複雑になりすぎてバグなしで運営が難しくなった（意訳）」…10年続いた『星ドラ』のサ終理由、あらゆる長寿ソシャゲが抱える障壁かもしれない \- Togetter \[トゥギャッター\]](https://togetter.com/li/2594262)
 - （公開日：2025/09/08、閲覧日：2025/09/08）[オライリー・ジャパンにおける翻訳書の制作体制の変化と「もうすぐ消滅するという人間の翻訳について」 \- YAMDAS現更新履歴](https://yamdas.hatenablog.com/entry/20250908/oreilly_japan_translation)
 - （公開日：2025/09/09、閲覧日：2025/09/10）[iPhoneと「APN構成プロファイル」の迷宮 \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/32616)
+- （公開日：2025/11/14、閲覧日：2025/11/15）[なぜ強調表示できず \*\* が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 \- Speaker Deck](https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti)

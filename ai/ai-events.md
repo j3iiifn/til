@@ -560,3 +560,25 @@
     - Junさん、ACPってなに？ [＜資料＞](https://speakerdeck.com/juninaba/ai-coding-meetup-aichi-acptutenani)
     - 4geruさん、AI様、あとは“よしなに”やっといて！〜MCPサーバ開発「裏」入門〜 [＜資料＞](https://speakerdeck.com/4geru/aiyang-atoha-yosinani-yatutoite-mcpsabakai-fa-li-ru-men)
     - マルチンゲールさん、Amazon Q Developer CLIをClaude Codeから使うためのベストプラクティスを考えてみた [＜資料＞](https://speakerdeck.com/dar_kuma_san/amazon-q-developer-cliwoclaude-codekarashi-utamenobesutopurakuteisuwokao-etemita)
+- （2025/11/05）Qiita主催、Qiita Conference 2025 Autumn (1日目) [＜connpass＞](https://increments.connpass.com/event/370478/) [＜イベントページ＞](https://qiita.com/official-campaigns/conference/2025-autumn) [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
+    - 福岡Elixir piacereさん、今のコンピュータはAIにもWebにも向いていないので作り直そう [＜資料＞](https://speakerdeck.com/piacerex/jin-nokonpiyuta-ai-nimo-web-nimo-xiang-iteinainode-zuo-rizhi-sou)
+    - 株式会社野村総合研究所 柴 隆太さん＆青木 耀平さん、AI Challenge Dayグランプリ受賞に学ぶエージェントAIの精度向上術
+    - Microsoft Corporation 牛尾 剛さん、Agent SDK Deep Dive
+    - 株式会社primeNumber 鈴木 大介さん、DBデータ×行動データで実現する、プロダクト部門主導の顧客理解と事業貢献
+    - Vercel Inc. Esteban Suarezさん、ゼロからv0まで / From 0 to v0
+    - SonarSource Japan株式会社 菅野 真一さん、AIコーディング時代のその先へ。SonarQubeでコードの健全性を保ち、脆弱性を未然に防ぎ、サプライチェーン全体を保護する。
+    - 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/11短縮版）
+- （2025/11/14）Qiita主催、Qiita Bash「キミたちはClaude Codeをどう使いこなす？」 [＜connpass＞](https://increments.connpass.com/event/370950/) [＜YouTube＞](https://youtube.com/live/Qy9pVNMRXaE) ＜YouTubeアーカイブ動画あり＞
+    - 株式会社いえらぶGROUP 和田健太郎さん、AIに使われない！エンジニアが育つ開発組織の話 [＜資料＞](https://speakerdeck.com/kentarowada/ainishi-warenai-enziniagayu-tukai-fa-zu-zhi-nohua)
+        - AI対話履歴の採点→一定点数を超えたらAI利用を許可
+    - 株式会社じげん 前川和也さん、ドキュメントを活かすコマンド設計の実践
+        - Context Engineeringの原則 (エージェント分割、Just-in-time参照) を取り入れて /plan-implementation /tdd-execute /code-review コマンドを作成
+    - 🌟masaki.kさん、開発現場で使えるSubagent活用術 [＜資料＞](https://speakerdeck.com/makikub/kai-fa-xian-chang-deshi-erusubagenthuo-yong-shu)
+        - ①探索＆計画、②レビュー　のcustom slash commandをそれぞれ作成し、その中で小さなタスクをSubagentに並列実行させる　→メインセッションのコンテキストが汚染されないため、1つのセッションで最後まで完結できる
+    - free JaeSoon Jeongさん、freee の AI駆動開発の全社展開を支える Claude Code 活用の裏側 [＜資料＞](https://speakerdeck.com/jeongjaesoon/freee-no-aiqu-dong-kai-fa-noquan-she-zhan-kai-wozhi-eru-claude-code-huo-yong-noli-ce-how-freee-uses-claude-code-to-drive-and-scale-ai-driven-development-across-the-entire-organization)
+    - 🌟株式会社ワンキャリア 高根沢 光輔さん、ClaudeCode 全エンジニア導入にあたって行なった権限管理、計測基盤構築、推進活動について
+        - Vertex AIでClaude Codeを全エンジニアへ導入
+        - 全エンジニアとペアプロしてAIの使い方を調査
+    - 株式会社GAIBAKO 生貝 遼太さん、ClaudeCodeでObsidianの文書校正Pluginを作った話
+    - sunagakuさん、なぜ今Claude Codeを使うのか？ 〜Codexとの比較で見えた真の強み〜 [＜資料＞](https://speakerdeck.com/sunagaku/codexwoshi-idao-siteqi-tuita-claude-codenoben-dang-noqiang-mitoshi-ikonasishu)
+    - 株式会社いえらぶ 渕田隆臣さん、大学時代にプログラミングと出会い単位をすべて落として二度としないと決意した人間が個人とチームと部署で活用するClaudeCodeの使い方

@@ -61,6 +61,8 @@
 - 🌟（公開日：2025/10/23、閲覧日：2025/10/24）[Claude Code導入3ヶ月後の社内アンケートから分かったこと](https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07)
     - > 「AIによる効率化=楽になる」ではないという認識を持つ
 - （公開日：2025/10/28、閲覧日：2025/10/28）[ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 \- RAKUS Developers Blog \| ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming)
+- （公開日：2025/11/14、閲覧日：2025/11/15）[チームのCLAUDE\.mdが勝手に育つ \- Hook機能での自動化](https://zenn.dev/appbrew/articles/e2f38677f6a0ce)
+    - コンテキスト腐敗防止のためにCLAUDE.mdには本当に必要な情報をシンプルに書くべきなので、この手法は真似したいとは思わない
 
 
 ## セキュリティインシデント
