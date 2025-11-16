@@ -541,6 +541,8 @@
         - 大規模SIerがAI駆動開発を各案件に横展開するために本気で開発プロセスを構築・検証している話だった
         - AI駆動開発によって従来よりも小さな体制で案件チームを組成→余力を新たな案件対応に割り当てて売上拡大
         - 過去案件を使用してAI駆動開発プロセスを構築・検証
+    - [NG] FPTジャパンホールディングス株式会社 鈴木 章太郎さん、Cursor / GitHub Copilot で作る自社GPU × 全クラウドAI 協調アプリケーション
+    - JTP株式会社 岡本 拓也さん ＆ 梨本 大輔さん、AI x 組織でのチーム開発を成功に導く方法 [＜資料1＞](https://kyrios.jtp.co.jp/blog/aiddcon2025_001) [＜資料2＞](https://kyrios.jtp.co.jp/blog/aiddcon2025_002)
 - （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room CD  [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/Rei97TSw64g) ＜YouTubeアーカイブ動画あり＞
     - Anthropicの責任あるAIの開発とClaude Codeのご紹介
         - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム
@@ -568,6 +570,13 @@
     - Vercel Inc. Esteban Suarezさん、ゼロからv0まで / From 0 to v0
     - SonarSource Japan株式会社 菅野 真一さん、AIコーディング時代のその先へ。SonarQubeでコードの健全性を保ち、脆弱性を未然に防ぎ、サプライチェーン全体を保護する。
     - 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/11短縮版）
+- （2025/11/07）Findy主催、開発をリードする品質保証  -Findy Online Conference - [＜connpass＞](https://findy.connpass.com/event/370426/) [＜イベントページ＞](https://findy-code.io/events/S3ojUQChnQOD0) ＜YouTubeアーカイブ動画あり＞
+    - ファインディ株式会社 高橋 裕之さん、ソフトウェア開発現代史: 専任QAの昔と今「私vsあなた」から共に担う品質へ
+- （2025/11/11）Findy主催、フリーランスエンジニア最前線！市場動向から読み解く、求められるスキルと働き方 [＜connpass＞](https://findy.connpass.com/event/373269/) [＜イベントページ＞](https://freelance.findy-code.io/events/6iFQHs0ny_LVU/viewer-link) ＜YouTubeアーカイブ動画あり＞
+- （2025/11/12）Findy主催、TIS、NRIが語る AI品質の設計図 〜開発現場に今求められる“品質基準”を探る〜 [＜connpass＞](https://findy.connpass.com/event/371557/) [＜イベントページ＞](https://findy-code.io/events/OcIGQBoLSbHFQ)
+    - 野村総合研究所 高橋 宏圭(@thiro_news)さん、品質を守り、生産性を高めるためのセキュアなAIエージェント基盤サービスの開発
+    - TIS株式会社 香川 元さん、SIerが語る「AI導入の品質設計」
+        - AIそのものの品質を定義する国際基準はまだ無いが、いくつかのガイドラインが公開されている
 - （2025/11/14）Qiita主催、Qiita Bash「キミたちはClaude Codeをどう使いこなす？」 [＜connpass＞](https://increments.connpass.com/event/370950/) [＜YouTube＞](https://youtube.com/live/Qy9pVNMRXaE) ＜YouTubeアーカイブ動画あり＞
     - 株式会社いえらぶGROUP 和田健太郎さん、AIに使われない！エンジニアが育つ開発組織の話 [＜資料＞](https://speakerdeck.com/kentarowada/ainishi-warenai-enziniagayu-tukai-fa-zu-zhi-nohua)
         - AI対話履歴の採点→一定点数を超えたらAI利用を許可

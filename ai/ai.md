@@ -338,6 +338,7 @@ __Docs__
 - （公開日：2025/07/11、閲覧日：2025/07/12）[Claude Codeで無限にUIデザインを構築する方法【バイブコーディング/Vibe Coding】 \- YouTube](https://www.youtube.com/watch?v=8vWRCYvLr94)
 - （公開日：2025/07/24、閲覧日：2025/07/24）[【t\-wadaさんに聞く】なぜCursorよりClaude Codeが優れているのか \- YouTube](https://www.youtube.com/watch?v=c2IHEeBbY5s)
 - （公開日：2025/07/27、閲覧日：2025/07/31）[Claude Codeに新機能\(Hooks, SlashCommand, SubAgents\)が追加されていたので解説してみた \- YouTube](https://www.youtube.com/watch?v=s71I9pVdsv8)
+- 🌟（公開日：2025/11/13、閲覧日：2025/11/16）[【t-wadaさん, 一休CTO, LayerX】AI時代の開発スピードと品質 / 本当の意味で開発生産性を上げるために必要なこと](https://www.youtube.com/watch?v=MhPAZW-oMKs)
 
 
 ## X
