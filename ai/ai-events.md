@@ -85,7 +85,7 @@
     16. 「AI と入社３ヶ月目の私の軌跡 〜Cursorを中心にしたサービス開発体験の構築〜」	金子 冴@sai_kaneko_31さん	株式会社ココナラ
     17. 「AI元年宣言！自家製Devinから始める生産性改革」	望月 慎太郎さん	パーソルキャリア株式会社
     18. 「話題のDevin、エンプラ開発で〇人分の仕事はできるのか！？」	山河 征紀@MasakiYamakawaさん	ウルシステムズ株式会社
-- （2025/06/24）Findy主催、Clineの実力と使いどころ〜 現場から見る！スピード開発実践事例〜 [＜connpass＞](https://findy.connpass.com/event/356324/) [＜イベントページ＞](https://findy-code.io/events/H57ULf5A1WLzS) ＜アーカイブ動画あり＞
+- （2025/06/24）Findy主催、Clineの実力と使いどころ -現場から見る！スピード開発実践事例- [＜connpass＞](https://findy.connpass.com/event/356324/) [＜イベントページ＞](https://findy-code.io/events/H57ULf5A1WLzS) ＜YouTubeアーカイブ動画あり＞
     - 『Clineを200人でためしてみた 〜モノタロウのAI駆動開発より〜』	株式会社MonotaRO	市原功太郎@ichi_taro3さん [＜資料＞](https://speakerdeck.com/monotaro/monotarounoaiqu-dong-kai-fa-clinebian-clinewo200-deshi-sitemitajian)
     - 『大規模組織のCline導入効果〜開発フェーズだけじゃない活用事例〜』	合同会社DMM.com	石垣雅人@i35_267さん [＜資料＞](https://speakerdeck.com/i35_267/introducing-ai-agents-into-your-organization)
 - （2025/06/25）AWS Summit Japan 2025 [＜イベントページ＞](https://aws.amazon.com/jp/summits/japan/) [＜YouTube＞](https://www.youtube.com/playlist?list=PLzWGOASvSx6GlBQPNhLRBDLqKgYHJHOml) ＜YouTubeアーカイブ動画あり＞
@@ -142,7 +142,7 @@
         - > github.com内のGitHub Copilotへの自分用の指示を設定可能 → Personal instructions
 - （2025/07/14）Findy主催、各社の事例から学ぶ！AIコーディングエージェント活用の現在地 [＜connpass＞](https://findy.connpass.com/event/359453/) [＜イベントページ＞](https://findy-code.io/events/59vAgWQnlgbiD) ＜アーカイブ動画あり＞
 - （2025/07/15）Findy Tools主催、GitHub Copilot活用術~MCP・レビュー・issue・Coding Agentまで！~ [＜connpass＞](https://findy-tools.connpass.com/event/359953/) [＜イベントページ＞](https://findy-tools.io/events/70c60d6e8696586ece73) ＜アーカイブ動画あり＞
-- （2025/07/16）東京AI祭主催、Claude Code・Gemini CLIで使える！「メモリ機能」で性能をさらにアップする裏技 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/360358/) ＜アーカイブ動画あり＞
+- （2025/07/16）東京AI祭主催、Claude Code・Gemini CLIで使える！「メモリ機能」で性能をさらにアップする裏技 [＜connpass＞](https://ai-fest-tokyo.connpass.com/event/360358/)
 - （2025/07/17）Findy主催、Claude Code Meetup [＜connpass＞](https://findy.connpass.com/event/359987/) [＜イベントページ＞](https://findy-code.io/events/ues5b1nNP1m_f?fr=event_20250717&fsrc=connpass) ＜アーカイブ動画あり＞
     - 株式会社Algomatic erukitiさん、Claude Codeを使って不確実性と戦う [＜資料＞](https://speakerdeck.com/erukiti/claude-code-fights-uncertainty)
         - p.6: AIに頼むタスクは小さくする（特にClaude4は200k contextなので要注意）
@@ -344,7 +344,7 @@
     - 🌟小野寺 宏司さん、新しいペアプロ相手、AIとの向き合い方 [＜資料＞](https://www.docswell.com/s/DeNA_Tech/ZN9QEL-DeNA_AI_Talk_2-04)
         - > 効果を感じているプロンプト
             - > 不明点、進めていくうえで確認すべきことがあったら都度ユーザーに質問してください。対話しながら進めましょう。また、作業中に問題があったら中断して都度ユーザーに確認してください
-- （2025/09/16）サポーターズCoLab主催、【ハイブリッド勉強会】AI×プロダクト開発の最前線〜AIにフルベットする4社の挑戦と現在地〜 [＜connpass＞](https://supporterz-seminar.connpass.com/event/365993/) [＜イベントページ＞]() [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
+- （2025/09/16）サポーターズCoLab主催、【ハイブリッド勉強会】AI×プロダクト開発の最前線〜AIにフルベットする4社の挑戦と現在地〜 [＜connpass＞](https://supporterz-seminar.connpass.com/event/365993/)
     - 株式会社TOKIUM 木下 博揮（@hiroki_ddd）さん、経理AIエージェントを支えるAI駆動のプロダクトマネジメント [＜資料＞](https://speakerdeck.com/tokium/jing-li-aiezientowozhi-eruaiqu-dong-nopurodakutomanezimento)
     - 株式会社PKSHA Technology 藤岡 和真（@kakka_q）さん、HR領域のAIプロダクト開発から見えたAI UXの本質
     - 株式会社Legalscape 富田 晃弘さん、Kaggle Grandmasterと創る、リーガルAIモデル開発の最前線
@@ -572,6 +572,11 @@
     - 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/11短縮版）
 - （2025/11/07）Findy主催、開発をリードする品質保証  -Findy Online Conference - [＜connpass＞](https://findy.connpass.com/event/370426/) [＜イベントページ＞](https://findy-code.io/events/S3ojUQChnQOD0) ＜YouTubeアーカイブ動画あり＞
     - ファインディ株式会社 高橋 裕之さん、ソフトウェア開発現代史: 専任QAの昔と今「私vsあなた」から共に担う品質へ
+    - 🌟NPO法人ASTER 吉澤 智美(@tulune)さん、ソフトウェア品質を支えるテストとレビュー再考 [＜資料＞](https://speakerdeck.com/findy_eventslides/ji-ze-zhi-mei-san)
+    - 株式会社SODA 林 雅也(@rinchan)さん、QAEが生成AIと越える、ソフトウェア開発の境界線 [＜資料＞](https://speakerdeck.com/rinchsan/qaekasheng-cheng-aitoyue-eru-sohutoueakai-fa-nojing-jie-xian)
+        - PRDやソースコードからマニュアルテスト項目をDevinに作らせる
+    - 🌟株式会社グロービス 大沼 和也(@technuma)さん、品質は設計でつくり込む [＜資料＞](https://speakerdeck.com/technuma/design-in-quality)
+    - 株式会社SmartHR 平田 敏之(@tarappo)さん、品質保証の取り組みを広げる仕組みづくり〜スキルの移譲と自律を支える実践知〜 [＜資料＞](https://speakerdeck.com/tarappo/pin-zhi-bao-zheng-noqu-rizu-miwoguang-gerushi-zu-midukuri-sukirunoyi-rang-tozi-lu-wozhi-erushi-jian-zhi)
 - （2025/11/11）Findy主催、フリーランスエンジニア最前線！市場動向から読み解く、求められるスキルと働き方 [＜connpass＞](https://findy.connpass.com/event/373269/) [＜イベントページ＞](https://freelance.findy-code.io/events/6iFQHs0ny_LVU/viewer-link) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/12）Findy主催、TIS、NRIが語る AI品質の設計図 〜開発現場に今求められる“品質基準”を探る〜 [＜connpass＞](https://findy.connpass.com/event/371557/) [＜イベントページ＞](https://findy-code.io/events/OcIGQBoLSbHFQ)
     - 野村総合研究所 高橋 宏圭(@thiro_news)さん、品質を守り、生産性を高めるためのセキュアなAIエージェント基盤サービスの開発

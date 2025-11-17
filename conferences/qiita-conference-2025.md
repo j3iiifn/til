@@ -1,5 +1,8 @@
 # Qiita Conference 2025
 https://qiita.com/official-campaigns/conference/2025
+https://www.youtube.com/watch?v=ZFQNzqJqsvQ
+https://www.youtube.com/watch?v=hYsitjl8uOw
+https://www.youtube.com/watch?v=CZCsCXRrH6U
 
 ## Day 1 2025/04/23
 
