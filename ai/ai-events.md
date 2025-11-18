@@ -543,6 +543,8 @@
         - 過去案件を使用してAI駆動開発プロセスを構築・検証
     - [NG] FPTジャパンホールディングス株式会社 鈴木 章太郎さん、Cursor / GitHub Copilot で作る自社GPU × 全クラウドAI 協調アプリケーション
     - JTP株式会社 岡本 拓也さん ＆ 梨本 大輔さん、AI x 組織でのチーム開発を成功に導く方法 [＜資料1＞](https://kyrios.jtp.co.jp/blog/aiddcon2025_001) [＜資料2＞](https://kyrios.jtp.co.jp/blog/aiddcon2025_002)
+    - 本田技研工業株式会社 大坪浩司さん、爆速で価値検証！Figma Make × Claude Codeで実現するモバイルアプリPoCの開発
+    - クリエーションライン株式会社 岡﨑 岬平さん、AI駆動開発 実践事例の紹介！実践から見えてきた課題と対策
 - （2025/10/31）AI駆動開発勉強会主催、AI駆動開発カンファレンス2025秋 2日目 Room CD  [＜connpass＞](https://aid.connpass.com/event/367697/) [＜イベントページ＞](https://www.ai-driven.dev/) [＜YouTube＞](https://youtube.com/live/Rei97TSw64g) ＜YouTubeアーカイブ動画あり＞
     - Anthropicの責任あるAIの開発とClaude Codeのご紹介
         - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム
