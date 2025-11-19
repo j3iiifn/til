@@ -132,6 +132,9 @@ __Docs__
 - （公開日：2025/08/16、閲覧日：2025/08/16）[【神回】Googleスライドが一瞬で完成する"奇跡"のプロンプト教えます｜まじん](https://note.com/majin_108/n/n39235bcacbfc)
     - スライドのレイアウトや構成要素を定義するJSONをGeminiに作成させ、そのJSONをもとにGoogle Apps ScriptがGoogleスライドを描画するという手法
     - ゴリ押し感がすごい
+- （公開日：2025/11/19、閲覧日：2025/11/19）[Gemini 3: Introducing the latest Gemini AI model from Google](https://blog.google/intl/ja-jp/company-news/technology/gemini-3/)
+    - 原文：https://blog.google/products/gemini/gemini-3/
+
 
 #### Gemini 2.5 Flash Image (nano-banana)
 - （公開日：2025/09/13、閲覧日：2025/09/13）[nano\-bananaでモバイルアプリUIモックアップを作る](https://zenn.dev/oikon/articles/nanobanana-mobile-mock)
