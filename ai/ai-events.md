@@ -549,6 +549,7 @@
     - Anthropicの責任あるAIの開発とClaude Codeのご紹介
         - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム
         - Anthropic Applied Al Product Engineer Jason Kimさん、Mastering Claude Code
+    - Lovable Labs Incorporated Sebastian Schaafさん、Building products without developers: The 5x Product manager & designer
 - （2025/10/31）Findy主催、開発環境自慢Night 〜CLI型AIエージェント×ターミナル編〜 [＜connpass＞](https://findy.connpass.com/event/372055/) [＜イベントページ＞](https://findy-code.io/events/OiI6NcysBE3YZ)
     - 株式会社テックリード ゴリラ(@gorilla0513)さん、Talk①「とあるVimmerとAIエージェントの作業環境のご紹介」[＜資料＞](https://speakerdeck.com/skanehira/findy-ai-terminal)
     - 株式会社アットマーク たけてぃ(@takeokunn)さん、Talk②「nixos-containerで100並列AI実行に挑戦する」[＜資料＞](https://docs.google.com/presentation/d/10qX6OyLWo-MhrBmquHdfkruKben9q6QT_W7tAGYb60o/edit)
@@ -584,6 +585,17 @@
     - 野村総合研究所 高橋 宏圭(@thiro_news)さん、品質を守り、生産性を高めるためのセキュアなAIエージェント基盤サービスの開発
     - TIS株式会社 香川 元さん、SIerが語る「AI導入の品質設計」
         - AIそのものの品質を定義する国際基準はまだ無いが、いくつかのガイドラインが公開されている
+- （2025/11/14）Findy主催、【Flutter特集】Flutter開発の裏側 ~各社が向き合う課題と挑戦~ [＜connpass＞](https://findy.connpass.com/event/370621/) [＜イベントページ＞](https://findy-code.io/events/fY3_PAkgGAk_e) ＜YouTubeアーカイブ動画あり＞
+    - 株式会社UPSIDER Yoshihiro Tanakaさん、少人数チームにおける複数アプリの継続的デリバリー [＜資料＞](https://speakerdeck.com/upsider_tech/shao-ren-shu-timuniokerufu-shu-apurinoji-sok-de-deribari-yoshihiro-tanaka)
+        - Devinを利用
+    - エムスリー株式会社 荒谷 光さん、今新規で作るならFlutterのアーキテクチャってなんなの？MVVMなの？ [＜資料＞](https://speakerdeck.com/aakira/whats-the-recommended-flutter-architecture)
+        - hooks + riverpod
+    - 株式会社SODA 今城 洸幸さん、Flutterチームから作る組織の越境文化 [＜資料＞](https://speakerdeck.com/findy_eventslides/fluttertimukarazuo-ruzu-zhi-noyue-jing-wen-hua)
+        - Figmaのデザインシステムと同期する形でデザインシステムのFlutterパッケージを実装
+            - interface: FigmaのVariantに対応する名前付きコンストラクタ
+            - doc comment
+        - Figma MCPを利用
+        - Devin, Claude Code Actionを利用
 - （2025/11/14）Qiita主催、Qiita Bash「キミたちはClaude Codeをどう使いこなす？」 [＜connpass＞](https://increments.connpass.com/event/370950/) [＜YouTube＞](https://youtube.com/live/Qy9pVNMRXaE) ＜YouTubeアーカイブ動画あり＞
     - 株式会社いえらぶGROUP 和田健太郎さん、AIに使われない！エンジニアが育つ開発組織の話 [＜資料＞](https://speakerdeck.com/kentarowada/ainishi-warenai-enziniagayu-tukai-fa-zu-zhi-nohua)
         - AI対話履歴の採点→一定点数を超えたらAI利用を許可
