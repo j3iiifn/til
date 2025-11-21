@@ -550,6 +550,8 @@
         - Anthropic Japan 合同会社 代表執行役社長 東條英俊さん、Anthropic: 企業が信頼できる最先端AIシステム
         - Anthropic Applied Al Product Engineer Jason Kimさん、Mastering Claude Code
     - Lovable Labs Incorporated Sebastian Schaafさん、Building products without developers: The 5x Product manager & designer
+    - クラスメソッド株式会社 横田 聡さん、「失敗」と「成功」のすべて：クラスメソッドが語るAI駆動開発のリアルな現在地
+    - 株式会社メルカリ ハヤカワ五味 ＆ Kuu(KumeFumiya) さん、導入で終わらせないための「生成AI×組織開発」
 - （2025/10/31）Findy主催、開発環境自慢Night 〜CLI型AIエージェント×ターミナル編〜 [＜connpass＞](https://findy.connpass.com/event/372055/) [＜イベントページ＞](https://findy-code.io/events/OiI6NcysBE3YZ)
     - 株式会社テックリード ゴリラ(@gorilla0513)さん、Talk①「とあるVimmerとAIエージェントの作業環境のご紹介」[＜資料＞](https://speakerdeck.com/skanehira/findy-ai-terminal)
     - 株式会社アットマーク たけてぃ(@takeokunn)さん、Talk②「nixos-containerで100並列AI実行に挑戦する」[＜資料＞](https://docs.google.com/presentation/d/10qX6OyLWo-MhrBmquHdfkruKben9q6QT_W7tAGYb60o/edit)

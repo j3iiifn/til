@@ -84,7 +84,11 @@
 - （公開日：2025/08/05、閲覧日：2025/08/05）[なぜWhyを書くだけで生産性が上がるのか？｜すてぃお](https://note.com/suthio/n/nfe677919f3c9)
 
 ## 良いコード
+### 勉強会
 - （2025/06/04）Forkwell主催、良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97 [＜イベントページ＞](https://jobs.forkwell.com/events/pa3oihbjg6nj) [＜connpass＞](https://forkwell.connpass.com/event/354821/)
+
+### 記事
+- （公開日：2025/11/18、閲覧日：2025/11/21）[エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム \#設計 \- Qiita](https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b)
 
 ## 書籍紹介
 - （公開日：2025/07/15、閲覧日：2025/07/16）[アーキテクトになる道のりで出会った本たち｜yonekubo](https://note.com/yonekubo/n/n1169f66d4399)
