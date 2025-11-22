@@ -552,6 +552,10 @@
     - Lovable Labs Incorporated Sebastian Schaafさん、Building products without developers: The 5x Product manager & designer
     - クラスメソッド株式会社 横田 聡さん、「失敗」と「成功」のすべて：クラスメソッドが語るAI駆動開発のリアルな現在地
     - 株式会社メルカリ ハヤカワ五味 ＆ Kuu(KumeFumiya) さん、導入で終わらせないための「生成AI×組織開発」
+    - ランスティア株式会社 熊井 悠 (本名: 竹下 祐豪)さん、AI駆動開発のその先へー真の本質的価値を探求できる組織・企業をつくるには？
+    - ByteRover, Inc. Andy Nguyenさん、開発者のためのコンテキストエンジニアリング（Context Engineering for Developers）
+    - QueryPie, Inc. Brant Hwangさん、MCPで切り開くセキュアーなAIプラットフォームとその実効性
+    - 日本マイクロソフト株式会社 畠山 大有さん、Hypervelocity Engineeringの世界 - Vibe Coding の先へ -
 - （2025/10/31）Findy主催、開発環境自慢Night 〜CLI型AIエージェント×ターミナル編〜 [＜connpass＞](https://findy.connpass.com/event/372055/) [＜イベントページ＞](https://findy-code.io/events/OiI6NcysBE3YZ)
     - 株式会社テックリード ゴリラ(@gorilla0513)さん、Talk①「とあるVimmerとAIエージェントの作業環境のご紹介」[＜資料＞](https://speakerdeck.com/skanehira/findy-ai-terminal)
     - 株式会社アットマーク たけてぃ(@takeokunn)さん、Talk②「nixos-containerで100並列AI実行に挑戦する」[＜資料＞](https://docs.google.com/presentation/d/10qX6OyLWo-MhrBmquHdfkruKben9q6QT_W7tAGYb60o/edit)
@@ -575,6 +579,8 @@
     - Vercel Inc. Esteban Suarezさん、ゼロからv0まで / From 0 to v0
     - SonarSource Japan株式会社 菅野 真一さん、AIコーディング時代のその先へ。SonarQubeでコードの健全性を保ち、脆弱性を未然に防ぎ、サプライチェーン全体を保護する。
     - 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/11短縮版）
+- （2025/11/06）Qiita主催、Qiita Conference 2025 Autumn (2日目) [＜connpass＞](https://increments.connpass.com/event/370478/) [＜イベントページ＞](https://qiita.com/official-campaigns/conference/2025-autumn) [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
+    - seyaさん、AIをフル活用したYouTube運用の裏側
 - （2025/11/07）Findy主催、開発をリードする品質保証  -Findy Online Conference - [＜connpass＞](https://findy.connpass.com/event/370426/) [＜イベントページ＞](https://findy-code.io/events/S3ojUQChnQOD0) ＜YouTubeアーカイブ動画あり＞
     - ファインディ株式会社 高橋 裕之さん、ソフトウェア開発現代史: 専任QAの昔と今「私vsあなた」から共に担う品質へ
     - 🌟NPO法人ASTER 吉澤 智美(@tulune)さん、ソフトウェア品質を支えるテストとレビュー再考 [＜資料＞](https://speakerdeck.com/findy_eventslides/ji-ze-zhi-mei-san)
@@ -612,3 +618,4 @@
     - 株式会社GAIBAKO 生貝 遼太さん、ClaudeCodeでObsidianの文書校正Pluginを作った話
     - sunagakuさん、なぜ今Claude Codeを使うのか？ 〜Codexとの比較で見えた真の強み〜 [＜資料＞](https://speakerdeck.com/sunagaku/codexwoshi-idao-siteqi-tuita-claude-codenoben-dang-noqiang-mitoshi-ikonasishu)
     - 株式会社いえらぶ 渕田隆臣さん、大学時代にプログラミングと出会い単位をすべて落として二度としないと決意した人間が個人とチームと部署で活用するClaudeCodeの使い方
+- （2025/11/19）Findy主催、仕様駆動開発〜新たな開発手法の可能性と実践〜 [＜connpass＞](https://findy.connpass.com/event/373561/) [＜イベントページ＞](https://findy-code.io/events/Dmp2Xwx0URxyB)  [＜イベントページ2＞](https://findy-code.io/events/1oTjDYLGzFg_C) ＜YouTubeアーカイブ動画あり＞
