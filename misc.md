@@ -31,6 +31,9 @@
 - （公開日：2025/08/12、閲覧日：2025/08/12）[1on1の功罪について｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/times_serizawa_0002)
 - （公開日：2025/08/24、閲覧日：2025/08/25）[チームの問題の原因は外側にあることが多いよなぁ。「チームの力で組織を動かす」を読んだ。 \- Mitsuyuki\.Shiiba](https://bufferings.hatenablog.com/entry/2025/08/24/170220)
 
+## Project Management
+- （2025/11/17）Creationline主催、『両利きのプロジェクトマネジメント』著者米山さんに、若手プロマネのモヤモヤをぶつけてみよう [＜connpass＞](https://creationline.connpass.com/event/371942/) [＜YouTube＞](https://www.youtube.com/watch?v=ZP_IWdlsB3g) ＜YouTubeアーカイブ動画あり＞
+
 ## Engineering Manager (エンジニアリングマネージャ)
 - （公開日：2025/10/10、閲覧日：2025/10/11）[最近エンジニアリングマネージャになったので、最近やっていることを紹介 \#DevKan \- hitode909の日記](https://blog.sushi.money/entry/2025/10/10/195616)
 - （公開日：2025/10/14、閲覧日：2025/10/15）[エンジニアが外部への技術発信をしない3つの理由と、EMができること \- るさんちまん](https://naopr.hatenablog.com/entry/2025/10/14/085021)
@@ -61,6 +64,9 @@
 - （2025/08/28）Findy主催、LIXIL・イオンに学ぶ 内製開発による事業貢献 ─推進と文化醸成のリアル Tech Seminar [＜connpass＞](https://findy.connpass.com/event/362971/) [＜イベントページ＞](https://findy-code.io/events/90c3z4N2lfOn7) ＜YouTubeアーカイブ動画あり＞
     - イオンスマートテクノロジー株式会社 中村 剛さん、翁長 聡史さん、矢追 かおるさん、「JTCにおける内製×スクラム開発への挑戦〜内製化率95%達成の舞台裏」
     - 株式会社LIXIL 原田 篤(@meteor0090)さん、「ビジネスアジリティを高める内製化戦略」
+
+## CI/CD
+- （2025/11/06）株式会社LIFULL, Yumemi.grow主催、開発生産性と開発者体験を改善するための勉強会 [＜connpass＞](https://yumemi.connpass.com/event/371982/) [＜YouTube＞](https://www.youtube.com/watch?v=M3Kv05csnn8) ＜YouTubeアーカイブ動画あり＞
 
 ## 職場環境
 - （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)

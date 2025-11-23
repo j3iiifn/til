@@ -581,6 +581,7 @@
     - 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/11短縮版）
 - （2025/11/06）Qiita主催、Qiita Conference 2025 Autumn (2日目) [＜connpass＞](https://increments.connpass.com/event/370478/) [＜イベントページ＞](https://qiita.com/official-campaigns/conference/2025-autumn) [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
     - seyaさん、AIをフル活用したYouTube運用の裏側
+- （2025/11/07）GitHub Copilot Meetup Japan実行委員会・AI駆動開発勉強会主催、GitHub Copilot Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/368649/) [＜YouTube＞](https://www.youtube.com/live/A6MaGaWmm4o) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/07）Findy主催、開発をリードする品質保証  -Findy Online Conference - [＜connpass＞](https://findy.connpass.com/event/370426/) [＜イベントページ＞](https://findy-code.io/events/S3ojUQChnQOD0) ＜YouTubeアーカイブ動画あり＞
     - ファインディ株式会社 高橋 裕之さん、ソフトウェア開発現代史: 専任QAの昔と今「私vsあなた」から共に担う品質へ
     - 🌟NPO法人ASTER 吉澤 智美(@tulune)さん、ソフトウェア品質を支えるテストとレビュー再考 [＜資料＞](https://speakerdeck.com/findy_eventslides/ji-ze-zhi-mei-san)
