@@ -314,6 +314,11 @@ __Docs__
 - 🌟（公開日：2025/10/02、閲覧日：2025/10/05）[どのくらい生成AIに任せているかをあらわす指標 \- Mitsuyuki\.Shiiba](https://bufferings.hatenablog.com/entry/2025/10/02/235024)
     - > 生成されたコードを自分が読んでいない割合
 
+
+### AIのための技術選定
+- （公開日：2025/11/23、閲覧日：2025/11/24）[ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した](https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746)
+
+
 ### 業務活用
 - （公開日：2025/10/23、閲覧日：2025/10/25）[『Gemini と NotebookLM を組み合わせて 目標設定の負荷を軽減する方法』というお題で登壇しました \- Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2025/10/23/095714)
 - （公開日：2025/11/09、閲覧日：2025/11/10）[RAGを活用してセキュリティチェックシートの記入作業を自動化した話](https://zenn.dev/delisit/articles/0b4977d79500fa)
