@@ -70,6 +70,10 @@
     - 裏を返すと、悪用の疑いがあればClaudeの会話や生成物の履歴をAnthropic社員が閲覧することがあるということ。これを理由に業務利用を禁止する企業がありそうだなと思った。
 
 
+## モデルのアップデート
+- （公開日：2025/11/25、閲覧日：2025/11/25）[Introducing Claude Opus 4\.5 \\ Anthropic](https://www.anthropic.com/news/claude-opus-4-5)
+
+
 ## Claude Code本体のアップデート
 - （公開日：2025/10/04、閲覧日：2025/10/05）[Claude Code 2\.0\.0 のメジャーアップデートについて](https://zenn.dev/oikon/articles/claude-code-2)
 
