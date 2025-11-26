@@ -620,3 +620,5 @@
     - sunagakuさん、なぜ今Claude Codeを使うのか？ 〜Codexとの比較で見えた真の強み〜 [＜資料＞](https://speakerdeck.com/sunagaku/codexwoshi-idao-siteqi-tuita-claude-codenoben-dang-noqiang-mitoshi-ikonasishu)
     - 株式会社いえらぶ 渕田隆臣さん、大学時代にプログラミングと出会い単位をすべて落として二度としないと決意した人間が個人とチームと部署で活用するClaudeCodeの使い方
 - （2025/11/19）Findy主催、仕様駆動開発〜新たな開発手法の可能性と実践〜 [＜connpass＞](https://findy.connpass.com/event/373561/) [＜イベントページ＞](https://findy-code.io/events/Dmp2Xwx0URxyB)  [＜イベントページ2＞](https://findy-code.io/events/1oTjDYLGzFg_C) ＜YouTubeアーカイブ動画あり＞
+- （2025/11/25）Forkwell主催、どろんこAI話〜綺麗じゃないAIの苦労話〜 ー 現場で泥を被った6社が語る、リアルなAI開発の裏側 [＜connpass＞](https://forkwell.connpass.com/event/374914/) [＜イベントページ＞](https://jobs.forkwell.com/events/dsa0_8s94bl) ＜YouTubeアーカイブ動画あり＞
+    - MOSH 大木 優さん、LT①「AI開発の定着を推進するために揃えるべき前提」[＜資料＞]()

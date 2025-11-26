@@ -9,6 +9,9 @@
 - （公開日：2025/09/10、閲覧日：2025/09/10）[150万通のメールを送るのに5万円の専用サービスを使わずにAWS SESを使ったら結局工数的に高くかかった話→「餅作りが困難なほど餅屋の価値は上昇する」「警告メールが総務省から来たのは草」 \- posfie](https://posfie.com/@kalofollow/p/pitX5KT)
 - （公開日：2025/10/02、閲覧日：2025/10/02）[「NHK ONE」移行エラーは「Gmailにスパム認定されていた可能性」　徐々に解消か \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2510/02/news061.html)
 
+## OSS
+- （公開日：2025/11/26、閲覧日：2025/11/26）[オープンソース・プロジェクトのたたみ方](https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project)
+
 ## エンジニアとして
 - （公開日：2025/04/27、閲覧日：2025/04/27）[エンジニアとして緩やかに死んでいくんだろーなと思った話 \- pospomeのプログラミング日記](https://www.pospome.work/entry/2025/04/27/144734)
 - （公開日：2025/08/04、閲覧日：2025/08/05）[エンジニアを成長させる要素を言語化する \- pospomeのプログラミング日記](https://www.pospome.work/entry/2025/08/04/130959#google_vignette)
