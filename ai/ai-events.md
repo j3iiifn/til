@@ -622,5 +622,13 @@
 - （2025/11/19）Findy主催、仕様駆動開発〜新たな開発手法の可能性と実践〜 [＜connpass＞](https://findy.connpass.com/event/373561/) [＜イベントページ＞](https://findy-code.io/events/Dmp2Xwx0URxyB)  [＜イベントページ2＞](https://findy-code.io/events/1oTjDYLGzFg_C) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/25）Forkwell主催、どろんこAI話〜綺麗じゃないAIの苦労話〜 ー 現場で泥を被った6社が語る、リアルなAI開発の裏側 [＜connpass＞](https://forkwell.connpass.com/event/374914/) [＜イベントページ＞](https://jobs.forkwell.com/events/dsa0_8s94bl) ＜YouTubeアーカイブ動画あり＞
     - MOSH 大木 優さん、LT①「AI開発の定着を推進するために揃えるべき前提」[＜資料＞]()
+    - PeopleX 芹澤 和也さん、LT②「どろんこになった結果、フロントエンド開発でAIをどう活かしているか」[＜資料＞]()
 - （2025/11/27）Findy主催、組織もAIも成長するコードレビュー - ナレッジの仕組み化で進化する協働のかたち [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/374007/)
     - [＜資料＞](https://www.docswell.com/s/kbkn3/ZVMW84-lifull-ai-review) [＜資料＞](https://www.lifull.blog/entry/2025/03/31/190000)
+- （2025/11/28）AIエージェントユーザー会（AIAU）主催、Mobile App with AI Meetup Tokyo [＜connpass＞](https://aiau.connpass.com/event/370094/)
+    - Kaoru Odaさん、モバイル開発ゼロの人がAIだけで開発してみた
+    - hiragramさん、Claude Codeを極限までブン回す(仮)
+    - horie1024さん、(仮) ZOZOにおけるモバイルアプリ開発でのAI活用事例の紹介
+    - 初モバイルアプリ個人開発で失敗した話〜 Vibe Coderの悲劇 〜
+    - AI時代のフルスタック：自分が2,3人分で動くための工夫
+    - AIと共に走り抜けた60日間 ― 5万人が挑戦したShipatonの振り返り
