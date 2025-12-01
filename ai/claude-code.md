@@ -64,6 +64,8 @@
 - （公開日：2025/11/14、閲覧日：2025/11/15）[チームのCLAUDE\.mdが勝手に育つ \- Hook機能での自動化](https://zenn.dev/appbrew/articles/e2f38677f6a0ce)
     - コンテキスト腐敗防止のためにCLAUDE.mdには本当に必要な情報をシンプルに書くべきなので、この手法は真似したいとは思わない
 - 🌟（公開日：2025/11/30、閲覧日：2025/12/01）[Claude Code のプランモードがより正確な計画を立てられるようになっていた](https://azukiazusa.dev/blog/claude-code-plan-mode-improved/)
+- （公開日：2025/11/29、閲覧日：2025/11/30）[Claude Code スキル・サブエージェント攻略ガイド](https://zenn.dev/oligin/articles/7691926a83936a)
+    - Claude Code のスキルとサブエージェントを確実に発動させるための実践ガイド
 
 
 ## セキュリティインシデント

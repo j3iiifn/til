@@ -62,6 +62,7 @@
     - 松本 成幸(@mtx2s)さん、モダンな現場と従来型の組織 ——そこに生じる "不整合" を解消してこそチームがパフォーマンスを発揮できる [＜資料＞](https://speakerdeck.com/mtx2s/team-oriented-organization-design-20250825)
 - （2025/08/27）Findy主催、著者mtx2sさんご講演 【開発現場の課題から読み解く 、組織設計の考え方】 [＜connpass＞](https://findy.connpass.com/event/364235/) [＜イベントページ＞](https://findy-code.io/events/0ZxAdW2VVFWEB) ＜YouTubeアーカイブ動画あり＞
     - 松本 成幸(@mtx2s)さん、現場が抱える様々な問題は “組織設計上” の問題によって生じていることがある [＜資料＞](https://speakerdeck.com/mtx2s/team-oriented-organization-design-20250827)
+- （2025/11/26）Forkwell主催、エンジニアリング組織開発 - Forkwell Library #114 [＜connpass＞](https://forkwell.connpass.com/event/375091/) [＜イベントページ＞](https://jobs.forkwell.com/events/15gfr18sc) ＜YouTubeアーカイブ動画あり＞
 
 ## 内製開発
 - （2025/08/28）Findy主催、LIXIL・イオンに学ぶ 内製開発による事業貢献 ─推進と文化醸成のリアル Tech Seminar [＜connpass＞](https://findy.connpass.com/event/362971/) [＜イベントページ＞](https://findy-code.io/events/90c3z4N2lfOn7) ＜YouTubeアーカイブ動画あり＞

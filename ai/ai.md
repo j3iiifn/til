@@ -148,6 +148,9 @@ __Docs__
 - （公開日：2025/06/28、閲覧日：2025/07/02）[Gemini CLI is awesome\! But only when you make Claude Code use it as its bitch\. : r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/comments/1lm3fxq/gemini_cli_is_awesome_but_only_when_you_make/)
     - Claude Codeと比較してGemini CLIはコンテキストウィンドウが大きいのを利用して、Claude Codeがコードベースの情報を収集する際にGemini CLIを利用するようにする例
 
+### Antigravity
+- （公開日：2025/11/28、閲覧日：2025/11/30）[【エディタ】VS codeからAntigravityに移行しました \#VSCode \- Qiita](https://qiita.com/hayuse/items/28d8716a8b5fd6ac91fe)
+
 ### Gemini API
 - （公開日：2025/11/10、閲覧日：2025/11/10）[GeminiにPDFやWord、Excel、テキストファイルなどの検索機能を組み込める「File Search in Gemini API」提供開始、フルマネージドなRAGシステムを提供 － Publickey](https://www.publickey1.jp/blog/25/geminipdfwordexcelfile_search_in_gemini_apirag.html)
     - NotebookLMのGemini API版みたいな感じ？

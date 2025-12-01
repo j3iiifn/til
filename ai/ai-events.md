@@ -623,6 +623,12 @@
 - （2025/11/25）Forkwell主催、どろんこAI話〜綺麗じゃないAIの苦労話〜 ー 現場で泥を被った6社が語る、リアルなAI開発の裏側 [＜connpass＞](https://forkwell.connpass.com/event/374914/) [＜イベントページ＞](https://jobs.forkwell.com/events/dsa0_8s94bl) ＜YouTubeアーカイブ動画あり＞
     - MOSH 大木 優さん、LT①「AI開発の定着を推進するために揃えるべき前提」[＜資料＞]()
     - PeopleX 芹澤 和也さん、LT②「どろんこになった結果、フロントエンド開発でAIをどう活かしているか」[＜資料＞]()
+    - 株式会社スリーシェイク 佐藤 慧太さん、LT③「進化の早すぎる生成 AI と向き合う」[＜資料＞]()
+    - 株式会社ネットプロテクションズ 田中 哉太さん、LT④「プロトタイプ59回のどろんこ開発ー金融系コンタクトセンターAI奮闘記ー」[＜資料＞]()
+    - 株式会社estie 井上 真嘉さん、LT⑤「泥まみれになりながらAIを磨き、ユーザーの幸せに一歩近づけた！」[＜資料＞]()
+    - atama 菅原 優さん、LT⑥「AI時代のプロダクトチームにおける越境：試行錯誤から感じたこと（仮）」[＜資料＞]()
+- （2025/11/26）Findy主催、2025 DORA Reportから読み解く！AIが映し出す、成果を出し続ける組織の共通点 [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/373355/) [＜YouTube＞](https://www.youtube.com/watch?v=Dvo5Hhay-t0) ＜YouTubeアーカイブ動画あり＞
+- （2025/11/27）Finatext Holdings Ltd. / Kyash Inc主催、生成AIの実践知 〜 試行錯誤から組織への定着まで 〜 【Finatext × Kyash】 [＜connpass＞](https://finatext.connpass.com/event/374035/) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/27）Findy主催、組織もAIも成長するコードレビュー - ナレッジの仕組み化で進化する協働のかたち [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/374007/)
     - [＜資料＞](https://www.docswell.com/s/kbkn3/ZVMW84-lifull-ai-review) [＜資料＞](https://www.lifull.blog/entry/2025/03/31/190000)
 - （2025/11/28）AIエージェントユーザー会（AIAU）主催、Mobile App with AI Meetup Tokyo [＜connpass＞](https://aiau.connpass.com/event/370094/)
