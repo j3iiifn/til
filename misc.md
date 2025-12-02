@@ -111,6 +111,9 @@
 ## OCR
 - （公開日：2025/09/28、閲覧日：2025/10/05）[GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い](https://zenn.dev/harumikun/articles/fb9c435acf4070)
 
+## やらかし
+- （公開日：2025/12/01、閲覧日：2025/12/02）[客先のDBを間違えて削除した話 \#ポエム \- Qiita](https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac)
+
 ## Google日本語入力 小技
 - （公開日：2025/10/06、閲覧日：2025/10/07）[「Google 日本語入力」で“20251006”（YYYYMMDD）形式の日付を変換する方法が便利 \- やじうまの杜 \- 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2052832.html)
 
