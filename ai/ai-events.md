@@ -638,3 +638,5 @@
     - 初モバイルアプリ個人開発で失敗した話〜 Vibe Coderの悲劇 〜
     - AI時代のフルスタック：自分が2,3人分で動くための工夫
     - AIと共に走り抜けた60日間 ― 5万人が挑戦したShipatonの振り返り
+- （2025/11/28）株式会社ニジボックス主催、AI時代のデザインシステム〜実践デモで学ぶ、AIがもたらすUI UXの新しい可能性〜 [＜connpass＞](https://nijibox.connpass.com/event/372035/)
+- （2025/11/28）Findy主催、Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践- [＜connpass＞](https://findy.connpass.com/event/375963/) [＜イベントページ＞](https://findy-code.io/events/M8YI8LWIHWnoE) ＜YouTubeアーカイブ動画あり＞

@@ -134,6 +134,7 @@ __Docs__
     - ゴリ押し感がすごい
 - （公開日：2025/11/19、閲覧日：2025/11/19）[Gemini 3: Introducing the latest Gemini AI model from Google](https://blog.google/intl/ja-jp/company-news/technology/gemini-3/)
     - 原文：https://blog.google/products/gemini/gemini-3/
+- （公開日：2025/12/03、閲覧日：2025/12/03）[GoogleがGeminiの活用法を紹介する電子書籍を無償公開 ～全国の大学生と合同で作成 \- Book Watch/ニュース \- 窓の杜](https://forest.watch.impress.co.jp/docs/bookwatch/news/2068062.html)
 
 
 #### Gemini 2.5 Flash Image (nano-banana)
@@ -273,6 +274,10 @@ __Docs__
 - （公開日：2025/10/14、閲覧日：2025/10/16）[言語化のコツ \- AIも人間も5W1Hで上手くいく \- そーだいなるらくがき帳](https://soudai.hatenablog.com/entry/5w1h)
 - （公開日：2025/10/25、閲覧日：2025/10/26）[統一的プロンプトの終焉：もはやllmモデルに互換性はありません](https://www.coderabbit.ai/ja/blog/the-end-of-one-sized-fits-all-prompts-why-llm-models-are-no-longer-interchangeable-ja)
     - モデルによって性格が異なるため、単一のプロンプトで複数のモデルを動かすのは無理がある
+
+
+### Prompt Caching
+- 🌟（公開日：2025/12/02、閲覧日：2025/12/03）[Prompt Cachingを完全に理解してLLMコストを爆裂に下げる](https://zenn.dev/ubie_dev/articles/ade17afebabaa9)
 
 
 ### エッセイ、キャリア論
