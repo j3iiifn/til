@@ -64,6 +64,9 @@
     - 松本 成幸(@mtx2s)さん、現場が抱える様々な問題は “組織設計上” の問題によって生じていることがある [＜資料＞](https://speakerdeck.com/mtx2s/team-oriented-organization-design-20250827)
 - （2025/11/26）Forkwell主催、エンジニアリング組織開発 - Forkwell Library #114 [＜connpass＞](https://forkwell.connpass.com/event/375091/) [＜イベントページ＞](https://jobs.forkwell.com/events/15gfr18sc) ＜YouTubeアーカイブ動画あり＞
 
+## スクラム
+- （公開日：2025/12/04、閲覧日：2025/12/04）[スクラムマスターって何する人なの？ \| at\-blog](https://at-blog.vercel.app/blog/20251204-what-are-scrum-masters-doing)
+
 ## 内製開発
 - （2025/08/28）Findy主催、LIXIL・イオンに学ぶ 内製開発による事業貢献 ─推進と文化醸成のリアル Tech Seminar [＜connpass＞](https://findy.connpass.com/event/362971/) [＜イベントページ＞](https://findy-code.io/events/90c3z4N2lfOn7) ＜YouTubeアーカイブ動画あり＞
     - イオンスマートテクノロジー株式会社 中村 剛さん、翁長 聡史さん、矢追 かおるさん、「JTCにおける内製×スクラム開発への挑戦〜内製化率95%達成の舞台裏」
