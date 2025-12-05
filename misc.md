@@ -33,6 +33,7 @@
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
 - （公開日：2025/08/12、閲覧日：2025/08/12）[1on1の功罪について｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/times_serizawa_0002)
 - （公開日：2025/08/24、閲覧日：2025/08/25）[チームの問題の原因は外側にあることが多いよなぁ。「チームの力で組織を動かす」を読んだ。 \- Mitsuyuki\.Shiiba](https://bufferings.hatenablog.com/entry/2025/08/24/170220)
+- （公開日：2025/12/05、閲覧日：2025/12/05）[マネージャーは何が楽しくてやれる仕事なの？ \- だいくしー\(@daiksy\)のはてなブログ](https://daiksy.hatenablog.jp/entry/2025/12/05/081740)
 
 ## Project Management
 - （2025/11/17）Creationline主催、『両利きのプロジェクトマネジメント』著者米山さんに、若手プロマネのモヤモヤをぶつけてみよう [＜connpass＞](https://creationline.connpass.com/event/371942/) [＜YouTube＞](https://www.youtube.com/watch?v=ZP_IWdlsB3g) ＜YouTubeアーカイブ動画あり＞
@@ -99,6 +100,7 @@
 ## 良いコード
 ### 勉強会
 - （2025/06/04）Forkwell主催、良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97 [＜イベントページ＞](https://jobs.forkwell.com/events/pa3oihbjg6nj) [＜connpass＞](https://forkwell.connpass.com/event/354821/)
+- （公開日：2025/12/02、閲覧日：2025/12/05）[DRYにしすぎるとコードは干からびる](https://zenn.dev/recustomer/articles/507cb85b321a63)
 
 ### 記事
 - （公開日：2025/11/18、閲覧日：2025/11/21）[エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム \#設計 \- Qiita](https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b)
@@ -127,3 +129,4 @@
 - （公開日：2025/09/08、閲覧日：2025/09/08）[オライリー・ジャパンにおける翻訳書の制作体制の変化と「もうすぐ消滅するという人間の翻訳について」 \- YAMDAS現更新履歴](https://yamdas.hatenablog.com/entry/20250908/oreilly_japan_translation)
 - （公開日：2025/09/09、閲覧日：2025/09/10）[iPhoneと「APN構成プロファイル」の迷宮 \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/32616)
 - （公開日：2025/11/14、閲覧日：2025/11/15）[なぜ強調表示できず \*\* が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 \- Speaker Deck](https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti)
+- （公開日：2025/12/02、閲覧日：2025/12/05）[高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。 \#TypeScript \- Qiita](https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2)
