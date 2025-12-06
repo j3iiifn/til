@@ -381,7 +381,7 @@
     - 株式会社LayerX 望月 瑛太(@mochi_vs_mochi)さん、AIと立ち上げ、AIと走る [＜資料＞](https://speakerdeck.com/eitamochizuki/ai)
     - 株式会社ログラス 荒木 慎平(@shim_surprise)さん、AI-Opsが語るAI活用の「見えざる壁」を乗り越え方 [＜資料＞](https://speakerdeck.com/shim_surprise/ai-opsgayu-ru-aihuo-yong-no-jian-ezarubi-wocheng-riyue-efang-250926-deng-tan-zi-liao)
     - Sansan株式会社猿田 貴之(@srt_taka)さん、AI x Data x SaaS x Operation [＜資料＞](https://speakerdeck.com/sansantech/20250926)
-- （2025/09/29）ニジボックス主催、【アラン・ケイ登壇！】POST Dev｜AI x ◯◯ エンジニアリングの未来を描く、想像する。 [＜connpass＞](https://nijibox.connpass.com/event/362179/) [＜イベントページ＞](https://lp.nijibox.jp/cp/postdev/) ＜後日アーカイブ配信予定あり＞
+- （2025/09/29）ニジボックス主催、【アラン・ケイ登壇！】POST Dev｜AI x ◯◯ エンジニアリングの未来を描く、想像する。 [＜connpass＞](https://nijibox.connpass.com/event/362179/) [＜イベントページ＞](https://lp.nijibox.jp/cp/postdev/) [＜YouTube＞](https://www.youtube.com/playlist?list=PLViGyO7c07BcGz8LzOyRN8XSCEZB7r9s0) ＜YouTubeアーカイブ動画あり＞
     - 🌟タワーズ・クエスト株式会社 和田 卓人さん、AI時代のソフトウェア開発を考える（2025/09版）
 - （2025/09/29）Findy主催、AI開発のNext Stage コンテキストエンジニアリングを学ぶ [＜connpass＞](https://findy.connpass.com/event/369181/) [＜イベントページ＞](https://findy-code.io/events/wETeV_jZQrQzW) ＜YouTubeアーカイブ動画あり＞
     - 株式会社ナレッジセンス CTO/sasakuna(@sasa_kuna_)さん、コンテキストエンジニアリングとは? 考え方と応用方法 [＜資料＞](https://speakerdeck.com/findy_eventslides/kontekisutoenziniaringutoha-kao-efang-toying-yong-fang-fa)
@@ -495,6 +495,7 @@
     - プロンプトエンジニアリング
     - 最適なモデル選択、zero-shotから始める、「するな」より「しろ」、指示は最小限に、「重要」は危険信号
 - （2025/10/21）Findy主催、広木大地さん新刊先取り！AI疲れの正体と生産性の行方 [＜connpass＞](https://findy.connpass.com/event/370273/) [＜イベントページ＞](https://findy-code.io/events/TKG9kmGx2oGED) ＜YouTubeアーカイブ動画あり＞
+- （2025/10/23）Findy主催、“コト”に向き合えているか？AI時代に再考する開発組織のあり方 [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/370144/) ＜YouTubeアーカイブ動画あり＞
 - （2025/10/27）Findy主催、AIエージェント進化の鍵 音声・動画 によって拓かれた未来を知る [＜connpass＞](https://findy.connpass.com/event/371950/) [＜イベントページ＞](https://findy-code.io/events/nwn6dCYgbyKVD) ＜YouTubeアーカイブ動画あり＞
     - 🌟株式会社Almondo 松本 悠秀(@YuhoMatsumoto)さん、マルチエージェントとは [＜資料＞](https://speakerdeck.com/almondo_event/20251027-marutiezientotoha)
         - AIエージェントの定義を3個紹介
@@ -620,6 +621,8 @@
     - sunagakuさん、なぜ今Claude Codeを使うのか？ 〜Codexとの比較で見えた真の強み〜 [＜資料＞](https://speakerdeck.com/sunagaku/codexwoshi-idao-siteqi-tuita-claude-codenoben-dang-noqiang-mitoshi-ikonasishu)
     - 株式会社いえらぶ 渕田隆臣さん、大学時代にプログラミングと出会い単位をすべて落として二度としないと決意した人間が個人とチームと部署で活用するClaudeCodeの使い方
 - （2025/11/19）Findy主催、仕様駆動開発〜新たな開発手法の可能性と実践〜 [＜connpass＞](https://findy.connpass.com/event/373561/) [＜イベントページ＞](https://findy-code.io/events/Dmp2Xwx0URxyB)  [＜イベントページ2＞](https://findy-code.io/events/1oTjDYLGzFg_C) ＜YouTubeアーカイブ動画あり＞
+- （2025/11/19）朝日新聞社CTO室主催、AI疲れをふっとばせ。エンジニアのAI疲れ治療法 [＜connpass＞](https://techlife-asahi.connpass.com/event/369534/)
+    - [＜資料＞](https://speakerdeck.com/kikuchikakeru/ge-ren-karaxun-ruaipi-retozu-zhi-tositedekirukoto-aipi-rewohututobase-enzinianoaipi-rezhi-liao-fa-siyotosetusiyon)
 - （2025/11/25）Forkwell主催、どろんこAI話〜綺麗じゃないAIの苦労話〜 ー 現場で泥を被った6社が語る、リアルなAI開発の裏側 [＜connpass＞](https://forkwell.connpass.com/event/374914/) [＜イベントページ＞](https://jobs.forkwell.com/events/dsa0_8s94bl) ＜YouTubeアーカイブ動画あり＞
     - MOSH 大木 優さん、LT①「AI開発の定着を推進するために揃えるべき前提」[＜資料＞]()
     - PeopleX 芹澤 和也さん、LT②「どろんこになった結果、フロントエンド開発でAIをどう活かしているか」[＜資料＞]()
@@ -638,6 +641,6 @@
     - 初モバイルアプリ個人開発で失敗した話〜 Vibe Coderの悲劇 〜
     - AI時代のフルスタック：自分が2,3人分で動くための工夫
     - AIと共に走り抜けた60日間 ― 5万人が挑戦したShipatonの振り返り
-- （2025/11/28）株式会社ニジボックス主催、AI時代のデザインシステム〜実践デモで学ぶ、AIがもたらすUI UXの新しい可能性〜 [＜connpass＞](https://nijibox.connpass.com/event/372035/)
+- （2025/11/28）株式会社ニジボックス主催、AI時代のデザインシステム〜実践デモで学ぶ、AIがもたらすUI UXの新しい可能性〜 [＜connpass＞](https://nijibox.connpass.com/event/372035/) [＜YouTube＞](https://www.youtube.com/watch?v=Yc4o5rkhBPI) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/28）Findy主催、Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践- [＜connpass＞](https://findy.connpass.com/event/375963/) [＜イベントページ＞](https://findy-code.io/events/M8YI8LWIHWnoE) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2025/12/03）Creationline主催、【AI駆動開発まつり】AI駆動開発 の現場テクニックを徹底紹介！ [＜connpass＞](https://creationline.connpass.com/event/374207/)
