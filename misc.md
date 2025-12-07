@@ -128,6 +128,7 @@
 
 ## やらかし
 - （公開日：2025/12/01、閲覧日：2025/12/02）[客先のDBを間違えて削除した話 \#ポエム \- Qiita](https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac)
+- （公開日：2025/12/05、閲覧日：2025/12/07）[ADサーバーが消えた日 - Qiita](https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2)
 
 ## Google日本語入力 小技
 - （公開日：2025/10/06、閲覧日：2025/10/07）[「Google 日本語入力」で“20251006”（YYYYMMDD）形式の日付を変換する方法が便利 \- やじうまの杜 \- 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2052832.html)
@@ -140,3 +141,4 @@
 - （公開日：2025/09/09、閲覧日：2025/09/10）[iPhoneと「APN構成プロファイル」の迷宮 \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/32616)
 - （公開日：2025/11/14、閲覧日：2025/11/15）[なぜ強調表示できず \*\* が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 \- Speaker Deck](https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti)
 - （公開日：2025/12/02、閲覧日：2025/12/05）[高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。 \#TypeScript \- Qiita](https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2)
+- （公開日：2025/12/06、閲覧日：2025/12/07）[フルリモート廃止SEの限界低コストカプセルホテル二拠点生活 (付録：おすすめの都内安宿) - メモ帳DPA](https://de0.hatenablog.com/entry/2025/12/06/082804)

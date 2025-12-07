@@ -264,6 +264,7 @@
     - 🌟米久保 剛(@tyonekubo)さん、AI時代に問い直す ユニットテストの価値 [＜資料＞](https://www.docswell.com/s/tyonekubo/K44MXJ-value-of-unittesting)
     - 合同会社CAPH TECH りず(@rizumita)さん、$99.99と¥100の間にある深い溝 - 批判的に問い、明示的に伝える
     - 松谷峰生 (まつ)(@mty_mno)さん、テスト最適化 : AIは変更差分からユニットテスト/結合テスト/システムテストでテストすべきことが出せるのか？
+- （2025/08/21）StudyCo主催、無課金で体験するコーディングエージェント入門―コーディングエージェントに初めてふれる様子をライブ配信 [＜connpass＞](https://studyco.connpass.com/event/364498/) [＜YouTube＞](https://www.youtube.com/watch?v=-Gz-wV7p1tg) ＜YouTubeアーカイブ動画あり＞
 - （2025/08/21）Forkwell主催、ABEMAにおける生成AI活用の現在地 - Forkwell AI Study #3 [＜connpass＞](https://forkwell.connpass.com/event/362360/) [＜イベントページ＞](https://jobs.forkwell.com/events/u1ksk3pswz) ＜YouTubeアーカイブ動画あり＞
     - 波戸 勇二(@dekatotoro)さん、菅 俊弥さん [＜資料＞](https://speakerdeck.com/dekatotoro/the-current-status-of-generative-ai-at-abema)
     - p.20: AIツールに200ドル/人/月を費用負担(必要性に応じてさらに増額)、トレーニング、ワークショップ、先行導入事例の共有、ナレッジベース
@@ -644,3 +645,4 @@
 - （2025/11/28）株式会社ニジボックス主催、AI時代のデザインシステム〜実践デモで学ぶ、AIがもたらすUI UXの新しい可能性〜 [＜connpass＞](https://nijibox.connpass.com/event/372035/) [＜YouTube＞](https://www.youtube.com/watch?v=Yc4o5rkhBPI) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/28）Findy主催、Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践- [＜connpass＞](https://findy.connpass.com/event/375963/) [＜イベントページ＞](https://findy-code.io/events/M8YI8LWIHWnoE) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2025/12/03）Creationline主催、【AI駆動開発まつり】AI駆動開発 の現場テクニックを徹底紹介！ [＜connpass＞](https://creationline.connpass.com/event/374207/)
+- （2025/12/05）Forkwell主催、おい、テックブログを書け [＜connpass＞](https://forkwell.connpass.com/event/377267/) [＜イベントページ＞](https://jobs.forkwell.com/events/c8fat8q8c) ＜YouTubeアーカイブ動画あり＞
