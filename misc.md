@@ -9,6 +9,9 @@
 - （公開日：2025/09/10、閲覧日：2025/09/10）[150万通のメールを送るのに5万円の専用サービスを使わずにAWS SESを使ったら結局工数的に高くかかった話→「餅作りが困難なほど餅屋の価値は上昇する」「警告メールが総務省から来たのは草」 \- posfie](https://posfie.com/@kalofollow/p/pitX5KT)
 - （公開日：2025/10/02、閲覧日：2025/10/02）[「NHK ONE」移行エラーは「Gmailにスパム認定されていた可能性」　徐々に解消か \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2510/02/news061.html)
 
+## サービス障害
+- （公開日：2025/12/07、閲覧日：2025/12/08）[Cloudflare、約25分間のネットワーク障害の原因を説明し謝罪](https://www.itmedia.co.jp/news/articles/2512/07/news014.html)
+
 ## OSS
 - （公開日：2025/11/26、閲覧日：2025/11/26）[オープンソース・プロジェクトのたたみ方](https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project)
 
@@ -72,6 +75,9 @@
 
 ## スクラム
 - （公開日：2025/12/04、閲覧日：2025/12/04）[スクラムマスターって何する人なの？ \| at\-blog](https://at-blog.vercel.app/blog/20251204-what-are-scrum-masters-doing)
+- （公開日：2025/12/08、閲覧日：2025/12/08）[スクラムマスターとしてのファシリテーションスキルをAIで爆上げするテクニック - カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/scrum-master-as-a-facilitator)
+    - "1on1やファシリテーション内容をAIに評価してもらうGem"
+    - コーチングの知見を活用
 
 ## 内製開発
 - （2025/08/28）Findy主催、LIXIL・イオンに学ぶ 内製開発による事業貢献 ─推進と文化醸成のリアル Tech Seminar [＜connpass＞](https://findy.connpass.com/event/362971/) [＜イベントページ＞](https://findy-code.io/events/90c3z4N2lfOn7) ＜YouTubeアーカイブ動画あり＞
