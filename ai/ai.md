@@ -139,6 +139,7 @@ __Docs__
 
 #### Gemini 2.5 Flash Image (nano-banana)
 - （公開日：2025/09/13、閲覧日：2025/09/13）[nano\-bananaでモバイルアプリUIモックアップを作る](https://zenn.dev/oikon/articles/nanobanana-mobile-mock)
+- （公開日：2025/12/08、閲覧日：2025/12/09）[文字も図解も思いのまま！Gemini の最新画像生成 Nano Banana Pro の特徴と今すぐ使える活用術｜Gemini - Google の AI](https://note.com/google_gemini/n/n064d03afe2c0)
 
 ### Gemini CLI
 - （公開日：2025/06/25、閲覧日：2025/06/25）[Google announces Gemini CLI: your open\-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
@@ -252,6 +253,8 @@ __Docs__
 
 ### RAG
 - （公開日：2025/10/30、閲覧日：2025/11/03）[社内AIヘルプデスク 正答率80%達成 RAG精度改善の軌跡 \| BLOG \- DeNA Engineering](https://engineering.dena.com/blog/2025/10/findoutai_rag/)
+- （公開日：2025/12/09、閲覧日：2025/12/09）[【アドベントカレンダー2025】社内向け生成AI 構築から廃止まで - ぐるなびをちょっと良くするエンジニアブログ](https://developers.gnavi.co.jp/entry/adventcalendar-251209-1/)
+    - 自社ツールを廃止してNotebookLMへ移行
 
 
 ### MCP
