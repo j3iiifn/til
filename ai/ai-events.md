@@ -648,3 +648,6 @@
 - （2025/11/28）Findy主催、Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践- [＜connpass＞](https://findy.connpass.com/event/375963/) [＜イベントページ＞](https://findy-code.io/events/M8YI8LWIHWnoE) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2025/12/03）Creationline主催、【AI駆動開発まつり】AI駆動開発 の現場テクニックを徹底紹介！ [＜connpass＞](https://creationline.connpass.com/event/374207/)
 - （2025/12/05）Forkwell主催、おい、テックブログを書け [＜connpass＞](https://forkwell.connpass.com/event/377267/) [＜イベントページ＞](https://jobs.forkwell.com/events/c8fat8q8c) ＜YouTubeアーカイブ動画あり＞
+- （2025/12/08）Findy主催、2025年のAI活用を総まとめ！実践から振り返るTalk Night [＜connpass＞](https://findy.connpass.com/event/374042/) [＜イベントページ＞](https://findy-code.io/events/hrDidfsaxqA81) ＜YouTubeアーカイブ動画あり＞
+    - 「乗りこなせAI駆動開発の波」/Ikko Eltociear Ashimine @eltociearさん
+    - 「AIを活用してから変わった世界」/NaNA @nana__mn707さん
