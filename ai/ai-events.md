@@ -651,3 +651,7 @@
 - （2025/12/08）Findy主催、2025年のAI活用を総まとめ！実践から振り返るTalk Night [＜connpass＞](https://findy.connpass.com/event/374042/) [＜イベントページ＞](https://findy-code.io/events/hrDidfsaxqA81) ＜YouTubeアーカイブ動画あり＞
     - 「乗りこなせAI駆動開発の波」/Ikko Eltociear Ashimine @eltociearさん
     - 「AIを活用してから変わった世界」/NaNA @nana__mn707さん
+    - 「2025年 AIブラウザ自動化の進化と、Playwright Agents」/Ryo Sato @nobita2040さん
+    - 「エディタを超えたAIの新たなる戦場」/taiga @taiga_kk322さん
+    -  「AIが統合しつつある開発プロセス：仕様〜コーディング〜レビュー」/Kinopee / きのぴー @kinopee_aiさん
+    - 「2025年の非同期型AI Agentの進化の系譜」/Kuu @Fumiya_Kumeさん
