@@ -417,6 +417,7 @@
         - 株式会社LayerX バクラク事業部 プログラマ、QA エンジニア teyamagu @teyamagu さん
         - 株式会社LayerX バクラク事業部 スタッフエンジニア izumin @izumin5210 さん
     - 現在、AIは幻滅期。でもこれから普及期が来る。
+- （2025/10/07）LAPRAS株式会社主催、QA LT Night 〜品質を追求するプロたちの集い〜 [＜connpass＞](https://lapras.connpass.com/event/368463/) [＜イベントページ＞](https://lapras.com/events/16) ＜YouTubeアーカイブ動画あり＞
 - （2025/10/08）カウシェ主催、AI開発の実戦メソッドとアーキテクチャ事例 ― toCサービスの高速デリバリを支える技術 [＜connpass＞](https://kauche.connpass.com/event/368490/) [＜YouTube＞](https://www.youtube.com/watch?v=OUbCGm03uK0) ＜YouTubeアーカイブ動画あり＞
     - タイミー 口藏 佳希さん、こうして私たちは顧客UXを守りながら数億円を手にした [＜資料＞](https://speakerdeck.com/mizunokura/kousitesi-tatihagu-ke-uxwoshou-rinagara-shu-yi-yuan-woshou-nisita)
     - カウシェ 魚住 伸さん、実装計画を活用しAIの効果を最大化する ＜資料未公開＞
