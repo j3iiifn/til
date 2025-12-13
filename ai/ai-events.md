@@ -648,6 +648,7 @@
 - （2025/11/28）株式会社ニジボックス主催、AI時代のデザインシステム〜実践デモで学ぶ、AIがもたらすUI UXの新しい可能性〜 [＜connpass＞](https://nijibox.connpass.com/event/372035/) [＜YouTube＞](https://www.youtube.com/watch?v=Yc4o5rkhBPI) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/28）Findy主催、Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践- [＜connpass＞](https://findy.connpass.com/event/375963/) [＜イベントページ＞](https://findy-code.io/events/M8YI8LWIHWnoE) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2025/12/03）Creationline主催、【AI駆動開発まつり】AI駆動開発 の現場テクニックを徹底紹介！ [＜connpass＞](https://creationline.connpass.com/event/374207/)
+- （2025/12/04）Findy主催、あなたの知らない ”サプライチェーン攻撃”を語る セキュリティ Night [＜connpass＞](https://findy.connpass.com/event/375960/) [＜イベントページ＞](https://findy-code.io/events/7bIjewHo6cPBp) ＜YouTubeアーカイブ動画あり(一部カット)＞
 - （2025/12/05）Forkwell主催、おい、テックブログを書け [＜connpass＞](https://forkwell.connpass.com/event/377267/) [＜イベントページ＞](https://jobs.forkwell.com/events/c8fat8q8c) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/08）Findy主催、2025年のAI活用を総まとめ！実践から振り返るTalk Night [＜connpass＞](https://findy.connpass.com/event/374042/) [＜イベントページ＞](https://findy-code.io/events/hrDidfsaxqA81) ＜YouTubeアーカイブ動画あり＞
     - 「乗りこなせAI駆動開発の波」/Ikko Eltociear Ashimine @eltociearさん
@@ -656,3 +657,4 @@
     - 「エディタを超えたAIの新たなる戦場」/taiga @taiga_kk322さん
     -  「AIが統合しつつある開発プロセス：仕様〜コーディング〜レビュー」/Kinopee / きのぴー @kinopee_aiさん
     - 「2025年の非同期型AI Agentの進化の系譜」/Kuu @Fumiya_Kumeさん
+- （2025/12/09）Findy主催、RAGの精度向上戦略 in 2025〜PoCの壁を越える評価と改善〜 [＜connpass＞](https://findy.connpass.com/event/376554/) [＜イベントページ＞](https://findy-code.io/events/v57sGpCoYIwMa) ＜YouTubeアーカイブ動画あり＞

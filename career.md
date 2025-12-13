@@ -13,6 +13,7 @@
 - （2025/09/17）Findy主催、VPoE面接の視点〜「一緒に働きたい」は何で決まる？〜 [TEC PLAY](https://techplay.jp/event/986302) [＜イベントページ＞](https://findy-code.io/events/UeqCVL8cU5QQ0)
     - ファインディ株式会社 VPoE 神谷 健さん
 - （2025/11/05）Forkwell主催、ITエンジニアの転職学 年収交渉 Deep Dive―フェアな評価を引き出す技術 [＜connpass＞](https://forkwell.connpass.com/event/370191/) [＜イベントページ＞](https://jobs.forkwell.com/events/4-6qcdptxms) ＜YouTubeアーカイブ動画あり＞
+- （2025/12/09）Findy主催、ログラスのエンジニアヘッドが語る 技術面接の視点 [＜TECH PLAY＞](https://techplay.jp/event/989048) [＜イベントページ＞](https://findy-code.io/events/_T8x2LEnr_jqz)
 
 
 ## フリーランス

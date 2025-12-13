@@ -332,6 +332,8 @@ __Docs__
 
 ### AIのための技術選定
 - （公開日：2025/11/23、閲覧日：2025/11/24）[ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した](https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746)
+- （公開日：2025/12/12、閲覧日：2025/12/13）[「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう](https://zenn.dev/livetoon/articles/04dccf642d324c)
+    - AIを使ったWebサービスのプロトタイプの技術選定についての話
 
 
 ### 業務活用
