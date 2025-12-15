@@ -151,3 +151,4 @@
 - （公開日：2025/11/14、閲覧日：2025/11/15）[なぜ強調表示できず \*\* が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 \- Speaker Deck](https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti)
 - （公開日：2025/12/02、閲覧日：2025/12/05）[高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。 \#TypeScript \- Qiita](https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2)
 - （公開日：2025/12/06、閲覧日：2025/12/07）[フルリモート廃止SEの限界低コストカプセルホテル二拠点生活 (付録：おすすめの都内安宿) - メモ帳DPA](https://de0.hatenablog.com/entry/2025/12/06/082804)
+- （公開日：2025/12/14、閲覧日：2025/12/15）[普通の会社員が新しい図形を発見したのでハンガリーのポスドクの助けを借りてarXivに論文を投稿した話｜平野たいる｜MathKonnect](https://note.com/tairu_mk/n/nbf238ec63c96)
