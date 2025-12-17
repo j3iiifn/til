@@ -668,5 +668,6 @@
 - （2025/12/09）Findy主催、RAGの精度向上戦略 in 2025〜PoCの壁を越える評価と改善〜 [＜connpass＞](https://findy.connpass.com/event/376554/) [＜イベントページ＞](https://findy-code.io/events/v57sGpCoYIwMa) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/10）Findy主催、VibeCodingの一歩先へ〜 プロダクト開発でつまずきやすいポイントの乗り越え方 [＜connpass＞](https://findy.connpass.com/event/375414/) [＜イベントページ＞](https://findy-code.io/events/Txj_ntr0xrJVV) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/10）Findy Team+主催、Vibe Coding Weekから見えた！トヨタグループ KINTOテクノロジーズが語る「AI活用の成功とレビューの新たな課題」 [＜イベントページ＞](https://jp.findy-team.io/event/live/kinto_vibecodingweek_251210/)
+- （2025/12/11）Forkwell主催、Claude CodeによるAI駆動開発入門 - Forkwell Library #116 [＜connpass＞](https://forkwell.connpass.com/event/375111/) [＜イベントページ＞](https://jobs.forkwell.com/events/5mg9kvgsv) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/12）Findy主催、GitHub Copilotを使いこなす 実例に学ぶAIコーディング活用術 [＜connpass＞](https://findy.connpass.com/event/376448/) [＜イベントページ＞](https://findy-code.io/events/Ie5IPUat7pYE4) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/16）LAPRAS主催、AI活用のリアルを語ろうLT＆交流会 [＜connpass＞](https://lapras.connpass.com/event/373280/) [＜イベントページ＞](https://lapras.com/events/20) ＜YouTubeアーカイブ動画あり＞

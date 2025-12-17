@@ -255,6 +255,8 @@ __Docs__
 - （公開日：2025/10/30、閲覧日：2025/11/03）[社内AIヘルプデスク 正答率80%達成 RAG精度改善の軌跡 \| BLOG \- DeNA Engineering](https://engineering.dena.com/blog/2025/10/findoutai_rag/)
 - （公開日：2025/12/09、閲覧日：2025/12/09）[【アドベントカレンダー2025】社内向け生成AI 構築から廃止まで - ぐるなびをちょっと良くするエンジニアブログ](https://developers.gnavi.co.jp/entry/adventcalendar-251209-1/)
     - 自社ツールを廃止してNotebookLMへ移行
+- （公開日：2025/12/15、閲覧日：2025/12/17）[RAGで厄介なExcel文書を意味構造JSON化するOSSライブラリを作りました](https://zenn.dev/harumikun/articles/42e9cd55ab5960)
+    - Excelの図形オブジェクトで描かれたフローチャートも構造化データに変換可能
 
 
 ### MCP
