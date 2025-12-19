@@ -31,7 +31,10 @@
 - （公開日：2025/10/11、閲覧日：2025/10/12）[会議で "理由" を聞かれた時に焦らないようにする \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/10/11/195900)
 - （公開日：2025/10/13、閲覧日：2025/10/13）[思考速度がはやく見える人はそれまでの "思考量" が多い \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/10/13/082920)
 - （公開日：2025/10/19、閲覧日：2025/10/22）[進捗報告のやり方 \- Slava Akhmechet](https://zenn.dev/contradiction29/articles/f482262d1ab3c0)
+
+## 新人教育
 - （公開日：2025/12/06、閲覧日：2025/12/06）[新卒エンジニアが入社8ヶ月を通して学んだ開発への向き合い方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer)
+- （公開日：2025/12/19、閲覧日：2025/12/19）[新卒エンジニアがコードレビューと設計でぶつかった壁と、その乗り越え方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/25-engineer-code-review-and-design)
 
 ## マネジメント
 - （2025/06/17）Forkwell主催、人が壊れるマネジメント - Forkwell Library #94（パラダイスウェア株式会社 橋本 将功さん） [＜connpass＞](https://forkwell.connpass.com/event/356977/) [＜イベントページ＞](https://jobs.forkwell.com/events/ahyyaeaza) ＜YouTubeアーカイブ動画あり＞
@@ -59,6 +62,9 @@
     - MOSH株式会社 益田 祐輔 @massyuu85さん、「多様な事業ドメインのクリエイターへ価値を届けるための営みについて」 [＜資料＞](https://speakerdeck.com/massyuu/duo-yang-nashi-ye-domeinnokurieitahe-jia-zhi-wojie-kerutamenoying-minituite)
     - ファストドクター株式会社 加藤 倫弘さん、「レガシー医療システムを進化させるプロダクトエンジニアの本音（仮） [＜資料＞]()
     - 株式会社グラファー 河治 寿都さん、「プロダクトエンジニアへのご招待 -良くある誤解と価値ある未来-」 [＜資料＞](https://speakerdeck.com/graffer/purodakutoenziniahenogozhao-dai)
+
+## Platform Engineering
+- （2025/12/11）Findy主催、Platform Engineeringの進め方とコミュニケーション ～組織の壁への向き合い方～ [＜connpass＞](https://findy.connpass.com/event/375302/) [＜イベントページ＞](https://findy-code.io/events/J15jHA4Usk3qW) ＜YouTubeアーカイブ動画あり＞
 
 ## 開発体制
 - （公開日：2025/06/26、閲覧日：2025/06/29）[SmartHR「給与計算開発」の裏話 〜スクラムとか色々やめました〜 ｜Real SmartHR リアスマ](https://real.smarthr.co.jp/articles/voices_0002)
@@ -92,6 +98,7 @@
 
 ## 職場環境
 - （公開日：2025/07/23、閲覧日：2025/07/23）[会社を辞めたくない気がしてきた \- haneuma\.log](https://haneuma0628.hatenablog.jp/entry/2025/07/23/022217)
+- （公開日：2025/12/17、閲覧日：2025/12/19）[世の出社回帰にイチHRが思うこと｜Kuwa](https://note.com/kuwakuwakuwa/n/ne5ce3222bc73)
 
 ## エンジニアの働く環境
 - （公開日：2025/12/03、閲覧日：2025/12/06）[エンジニアがエンジニアに力を与えるプロジェクトの紹介 - NTT docomo Business Engineers' Blog](https://engineers.ntt.com/entry/202512-about-eepj/entry)
