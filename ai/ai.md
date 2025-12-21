@@ -265,6 +265,10 @@ __Docs__
 - （公開日：2025/09/24、閲覧日：2025/11/06）[Figma、リモートMCPサーバーをオープンベータとして段階的に提供開始 ——Figma Makeからのリソース取得、Code Connect UIコンポーネントも追加 \| gihyo\.jp](https://gihyo.jp/article/2025/09/figma-remote-mcp-server)
 
 
+### Agent Skills
+- （公開日：2025/12/19、閲覧日：2025/12/21）[GitHub Copilot Agent Skills 入門](https://zenn.dev/openjny/articles/a9d4f6ec2a05c2)
+
+
 ### 企業での導入
 - （公開日：2025/06/24、閲覧日：2025/07/03）[AIコーディングツール導入のリアル ～意思決定を後押しし、開発を加速させるための7社の実践知～ \- Findy Tools](https://findy-tools.io/articles/ai-codingtool/88)
 

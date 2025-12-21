@@ -17,7 +17,8 @@
 
 
 ## フリーランス
-- （2025/09/03）ファインディ株式会社主催、増井さんに聞く！フリーランスエンジニアになるための独立準備 [＜connpass＞](https://findy.connpass.com/event/365061/) [＜イベントページ＞](https://freelance.findy-code.io/events/kpYMPLIl6ZADK/viewer-link) ＜YouTubeアーカイブ動画あり＞
+- （2025/09/03）Findy Freelance主催、増井さんに聞く！フリーランスエンジニアになるための独立準備 [＜connpass＞](https://findy.connpass.com/event/365061/) [＜イベントページ＞](https://freelance.findy-code.io/events/kpYMPLIl6ZADK/viewer-link) ＜YouTubeアーカイブ動画あり＞
+- （2025/12/19）Findy Freelance主催、【正社員とフリーランスの違い】2025年に働き方を変えた意思決定の裏側 [＜connpass＞](https://findy.connpass.com/event/376028/) [＜イベントページ＞](https://freelance.findy-code.io/events/L222FcHeYVllb/viewer-link) ＜YouTubeアーカイブ動画あり＞
 
 
 ## 個人開発

@@ -31,6 +31,8 @@
 - （公開日：2025/10/11、閲覧日：2025/10/12）[会議で "理由" を聞かれた時に焦らないようにする \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/10/11/195900)
 - （公開日：2025/10/13、閲覧日：2025/10/13）[思考速度がはやく見える人はそれまでの "思考量" が多い \- Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2025/10/13/082920)
 - （公開日：2025/10/19、閲覧日：2025/10/22）[進捗報告のやり方 \- Slava Akhmechet](https://zenn.dev/contradiction29/articles/f482262d1ab3c0)
+- （公開日：2025/12/20、閲覧日：2025/12/21）[通勤ゼロでも評価ゼロ。外資フルリモ勤務で成果を出すには｜Satoshi Yamashita](https://note.com/satoshirspn/n/n04f6851bffd6)
+    - Apex Legends運営
 
 ## 新人教育
 - （公開日：2025/12/06、閲覧日：2025/12/06）[新卒エンジニアが入社8ヶ月を通して学んだ開発への向き合い方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer)
@@ -119,6 +121,12 @@
 ## 技術広報
 - （2025/10/09）Forkwell主催、技術広報の教科書 - Forkwell Library #109 [＜connpass＞](https://forkwell.connpass.com/event/368229/) ＜YouTubeアーカイブ動画あり＞ [＜資料＞](https://speakerdeck.com/r_kawamata/ji-shu-guang-bao-nojiao-ke-shu-dexue-bukai-fa-zu-zhi-nomei-li-nochuan-efang)
     - 行動量目標（回数・件数）、定性目標＋補助的な定量指標
+
+
+## デザイン
+- （公開日：2025/12/21、閲覧日：2025/12/21）[4年間の実践から考える「異なる領域や立場を接続するデザイン」 - NTT docomo Business Engineers' Blog](https://engineers.ntt.com/entry/202512-advent-calender-day21/entry)
+    - > 立場や前提が違う人たちが、同じ方向を向いて進める状態をどうつくるか
+
 
 ## 要件定義
 - （公開日：2025/08/05、閲覧日：2025/08/05）[なぜWhyを書くだけで生産性が上がるのか？｜すてぃお](https://note.com/suthio/n/nfe677919f3c9)
