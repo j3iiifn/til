@@ -66,6 +66,7 @@
 - 🌟（公開日：2025/11/30、閲覧日：2025/12/01）[Claude Code のプランモードがより正確な計画を立てられるようになっていた](https://azukiazusa.dev/blog/claude-code-plan-mode-improved/)
 - （公開日：2025/11/29、閲覧日：2025/11/30）[Claude Code スキル・サブエージェント攻略ガイド](https://zenn.dev/oligin/articles/7691926a83936a)
     - Claude Code のスキルとサブエージェントを確実に発動させるための実践ガイド
+- 🌟（公開日：2025/12/23、閲覧日：2025/12/23）[Claude Codeのコンテキストウィンドウを完全に理解する | gihyo.jp](https://gihyo.jp/article/2025/12/get-started-claude-code-05)
 
 
 ## セキュリティインシデント
