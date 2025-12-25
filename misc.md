@@ -167,3 +167,5 @@
 - （公開日：2025/12/02、閲覧日：2025/12/05）[高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。 \#TypeScript \- Qiita](https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2)
 - （公開日：2025/12/06、閲覧日：2025/12/07）[フルリモート廃止SEの限界低コストカプセルホテル二拠点生活 (付録：おすすめの都内安宿) - メモ帳DPA](https://de0.hatenablog.com/entry/2025/12/06/082804)
 - （公開日：2025/12/14、閲覧日：2025/12/15）[普通の会社員が新しい図形を発見したのでハンガリーのポスドクの助けを借りてarXivに論文を投稿した話｜平野たいる｜MathKonnect](https://note.com/tairu_mk/n/nbf238ec63c96)
+- （公開日：2025/12/22、閲覧日：2025/12/25）[書籍「ネットワーク図の描き方入門」は描き方も省略の仕方も学べて1年目に読みたかった - てくなべ (tekunabe)](https://tekunabe.hatenablog.jp/entry/2025/12/22/network_diagram)
+- （公開日：2025/12/24、閲覧日：2025/12/25）[「とほほのWWW入門」にMarkdownの解説が追加 ～GitHub/Qiitaの拡張記法まで網羅／書き換えるとプレビューが可能なサンプルエリアも便利](https://forest.watch.impress.co.jp/docs/news/2074051.html)

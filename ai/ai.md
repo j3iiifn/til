@@ -125,6 +125,7 @@ __Docs__
     - この記事では NotebookLM = RAG という認識のようだが、そうなんだっけ？
 - （公開日：不明、閲覧日：2025/06/24）[【後編】チームの共通言語をつくる。Opportunity Solutions TreeとAIで整えた判断の土台 \| toitta（トイッタ） \- ユーザーの声に向き合える発話分析ソリューション](https://ja.toitta.com/cases/mantra-part2/)
 - （公開日：2025/11/14、閲覧日：2025/11/17）[ASCII\.jp：やばいアプデきた！グーグル「NotebookLM」Deep Research機能で最強進化](https://ascii.jp/elem/000/004/350/4350621/)
+- （公開日：2025/12/24、閲覧日：2025/12/25）[NotebookLMのスライド作成機能の斬新な使い方｜IT navi](https://note.com/it_navi/n/na61970ca1b7e)
 
 
 ### Gemini
