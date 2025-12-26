@@ -272,6 +272,7 @@ __Docs__
 
 ### 企業での導入
 - （公開日：2025/06/24、閲覧日：2025/07/03）[AIコーディングツール導入のリアル ～意思決定を後押しし、開発を加速させるための7社の実践知～ \- Findy Tools](https://findy-tools.io/articles/ai-codingtool/88)
+- （公開日：2025/12/25、閲覧日：2025/12/26）[69社のAI駆動開発ツール 導入・活用方法 まとめ - Findy Tools](https://findy-tools.io/articles/ai-review2025/179)
 
 
 ### プロンプト
@@ -353,8 +354,10 @@ __Docs__
 - （公開日：2025/11/03、閲覧日：2025/11/07）[AI推進におけるKPI設計の勘所：経営層と現場の共通目標を作ろう｜しば田](https://note.com/keisuke_shibata/n/n3996ab043797)
 
 
-### 研修
+### 研修・教育
 - （公開日：2025/12/05、閲覧日：2025/12/05）[DeNA、「AIエンジニアが本気で作った」LLM勉強会資料とコードを全公開　非エンジニアも学べる \- ITmedia AI＋](https://www.itmedia.co.jp/aiplus/articles/2512/05/news086.html)
+- （公開日：2025/12/25、閲覧日：2025/12/26）[新人AI禁止令と、その結果の答え合わせ - Qiita](https://qiita.com/WdknWdkn/items/9b7dea889fec59194df5)
+    - 完全未経験の新人への育成コストのかけ方がすごい
 
 
 ### 生産性

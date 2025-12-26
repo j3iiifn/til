@@ -146,6 +146,10 @@
 - 🌟（2025/09/02）Forkwell主催、【増田亨氏登壇】技術書を「血肉」に変える 、ITエンジニアの学習戦略 [＜connpass＞](https://forkwell.connpass.com/event/363903/) [＜イベントページ＞](https://jobs.forkwell.com/events/ebm5r8k_b05) ＜YouTubeアーカイブ動画あり＞
     - 有限会社システム設計 増田 亨(@masuda220)さん、技術書を効果的に内面化する実践技法 [＜資料＞](https://speakerdeck.com/masuda220/ji-shu-shu-woxiao-guo-de-ninei-mian-hua-surushi-jian-ji-fa)
 - （公開日：2025/09/27、閲覧日：2025/09/28）[コードを読む、コードを書くの最初の一歩目 ― 目の前の「知らない」と向き合って成長する \- そーだいなるらくがき帳](https://soudai.hatenablog.com/entry/2025/09/27/165806)
+- （公開日：2013/05/27、閲覧日：2025/12/26）[Evan Priestley 氏がどうやってプログラミングを学んだかを教えてください | Knoh](https://web.archive.org/web/20130702152539/http://knoh.jp/answers/d65c7a82)
+    - lacolacoさんのツイートから https://x.com/laco2net/status/2004354423926272223
+    - 原文：https://www.quora.com/How-did-Evan-Priestley-learn-to-program
+    - > 質v.s.スピード
 
 ## OCR
 - （公開日：2025/09/28、閲覧日：2025/10/05）[GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い](https://zenn.dev/harumikun/articles/fb9c435acf4070)
