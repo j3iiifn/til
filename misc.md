@@ -150,6 +150,8 @@
     - lacolacoさんのツイートから https://x.com/laco2net/status/2004354423926272223
     - 原文：https://www.quora.com/How-did-Evan-Priestley-learn-to-program
     - > 質v.s.スピード
+- （公開日：2025/12/27、閲覧日：2025/12/27）[習慣化 振り返り（2025年1-6月） - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2025/07/03/210800)
+    - 習慣化アプリ「Habitify」を使用
 
 ## OCR
 - （公開日：2025/09/28、閲覧日：2025/10/05）[GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い](https://zenn.dev/harumikun/articles/fb9c435acf4070)

@@ -676,3 +676,4 @@
 - 🌟（2025/12/22）Tech Garden(ROSCAFE)主催、Claude CodeからCodex CLIへ＿AIコーディング体験の最適解を探る [＜connpass＞](https://rosca.connpass.com/event/376759/)
 - （2025/12/22）SIOSTechLab主催、AIエージェント/MCPサーバー実装ガイド 解説セミナー [＜connpass＞](https://tech-lab.connpass.com/event/378331/) [＜YouTube＞](https://www.youtube.com/watch?v=m472AajrEMU) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/23）en-gine主催、Oikon✖️ 平川知秀 Claude Code 座談会 [＜TECH PLAY＞](https://techplay.jp/event/989884)
+- （2025/12/26）株式会社ジェネラティブエージェンツ主催、『実践Claude Code入門』出版記念！#2 [＜connpass＞](https://generative-agents.connpass.com/event/379134/)

@@ -67,6 +67,8 @@
 - （公開日：2025/11/29、閲覧日：2025/11/30）[Claude Code スキル・サブエージェント攻略ガイド](https://zenn.dev/oligin/articles/7691926a83936a)
     - Claude Code のスキルとサブエージェントを確実に発動させるための実践ガイド
 - 🌟（公開日：2025/12/23、閲覧日：2025/12/23）[Claude Codeのコンテキストウィンドウを完全に理解する | gihyo.jp](https://gihyo.jp/article/2025/12/get-started-claude-code-05)
+- （公開日：2025/12/26、閲覧日：2025/12/27）[Claude Code中心のAIコーディング運用：実務で効いた5つの型](https://zenn.dev/mkj/articles/868e0723efa060)
+    - "AIコーディングは「速く書く」以上に、プロセスを固定化して品質と再現性を上げる用途で効果が出やすい"
 
 
 ## セキュリティインシデント
