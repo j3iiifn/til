@@ -50,6 +50,9 @@
 
 ## Project Management
 - （2025/11/17）Creationline主催、『両利きのプロジェクトマネジメント』著者米山さんに、若手プロマネのモヤモヤをぶつけてみよう [＜connpass＞](https://creationline.connpass.com/event/371942/) [＜YouTube＞](https://www.youtube.com/watch?v=ZP_IWdlsB3g) ＜YouTubeアーカイブ動画あり＞
+- （公開日：2025/12/26、閲覧日：2025/12/28）[正しい目標の立て方｜きゅーい](https://note.com/kiwiwi/n/n1c6f2f2fd515)
+    - プロジェクトマネジメントにおける目標設定
+
 
 ## Engineering Manager (エンジニアリングマネージャ)
 - （公開日：2025/10/10、閲覧日：2025/10/11）[最近エンジニアリングマネージャになったので、最近やっていることを紹介 \#DevKan \- hitode909の日記](https://blog.sushi.money/entry/2025/10/10/195616)

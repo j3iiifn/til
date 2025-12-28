@@ -14,6 +14,7 @@
     - ファインディ株式会社 VPoE 神谷 健さん
 - （2025/11/05）Forkwell主催、ITエンジニアの転職学 年収交渉 Deep Dive―フェアな評価を引き出す技術 [＜connpass＞](https://forkwell.connpass.com/event/370191/) [＜イベントページ＞](https://jobs.forkwell.com/events/4-6qcdptxms) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/09）Findy主催、ログラスのエンジニアヘッドが語る 技術面接の視点 [＜TECH PLAY＞](https://techplay.jp/event/989048) [＜イベントページ＞](https://findy-code.io/events/_T8x2LEnr_jqz)
+- （2025/12/23）LAPRAS主催、アンチパターンから学ぶ転職直後の立ち回り方 [＜connpass＞](https://lapras.connpass.com/event/378414/) [＜イベントページ＞](https://lapras.com/events/26) ＜YouTubeアーカイブ動画あり＞
 
 
 ## フリーランス
@@ -28,6 +29,8 @@
     - 又来 薫さん @mcz9mm、「自己満アプリから脱却するためにしたUI改善とは」
     - 坂本 浩さん @hirothings、「minto 10万ダウンロードまでにやったこと・やらなかったこと」 [＜資料＞](https://speakerdeck.com/hirothings/minto-100k-dl)
     - にょすさん @nyosubro0706、「意識したプロダクト戦略と、継続することの重要性」 [＜資料＞](https://speakerdeck.com/nyosu/yi-shi-sitapurodakutozhan-lue-to-ji-sok-surukotonozhong-yao-xing)
+- （2025/12/18）Findy主催、個人開発におけるセキュリティの極意 [＜connpass＞](https://findy.connpass.com/event/376027/) [＜イベントページ＞](https://freelance.findy-code.io/events/zk9_eS6EschT9/viewer-link) ＜YouTubeアーカイブ動画あり＞
+- （2025/12/23）Findy主催、私の個人開発自慢LT #2 [＜connpass＞](https://findy.connpass.com/event/376026/) [＜イベントページ＞](https://freelance.findy-code.io/events/MGDK5JkdtS3cO/viewer-link) ＜YouTubeアーカイブ動画あり＞
 
 
 ## 評価

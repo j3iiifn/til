@@ -675,5 +675,8 @@
 - （2025/12/17）Findy主催、AIセキュリティリスクを防ぐ 徳丸さんに聞く 2025年の教訓と2026年への備え [＜connpass＞](https://findy.connpass.com/event/377046/) [＜イベントページ＞](https://findy-code.io/events/9fWUCtqm3Ymp1) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2025/12/22）Tech Garden(ROSCAFE)主催、Claude CodeからCodex CLIへ＿AIコーディング体験の最適解を探る [＜connpass＞](https://rosca.connpass.com/event/376759/)
 - （2025/12/22）SIOSTechLab主催、AIエージェント/MCPサーバー実装ガイド 解説セミナー [＜connpass＞](https://tech-lab.connpass.com/event/378331/) [＜YouTube＞](https://www.youtube.com/watch?v=m472AajrEMU) ＜YouTubeアーカイブ動画あり＞
+- （2025/12/23）サポーターズCoLab主催、【勉強会】Obsidian×AI活用術 [＜connpass＞](https://supporterz-seminar.connpass.com/event/378341/)
+- （2025/12/23）LayerX主催、LayerX QA Night#1 [＜connpass＞](https://layerx.connpass.com/event/376519/)
+- （2025/12/23）Offers主催、Ubieに聞く チケット駆動開発、AIが回す時代へ　～仕様→実装の完全自動化で見えてきたこと～ [＜connpass＞](https://offers-jp.connpass.com/event/377994/) [＜イベントページ＞](https://offers.jp/worker/events/connpass_72) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/23）en-gine主催、Oikon✖️ 平川知秀 Claude Code 座談会 [＜TECH PLAY＞](https://techplay.jp/event/989884)
 - （2025/12/26）株式会社ジェネラティブエージェンツ主催、『実践Claude Code入門』出版記念！#2 [＜connpass＞](https://generative-agents.connpass.com/event/379134/)
