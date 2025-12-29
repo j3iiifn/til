@@ -33,6 +33,8 @@
 - （公開日：2025/10/19、閲覧日：2025/10/22）[進捗報告のやり方 \- Slava Akhmechet](https://zenn.dev/contradiction29/articles/f482262d1ab3c0)
 - （公開日：2025/12/20、閲覧日：2025/12/21）[通勤ゼロでも評価ゼロ。外資フルリモ勤務で成果を出すには｜Satoshi Yamashita](https://note.com/satoshirspn/n/n04f6851bffd6)
     - Apex Legends運営
+- 🌟（公開日：2025/12/29、閲覧日：2025/12/29）[開発を任されたときには、助けてもらえるようにしている - Mitsuyuki.Shiiba](https://bufferings.hatenablog.com/entry/2025/12/28/141140)
+    - > 案件をより良い方向に進めるために力を借りるというのも責任感
 
 ## 新人教育
 - （公開日：2025/12/06、閲覧日：2025/12/06）[新卒エンジニアが入社8ヶ月を通して学んだ開発への向き合い方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer)
