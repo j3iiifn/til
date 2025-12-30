@@ -10,6 +10,11 @@ COMMIT_MSG_FILE=$1
 COMMIT_SOURCE=$2
 SHA1=$3
 
+# 既にメッセージが指定されている場合はスキップ
+if [ -n "$COMMIT_SOURCE" ]; then
+    exit 0
+fi
+
 function generate_message() {
     git diff --cached --name-status \
     | sort \
