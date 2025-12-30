@@ -35,3 +35,7 @@
 
 ## 評価
 - （2025/10/28）LAPRAS主催、Songmuさん、「自己アピール」を正しくできるようにするにはどう向き合うといいですか？ [＜connpass＞](https://lapras.connpass.com/event/371687/) [＜イベントページ＞](https://lapras.com/events/19) [＜資料＞](https://www.docswell.com/s/Songmu/ZN9347-self-evaluation-skills-v2)
+
+
+## シニアエンジニア
+- （2025/12/18）サポーターズCoLab主催、【勉強会】シニアソフトウェアエンジニアになるためには [＜connpass＞](https://supporterz-seminar.connpass.com/event/377986/)

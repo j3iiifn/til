@@ -291,6 +291,11 @@ __Docs__
 - 🌟（公開日：2025/12/02、閲覧日：2025/12/03）[Prompt Cachingを完全に理解してLLMコストを爆裂に下げる](https://zenn.dev/ubie_dev/articles/ade17afebabaa9)
 
 
+## AI Agent (AIエージェント)
+- 🌟（公開日：2025/11/13、閲覧日：2025/11/17）[Agentに至る道 〜なぜLLMは自動でコードを書けるようになったのか〜 \- Speaker Deck](https://speakerdeck.com/mackee/agentnizhi-rudao-nazellmhazi-dong-dekodowoshu-keruyouninatutanoka)
+    - WebGPT -> ReAct -> SWE-Bench -> SWE-Agent
+
+
 ### エッセイ、キャリア論
 - （公開日：2025/05/03、閲覧日：2025/05/03）[AI Coding Agent を使うことで、怒り狂い、視座が上昇する話 \- Lambdaカクテル](https://blog.3qe.us/entry/2025/05/03/000513)
     - AI Coding Agent を使うということは、AIに対してマネジメントするということ

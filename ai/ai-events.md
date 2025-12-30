@@ -678,5 +678,6 @@
 - （2025/12/23）サポーターズCoLab主催、【勉強会】Obsidian×AI活用術 [＜connpass＞](https://supporterz-seminar.connpass.com/event/378341/)
 - （2025/12/23）LayerX主催、LayerX QA Night#1 [＜connpass＞](https://layerx.connpass.com/event/376519/)
 - （2025/12/23）Offers主催、Ubieに聞く チケット駆動開発、AIが回す時代へ　～仕様→実装の完全自動化で見えてきたこと～ [＜connpass＞](https://offers-jp.connpass.com/event/377994/) [＜イベントページ＞](https://offers.jp/worker/events/connpass_72) ＜YouTubeアーカイブ動画あり＞
+- （2025/12/23）Findy主催、メンテナンスコストを削減するコード品質管理 - メルカリのリーダビリティチームが実践する仕組みとは？ [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/377680/)
 - （2025/12/23）en-gine主催、Oikon✖️ 平川知秀 Claude Code 座談会 [＜TECH PLAY＞](https://techplay.jp/event/989884)
 - （2025/12/26）株式会社ジェネラティブエージェンツ主催、『実践Claude Code入門』出版記念！#2 [＜connpass＞](https://generative-agents.connpass.com/event/379134/)
