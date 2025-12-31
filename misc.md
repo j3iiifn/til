@@ -35,6 +35,7 @@
     - Apex Legends運営
 - 🌟（公開日：2025/12/29、閲覧日：2025/12/29）[開発を任されたときには、助けてもらえるようにしている - Mitsuyuki.Shiiba](https://bufferings.hatenablog.com/entry/2025/12/28/141140)
     - > 案件をより良い方向に進めるために力を借りるというのも責任感
+- （公開日：2025/12/30、閲覧日：2025/12/31）[おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、 - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/12/30/083324)
 
 ## 新人教育
 - （公開日：2025/12/06、閲覧日：2025/12/06）[新卒エンジニアが入社8ヶ月を通して学んだ開発への向き合い方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer)
@@ -180,3 +181,4 @@
 - （公開日：2025/12/14、閲覧日：2025/12/15）[普通の会社員が新しい図形を発見したのでハンガリーのポスドクの助けを借りてarXivに論文を投稿した話｜平野たいる｜MathKonnect](https://note.com/tairu_mk/n/nbf238ec63c96)
 - （公開日：2025/12/22、閲覧日：2025/12/25）[書籍「ネットワーク図の描き方入門」は描き方も省略の仕方も学べて1年目に読みたかった - てくなべ (tekunabe)](https://tekunabe.hatenablog.jp/entry/2025/12/22/network_diagram)
 - （公開日：2025/12/24、閲覧日：2025/12/25）[「とほほのWWW入門」にMarkdownの解説が追加 ～GitHub/Qiitaの拡張記法まで網羅／書き換えるとプレビューが可能なサンプルエリアも便利](https://forest.watch.impress.co.jp/docs/news/2074051.html)
+- （公開日：2025/12/30、閲覧日：2025/12/31）[人混みのコミケ107で「ドコモの通信速度が爆速」　“つながりにくさ”をどう改善？](https://www.itmedia.co.jp/mobile/articles/2512/30/news037.html)
