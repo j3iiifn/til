@@ -258,6 +258,7 @@ __Docs__
     - 自社ツールを廃止してNotebookLMへ移行
 - （公開日：2025/12/15、閲覧日：2025/12/17）[RAGで厄介なExcel文書を意味構造JSON化するOSSライブラリを作りました](https://zenn.dev/harumikun/articles/42e9cd55ab5960)
     - Excelの図形オブジェクトで描かれたフローチャートも構造化データに変換可能
+- （公開日：2025/12/31、閲覧日：2026/01/01）[RAGの精度が73%から100%に向上した話 ─ チャンキング戦略の比較検証](https://zenn.dev/oharu121/articles/efd3d038afc6da)
 
 
 ### MCP
@@ -397,6 +398,7 @@ __Docs__
 - （公開日：2025/10/24、閲覧日：2025/10/30）[Notionの中の小人 \- クソパンダの健康生活](https://monoooki.net/2025/10/little-people-in-notion#%E3%81%AF%E3%81%84%E3%81%93%E3%81%A1%E3%82%89%E5%B0%8F%E4%BA%BA%E8%A8%AD%E8%A8%88%E5%B1%80%E3%81%A7%E3%81%99)
     - 小人設計局
 - （公開日：2025/12/07、閲覧日：2025/12/10）[【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita](https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5)
+- （公開日：2025/12/31、閲覧日：2026/01/01）[生成AIがシステム丸ごと開発　NTTデータ、IT人材不足に抜本策 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/)
 
 
 ## 見た動画

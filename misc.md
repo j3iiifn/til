@@ -36,6 +36,7 @@
 - 🌟（公開日：2025/12/29、閲覧日：2025/12/29）[開発を任されたときには、助けてもらえるようにしている - Mitsuyuki.Shiiba](https://bufferings.hatenablog.com/entry/2025/12/28/141140)
     - > 案件をより良い方向に進めるために力を借りるというのも責任感
 - （公開日：2025/12/30、閲覧日：2025/12/31）[おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、 - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/12/30/083324)
+- （公開日：2025/12/31、閲覧日：2026/01/01）[1on1で「まずこれを読んで！」と布教し続けるそーだいさんの言語化集 - そーだいなる Advent Calendar 2025 20日目｜mkitahara / きたはら](https://note.com/mkitahara/n/n0060fdb3e369)
 
 ## 新人教育
 - （公開日：2025/12/06、閲覧日：2025/12/06）[新卒エンジニアが入社8ヶ月を通して学んだ開発への向き合い方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer)
