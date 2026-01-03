@@ -673,6 +673,9 @@
 - （2025/12/12）Findy主催、GitHub Copilotを使いこなす 実例に学ぶAIコーディング活用術 [＜connpass＞](https://findy.connpass.com/event/376448/) [＜イベントページ＞](https://findy-code.io/events/Ie5IPUat7pYE4) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/16）LAPRAS主催、AI活用のリアルを語ろうLT＆交流会 [＜connpass＞](https://lapras.connpass.com/event/373280/) [＜イベントページ＞](https://lapras.com/events/20) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/17）Findy主催、AIセキュリティリスクを防ぐ 徳丸さんに聞く 2025年の教訓と2026年への備え [＜connpass＞](https://findy.connpass.com/event/377046/) [＜イベントページ＞](https://findy-code.io/events/9fWUCtqm3Ymp1) ＜YouTubeアーカイブ動画あり＞
+- （2025/12/19）ニジボックス主催、AIで生産性改善はできるのか？ ～広木大地 × 古川陽介 クロストーク～ [＜connpass＞](https://nijibox.connpass.com/event/374847/)
+    - AIに月160時間仕事をさせ続けるのはまだ無理なので、開発人員を1人減らせるという判断にはならない
+    - これからのエンジニアの使命：Whyを積極的に収集する仕組みを作ること
 - 🌟（2025/12/22）Tech Garden(ROSCAFE)主催、Claude CodeからCodex CLIへ＿AIコーディング体験の最適解を探る [＜connpass＞](https://rosca.connpass.com/event/376759/)
 - （2025/12/22）SIOSTechLab主催、AIエージェント/MCPサーバー実装ガイド 解説セミナー [＜connpass＞](https://tech-lab.connpass.com/event/378331/) [＜YouTube＞](https://www.youtube.com/watch?v=m472AajrEMU) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/22）株式会社ビープラウド主催、BPStudy#220〜エンジニア組織が事業に貢献するための仕組みづくりとは [＜connpass＞](https://bpstudy.connpass.com/event/376395/)
