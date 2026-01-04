@@ -11,7 +11,8 @@ COMMIT_SOURCE=$2
 SHA1=$3
 
 # 既にメッセージが指定されている場合はスキップ
-if [ -n "$COMMIT_SOURCE" ]; then
+# ただし、template の場合は自動生成を許可する
+if [ -n "$COMMIT_SOURCE" ] && [ "$COMMIT_SOURCE" != "template" ]; then
     exit 0
 fi
 
