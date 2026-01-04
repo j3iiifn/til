@@ -39,3 +39,7 @@
 
 ## シニアエンジニア
 - （2025/12/18）サポーターズCoLab主催、【勉強会】シニアソフトウェアエンジニアになるためには [＜connpass＞](https://supporterz-seminar.connpass.com/event/377986/)
+
+
+## 若手
+- （2025/12/18）Findy主催、30代になる前に、悩んだこと。20代エンジニアのためのキャリアのぶっちゃけトーク [＜TECH PLAY＞](https://techplay.jp/event/989921) [＜イベントページ＞](https://findy-code.io/events/MQS6co13v5e2V) ＜YouTubeアーカイブ動画あり＞
