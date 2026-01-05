@@ -6,4 +6,6 @@
 > Titus Winters, Tom Manshreck, Hyrum Wright 編ほか. Googleのソフトウェアエンジニアリング : 持続可能なプログラミングを支える技術、文化、プロセス, オライリー・ジャパン, 2021.11. 978-4-87311-965-6. https://ndlsearch.ndl.go.jp/books/R100000002-I031807085
 
 ## Audiobook
-- 1周目：2026/01/02 (@Voice Aloud Reader (TTS))
+合計時間: 12時間2分34秒
+
+- 1周目：2026/01/02, 2026/01/03, 2026/01/04, 2026/01/05 (@Voice Aloud Reader (TTS))
