@@ -9,6 +9,9 @@
 - （公開日：2025/09/10、閲覧日：2025/09/10）[150万通のメールを送るのに5万円の専用サービスを使わずにAWS SESを使ったら結局工数的に高くかかった話→「餅作りが困難なほど餅屋の価値は上昇する」「警告メールが総務省から来たのは草」 \- posfie](https://posfie.com/@kalofollow/p/pitX5KT)
 - （公開日：2025/10/02、閲覧日：2025/10/02）[「NHK ONE」移行エラーは「Gmailにスパム認定されていた可能性」　徐々に解消か \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2510/02/news061.html)
 
+## React
+- （2025/12/11）サポーターズCoLab主催、【うひょさんと学ぶ】React Server Compoentsを仕組みから理解しよう [＜connpass＞](https://supporterz-seminar.connpass.com/event/376655/)
+
 ## サービス障害
 - （公開日：2025/12/07、閲覧日：2025/12/08）[Cloudflare、約25分間のネットワーク障害の原因を説明し謝罪](https://www.itmedia.co.jp/news/articles/2512/07/news014.html)
 
@@ -37,6 +40,8 @@
     - > 案件をより良い方向に進めるために力を借りるというのも責任感
 - （公開日：2025/12/30、閲覧日：2025/12/31）[おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、おい、 - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2025/12/30/083324)
 - （公開日：2025/12/31、閲覧日：2026/01/01）[1on1で「まずこれを読んで！」と布教し続けるそーだいさんの言語化集 - そーだいなる Advent Calendar 2025 20日目｜mkitahara / きたはら](https://note.com/mkitahara/n/n0060fdb3e369)
+- （公開日：2026/01/05、閲覧日：2026/01/06）[おい、辞めるな - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/01/05/090020)
+    - > "Claude Codeを使って、日々の作業を記録している。何をやったか、何を学んだか、何に詰まったか。こうして記録しておけば、パフォーマンスレビューの自己評価で圧倒的に有利になる。"
 
 ## 新人教育
 - （公開日：2025/12/06、閲覧日：2025/12/06）[新卒エンジニアが入社8ヶ月を通して学んだ開発への向き合い方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/yuritani-learnings-as-a-newcomer)
