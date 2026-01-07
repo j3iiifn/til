@@ -690,3 +690,4 @@
 - （2025/12/23）en-gine主催、Oikon✖️ 平川知秀 Claude Code 座談会 [＜TECH PLAY＞](https://techplay.jp/event/989884)
 - （2025/12/26）株式会社ジェネラティブエージェンツ主催、『実践Claude Code入門』出版記念！#2 [＜connpass＞](https://generative-agents.connpass.com/event/379134/)
 - （2026/01/06）CDLE Cyber Security主催、【CDLE Cyber Security】AI × Security 勉強会#2 [＜connpass＞](https://jdla.connpass.com/event/379978/)
+- （2026/01/07）ripla主催、生成AI時代のテスト戦略：ユニットテストの進化と課題 [＜connpass＞](https://ripla.connpass.com/event/376513/)

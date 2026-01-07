@@ -33,3 +33,4 @@
 - （2025/10/28）Findy主催、アーキテクチャ年表  - 各社の意思決定の変遷と葛藤 [＜connpass＞](https://findy.connpass.com/event/371331/) [＜イベントページ＞](https://findy-code.io/events/5NvA8F6GIZxui)
     - 株式会社ビットキー 菊地 英太さん『事業成長とアーキテクチャ変遷の軌跡』
     - 株式会社hacomono 志賀 誠(@Maco_Tasu)さん ＆ 有働 開(@PbwBi)さん『事業成長からみるhacomonoアーキテクチャの変遷』[＜資料＞](https://speakerdeck.com/hacomono/business_growth_and_the_evolution_of_hacomono_architecture)
+- （2025/12/09）HireRoo主催、予防に勝る防御なし（2025年版） - 堅牢なコードを導く様々な設計のヒント [＜connpass＞](https://hireroo.connpass.com/event/372969/) [＜イベントページ＞](https://app.hireroo.io/c/content-archives/re-tech-talk-18) ＜YouTubeアーカイブ動画あり＞
