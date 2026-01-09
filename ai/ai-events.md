@@ -599,6 +599,8 @@
     - 野村総合研究所 高橋 宏圭(@thiro_news)さん、品質を守り、生産性を高めるためのセキュアなAIエージェント基盤サービスの開発
     - TIS株式会社 香川 元さん、SIerが語る「AI導入の品質設計」
         - AIそのものの品質を定義する国際基準はまだ無いが、いくつかのガイドラインが公開されている
+- （2025/11/13）Findy主催、AIが自律的に開発する時代の組織設計 - freeeが取り組むプロジェクトマネジメントの極意 [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/371323/) [＜YouTube＞](https://www.youtube.com/watch?v=s-LHVwuOlGM) ＜YouTubeアーカイブ動画あり＞
+    - [＜資料＞](https://speakerdeck.com/freee/aitogong-nikai-fa-surushi-dai-nozu-zhi-purosesushe-ji-freeedenoshi-jian-karajian-etekitakoto)
 - （2025/11/14）Findy主催、【Flutter特集】Flutter開発の裏側 ~各社が向き合う課題と挑戦~ [＜connpass＞](https://findy.connpass.com/event/370621/) [＜イベントページ＞](https://findy-code.io/events/fY3_PAkgGAk_e) ＜YouTubeアーカイブ動画あり＞
     - 株式会社UPSIDER Yoshihiro Tanakaさん、少人数チームにおける複数アプリの継続的デリバリー [＜資料＞](https://speakerdeck.com/upsider_tech/shao-ren-shu-timuniokerufu-shu-apurinoji-sok-de-deribari-yoshihiro-tanaka)
         - Devinを利用
@@ -636,7 +638,7 @@
     - atama 菅原 優さん、LT⑥「AI時代のプロダクトチームにおける越境：試行錯誤から感じたこと（仮）」[＜資料＞]()
 - （2025/11/26）Findy主催、2025 DORA Reportから読み解く！AIが映し出す、成果を出し続ける組織の共通点 [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/373355/) [＜YouTube＞](https://www.youtube.com/watch?v=Dvo5Hhay-t0) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/27）Finatext Holdings Ltd. / Kyash Inc主催、生成AIの実践知 〜 試行錯誤から組織への定着まで 〜 【Finatext × Kyash】 [＜connpass＞](https://finatext.connpass.com/event/374035/) ＜YouTubeアーカイブ動画あり＞
-- （2025/11/27）Findy主催、組織もAIも成長するコードレビュー - ナレッジの仕組み化で進化する協働のかたち [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/374007/)
+- （2025/11/27）Findy主催、組織もAIも成長するコードレビュー - ナレッジの仕組み化で進化する協働のかたち [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/374007/) [＜YouTube＞](https://www.youtube.com/watch?v=Jaeg_32dO0c) ＜YouTubeアーカイブ動画あり＞
     - [＜資料＞](https://www.docswell.com/s/kbkn3/ZVMW84-lifull-ai-review) [＜資料＞](https://www.lifull.blog/entry/2025/03/31/190000)
 - （2025/11/28）AIエージェントユーザー会（AIAU）主催、Mobile App with AI Meetup Tokyo [＜connpass＞](https://aiau.connpass.com/event/370094/)
     - Kaoru Odaさん、モバイル開発ゼロの人がAIだけで開発してみた
@@ -693,3 +695,4 @@
 - （2026/01/06）CDLE Cyber Security主催、【CDLE Cyber Security】AI × Security 勉強会#2 [＜connpass＞](https://jdla.connpass.com/event/379978/)
 - （2026/01/07）ripla主催、生成AI時代のテスト戦略：ユニットテストの進化と課題 [＜connpass＞](https://ripla.connpass.com/event/376513/)
 - （2026/01/08）Forkwell主催、ITエンジニアの転職学ーAI時代のSI業界の歩き方ー [＜connpass＞](https://forkwell.connpass.com/event/378571/) [＜イベントページ＞](https://jobs.forkwell.com/events/btyb8fcgawwc) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/09）モヒにゃぱん主催、Oikon先生とモヒにゃぱんのなぜなにClaudeCode！ [＜connpass＞](https://enjoy-dev-ai.connpass.com/event/380294/) [＜YouTube＞](https://www.youtube.com/live/Neo76xw5JaE) ＜YouTubeアーカイブ動画あり＞
