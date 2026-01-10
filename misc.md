@@ -192,3 +192,6 @@
 - （公開日：2025/12/22、閲覧日：2025/12/25）[書籍「ネットワーク図の描き方入門」は描き方も省略の仕方も学べて1年目に読みたかった - てくなべ (tekunabe)](https://tekunabe.hatenablog.jp/entry/2025/12/22/network_diagram)
 - （公開日：2025/12/24、閲覧日：2025/12/25）[「とほほのWWW入門」にMarkdownの解説が追加 ～GitHub/Qiitaの拡張記法まで網羅／書き換えるとプレビューが可能なサンプルエリアも便利](https://forest.watch.impress.co.jp/docs/news/2074051.html)
 - （公開日：2025/12/30、閲覧日：2025/12/31）[人混みのコミケ107で「ドコモの通信速度が爆速」　“つながりにくさ”をどう改善？](https://www.itmedia.co.jp/mobile/articles/2512/30/news037.html)
+- （公開日：2025/12/30、閲覧日：2026/01/10）[2025年の振り返り](https://sosukesuzuki.dev/posts/2025/)
+    - Claude Codeの開発チームに日本人が参画したというのはビッグニュースでは
+- （公開日：2026/01/08、閲覧日：2026/01/10）[クレジットカード番号の混入を防ぐ技術 - inSmartBank](https://blog.smartbank.co.jp/entry/2026/01/08/100000)
