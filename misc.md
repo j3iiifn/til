@@ -195,3 +195,4 @@
 - （公開日：2025/12/30、閲覧日：2026/01/10）[2025年の振り返り](https://sosukesuzuki.dev/posts/2025/)
     - Claude Codeの開発チームに日本人が参画したというのはビッグニュースでは
 - （公開日：2026/01/08、閲覧日：2026/01/10）[クレジットカード番号の混入を防ぐ技術 - inSmartBank](https://blog.smartbank.co.jp/entry/2026/01/08/100000)
+- （公開日：2026/01/09、閲覧日：2026/01/11）[ahamoからpovo2.0に乗り換えた｜yuta_takahashi](https://sizu.me/yuta_takahashi/posts/w79t4ar06459)
