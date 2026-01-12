@@ -7,6 +7,8 @@
 - （公開日：2025/09/26、閲覧日：2025/09/27）[勤怠管理システムをDDDで作り直して9年。その選択は正しかった？ \- RAKUS Developers Blog \| ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20250926/ddd-practice)
 - （公開日：2025/11/07、閲覧日：2025/11/08）[なぜアーキチームは設計や実装のパターンを絞りたいか？ 背景にある思考と技術選定のジレンマ \| フューチャー技術ブログ](https://future-architect.github.io/articles/20251107a/)
 - （公開日：2025/12/11、閲覧日：2025/12/13）[俺が一番好きなデザインパターン「Strategy Pattern」の話](https://zenn.dev/zozotech/articles/204d6bfe2e4314)
+- （公開日：2026/01/10、閲覧日：2026/01/12）[例外処理とどう使い分ける？Result型を使ったエラー設計 #burikaigi](https://speakerdeck.com/kajitack/exception-or-result-type)
+    - Result型をドメインロジックで使うという話。であれば、ドメインロジックをバックエンドに完全に任せるタイプのアプリ（モバイルアプリやフロントエンド）ではResult型ではなく例外処理をするべきということかな。
 
 
 ## スライド

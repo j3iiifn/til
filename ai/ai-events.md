@@ -574,6 +574,7 @@
     - Junさん、ACPってなに？ [＜資料＞](https://speakerdeck.com/juninaba/ai-coding-meetup-aichi-acptutenani)
     - 4geruさん、AI様、あとは“よしなに”やっといて！〜MCPサーバ開発「裏」入門〜 [＜資料＞](https://speakerdeck.com/4geru/aiyang-atoha-yosinani-yatutoite-mcpsabakai-fa-li-ru-men)
     - マルチンゲールさん、Amazon Q Developer CLIをClaude Codeから使うためのベストプラクティスを考えてみた [＜資料＞](https://speakerdeck.com/dar_kuma_san/amazon-q-developer-cliwoclaude-codekarashi-utamenobesutopurakuteisuwokao-etemita)
+- （2025/10/31）ランサーズ テックエージェント主催、爆速開発LT：Cursor編 [＜connpass＞](https://lancersagent.connpass.com/event/372929/)
 - （2025/11/05）Qiita主催、Qiita Conference 2025 Autumn (1日目) [＜connpass＞](https://increments.connpass.com/event/370478/) [＜イベントページ＞](https://qiita.com/official-campaigns/conference/2025-autumn) [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
     - 福岡Elixir piacereさん、今のコンピュータはAIにもWebにも向いていないので作り直そう [＜資料＞](https://speakerdeck.com/piacerex/jin-nokonpiyuta-ai-nimo-web-nimo-xiang-iteinainode-zuo-rizhi-sou)
     - 株式会社野村総合研究所 柴 隆太さん＆青木 耀平さん、AI Challenge Dayグランプリ受賞に学ぶエージェントAIの精度向上術
@@ -595,6 +596,7 @@
     - 🌟株式会社グロービス 大沼 和也(@technuma)さん、品質は設計でつくり込む [＜資料＞](https://speakerdeck.com/technuma/design-in-quality)
     - 株式会社SmartHR 平田 敏之(@tarappo)さん、品質保証の取り組みを広げる仕組みづくり〜スキルの移譲と自律を支える実践知〜 [＜資料＞](https://speakerdeck.com/tarappo/pin-zhi-bao-zheng-noqu-rizu-miwoguang-gerushi-zu-midukuri-sukirunoyi-rang-tozi-lu-wozhi-erushi-jian-zhi)
 - （2025/11/11）Findy主催、フリーランスエンジニア最前線！市場動向から読み解く、求められるスキルと働き方 [＜connpass＞](https://findy.connpass.com/event/373269/) [＜イベントページ＞](https://freelance.findy-code.io/events/6iFQHs0ny_LVU/viewer-link) ＜YouTubeアーカイブ動画あり＞
+- （2025/11/12）ランサーズ テックエージェント主催、爆速開発LT：Codex編 [＜connpass＞](https://lancersagent.connpass.com/event/373021/)
 - （2025/11/12）Findy主催、TIS、NRIが語る AI品質の設計図 〜開発現場に今求められる“品質基準”を探る〜 [＜connpass＞](https://findy.connpass.com/event/371557/) [＜イベントページ＞](https://findy-code.io/events/OcIGQBoLSbHFQ)
     - 野村総合研究所 高橋 宏圭(@thiro_news)さん、品質を守り、生産性を高めるためのセキュアなAIエージェント基盤サービスの開発
     - TIS株式会社 香川 元さん、SIerが語る「AI導入の品質設計」
@@ -656,6 +658,12 @@
     - 🌟株式会社Resilire 福田 淳雄さん、開発リーダーがAIエージェント4名を率いて開発を進めた話 〜エンジニア個群奮闘記〜 [＜資料＞](https://speakerdeck.com/resilire/2025-joblt-findy-deng-tan-zi-liao)
     - ディップ株式会社 Yuki Itayaさん、AI駆動開発によるDDDの実践 [＜資料＞](https://speakerdeck.com/dip_tech/aiqu-dong-kai-fa-niyorudddnoshi-jian)
     - 株式会社エムニ 後藤 祐汰さん、AIエージェントを活かすPM術 ― AI駆動開発の現場から [＜資料＞](https://speakerdeck.com/gyuta/aiezientowohuo-kasupmshu-aiqu-dong-kai-fa-noxian-chang-kara)
+- （2025/12/02）Replit Meetup Japan実行委員会・AI駆動開発勉強会主催、Replit Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/375340/) [＜YouTube＞](https://www.youtube.com/watch?v=DpGiw7-Fyk4) ＜YouTubeアーカイブ動画あり＞
+    - Ryo Sato(@nobita2040)さん、Replit の基本紹介と Agent 3 最新情報
+    - 山浦 真由子(@myapdx)さん、チームで使う時の運用・活用イメージ
+    - あやみ｜マーケティング(@ayami_marketing)さん、Replitでアプリ30個作った話
+    - 島田寛基（株式会社 Polyscape）@shimap_sampoさん、完全Vibe Codingによる 本番プロダクト開発への挑戦: 全力AI駆動開発で見えてきた限界と可能性
+    - Aman @Replit Teamさん、Replit チームによる「最新情報」
 - 🌟（2025/12/03）Creationline主催、【AI駆動開発まつり】AI駆動開発 の現場テクニックを徹底紹介！ [＜connpass＞](https://creationline.connpass.com/event/374207/)
 - （2025/12/03）Findy主催、2026年転職トレンド予測〜現場のリアルから見る、エンジニアキャリアのこれから〜 [＜TECH PLAY＞](https://techplay.jp/event/988569) [＜イベントページ＞](https://findy-code.io/events/7641u3ubvrDy1) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/03）Findy主催、翻訳者に聞く！『AIエンジニアリング ―基盤モデルを用いたAIアプリケーション開発の基礎と実践』 [＜connpass＞](https://findy.connpass.com/event/375088/) [＜イベントページ＞](https://findy-code.io/events/2HF4sjBHqM_mg) ＜YouTubeアーカイブ動画あり＞
