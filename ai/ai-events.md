@@ -704,3 +704,6 @@
 - （2026/01/07）ripla主催、生成AI時代のテスト戦略：ユニットテストの進化と課題 [＜connpass＞](https://ripla.connpass.com/event/376513/)
 - （2026/01/08）Forkwell主催、ITエンジニアの転職学ーAI時代のSI業界の歩き方ー [＜connpass＞](https://forkwell.connpass.com/event/378571/) [＜イベントページ＞](https://jobs.forkwell.com/events/btyb8fcgawwc) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/09）モヒにゃぱん主催、Oikon先生とモヒにゃぱんのなぜなにClaudeCode！ [＜connpass＞](https://enjoy-dev-ai.connpass.com/event/380294/) [＜YouTube＞](https://www.youtube.com/live/Neo76xw5JaE) ＜YouTubeアーカイブ動画あり＞
+- 🌟（2026/01/13）Scalar主催、Claude Code AI開発支援テンプレートを利用したAPI開発 [＜connpass＞](https://scalar.connpass.com/event/379809/) [＜YouTube＞](https://www.youtube.com/watch?v=NXL9GPOLP6s) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/13）Findy主催、フロントエンドの技術選定〜ピクシブ×Findyの事例に学ぶ〜 [＜connpass＞](https://findy.connpass.com/event/379759/) [＜イベントページ＞](https://findy-code.io/events/RtI4ZfegalQCC) ＜YouTubeアーカイブ動画あり＞
+    - Gemini CLI Workflowでレビューbotを運用（暗黙のレビュー基準を整理＆言語化）
