@@ -40,6 +40,8 @@
 - 📝🌟（公開日：2025/09/18、閲覧日：2025/09/19）[Issue, Pull\-request, GitHub Copilotによる「普通」の一人チーム開発 \- Cybozu Inside Out \| サイボウズエンジニアのブログ](https://blog.cybozu.io/entry/2025/09/18/113000)
 - （公開日：2025/10/29、閲覧日：2025/10/29）[［速報］GitHub、AIエージェントを統べる「Agent HQ」構想を発表。ClaudeやCodex、Devinなど他社AIエージェントも利用可能に － Publickey](https://www.publickey1.jp/blog/25/githubaiagent_hqgithubclaudecodexdevinai.html)
 - （公開日：2025/10/30、閲覧日：2025/10/30）[VS Code、Copilotが仕様作成を支援する「Planモード」が追加 － Publickey](https://www.publickey1.jp/blog/25/vs_codecopilotplan.html)
+- （公開日：2026/01/13、閲覧日：2026/01/14）[GitHub Copilot を極める会](https://zenn.dev/microsoft/articles/github_copilot_advanced)
+    - 「カスタム命令」の章はプロジェクト固有の独自ルールで作成されたファイルをあたかもGitHub Copilotの一機能として必ず読みに行くように書かれていて危ういなと思った
 
 
 #### 公式ドキュメント
@@ -212,6 +214,10 @@ __Docs__
 ### Context Engineering (コンテキストエンジニアリング)
 - 🌟（公開日：2025/10/15、閲覧日：2025/10/15）[AIエージェントを支える技術: コンテキストエンジニアリングの現在地 \- Algomatic Tech Blog](https://tech.algomatic.jp/entry/2025/10/15/172110)
     - Anthropic, LangChain, Manusのブログのまとめ記事
+- 🌟（公開日：2026/01/14、閲覧日：2026/01/14）[CLAUDE.md や AGENTS.md のベストプラクティスな書き方 - izanami](https://izanami.dev/post/47b08b5a-6e1c-4fb0-8342-06b8e627450a)
+    - 最新のサーベイ論文を参照しつつ現時点でのベストプラクティスを解説。素晴らしい。
+        - [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/abs/2406.06608)
+        - [A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)
 
 
 ### AI-DLC

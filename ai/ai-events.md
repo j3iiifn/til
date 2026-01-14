@@ -707,3 +707,4 @@
 - 🌟（2026/01/13）Scalar主催、Claude Code AI開発支援テンプレートを利用したAPI開発 [＜connpass＞](https://scalar.connpass.com/event/379809/) [＜YouTube＞](https://www.youtube.com/watch?v=NXL9GPOLP6s) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/13）Findy主催、フロントエンドの技術選定〜ピクシブ×Findyの事例に学ぶ〜 [＜connpass＞](https://findy.connpass.com/event/379759/) [＜イベントページ＞](https://findy-code.io/events/RtI4ZfegalQCC) ＜YouTubeアーカイブ動画あり＞
     - Gemini CLI Workflowでレビューbotを運用（暗黙のレビュー基準を整理＆言語化）
+- （2026/01/14）ripla主催、事例で深掘り AIコードレビューの成功パターン [＜connpass＞](https://ripla.connpass.com/event/376514/)
