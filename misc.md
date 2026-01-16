@@ -55,6 +55,8 @@
 - （公開日：2025/12/01、閲覧日：2025/12/06）[13年目の1年生――あれほど避けていたマネージャーになるまで - NTT docomo Business Engineers' Blog](https://engineers.ntt.com/entry/20251201-advent-calendar-day1/entry)
 - （公開日：2025/12/06、閲覧日：2025/12/06）[「マネジメントやるのもその育成も無理ゲー」を整理する｜MRYY](https://note.com/mryy/n/ne0cddcfb5300)
     - 戦後からの時系列でマネージャー育成の空洞化について整理
+- （公開日：2025/06/10、閲覧日：2026/01/16）【SHIFT Agile FES】幸せに働ける組織を目指すリーダーの葛藤と挑戦（クリエーションライン 代表取締役 安田忠弘 氏 × SHIFT VPoE 池ノ上倫士） [＜YouTube＞](https://www.youtube.com/watch?v=PYKaxJXiWgk) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/13）FLEXY主催、事例で紐解く「自律型組織」のリアル [＜connpass＞](https://flexy.connpass.com/event/377735/)
 
 
 ## Project Management
