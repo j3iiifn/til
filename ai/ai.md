@@ -375,6 +375,11 @@ __Docs__
 - （公開日：2025/11/03、閲覧日：2025/11/07）[AI推進におけるKPI設計の勘所：経営層と現場の共通目標を作ろう｜しば田](https://note.com/keisuke_shibata/n/n3996ab043797)
 
 
+### JTCでのAIコーディング
+- （公開日：2025/12/31、閲覧日：2026/01/01）[生成AIがシステム丸ごと開発　NTTデータ、IT人材不足に抜本策 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/)
+- （公開日：2026/01/16、閲覧日：2026/01/17）[KDDI系が仕様駆動開発を採用、AIで業務は「設計8割・開発2割」に](https://xtech.nikkei.com/atcl/nxt/column/18/00001/11413/)
+
+
 ### 研修・教育
 - （公開日：2025/12/05、閲覧日：2025/12/05）[DeNA、「AIエンジニアが本気で作った」LLM勉強会資料とコードを全公開　非エンジニアも学べる \- ITmedia AI＋](https://www.itmedia.co.jp/aiplus/articles/2512/05/news086.html)
 - （公開日：2025/12/25、閲覧日：2025/12/26）[新人AI禁止令と、その結果の答え合わせ - Qiita](https://qiita.com/WdknWdkn/items/9b7dea889fec59194df5)
@@ -404,7 +409,6 @@ __Docs__
 - （公開日：2025/10/24、閲覧日：2025/10/30）[Notionの中の小人 \- クソパンダの健康生活](https://monoooki.net/2025/10/little-people-in-notion#%E3%81%AF%E3%81%84%E3%81%93%E3%81%A1%E3%82%89%E5%B0%8F%E4%BA%BA%E8%A8%AD%E8%A8%88%E5%B1%80%E3%81%A7%E3%81%99)
     - 小人設計局
 - （公開日：2025/12/07、閲覧日：2025/12/10）[【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita](https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5)
-- （公開日：2025/12/31、閲覧日：2026/01/01）[生成AIがシステム丸ごと開発　NTTデータ、IT人材不足に抜本策 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/)
 
 
 ## 見た動画
