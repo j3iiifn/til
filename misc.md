@@ -135,6 +135,8 @@
 # 開発環境
 - （公開日：2025/01/20、閲覧日：2026/01/04）[Ghosttyを使ってみての感想やconfigの紹介。 - ポンコツエンジニアのごじゃっぺ開発日記。](https://www.pnkts.net/2025/01/20/ghostty)
 - （公開日：2026/01/02、閲覧日：2026/01/02）[開発環境現状確認（2026年） - Don't Repeat Yourself](https://blog-dry.com/entry/2026/01/02/145952)
+- （公開日：2026/01/17、閲覧日：2026/01/18）[開発環境現状確認（2026年）](https://zenn.dev/shunk031/articles/my-dev-env-2026)
+    - dotfilesの管理
 
 ## 技術広報
 - （2025/10/09）Forkwell主催、技術広報の教科書 - Forkwell Library #109 [＜connpass＞](https://forkwell.connpass.com/event/368229/) ＜YouTubeアーカイブ動画あり＞ [＜資料＞](https://speakerdeck.com/r_kawamata/ji-shu-guang-bao-nojiao-ke-shu-dexue-bukai-fa-zu-zhi-nomei-li-nochuan-efang)

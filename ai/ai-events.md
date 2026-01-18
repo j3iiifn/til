@@ -708,4 +708,8 @@
 - 🌟（2026/01/13）Scalar主催、Claude Code AI開発支援テンプレートを利用したAPI開発 [＜connpass＞](https://scalar.connpass.com/event/379809/) [＜YouTube＞](https://www.youtube.com/watch?v=NXL9GPOLP6s) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/13）Findy主催、フロントエンドの技術選定〜ピクシブ×Findyの事例に学ぶ〜 [＜connpass＞](https://findy.connpass.com/event/379759/) [＜イベントページ＞](https://findy-code.io/events/RtI4ZfegalQCC) ＜YouTubeアーカイブ動画あり＞
     - Gemini CLI Workflowでレビューbotを運用（暗黙のレビュー基準を整理＆言語化）
+- （2026/01/13）Forkwell主催、実践Claude Code入門 - Forkwell Library #117 [＜connpass＞](https://forkwell.connpass.com/event/379072/) [＜イベントページ＞](https://jobs.forkwell.com/events/2_lc_v-m6) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/14）ripla主催、事例で深掘り AIコードレビューの成功パターン [＜connpass＞](https://ripla.connpass.com/event/376514/)
+- （2026/01/14）大阪駆動開発主催、AIミーティング 2026/01/14 [＜connpass＞](https://osaka-driven-dev.connpass.com/event/378594/) [＜YouTube＞](https://www.youtube.com/watch?v=A_zzsfpgrss) ＜YouTubeアーカイブ動画あり＞
+- 🌟（2026/01/15）FLEXY主催、【仕様駆動開発×シフトレフト】明日からできる、大量の手戻りを防ぐ開発プロセス最適術 [＜connpass＞](https://flexy.connpass.com/event/379748/)
+    - 2026/01/18
