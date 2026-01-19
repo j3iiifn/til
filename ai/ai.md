@@ -275,6 +275,7 @@ __Docs__
 
 ### Agent Skills
 - （公開日：2025/12/19、閲覧日：2025/12/21）[GitHub Copilot Agent Skills 入門](https://zenn.dev/openjny/articles/a9d4f6ec2a05c2)
+- （公開日：2026/01/18、閲覧日：2026/01/19）[あなたの拾ってきた野良（マーケット）Skills、セキュリティトラブルを発生させていませんか？](https://zenn.dev/nuits_jp/articles/2026-01-19-risks-of-skills-marketplace)
 
 
 ### 企業での導入
