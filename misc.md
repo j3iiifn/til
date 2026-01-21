@@ -200,3 +200,4 @@
     - Claude Codeの開発チームに日本人が参画したというのはビッグニュースでは
 - （公開日：2026/01/08、閲覧日：2026/01/10）[クレジットカード番号の混入を防ぐ技術 - inSmartBank](https://blog.smartbank.co.jp/entry/2026/01/08/100000)
 - （公開日：2026/01/09、閲覧日：2026/01/11）[ahamoからpovo2.0に乗り換えた｜yuta_takahashi](https://sizu.me/yuta_takahashi/posts/w79t4ar06459)
+- （公開日：2026/01/20、閲覧日：2026/01/21）[電子書籍（EPUB）ではHTMLは使えないことになりました — W3Cが苦渋の決断、Webと電子書籍の統合を阻んだ「XMLの壁」](https://techfeed.io/entries/696edf1002840843325333c3)
