@@ -156,7 +156,8 @@
 - （2025/06/04）Forkwell主催、良いコードの道しるべ　変化に強いソフトウェアを作る原則と実践 - FL #97 [＜イベントページ＞](https://jobs.forkwell.com/events/pa3oihbjg6nj) [＜connpass＞](https://forkwell.connpass.com/event/354821/)
 - （公開日：2025/12/02、閲覧日：2025/12/05）[DRYにしすぎるとコードは干からびる](https://zenn.dev/recustomer/articles/507cb85b321a63)
 
-### 記事
+### 記事・スライド
+- （公開日：2025/05/30、閲覧日：2026/01/22）[コードに語らせよう――自己ドキュメント化が内包する楽しさについて / Let the Code Speak](https://speakerdeck.com/nrslib/let-the-code-speak)
 - （公開日：2025/11/18、閲覧日：2025/11/21）[エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム \#設計 \- Qiita](https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b)
 
 ## 書籍紹介

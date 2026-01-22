@@ -716,3 +716,7 @@
 - （2026/01/15）Findy主催、FindyのVPoEが語る書類選考のホンネ〜「会いたい」と思わせる職務経歴書とは？〜 [＜TECH PLAY＞](https://techplay.jp/event/990191)
     - 皆AIを使っているので書類のレベルが上っている
 - （2026/01/15）GDG Tokyo主催、Gemini アプリチーム Keith 氏が語る 「Gemini アプリ開発の舞台裏」 オンライン [＜connpass＞](https://gdg-tokyo.connpass.com/event/380323/)
+- （2026/01/21）ripla主催、AI駆動開発の UI / UX 最前線 [＜connpass＞](https://ripla.connpass.com/event/376515/)
+- （2026/01/21）NCDC Dev Meetup主催、AIに丸投げ！…で、実際どう？「楽をするため」の工夫や失敗をシェアしよう [＜connpass＞](https://ncdc-dev.connpass.com/event/379881/) ＜YouTubeアーカイブ動画あり＞
+    - ⭐️Claude CodeとGitHub Copilotどっちが優秀？丸投げして比較してみた [＜資料＞](https://speakerdeck.com/gacchi/claude-codetogithub-copilotdotutigayou-xiu)
+- （2026/01/21）クラスメソッド株式会社主催、AI時代の開発高速化スペシャル by クラスメソッド [＜connpass＞](https://classmethod.connpass.com/event/379550/) ＜YouTubeアーカイブ動画あり＞
