@@ -250,6 +250,9 @@ __Docs__
     - [LM vs LM: Detecting Factual Errors via Cross Examination](https://arxiv.org/abs/2305.13281) を引用
         - > 一度生成した論理に固執し、同じ思考プロセスを繰り返してしまう傾向（中略）一種の「確認バイアス」
         - > 全く異なるアーキテクチャを持つ別のAIに評価させることで、人間が同僚にレビューを依頼するのと同様の、客観的なフィードバックが得られる
+- ⭐️（公開日：2026/01/21、閲覧日：2026/01/23）[CodeRabbit User Group Tokyo #0 〜立ち上げキックオフ〜] [そのAIレビュー、レビューしてますか？ / Are you reviewing those AI reviews?](https://speakerdeck.com/rkaga/are-you-reviewing-those-ai-reviews)
+    - AIコードレビューにLLM as a Judgeの知見が使える
+    - ダブルループ学習
 
 
 #### PR-Agent
@@ -394,6 +397,10 @@ __Docs__
 - （閲覧日：2026/01/20）[AIコーディング実践講座 | 株式会社ジェネラティブエージェンツ](https://generative-agents.co.jp/service/edu-ai-coding)
 
 
+### 用語集
+- （公開日：2026/01/22、閲覧日：2026/01/23）[いま押さえるべき最新AI用語まとめ ～LLM、RAG、オーケストレーション、MCP、バイブコーディング……って何のこと？【開発者と読み解くAIの世界】](https://forest.watch.impress.co.jp/docs/serial/aidev/2078521.html)
+
+
 ### 生産性
 - （公開日：2025/11/27、閲覧日：2025/11/28）[生成AIで上がらなかった開発組織の生産性？！ \- AI駆動開発の実現に向けて取り組むべきこと｜山田裕一朗（CEO at Findy Inc\.）](https://note.com/yuichiro826/n/n285026b11564)
     - 生産性は横ばい
@@ -426,6 +433,7 @@ __Docs__
 - （公開日：2025/07/24、閲覧日：2025/07/24）[【t\-wadaさんに聞く】なぜCursorよりClaude Codeが優れているのか \- YouTube](https://www.youtube.com/watch?v=c2IHEeBbY5s)
 - （公開日：2025/07/27、閲覧日：2025/07/31）[Claude Codeに新機能\(Hooks, SlashCommand, SubAgents\)が追加されていたので解説してみた \- YouTube](https://www.youtube.com/watch?v=s71I9pVdsv8)
 - 🌟（公開日：2025/11/13、閲覧日：2025/11/16）[【t-wadaさん, 一休CTO, LayerX】AI時代の開発スピードと品質 / 本当の意味で開発生産性を上げるために必要なこと](https://www.youtube.com/watch?v=MhPAZW-oMKs)
+- 🌟（公開日：2026/01/21、閲覧日：2026/01/23）[【AIは平均に回帰する】組織でアウトカムが上がらない本質的な理由](https://www.youtube.com/watch?v=MoP5-emix9E)
 
 
 ## X
