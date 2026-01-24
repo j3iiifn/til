@@ -9,6 +9,8 @@
     - AIによるソフトウェア開発支援は第1フェーズ（単一モデル、会話型、AIを既存機能に埋め込む）／Pair Programmerから第2フェーズ（複数モデル、AIエージェント、AIネイティブ）／Peer Programmerへ
     - 2025年4月にGitHub Copilot Chatエージェントモードがリリースされた
     - VSCodeのCopilot拡張機能のチャットで実装したい機能を依頼するデモをやっていた。Copilotが自律的に計画を立てて、実装はもちろんのこと、ブラウザを使用したテスト（PlaywrightのMCP経由）とGitコミット、GitHubのプルリクエスト作成（GitHubのMCP経由）まで自動でやってくれていた。
+- （2025/04/24）Qiita主催、Qiita Conference 2025 2日目
+    - @conferences/qiita-conference-2025.md
 - （2025/05/13）Forkwell主催、Cursor導入で ログラス社の現場はどう変わったか - Forkwell AI Study #1 [＜connpass＞](https://forkwell.connpass.com/event/350515/) [＜イベントページ＞](https://jobs.forkwell.com/events/glkorb0-6g9) ＜アーカイブ動画あり＞
     - 『Cursorを全エンジニアに配布、その先に見据えるAI駆動開発の未来』	伊藤 博志 氏
     - 『AIコーディングエージェントをオンボーディングする工夫』	加賀谷 諒 氏
@@ -100,6 +102,8 @@
         - Claude Codeのチャット履歴をブラウザで閲覧できるようにするツール（会話ログビューア）を作ったという話
         - akippaではエンジニアにClaude Maxを配布している
     - パネルディスカッション
+- （2025/07/04）Findy主催、開発生産性Conference2025 2日目
+    - @conferences/findy-dev-productivity-con-2025.md
 - （2025/07/07）カウシェ主催、AI開発実例の成功も失敗もぶっちゃけ！【PKSHA・Findy・LayerX・カウシェ】 [＜connpass＞](https://kauche.connpass.com/event/360073/) [＜YouTube＞](https://youtube.com/live/AW6cGiLo6Ss) ＜アーカイブ動画あり＞
     - 株式会社PKSHA Technology CEO室 室長 大野 紗和子 氏
     - 株式会社PKSHA Technology Workplaceカンパニー執行役員 製品開発統括 山本 健介 氏
@@ -345,6 +349,8 @@
     - 🌟小野寺 宏司さん、新しいペアプロ相手、AIとの向き合い方 [＜資料＞](https://www.docswell.com/s/DeNA_Tech/ZN9QEL-DeNA_AI_Talk_2-04)
         - > 効果を感じているプロンプト
             - > 不明点、進めていくうえで確認すべきことがあったら都度ユーザーに質問してください。対話しながら進めましょう。また、作業中に問題があったら中断して都度ユーザーに確認してください
+- （2025/09/11）一般社団法人DroidKaigi主催、DroidKaigi 2025 2日目
+    - @conferences/droid-kaigi-2025.md
 - （2025/09/16）サポーターズCoLab主催、【ハイブリッド勉強会】AI×プロダクト開発の最前線〜AIにフルベットする4社の挑戦と現在地〜 [＜connpass＞](https://supporterz-seminar.connpass.com/event/365993/)
     - 株式会社TOKIUM 木下 博揮（@hiroki_ddd）さん、経理AIエージェントを支えるAI駆動のプロダクトマネジメント [＜資料＞](https://speakerdeck.com/tokium/jing-li-aiezientowozhi-eruaiqu-dong-nopurodakutomanezimento)
     - 株式会社PKSHA Technology 藤岡 和真（@kakka_q）さん、HR領域のAIプロダクト開発から見えたAI UXの本質
@@ -720,3 +726,8 @@
 - （2026/01/21）NCDC Dev Meetup主催、AIに丸投げ！…で、実際どう？「楽をするため」の工夫や失敗をシェアしよう [＜connpass＞](https://ncdc-dev.connpass.com/event/379881/) ＜YouTubeアーカイブ動画あり＞
     - ⭐️Claude CodeとGitHub Copilotどっちが優秀？丸投げして比較してみた [＜資料＞](https://speakerdeck.com/gacchi/claude-codetogithub-copilotdotutigayou-xiu)
 - （2026/01/21）クラスメソッド株式会社主催、AI時代の開発高速化スペシャル by クラスメソッド [＜connpass＞](https://classmethod.connpass.com/event/379550/) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/23）AI駆動開発主催、AI駆動開発勉強会 神戸支部 第1回 [＜connpass＞](https://aid.connpass.com/event/378966/)
+    - 🌟株式会社MAKE A CHANGE 代表取締役 岡村 匡洋 さん、AI駆動開発の現在地とこれから：Cursorの業務活用例を交えて
+    - 太田 有人 さん、モノレポ × AntigravityでOSSへ踏み出す
+    - フェンリル株式会社 福島 康則 さん、「Kiro」による仕様駆動開発の進化
+- （2026/01/23）DeNA Tech主催、DeNA × AI Talks #5 - ゲーム開発現場の強化学習・Gemini CLI活用事例 - [＜connpass＞](https://dena.connpass.com/event/377181/) ＜YouTubeアーカイブ動画あり＞

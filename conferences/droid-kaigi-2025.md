@@ -1,4 +1,5 @@
 # DroidKaigi 2025
+- 開催日程：2025年9月10日(水)〜12日(金)
 - [イベントページ](https://2025.droidkaigi.jp/)
 - [アーカイブ一覧](https://www.youtube.com/playlist?list=PLaOdaBFokChxaOXJWpabH4s9t7cqTCHc_)
 - [自分の参加報告](https://j3iiifn.hatenablog.com/entry/2025/09/13/190000)
