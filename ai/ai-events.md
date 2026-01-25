@@ -63,7 +63,7 @@
         - LLMは単にテキストの次の単語を予測するモデルに過ぎない
         - 本書のプロンプトエンジニアリングは巷で言われているフレーズニングだけではなく、広範囲の技術が組み合わさったもの
         - LLMは後戻りできない
-- （2025/06/04）KDDIアジャイル開発センター株式会社主催、話題のClaude 4とClaude Codeに入門！（KAGと学ぼう！勉強会） [＜connpass＞](https://kddi-agile.connpass.com/event/357337/) [＜YouTube＞](https://www.youtube.com/watch?v=8BPfZKIa51k) ＜YouTubeアーカイブ動画あり＞
+- （2025/06/04）KDDIアジャイル開発センター主催、話題のClaude 4とClaude Codeに入門！（KAGと学ぼう！勉強会） [＜connpass＞](https://kddi-agile.connpass.com/event/357337/) [＜YouTube＞](https://www.youtube.com/watch?v=8BPfZKIa51k) ＜YouTubeアーカイブ動画あり＞
     - Claude 4とClaude Codeの入門解説 ＆ 実演デモ	KAG みのるん 氏
     - Claude Code のすすめ	ぬこぬこ 氏
     - スマホからVibe Coding？ Claude Code Action解説	KAG 久古 氏
@@ -239,7 +239,7 @@
         - Copilot Chatで `@vscode` とつけるとVS Codeの使い方を質問できる
 - （2025/08/08）Findy主催、Kiro使ってみてどうだった？ ～試してわかった活用のヒント～ [＜connpass＞](https://findy.connpass.com/event/362924/) [＜イベントページ＞](https://findy-code.io/events/mNYVOt1Bds7LU) ＜YouTubeアーカイブ動画あり＞
     - メルカリ Kuu(@Fumiya_Kume)さん、KDDIアジャイル開発センター みのるん(@minorun365)さん、NTTテクノクロス @_watanyさん
-- （2025/08/08）AI駆動開発(AI-Driven Development)主催、Claude Code Meetup Japan #2（Claude Code祭り！#2） [＜connpass＞](https://aid.connpass.com/event/361635/) [＜YouTube＞](https://www.youtube.com/watch?v=1IfoHU7UEgQ) ＜アーカイブ動画あり＞
+- （2025/08/08）AI駆動開発主催、Claude Code Meetup Japan #2（Claude Code祭り！#2） [＜connpass＞](https://aid.connpass.com/event/361635/) [＜YouTube＞](https://www.youtube.com/watch?v=1IfoHU7UEgQ) ＜アーカイブ動画あり＞
     - 📝 7:16- @gota_baraさん『Claude Codeは仕様駆動の夢を見ない』 [＜資料＞](https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai)
     - 29:47- @yukukotaniさん『Scale out your Claude Code ~自社専用Agentで10xする開発プロセス~』 [＜資料＞](https://speakerdeck.com/yukukotani/scale-out-your-claude-code)
         - 変更前タイトル：Claude CodeをDevinにしよう - 叩き駆動開発のススメ
@@ -264,10 +264,11 @@
             - Given-When-Then フォーマット（Gherkin記法）
         - [Cognition \| Don’t Build Multi\-Agents](https://cognition.ai/blog/dont-build-multi-agents)
         - マルチエージェントについて https://x.com/umi_mori_jp/status/1948156173514846642
-- （2025/08/19）ファインディ株式会社主催、AI時代におけるユニットテストの現在地 [＜connpass＞](https://findy.connpass.com/event/363174/) [＜イベントページ＞](https://findy-code.io/events/6RpiQWJ3ugowE) ＜YouTubeアーカイブ動画あり＞
+- （2025/08/19）Findy主催、AI時代におけるユニットテストの現在地 [＜connpass＞](https://findy.connpass.com/event/363174/) [＜イベントページ＞](https://findy-code.io/events/6RpiQWJ3ugowE) ＜YouTubeアーカイブ動画あり＞
     - 🌟米久保 剛(@tyonekubo)さん、AI時代に問い直す ユニットテストの価値 [＜資料＞](https://www.docswell.com/s/tyonekubo/K44MXJ-value-of-unittesting)
     - 合同会社CAPH TECH りず(@rizumita)さん、$99.99と¥100の間にある深い溝 - 批判的に問い、明示的に伝える
     - 松谷峰生 (まつ)(@mty_mno)さん、テスト最適化 : AIは変更差分からユニットテスト/結合テスト/システムテストでテストすべきことが出せるのか？
+- （2025/08/20）Findy主催、AIコードレビュー実践事例3選 [＜connpass＞](https://findy.connpass.com/event/364624/) [＜イベントページ＞](https://findy-code.io/events/mFE3C0tnQ9bDo) ＜YouTubeアーカイブ動画あり＞
 - （2025/08/21）StudyCo主催、無課金で体験するコーディングエージェント入門―コーディングエージェントに初めてふれる様子をライブ配信 [＜connpass＞](https://studyco.connpass.com/event/364498/) [＜YouTube＞](https://www.youtube.com/watch?v=-Gz-wV7p1tg) ＜YouTubeアーカイブ動画あり＞
 - （2025/08/21）Forkwell主催、ABEMAにおける生成AI活用の現在地 - Forkwell AI Study #3 [＜connpass＞](https://forkwell.connpass.com/event/362360/) [＜イベントページ＞](https://jobs.forkwell.com/events/u1ksk3pswz) ＜YouTubeアーカイブ動画あり＞
     - 波戸 勇二(@dekatotoro)さん、菅 俊弥さん [＜資料＞](https://speakerdeck.com/dekatotoro/the-current-status-of-generative-ai-at-abema)
@@ -335,7 +336,7 @@
     - 株式会社IVRy/関 凌麻さん、音声認識から画面検証まで、生成AI時代の電話サービス品質を支える自動テストの全貌 [＜資料＞](https://speakerdeck.com/rymsk21/2025-09-05-qaensinianosi-kao-woying-su-tesutozi-dong-hua-shi-li-f830cbcf-2870-4bea-a1f3-9da1cc707679)
 - （2025/09/10）Forkwell主催、原論文から解き明かす生成AI - Forkwell Library #106 [＜connpass＞](https://forkwell.connpass.com/event/365363/) [＜イベントページ＞](https://jobs.forkwell.com/events/zqyd6e8mjiig) ＜YouTubeアーカイブ動画あり＞
     - 菊田遥平(@yohei_kikuta)さん
-- （2025/09/08）Qiita株式会社主催、【Qiita Bash】AI時代の相棒は、キミに決めた！ 〜キミはどのAIエージェントにする？〜 [＜connpass＞](https://increments.connpass.com/event/364559/) [＜YouTube＞](https://www.youtube.com/live/YvWV8Gqm2c0) ＜YouTubeアーカイブ動画あり＞
+- （2025/09/08）Qiita主催、【Qiita Bash】AI時代の相棒は、キミに決めた！ 〜キミはどのAIエージェントにする？〜 [＜connpass＞](https://increments.connpass.com/event/364559/) [＜YouTube＞](https://www.youtube.com/live/YvWV8Gqm2c0) ＜YouTubeアーカイブ動画あり＞
     - もずますさん、CLI資産を活かせ! Claude Codeで整えるアウトプットワークフロー [＜資料＞](https://mozumasu.github.io/slidev-template)
     - yuka_wagataさん、Cursorと作ったAIエージェントーデータサイエンティスト開発奮闘録ー
     - IkegaiRyotaさん、誰も使ってないCodexをせっかくだから使いまくってみた [＜資料＞](https://publish.obsidian.md/kamibukuro18/AI/Seminor/20250909_qiitabash)
@@ -423,7 +424,7 @@
         - 株式会社LayerX バクラク事業部 プログラマ、QA エンジニア teyamagu @teyamagu さん
         - 株式会社LayerX バクラク事業部 スタッフエンジニア izumin @izumin5210 さん
     - 現在、AIは幻滅期。でもこれから普及期が来る。
-- （2025/10/07）LAPRAS株式会社主催、QA LT Night 〜品質を追求するプロたちの集い〜 [＜connpass＞](https://lapras.connpass.com/event/368463/) [＜イベントページ＞](https://lapras.com/events/16) ＜YouTubeアーカイブ動画あり＞
+- （2025/10/07）LAPRAS主催、QA LT Night 〜品質を追求するプロたちの集い〜 [＜connpass＞](https://lapras.connpass.com/event/368463/) [＜イベントページ＞](https://lapras.com/events/16) ＜YouTubeアーカイブ動画あり＞
 - （2025/10/08）カウシェ主催、AI開発の実戦メソッドとアーキテクチャ事例 ― toCサービスの高速デリバリを支える技術 [＜connpass＞](https://kauche.connpass.com/event/368490/) [＜YouTube＞](https://www.youtube.com/watch?v=OUbCGm03uK0) ＜YouTubeアーカイブ動画あり＞
     - タイミー 口藏 佳希さん、こうして私たちは顧客UXを守りながら数億円を手にした [＜資料＞](https://speakerdeck.com/mizunokura/kousitesi-tatihagu-ke-uxwoshou-rinagara-shu-yi-yuan-woshou-nisita)
     - カウシェ 魚住 伸さん、実装計画を活用しAIの効果を最大化する ＜資料未公開＞
@@ -510,7 +511,7 @@
         - LLMとAIエージェントの歴史
     - TIS株式会社 横井 公紀(@nasuvit_z)さん、AIエージェントによる業務効率化への飽くなき挑戦 - AWS上の実開発事例から学んだ効果、現実そしてギャップ- [＜資料＞](https://speakerdeck.com/nasuvitz/aiezientoniyoruye-wu-xiao-lu-hua-henobao-kunakitiao-zhan-awsshang-noshi-kai-fa-shi-li-karaxue-ndaxiao-guo-xian-shi-sositegiyatupu)
     - 株式会社Almondo 松本 悠秀(@YuhoMatsumoto)さん、音声対話エージェントから学ぶマルチエージェント設計 [＜資料＞](https://speakerdeck.com/almondo_event/20251027-findysan-multi-agent)
-- （2025/10/24）Findy主催、【アーカイブ】「AIエージェント開発 運用入門」出版記念 〜AIエージェント元年！もう「使う」のは当たり前。 「作れる」エンジニアになろう〜 [＜connpass＞](https://findy.connpass.com/event/371914/) [＜イベントページ＞](https://findy-code.io/events/Ees4PRYPsR1QQ) ＜YouTubeアーカイブ動画あり＞
+- （2025/10/24）Findy主催、「AIエージェント開発 運用入門」出版記念 〜AIエージェント元年！もう「使う」のは当たり前。 「作れる」エンジニアになろう〜 [＜connpass＞](https://findy.connpass.com/event/371914/) [＜イベントページ＞](https://findy-code.io/events/Ees4PRYPsR1QQ) ＜YouTubeアーカイブ動画あり＞
     - KDDIアジャイル開発センター株式会社 みのるん(@minorun365)さん、AIエージェント開発＆運用に入門しよう！便利な開発フレームワークと運用ツールの紹介
     - KDDIアジャイル開発センター株式会社 大坪 悠(@tubone24)さん、難しい？でもわかる！？MastraでAIエージェントに入門しよう [＜資料＞](https://slide-tubone24.pages.dev/slides/mastraai/1)
     - 三菱電機株式会社 塚田 真規(@ma_tsukada)さん、LangGraphを使ったAIエージェントの構築、LLMOps入門
@@ -655,7 +656,7 @@
     - 初モバイルアプリ個人開発で失敗した話〜 Vibe Coderの悲劇 〜
     - AI時代のフルスタック：自分が2,3人分で動くための工夫
     - AIと共に走り抜けた60日間 ― 5万人が挑戦したShipatonの振り返り
-- （2025/11/28）株式会社ニジボックス主催、AI時代のデザインシステム〜実践デモで学ぶ、AIがもたらすUI UXの新しい可能性〜 [＜connpass＞](https://nijibox.connpass.com/event/372035/) [＜YouTube＞](https://www.youtube.com/watch?v=Yc4o5rkhBPI) ＜YouTubeアーカイブ動画あり＞
+- （2025/11/28）ニジボックス主催、AI時代のデザインシステム〜実践デモで学ぶ、AIがもたらすUI UXの新しい可能性〜 [＜connpass＞](https://nijibox.connpass.com/event/372035/) [＜YouTube＞](https://www.youtube.com/watch?v=Yc4o5rkhBPI) ＜YouTubeアーカイブ動画あり＞
 - （2025/11/28）Findy主催、Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践- [＜connpass＞](https://findy.connpass.com/event/375963/) [＜イベントページ＞](https://findy-code.io/events/M8YI8LWIHWnoE) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/01）Findy主催、SaaSにAIを組み込む：コンテキスト設計と実装のリアル [＜connpass＞](https://findy.connpass.com/event/373498/) [＜イベントページ＞](https://ai-career.findy-code.io/events/eoQmvIAXR2uQ3cHUmveHvQ) ＜アーカイブ動画あり＞
     - 株式会社hacomono 工藤 真 (@maco)さん、株式会社SmartHR 金岡 亮 (@ryopenguin)さん
@@ -686,27 +687,27 @@
 - （2025/12/10）Findy主催、VibeCodingの一歩先へ〜 プロダクト開発でつまずきやすいポイントの乗り越え方 [＜connpass＞](https://findy.connpass.com/event/375414/) [＜イベントページ＞](https://findy-code.io/events/Txj_ntr0xrJVV) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/10）Findy主催、エキスパートとしてのキャリア 「AIに淘汰されない存在になるために」 [＜connpass＞](https://findy.connpass.com/event/376670/) [＜イベントページ＞](https://findy-code.io/events/zgj2RJssqqHK4) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/10）Findy Team+主催、Vibe Coding Weekから見えた！トヨタグループ KINTOテクノロジーズが語る「AI活用の成功とレビューの新たな課題」 [＜イベントページ＞](https://jp.findy-team.io/event/live/kinto_vibecodingweek_251210/)
-- （2025/12/10）AI駆動開発勉強会、AIエージェントユーザー会(AIAU)主催、Devin 1st Anniversary Meetup Japan（Devin誕生一周年イベント） [＜connpass＞](https://aid.connpass.com/event/375543/)
+- （2025/12/10）AI駆動開発勉強会-AIエージェントユーザー会(AIAU)主催、Devin 1st Anniversary Meetup Japan（Devin誕生一周年イベント） [＜connpass＞](https://aid.connpass.com/event/375543/)
 - （2025/12/11）Forkwell主催、Claude CodeによるAI駆動開発入門 - Forkwell Library #116 [＜connpass＞](https://forkwell.connpass.com/event/375111/) [＜イベントページ＞](https://jobs.forkwell.com/events/5mg9kvgsv) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/12）Findy主催、GitHub Copilotを使いこなす 実例に学ぶAIコーディング活用術 [＜connpass＞](https://findy.connpass.com/event/376448/) [＜イベントページ＞](https://findy-code.io/events/Ie5IPUat7pYE4) ＜YouTubeアーカイブ動画あり＞
 - ⭐️（2025/12/15）Findy主催、LayerX名村さん、LINEヤフー松本さんに聞く！ 2026年AIエンジニアリング時代の変化と挑戦 [＜connpass＞](https://findy.connpass.com/event/375596/) [＜イベントページ＞](https://findy-code.io/events/d1opO_ZmPbh_C) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/16）LAPRAS主催、AI活用のリアルを語ろうLT＆交流会 [＜connpass＞](https://lapras.connpass.com/event/373280/) [＜イベントページ＞](https://lapras.com/events/20) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/17）Findy主催、AIセキュリティリスクを防ぐ 徳丸さんに聞く 2025年の教訓と2026年への備え [＜connpass＞](https://findy.connpass.com/event/377046/) [＜イベントページ＞](https://findy-code.io/events/9fWUCtqm3Ymp1) ＜YouTubeアーカイブ動画あり＞
-- 🌟（2025/12/17）サポーターズCoLab主催、【勉強会】AI Coding の次は何を目指すべき？組織で整備していくべき AI インフラ [＜connpass＞](https://supporterz-seminar.connpass.com/event/377639/)
+- 🌟（2025/12/17）サポーターズCoLab主催、AI Coding の次は何を目指すべき？組織で整備していくべき AI インフラ [＜connpass＞](https://supporterz-seminar.connpass.com/event/377639/)
 - （2025/12/18）DeNA主催、DeNA × AI Talks #4 - LLMを組み込んだプロダクト開発の実践的知見を公開！ - [＜connpass＞](https://dena.connpass.com/event/377040/) [＜YouTube＞](https://www.youtube.com/watch?v=H1NQSHeYSuY) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/19）ニジボックス主催、AIで生産性改善はできるのか？ ～広木大地 × 古川陽介 クロストーク～ [＜connpass＞](https://nijibox.connpass.com/event/374847/)
     - AIに月160時間仕事をさせ続けるのはまだ無理なので、開発人員を1人減らせるという判断にはならない
     - これからのエンジニアの使命：Whyを積極的に収集する仕組みを作ること
 - 🌟（2025/12/22）Tech Garden(ROSCAFE)主催、Claude CodeからCodex CLIへ＿AIコーディング体験の最適解を探る [＜connpass＞](https://rosca.connpass.com/event/376759/)
 - （2025/12/22）SIOSTechLab主催、AIエージェント/MCPサーバー実装ガイド 解説セミナー [＜connpass＞](https://tech-lab.connpass.com/event/378331/) [＜YouTube＞](https://www.youtube.com/watch?v=m472AajrEMU) ＜YouTubeアーカイブ動画あり＞
-- （2025/12/22）株式会社ビープラウド主催、BPStudy#220〜エンジニア組織が事業に貢献するための仕組みづくりとは [＜connpass＞](https://bpstudy.connpass.com/event/376395/)
+- （2025/12/22）ビープラウド主催、BPStudy#220〜エンジニア組織が事業に貢献するための仕組みづくりとは [＜connpass＞](https://bpstudy.connpass.com/event/376395/)
     - Life Quest Alliance 福永 博臣さん、第1部 AIがコードを書く時代に、エンジニア組織が事業に貢献する仕組み
-- （2025/12/23）サポーターズCoLab主催、【勉強会】Obsidian×AI活用術 [＜connpass＞](https://supporterz-seminar.connpass.com/event/378341/)
+- （2025/12/23）サポーターズCoLab主催、Obsidian×AI活用術 [＜connpass＞](https://supporterz-seminar.connpass.com/event/378341/)
 - （2025/12/23）LayerX主催、LayerX QA Night#1 [＜connpass＞](https://layerx.connpass.com/event/376519/)
 - （2025/12/23）Offers主催、Ubieに聞く チケット駆動開発、AIが回す時代へ　～仕様→実装の完全自動化で見えてきたこと～ [＜connpass＞](https://offers-jp.connpass.com/event/377994/) [＜イベントページ＞](https://offers.jp/worker/events/connpass_72) ＜YouTubeアーカイブ動画あり＞
 - （2025/12/23）Findy主催、メンテナンスコストを削減するコード品質管理 - メルカリのリーダビリティチームが実践する仕組みとは？ [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/377680/)
 - （2025/12/23）en-gine主催、Oikon✖️ 平川知秀 Claude Code 座談会 [＜TECH PLAY＞](https://techplay.jp/event/989884)
-- （2025/12/26）株式会社ジェネラティブエージェンツ主催、『実践Claude Code入門』出版記念！#2 [＜connpass＞](https://generative-agents.connpass.com/event/379134/)
+- （2025/12/26）Generative Agents主催、『実践Claude Code入門』出版記念！#2 [＜connpass＞](https://generative-agents.connpass.com/event/379134/)
 - （2026/01/06）CDLE Cyber Security主催、【CDLE Cyber Security】AI × Security 勉強会#2 [＜connpass＞](https://jdla.connpass.com/event/379978/)
 - （2026/01/07）ripla主催、生成AI時代のテスト戦略：ユニットテストの進化と課題 [＜connpass＞](https://ripla.connpass.com/event/376513/)
 - （2026/01/08）Forkwell主催、ITエンジニアの転職学ーAI時代のSI業界の歩き方ー [＜connpass＞](https://forkwell.connpass.com/event/378571/) [＜イベントページ＞](https://jobs.forkwell.com/events/btyb8fcgawwc) ＜YouTubeアーカイブ動画あり＞
@@ -721,11 +722,11 @@
 - 🌟（2026/01/15）FLEXY主催、【仕様駆動開発×シフトレフト】明日からできる、大量の手戻りを防ぐ開発プロセス最適術 [＜connpass＞](https://flexy.connpass.com/event/379748/)
 - （2026/01/15）Findy主催、FindyのVPoEが語る書類選考のホンネ〜「会いたい」と思わせる職務経歴書とは？〜 [＜TECH PLAY＞](https://techplay.jp/event/990191)
     - 皆AIを使っているので書類のレベルが上っている
-- （2026/01/15）GDG Tokyo主催、Gemini アプリチーム Keith 氏が語る 「Gemini アプリ開発の舞台裏」 オンライン [＜connpass＞](https://gdg-tokyo.connpass.com/event/380323/)
+- （2026/01/15）GDG Tokyo主催、Gemini アプリチーム Keith 氏が語る 「Gemini アプリ開発の舞台裏」 [＜connpass＞](https://gdg-tokyo.connpass.com/event/380323/)
 - （2026/01/21）ripla主催、AI駆動開発の UI / UX 最前線 [＜connpass＞](https://ripla.connpass.com/event/376515/)
 - （2026/01/21）NCDC Dev Meetup主催、AIに丸投げ！…で、実際どう？「楽をするため」の工夫や失敗をシェアしよう [＜connpass＞](https://ncdc-dev.connpass.com/event/379881/) ＜YouTubeアーカイブ動画あり＞
     - ⭐️Claude CodeとGitHub Copilotどっちが優秀？丸投げして比較してみた [＜資料＞](https://speakerdeck.com/gacchi/claude-codetogithub-copilotdotutigayou-xiu)
-- （2026/01/21）クラスメソッド株式会社主催、AI時代の開発高速化スペシャル by クラスメソッド [＜connpass＞](https://classmethod.connpass.com/event/379550/) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/21）クラスメソッド主催、AI時代の開発高速化スペシャル by クラスメソッド [＜connpass＞](https://classmethod.connpass.com/event/379550/) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/23）AI駆動開発主催、AI駆動開発勉強会 神戸支部 第1回 [＜connpass＞](https://aid.connpass.com/event/378966/)
     - 🌟株式会社MAKE A CHANGE 代表取締役 岡村 匡洋 さん、AI駆動開発の現在地とこれから：Cursorの業務活用例を交えて
     - 太田 有人 さん、モノレポ × AntigravityでOSSへ踏み出す
