@@ -256,6 +256,7 @@ __Docs__
 - ⭐️（公開日：2026/01/22、閲覧日：2026/01/24）[Claude Code × MCPで実現するPRレビュー準備の自動化 ——週6時間のレビュー工数を削減した実践例——](https://techblog.lycorp.co.jp/ja/20260122a)
     - > AIは「仕事を奪う存在」ではなく、人間の強みを最大化し、弱みを補い、機会を広げる“増幅器”。
     - CodeRabbitみたいなMermaid図も含まれるアウトプットが出るようにプロンプトを自作している事例
+- （公開日：2026/01/25、閲覧日：2026/01/25）[GitHub Copilot CLIは、gpt-5.2-codex xhighに複雑なレビューを依頼しても1回4円](https://zenn.dev/nuits_jp/articles/2026-01-26-cheet-of-copilot)
 
 
 #### PR-Agent
