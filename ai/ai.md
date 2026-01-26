@@ -382,6 +382,7 @@ __Docs__
 ### 業務活用
 - （公開日：2025/10/23、閲覧日：2025/10/25）[『Gemini と NotebookLM を組み合わせて 目標設定の負荷を軽減する方法』というお題で登壇しました \- Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2025/10/23/095714)
 - （公開日：2025/11/09、閲覧日：2025/11/10）[RAGを活用してセキュリティチェックシートの記入作業を自動化した話](https://zenn.dev/delisit/articles/0b4977d79500fa)
+- （公開日：2026/01/26、閲覧日：2026/01/26）[【徹底解説】生成AI×スライド作成ならコレ！Markdown➡Googleスライド変換ツール「deck」の超具体活用フロー｜わたヤク](https://note.com/ai_biostat/n/n3342f8efd06d)
 
 
 ### AI活用推進
