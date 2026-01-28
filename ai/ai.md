@@ -429,6 +429,7 @@ __Docs__
 - （公開日：2025/10/24、閲覧日：2025/10/30）[Notionの中の小人 \- クソパンダの健康生活](https://monoooki.net/2025/10/little-people-in-notion#%E3%81%AF%E3%81%84%E3%81%93%E3%81%A1%E3%82%89%E5%B0%8F%E4%BA%BA%E8%A8%AD%E8%A8%88%E5%B1%80%E3%81%A7%E3%81%99)
     - 小人設計局
 - （公開日：2025/12/07、閲覧日：2025/12/10）[【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita](https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5)
+- （公開日：2026/01/28、閲覧日：2026/01/28）[2026年のローカルLLM事情を整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/local-llm-guide-2026/)
 
 
 ## 見た動画
