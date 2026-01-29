@@ -84,6 +84,7 @@ __Docs__
 ### Devin
 - （公開日：2025/07/15、閲覧日：2025/07/15）[Devinにはてラボのサービスを作ってもらったので、かかった費用を大公開 \- Hatena Developer Blog](https://developer.hatenastaff.com/entry/2025/07/15/121147)
 - （公開日：2025/08/01、閲覧日：2025/08/01）[ドキュメント整備をDevinに任せたら、4週間分の作業が6時間のレビューで完了した話](https://zenn.dev/smartshopping/articles/b3d6804e932565)
+- （公開日：2026/01/29、閲覧日：2026/01/29）[そのベストプラクティスは、本当に必要か——シングルDB、削除フラグなし、Devin全社導入に共通するFaciloの設計思想 - はてなニュース](https://hatenanews.com/articles/2026/01/29/103000)
 
 
 ### Codex
