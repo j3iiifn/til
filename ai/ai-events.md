@@ -739,4 +739,5 @@
     - 太田 有人 さん、モノレポ × AntigravityでOSSへ踏み出す
     - フェンリル株式会社 福島 康則 さん、「Kiro」による仕様駆動開発の進化
 - （2026/01/23）DeNA Tech主催、DeNA × AI Talks #5 - ゲーム開発現場の強化学習・Gemini CLI活用事例 - [＜connpass＞](https://dena.connpass.com/event/377181/) ＜YouTubeアーカイブ動画あり＞
-- （2026/01/29）Agile Studio by 永和システムマネジメント主催、第17回 アジャイル1000本ノック～アジャイルコーチがライブで質問に答えます～ [＜connpass＞](https://agile-studio.connpass.com/event/382294/)  [＜YouTube＞](https://www.youtube.com/watch?v=S34czfLY0ec) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/29）Agile Studio by 永和システムマネジメント主催、第17回 アジャイル1000本ノック～アジャイルコーチがライブで質問に答えます～ [＜connpass＞](https://agile-studio.connpass.com/event/382294/) [＜YouTube＞](https://www.youtube.com/watch?v=S34czfLY0ec) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/30）Findy Team主催、ZOZO開発部門の事例に学ぶ！組織横断で成果を生むAI活用 〜潜在課題を定量データで捉える課題解決アプローチ〜 [＜TECH PLAY＞](https://techplay.jp/event/990295) [＜資料＞](https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering)

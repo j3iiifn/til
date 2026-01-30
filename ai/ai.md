@@ -42,6 +42,8 @@
 - （公開日：2025/10/30、閲覧日：2025/10/30）[VS Code、Copilotが仕様作成を支援する「Planモード」が追加 － Publickey](https://www.publickey1.jp/blog/25/vs_codecopilotplan.html)
 - （公開日：2026/01/13、閲覧日：2026/01/14）[GitHub Copilot を極める会](https://zenn.dev/microsoft/articles/github_copilot_advanced)
     - 「カスタム命令」の章はプロジェクト固有の独自ルールで作成されたファイルをあたかもGitHub Copilotの一機能として必ず読みに行くように書かれていて危ういなと思った
+- （公開日：2026/01/29、閲覧日：2026/01/30）[VS Code + GitHub Copilotで「"半自動"マルチエージェント」開発をやってみた](https://zenn.dev/jins/articles/25900be95ab8b8)
+    - ブコメで指摘されているとおり、これはマルチエージェントではない
 
 
 #### 公式ドキュメント
@@ -282,6 +284,7 @@ __Docs__
 
 
 ### Agent Skills
+- （公開日：2025/10/27、閲覧日：2026/01/30）[【Claude】Agent Skills入門 - はじめてのスキル作成 - - Findy Tech Blog](https://tech.findy.co.jp/entry/2025/10/27/070000)
 - （公開日：2025/12/19、閲覧日：2025/12/21）[GitHub Copilot Agent Skills 入門](https://zenn.dev/openjny/articles/a9d4f6ec2a05c2)
 - （公開日：2026/01/18、閲覧日：2026/01/19）[あなたの拾ってきた野良（マーケット）Skills、セキュリティトラブルを発生させていませんか？](https://zenn.dev/nuits_jp/articles/2026-01-19-risks-of-skills-marketplace)
 
@@ -340,6 +343,8 @@ __Docs__
 - （公開日：2025/12/28、閲覧日：2025/12/28）[私のソフトウェア開発を一変させてしまった2025年のAIエージェントをふりかえる](https://blog.lai.so/agents-in-2025/)
     - ポイント：Claudeが書く大量のインラインコメント削除しながら中身を読む…それでも「読んだはずなのに実装を理解していなかった」という自己嫌悪が起こる。やはり自分で書かないと理解は浅くなる。
 - 🌟（公開日：2026/01/20、閲覧日：2026/01/20）[コードは「読めるけど書けない」でいい時代になった｜すてぃお](https://note.com/suthio/n/n3f88afe28dbd)
+- （公開日：2026/01/26、閲覧日：2026/01/30）[AI時代の認知負荷との向き合い方](https://speakerdeck.com/optfit/aishi-dai-noren-zhi-fu-he-tonoxiang-kihe-ifang)
+    - (AIへ)"保証を委託できない"
 
 
 ### AIによる生成物への向き合い方
@@ -431,6 +436,8 @@ __Docs__
     - 小人設計局
 - （公開日：2025/12/07、閲覧日：2025/12/10）[【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita](https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5)
 - （公開日：2026/01/28、閲覧日：2026/01/28）[2026年のローカルLLM事情を整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/local-llm-guide-2026/)
+- （公開日：2026/01/30、閲覧日：2026/01/30）[Beautiful Mermaid](https://agents.craft.do/mermaid)
+    - Craft Agents（AIエージェント製品）で使用され、Agent Skillとしても公開されている
 
 
 ## 見た動画
