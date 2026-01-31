@@ -292,6 +292,7 @@ __Docs__
 ### 企業での導入
 - （公開日：2025/06/24、閲覧日：2025/07/03）[AIコーディングツール導入のリアル ～意思決定を後押しし、開発を加速させるための7社の実践知～ \- Findy Tools](https://findy-tools.io/articles/ai-codingtool/88)
 - （公開日：2025/12/25、閲覧日：2025/12/26）[69社のAI駆動開発ツール 導入・活用方法 まとめ - Findy Tools](https://findy-tools.io/articles/ai-review2025/179)
+- （公開日：2026/01/27、閲覧日：2026/01/31）[【新戦略】SHIFTの「AI駆動開発」は日本のIT業界を救うか](https://newspicks.com/news/15912539/body/)
 
 
 ### プロンプト
@@ -448,6 +449,8 @@ __Docs__
 - （公開日：2025/07/27、閲覧日：2025/07/31）[Claude Codeに新機能\(Hooks, SlashCommand, SubAgents\)が追加されていたので解説してみた \- YouTube](https://www.youtube.com/watch?v=s71I9pVdsv8)
 - 🌟（公開日：2025/11/13、閲覧日：2025/11/16）[【t-wadaさん, 一休CTO, LayerX】AI時代の開発スピードと品質 / 本当の意味で開発生産性を上げるために必要なこと](https://www.youtube.com/watch?v=MhPAZW-oMKs)
 - 🌟（公開日：2026/01/21、閲覧日：2026/01/23）[【AIは平均に回帰する】組織でアウトカムが上がらない本質的な理由](https://www.youtube.com/watch?v=MoP5-emix9E)
+- 🌟（公開日：2026/01/30、閲覧日：2026/01/31）[【Notion脱却】外資ITエンジニアが実践するGitHubで人生を管理する方法](https://www.youtube.com/watch?v=KHiq6nf0Jio)
+    - 凄かった
 
 
 ## X
