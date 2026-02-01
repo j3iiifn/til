@@ -100,6 +100,9 @@
 - 🌟🌟（公開日：2025/08/31、閲覧日：2025/09/02）[私の好きなClaude Codeの使い方](https://zenn.dev/frontendflat/articles/acc1095edc0d6d)
     - カスタムスラッシュコマンド: /design /revise /implement /ask /instruct /review /recap
     - revise（実装計画の修正）とinstruct（修正指示）が特徴的
+- （公開日：2026/01/28、閲覧日：2026/02/01）[Claude CodeのSubagentとcontext: forkは何が違うのか - 5.1さらうどん](https://giginet.hateblo.jp/entry/2026/01/27/202636)
+- 🌟（公開日：2026/01/30、閲覧日：2026/02/01）[Claude Codeと暮らす | DevelopersIO](https://dev.classmethod.jp/articles/claude-code-daily-workflow/)
+    - 凄すぎ。自身の記憶と仕事をすべてClaude Codeに管理させる手法
 
 
 ## タスク管理
