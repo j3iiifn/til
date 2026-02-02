@@ -9,6 +9,7 @@
 - （公開日：2025/12/11、閲覧日：2025/12/13）[俺が一番好きなデザインパターン「Strategy Pattern」の話](https://zenn.dev/zozotech/articles/204d6bfe2e4314)
 - （公開日：2026/01/10、閲覧日：2026/01/12）[例外処理とどう使い分ける？Result型を使ったエラー設計 #burikaigi](https://speakerdeck.com/kajitack/exception-or-result-type)
     - Result型をドメインロジックで使うという話。であれば、ドメインロジックをバックエンドに完全に任せるタイプのアプリ（モバイルアプリやフロントエンド）ではResult型ではなく例外処理をするべきということかな。
+- （公開日：2026/02/02、閲覧日：2026/02/02）[ソフトウェアを事業に組み込む、ということ― SANUでのフルリプレイスと内製化の記録｜Sohei Takeno / SANU](https://note.com/sohei_takeno/n/nff00353bbfec)
 
 
 ## スライド
