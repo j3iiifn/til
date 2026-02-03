@@ -134,6 +134,8 @@
 ## プラン
 - （公開日：2025/08/21、閲覧日：2025/08/21）[Claude Code and new admin controls for business plans \\ Anthropic](https://www.anthropic.com/news/claude-code-on-team-and-enterprise)
     - 待望のTeam/BusinessプランでもClaude Codeが月額定額で使えるようになったが、利用制限が厳しすぎて結局Max 20xプランのほうがいいなと思った
+- （公開日：2026/02/02、閲覧日：2026/02/03）[Claude Code Max(100ドル)を会社支給にするまでに考えたこと・試したことまとめ](https://zenn.dev/manalink_dev/articles/claude_code_max_plan_thinking_and_compare)
+    - "時間でより高品質なものを作る」ということにAIコーディングを使うという考え方"
 
 
 ## 設定
