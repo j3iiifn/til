@@ -425,18 +425,23 @@ __Docs__
     - "APIキーの流出は確率的に発生するものであり、異常なまでに恐れる必要はありません。" と記載されているが、確率的に発生するものではないしAPIキーの流出原因について記事内で一切言及がないのでセキュリティ意識が心配になる
 
 
+### ローカルLLM・推論フレームワーク
+- （公開日：2025/07/27、閲覧日：2025/07/27）[Kimi K2とLLMのベンチマークスコア](https://blog.lai.so/kimi-k2/)
+- （公開日：2025/08/30、閲覧日：2025/08/31）[AIプログラムの開発演習に使う低消費リソースローカルLLMはQwen3 1\.7B Q4がベスト \- きしだのHatena](https://nowokay.hatenablog.com/entry/2025/08/30/104903)
+- （公開日：2025/10/24、閲覧日：2025/10/30）[Notionの中の小人 \- クソパンダの健康生活](https://monoooki.net/2025/10/little-people-in-notion#%E3%81%AF%E3%81%84%E3%81%93%E3%81%A1%E3%82%89%E5%B0%8F%E4%BA%BA%E8%A8%AD%E8%A8%88%E5%B1%80%E3%81%A7%E3%81%99)
+    - 小人設計局
+- （公開日：2026/01/28、閲覧日：2026/01/28）[2026年のローカルLLM事情を整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/local-llm-guide-2026/)
+- （公開日：2026/02/02、閲覧日：2026/02/04）[【LLM】社内文書をセキュアに検索！OllamaとOpen WebUIで構築する完全無料・RAG環境](https://zenn.dev/shineos/articles/local-llm-rag-web-search-with-ollama)
+- （公開日：2026/02/03、閲覧日：2026/02/04）[Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。 - Qiita](https://qiita.com/yosim/items/bbc8671d4295139c6e6d)
+
+
 ### その他
 - （公開日：2025/06/11、閲覧日：2025/06/12）[AI領域における組織の強みを活かすアーキテクチャ設計](https://zenn.dev/aishift/articles/c897d0e095c3d8)
     - タイトルの「AI領域」はAIエージェント自体の開発を指していた
     - この記事で述べられている取り組みはAI云々に特有なものではなく、一般的に複数のチームが同じプロダクトを共同で開発するために必要な取り組みだと思った（技術選定、依存関係の整理）
 - （公開日：2025/07/03、閲覧日：2025/07/03）[AIは励まされると頑張れるらしいので、いろんな方法で奨励してみた。 \- カミナシ エンジニアブログ](https://kaminashi-developer.hatenablog.jp/entry/2025/07/03/090000)
 - （公開日：2025/07/03、閲覧日：2025/07/03）[AIに仕様書を読ませるとテストケースを自動生成、テストコードも書いてくれる「Autify Nexus」、Autifyが発表 － Publickey](https://www.publickey1.jp/blog/25/aiautify_nexusautify.html)
-- （公開日：2025/07/27、閲覧日：2025/07/27）[Kimi K2とLLMのベンチマークスコア](https://blog.lai.so/kimi-k2/)
-- （公開日：2025/08/30、閲覧日：2025/08/31）[AIプログラムの開発演習に使う低消費リソースローカルLLMはQwen3 1\.7B Q4がベスト \- きしだのHatena](https://nowokay.hatenablog.com/entry/2025/08/30/104903)
-- （公開日：2025/10/24、閲覧日：2025/10/30）[Notionの中の小人 \- クソパンダの健康生活](https://monoooki.net/2025/10/little-people-in-notion#%E3%81%AF%E3%81%84%E3%81%93%E3%81%A1%E3%82%89%E5%B0%8F%E4%BA%BA%E8%A8%AD%E8%A8%88%E5%B1%80%E3%81%A7%E3%81%99)
-    - 小人設計局
 - （公開日：2025/12/07、閲覧日：2025/12/10）[【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita](https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5)
-- （公開日：2026/01/28、閲覧日：2026/01/28）[2026年のローカルLLM事情を整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/local-llm-guide-2026/)
 - （公開日：2026/01/30、閲覧日：2026/01/30）[Beautiful Mermaid](https://agents.craft.do/mermaid)
     - Craft Agents（AIエージェント製品）で使用され、Agent Skillとしても公開されている
 
