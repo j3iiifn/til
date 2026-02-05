@@ -723,6 +723,7 @@
 - （2026/01/15）Findy主催、FindyのVPoEが語る書類選考のホンネ〜「会いたい」と思わせる職務経歴書とは？〜 [＜TECH PLAY＞](https://techplay.jp/event/990191)
     - 皆AIを使っているので書類のレベルが上っている
 - （2026/01/15）GDG Tokyo主催、Gemini アプリチーム Keith 氏が語る 「Gemini アプリ開発の舞台裏」 [＜connpass＞](https://gdg-tokyo.connpass.com/event/380323/)
+- （2026/01/19）Findy主催、登壇前夜 「技術に取り残される」 不安への処方箋 -エキスパートとしてのキャリア- [＜connpass＞](https://findy.connpass.com/event/379263/) [＜イベントページ＞](https://findy-code.io/events/_ZLO5sMylslIC) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/20）Generative Agents主催、はじめてのAIエージェント開発 [＜connpass＞](https://generative-agents.connpass.com/event/379911/) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/20）FLEXY主催、『実践Claude Code入門』で学ぶ、アプデに怯まないAIエージェント活用の極意 [＜connpass＞](https://flexy.connpass.com/event/379934/) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/21）Findy主催、t-wadaさんご登壇！予防に勝る防御なし（2026年版） [＜connpass＞](https://findy.connpass.com/event/379553/) [＜イベントページ＞](https://findy-code.io/events/2oTU2LQIvhSWg) ＜YouTubeアーカイブ動画あり＞

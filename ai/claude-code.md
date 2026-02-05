@@ -86,6 +86,10 @@
 - （公開日：2025/10/04、閲覧日：2025/10/05）[Claude Code 2\.0\.0 のメジャーアップデートについて](https://zenn.dev/oikon/articles/claude-code-2)
 
 
+## Claude Code使用量の計測
+- 🌟（公開日：2026/02/04、閲覧日：2026/02/05）[複数環境でのClaude Code利用統計をOpenTelemetryで一元管理する](https://yag.xyz/post/claude-code-otel/)
+
+
 ## 📝 Workflow
 - （公開日：2025/07/19、閲覧日：2025/07/28）[Kiroの仕様書駆動開発プロセスをClaude Codeで徹底的に再現した](https://zenn.dev/gotalab/articles/3db0621ce3d6d2)
     - [gotalab/claude\-code\-spec: From prototype to production with Spec\-Driven Development for Claude Code\. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build with AI](https://github.com/gotalab/claude-code-spec)
@@ -103,6 +107,8 @@
 - （公開日：2026/01/28、閲覧日：2026/02/01）[Claude CodeのSubagentとcontext: forkは何が違うのか - 5.1さらうどん](https://giginet.hateblo.jp/entry/2026/01/27/202636)
 - 🌟（公開日：2026/01/30、閲覧日：2026/02/01）[Claude Codeと暮らす | DevelopersIO](https://dev.classmethod.jp/articles/claude-code-daily-workflow/)
     - 凄すぎ。自身の記憶と仕事をすべてClaude Codeに管理させる手法
+- 🌟（公開日：2026/02/04、閲覧日：2026/02/05）[Claude Codeの性能を引き出すワークフロー設計 - エス・エム・エス エンジニア テックブログ](https://tech.bm-sms.co.jp/entry/2026/02/04/110000)
+    - メタプロンプト用のcustom slash commandが参考になる
 
 
 ## タスク管理

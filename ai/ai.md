@@ -44,6 +44,7 @@
     - 「カスタム命令」の章はプロジェクト固有の独自ルールで作成されたファイルをあたかもGitHub Copilotの一機能として必ず読みに行くように書かれていて危ういなと思った
 - （公開日：2026/01/29、閲覧日：2026/01/30）[VS Code + GitHub Copilotで「"半自動"マルチエージェント」開発をやってみた](https://zenn.dev/jins/articles/25900be95ab8b8)
     - ブコメで指摘されているとおり、これはマルチエージェントではない
+- （公開日：2026/02/05、閲覧日：2026/02/05）[GitHubコーディングエージェントでAnthropicのClaudeとOpenAI Codexが利用可能に](https://github.blog/jp/2026-02-05-pick-your-agent-use-claude-and-codex-on-agent-hq/)
 
 
 #### 公式ドキュメント
@@ -456,6 +457,8 @@ __Docs__
 - 🌟（公開日：2026/01/21、閲覧日：2026/01/23）[【AIは平均に回帰する】組織でアウトカムが上がらない本質的な理由](https://www.youtube.com/watch?v=MoP5-emix9E)
 - 🌟（公開日：2026/01/30、閲覧日：2026/01/31）[【Notion脱却】外資ITエンジニアが実践するGitHubで人生を管理する方法](https://www.youtube.com/watch?v=KHiq6nf0Jio)
     - 凄かった
+- （公開日：2026/02/05、閲覧日：2026/02/05）[【ジュニアエンジニア不要論の真相】AI時代のエンジニア育成 / Googleが語る“AIは増幅器”とは / AI時代に差がつく資格と学びのヒント](https://www.youtube.com/watch?v=rrvuhON1rs8)
+    - NTTドコモビジネス／早稲田大学非常勤講師 岩瀬義昌さん、ファインディ株式会社 高橋裕之さん
 
 
 ## X
