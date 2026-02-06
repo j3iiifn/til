@@ -748,4 +748,6 @@
 - （2026/01/30）Findy Freelance主催、個人開発における成長を支える技術選定 [＜connpass＞](https://findy-freelance.connpass.com/event/380766/)
     - Opusで計画を立てて、Composerで高速に実装する
 - （2026/01/30）Findy Team主催、ZOZO開発部門の事例に学ぶ！組織横断で成果を生むAI活用 〜潜在課題を定量データで捉える課題解決アプローチ〜 [＜TECH PLAY＞](https://techplay.jp/event/990295) [＜資料＞](https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering)
+- （2026/01/30）Findy主催、開発にどう組み込む？AIエージェント選定ガイド [＜connpass＞](https://findy.connpass.com/event/380747/) [＜イベントページ＞](https://findy-code.io/events/2kp6R_yreX9Zh) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/30）Findy主催、AIツール導入時のポイントを抑え、安心して取り組むAI駆動開発 [＜connpass＞](https://findy.connpass.com/event/381399/) [＜イベントページ＞](https://findy-code.io/events/jrhV2QMgWaojg) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/30）Work≠Build主催、1万という驚異的な数字を達成したふたりclaude codeとccusageの7ヶ月を振り返る [＜connpass＞](https://wnb.connpass.com/event/382915/)
