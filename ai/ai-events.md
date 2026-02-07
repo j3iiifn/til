@@ -742,12 +742,16 @@
     - 太田 有人 さん、モノレポ × AntigravityでOSSへ踏み出す
     - フェンリル株式会社 福島 康則 さん、「Kiro」による仕様駆動開発の進化
 - （2026/01/23）DeNA Tech主催、DeNA × AI Talks #5 - ゲーム開発現場の強化学習・Gemini CLI活用事例 - [＜connpass＞](https://dena.connpass.com/event/377181/) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/28）Sony Corporation / ソニー主催、ソニー Creators' Cloudチームのハッカソン ～生成AIで加速するイノベーション～ [＜connpass＞](https://sony.connpass.com/event/378575/) [＜YouTube＞](https://youtube.com/live/PDE0Q2v4IZw) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/29）Agile Studio by 永和システムマネジメント主催、第17回 アジャイル1000本ノック～アジャイルコーチがライブで質問に答えます～ [＜connpass＞](https://agile-studio.connpass.com/event/382294/) [＜YouTube＞](https://www.youtube.com/watch?v=S34czfLY0ec) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/29）FLEXY主催、僕がフリーランスを続けなかった理由 [＜connpass＞](https://flexy.connpass.com/event/380992/) ＜YouTubeアーカイブ動画あり＞
     - 2026年現在、AIと協調して開発できるスキルは希少価値があり、今後1〜2年で標準装備化していく。今のうちにこのスキルを獲得することが重要。ただし、AIの出力をそのまま使うのではなく、自分の責任として扱い、アーキテクチャーやプロダクトの意思決定は人間が担うべき。
+- 🌟（2026/01/29）AI駆動開発主催、AI駆動開発勉強会 第7回 AI駆動PM/PdMスペシャル [＜connpass＞](https://aid.connpass.com/event/378818/) [＜YouTube＞](https://youtube.com/live/wltkeXuUelc) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/30）Findy Freelance主催、個人開発における成長を支える技術選定 [＜connpass＞](https://findy-freelance.connpass.com/event/380766/)
     - Opusで計画を立てて、Composerで高速に実装する
 - （2026/01/30）Findy Team主催、ZOZO開発部門の事例に学ぶ！組織横断で成果を生むAI活用 〜潜在課題を定量データで捉える課題解決アプローチ〜 [＜TECH PLAY＞](https://techplay.jp/event/990295) [＜資料＞](https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering)
 - （2026/01/30）Findy主催、開発にどう組み込む？AIエージェント選定ガイド [＜connpass＞](https://findy.connpass.com/event/380747/) [＜イベントページ＞](https://findy-code.io/events/2kp6R_yreX9Zh) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/30）Findy主催、AIツール導入時のポイントを抑え、安心して取り組むAI駆動開発 [＜connpass＞](https://findy.connpass.com/event/381399/) [＜イベントページ＞](https://findy-code.io/events/jrhV2QMgWaojg) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/30）Work≠Build主催、1万という驚異的な数字を達成したふたりclaude codeとccusageの7ヶ月を振り返る [＜connpass＞](https://wnb.connpass.com/event/382915/)
+- （2026/02/05）Findy主催、エンジニアの登壇資料を大解剖！ [＜connpass＞](https://findy.connpass.com/event/380968/) [＜イベントページ＞](https://findy-code.io/events/oRZ7BD0q0ZOyv) ＜YouTubeアーカイブ動画あり＞
+    - 登壇資料の作成プロセス、AIツール（ChatGPT、Nano Banana Proなど）の活用、見やすく整った情報を届けるステップについて、人気登壇者5名による実例共有
