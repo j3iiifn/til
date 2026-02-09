@@ -186,3 +186,7 @@
 ## Skill
 - （公開日：2025/11/13、閲覧日：2025/11/14）[書いたコードを“スキル化”して再利用してる話](https://zenn.dev/explaza/articles/9f3271d1a9ce70)
 - （公開日：2026/02/05、閲覧日：2026/02/06）[エンジニアは、なぜ生成AIで仕事が楽にならないのか - Qiita](https://qiita.com/KYoshiyama/items/14554853372f33c3374b)
+
+
+## Agent Teams
+- （公開日：2026/02/09、閲覧日：2026/02/09）[Claude Code Agent Teamsのあそびかた](https://blog.lai.so/agent-teams/)
