@@ -49,3 +49,6 @@
 ## 市場
 - （公開日：2023/06/07、閲覧日：2026/01/11）[本当にエンジニアバブルは崩壊したのか？ | ITエンジニア向けのトレンド情報](https://pr.forkwell.com/blog/has-the-engineering-bubble-about-to-burst/)
 - （公開日：2026/02/03、閲覧日：2026/02/04）[カセットテープ・エンジニア人生45年。「彼でないと動かせない生産設備」と共に2回移籍して【フォーカス】 レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_797/)
+
+## ポートフォリオ・発信
+- （公開日：2026/01/29、閲覧日：2026/02/10）[テックブログをはてなブログからZennへ移行します：「個人の資産化」と「運用効率化」を目指して - Safie Engineers' Blog!](https://safie.hatenablog.com/entry/tech-blog-migration-to-zenn)
