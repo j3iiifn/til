@@ -191,4 +191,5 @@
 
 
 ## Agent Teams
+- （公開日：2026/02/08、閲覧日：2026/02/11）[Claude16台で10万行のCコンパイラを作った論文を読んで、「いや答えあるじゃん」と思った話](https://zenn.dev/shio_shoppaize/articles/shogun-spec-first)
 - （公開日：2026/02/09、閲覧日：2026/02/09）[Claude Code Agent Teamsのあそびかた](https://blog.lai.so/agent-teams/)
