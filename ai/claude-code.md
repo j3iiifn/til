@@ -187,9 +187,16 @@
 
 ## Skill
 - （公開日：2025/11/13、閲覧日：2025/11/14）[書いたコードを“スキル化”して再利用してる話](https://zenn.dev/explaza/articles/9f3271d1a9ce70)
+- （公開日：2026/01/24、閲覧日：2026/02/12）[【Claude Code】カスタムスラッシュコマンドがスキルに統合されました](https://zenn.dev/tmasuyama1114/articles/cc_commands_merged_into_skills)
+    - ユーザーが明示的に /xxx で呼び出したときだけ実行されるようにするフロントマター disable-model-invocation: true
 - （公開日：2026/02/05、閲覧日：2026/02/06）[エンジニアは、なぜ生成AIで仕事が楽にならないのか - Qiita](https://qiita.com/KYoshiyama/items/14554853372f33c3374b)
 
 
 ## Agent Teams
 - （公開日：2026/02/08、閲覧日：2026/02/11）[Claude16台で10万行のCコンパイラを作った論文を読んで、「いや答えあるじゃん」と思った話](https://zenn.dev/shio_shoppaize/articles/shogun-spec-first)
 - （公開日：2026/02/09、閲覧日：2026/02/09）[Claude Code Agent Teamsのあそびかた](https://blog.lai.so/agent-teams/)
+
+
+## 並列コーディング（Agent Teams未使用）
+- 🌟（公開日：2026/02/12、閲覧日：2026/02/12）[Claude Code Webを10並列で回す！チームみらいの選挙支援ツールを作りながら構築した、超並列LLMコーディングを実現するためのハーネスエンジニアリング｜Jun Ito](https://note.com/jujunjun110/n/n66306cab294a)
+    - 設計を学ぶことの大切さがよく分かる。
