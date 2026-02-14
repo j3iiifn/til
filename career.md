@@ -16,6 +16,7 @@
 - （2025/12/09）Findy主催、ログラスのエンジニアヘッドが語る 技術面接の視点 [＜TECH PLAY＞](https://techplay.jp/event/989048) [＜イベントページ＞](https://findy-code.io/events/_T8x2LEnr_jqz)
 - （2025/12/23）LAPRAS主催、アンチパターンから学ぶ転職直後の立ち回り方 [＜connpass＞](https://lapras.connpass.com/event/378414/) [＜イベントページ＞](https://lapras.com/events/26) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/22）Findy主催、FindyのVPoEと語るカジュアル面談〜自分に合う会社をどう見極める？〜 [＜TECH PLAY＞](https://techplay.jp/event/990199) [＜イベントページ＞](https://findy-code.io/events/z0hCJfLtYkTHr) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/03）HireRoo主催、練習なしでの一発勝負って怖くない？技術試験の裏側まで知ろう【システム設計編】 [＜connpass＞](https://hireroo.connpass.com/event/381946/) ＜YouTubeアーカイブ動画あり＞
 
 
 ## フリーランス

@@ -767,6 +767,13 @@
 - （2026/01/30）AI駆動開発主催、GitLab Duo Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/380283/) [＜YouTube＞](https://youtube.com/live/ZXGbrOq81fw) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/02）TECH PLAY主催、AI時代、エンジニアの仕事の価値とは──ばんくしさんが示す、技術で語る世界を越え、事業に染み出す視点 [＜TECH PLAY＞](https://techplay.jp/event/990855) [＜YouTube＞](https://www.youtube.com/live/M_FmKdA-0DM) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/02）TECH PLAY主催、実装だけ考えればよい時代は終わった ── ミノ駆動さんが斬る！エンジニアの思考を止める技術の引力 [＜TECH PLAY＞](https://techplay.jp/event/990059) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/03）みのるんのゲリラ勉強会主催、みのるんがClaude Codeで「パワポ作成代行AIエージェント」を開発するのをお昼に眺める会 [＜connpass＞](https://minorun365.connpass.com/event/383114/) [＜YouTube＞](https://www.youtube.com/watch?v=nIxhYRmCgCQ) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/03）Findy主催、自分らしく続けるアウトプットの始め方と継続のヒント [＜connpass＞](https://findy.connpass.com/event/379880/) [＜イベントページ＞](https://findy-code.io/events/QIFYLzeDOSclw) ＜YouTubeアーカイブ動画あり＞
+    - AIは一般論を綺麗に出せるが、個人の熱量が乗らない　→自分が編集者・責任者になる
+- （2026/02/04）SIOS Tech. Lab主催、世界一わかりみの深いMCPの認可〜図解で理解する仕組みと流れ〜 [＜connpass＞](https://tech-lab.connpass.com/event/378934/) [＜YouTube＞](https://youtube.com/live/5sKW6RPmhnI) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/04）Live! 人工知能主催、プロンプトの本質 ― AIから最高の成果を引き出す技術 Day2【Live!人工知能 219】 [＜connpass＞](https://liveai.connpass.com/event/382568/) [＜YouTube＞](https://youtube.com/live/8p7Zyn7jNsM) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/05）Findy主催、『実践Claude Code入門』に学ぶ、コーディングエージェントを操る技術 [＜connpass＞](https://findy.connpass.com/event/381332/) [＜イベントページ＞](https://findy-code.io/events/2PRnrCG_EfRwk) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/05）TECH PLAY主催、学びを止めないエンジニアになるには？ 〜忙しくても続けられる！小さく始める「盆栽」的生存戦略〜 [＜TECH PLAY＞](https://techplay.jp/event/991233) [＜YouTube＞](https://www.youtube.com/live/u1j4II40Bi8) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/05）Findy主催、エンジニアの登壇資料を大解剖！ [＜connpass＞](https://findy.connpass.com/event/380968/) [＜イベントページ＞](https://findy-code.io/events/oRZ7BD0q0ZOyv) ＜YouTubeアーカイブ動画あり＞
     - 登壇資料の作成プロセス、AIツール（ChatGPT、Nano Banana Proなど）の活用、見やすく整った情報を届けるステップについて、人気登壇者5名による実例共有
+- 🌟（2026/02/06）Findy主催、コードレビューどうしてる？各社のTips共有会 [＜connpass＞](https://findy.connpass.com/event/381956/) [＜イベントページ＞](https://findy-code.io/events/b_X7W9fVliphZ) ＜YouTubeアーカイブ動画あり＞
