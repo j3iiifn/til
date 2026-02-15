@@ -131,14 +131,8 @@ __Docs__
     - この記事では NotebookLM = RAG という認識のようだが、そうなんだっけ？
 - （公開日：不明、閲覧日：2025/06/24）[【後編】チームの共通言語をつくる。Opportunity Solutions TreeとAIで整えた判断の土台 \| toitta（トイッタ） \- ユーザーの声に向き合える発話分析ソリューション](https://ja.toitta.com/cases/mantra-part2/)
 - （公開日：2025/11/14、閲覧日：2025/11/17）[ASCII\.jp：やばいアプデきた！グーグル「NotebookLM」Deep Research機能で最強進化](https://ascii.jp/elem/000/004/350/4350621/)
-- （公開日：2025/12/24、閲覧日：2025/12/25）[NotebookLMのスライド作成機能の斬新な使い方｜IT navi](https://note.com/it_navi/n/na61970ca1b7e)
-
-
 ### Gemini
 - （公開日：2025/05/09、閲覧日：2025/05/11）[Gemini の新機能 「Canvas」入門： アイデアをカタチにする活用法をわかりやすく徹底解説！｜Gemini \- Google の AI](https://note.com/google_gemini/n/na32ff1b28878)
-- （公開日：2025/08/16、閲覧日：2025/08/16）[【神回】Googleスライドが一瞬で完成する"奇跡"のプロンプト教えます｜まじん](https://note.com/majin_108/n/n39235bcacbfc)
-    - スライドのレイアウトや構成要素を定義するJSONをGeminiに作成させ、そのJSONをもとにGoogle Apps ScriptがGoogleスライドを描画するという手法
-    - ゴリ押し感がすごい
 - （公開日：2025/11/19、閲覧日：2025/11/19）[Gemini 3: Introducing the latest Gemini AI model from Google](https://blog.google/intl/ja-jp/company-news/technology/gemini-3/)
     - 原文：https://blog.google/products/gemini/gemini-3/
 - （公開日：2025/12/03、閲覧日：2025/12/03）[GoogleがGeminiの活用法を紹介する電子書籍を無償公開 ～全国の大学生と合同で作成 \- Book Watch/ニュース \- 窓の杜](https://forest.watch.impress.co.jp/docs/bookwatch/news/2068062.html)
@@ -390,7 +384,6 @@ __Docs__
 ### 業務活用
 - （公開日：2025/10/23、閲覧日：2025/10/25）[『Gemini と NotebookLM を組み合わせて 目標設定の負荷を軽減する方法』というお題で登壇しました \- Tbpgr Blog](https://tbpgr.hatenablog.com/entry/2025/10/23/095714)
 - （公開日：2025/11/09、閲覧日：2025/11/10）[RAGを活用してセキュリティチェックシートの記入作業を自動化した話](https://zenn.dev/delisit/articles/0b4977d79500fa)
-- （公開日：2026/01/26、閲覧日：2026/01/26）[【徹底解説】生成AI×スライド作成ならコレ！Markdown➡Googleスライド変換ツール「deck」の超具体活用フロー｜わたヤク](https://note.com/ai_biostat/n/n3342f8efd06d)
 
 
 ### AI活用推進
@@ -445,6 +438,16 @@ __Docs__
 - （公開日：2025/12/07、閲覧日：2025/12/10）[【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita](https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5)
 - （公開日：2026/01/30、閲覧日：2026/01/30）[Beautiful Mermaid](https://agents.craft.do/mermaid)
     - Craft Agents（AIエージェント製品）で使用され、Agent Skillとしても公開されている
+
+
+### スライド・プレゼンテーション作成
+- （公開日：2025/08/16、閲覧日：2025/08/16）[【神回】Googleスライドが一瞬で完成する"奇跡"のプロンプト教えます｜まじん](https://note.com/majin_108/n/n39235bcacbfc)
+    - スライドのレイアウトや構成要素を定義するJSONをGeminiに作成させ、そのJSONをもとにGoogle Apps ScriptがGoogleスライドを描画するという手法
+    - ゴリ押し感がすごい
+- （公開日：2025/12/24、閲覧日：2025/12/25）[NotebookLMのスライド作成機能の斬新な使い方｜IT navi](https://note.com/it_navi/n/na61970ca1b7e)
+- （公開日：2026/01/26、閲覧日：2026/01/26）[【徹底解説】生成AI×スライド作成ならコレ！Markdown➡Googleスライド変換ツール「deck」の超具体活用フロー｜わたヤク](https://note.com/ai_biostat/n/n3342f8efd06d)
+- （公開日：2026/02/13、閲覧日：2026/02/15）[「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】 - Qiita](https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36)
+    - "slidevのPPTX出力は、編集不可の画像として埋め込まれる" だめじゃん
 
 
 ## 見た動画

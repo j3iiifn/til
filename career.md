@@ -17,6 +17,7 @@
 - （2025/12/23）LAPRAS主催、アンチパターンから学ぶ転職直後の立ち回り方 [＜connpass＞](https://lapras.connpass.com/event/378414/) [＜イベントページ＞](https://lapras.com/events/26) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/22）Findy主催、FindyのVPoEと語るカジュアル面談〜自分に合う会社をどう見極める？〜 [＜TECH PLAY＞](https://techplay.jp/event/990199) [＜イベントページ＞](https://findy-code.io/events/z0hCJfLtYkTHr) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/03）HireRoo主催、練習なしでの一発勝負って怖くない？技術試験の裏側まで知ろう【システム設計編】 [＜connpass＞](https://hireroo.connpass.com/event/381946/) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/03）LAPRAS主催、CTO兼採用担当が話す、カジュアル面談の裏側 [＜connpass＞](https://lapras.connpass.com/event/381951/) [＜イベントページ＞](https://lapras.com/events/33) ＜YouTubeアーカイブ動画あり＞
 
 
 ## フリーランス
@@ -52,4 +53,5 @@
 - （公開日：2026/02/03、閲覧日：2026/02/04）[カセットテープ・エンジニア人生45年。「彼でないと動かせない生産設備」と共に2回移籍して【フォーカス】 レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/focus/detail_797/)
 
 ## ポートフォリオ・発信
+- （公開日：2025/12/05、閲覧日：2026/02/15）[2年前に書いた同人誌が読者の口コミで突然バズって1,200冊売れた - mochikoAsTechのdig日記](https://mochikoastech.hatenablog.com/entry/2025/12/05/003703)
 - （公開日：2026/01/29、閲覧日：2026/02/10）[テックブログをはてなブログからZennへ移行します：「個人の資産化」と「運用効率化」を目指して - Safie Engineers' Blog!](https://safie.hatenablog.com/entry/tech-blog-migration-to-zenn)
