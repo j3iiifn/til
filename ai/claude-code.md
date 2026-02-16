@@ -195,6 +195,7 @@
 ## Agent Teams
 - （公開日：2026/02/08、閲覧日：2026/02/11）[Claude16台で10万行のCコンパイラを作った論文を読んで、「いや答えあるじゃん」と思った話](https://zenn.dev/shio_shoppaize/articles/shogun-spec-first)
 - （公開日：2026/02/09、閲覧日：2026/02/09）[Claude Code Agent Teamsのあそびかた](https://blog.lai.so/agent-teams/)
+- （公開日：2026/02/09、閲覧日：2026/02/16）[Claude Code の Agent Teams 機能を使って、自分の指揮で動く専門家チームを作ってみた | DevelopersIO](https://dev.classmethod.jp/articles/claude-code-agent-teams-how-to-build/)
 - （公開日：2026/02/12、閲覧日：2026/02/13）[iTerm2の連携機能によって意識せずにtmuxを使えて便利 - Mitsuyuki.Shiiba](https://bufferings.hatenablog.com/entry/2026/02/12/224302)
 - （公開日：2026/02/15、閲覧日：2026/02/15）[Claude Code の実装から読み解く Agent Teams の設計思想 - Qiita](https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300)
 
