@@ -343,6 +343,8 @@ __Docs__
 - 🌟（公開日：2026/01/20、閲覧日：2026/01/20）[コードは「読めるけど書けない」でいい時代になった｜すてぃお](https://note.com/suthio/n/n3f88afe28dbd)
 - （公開日：2026/01/26、閲覧日：2026/01/30）[AI時代の認知負荷との向き合い方](https://speakerdeck.com/optfit/aishi-dai-noren-zhi-fu-he-tonoxiang-kihe-ifang)
     - (AIへ)"保証を委託できない"
+- （公開日：2026/02/16、閲覧日：2026/02/17）[The Pragmatic Summit 2026](https://www.deeeet.com/writing/pragmatic-summit-2026)
+    - AIがソフトウェアエンジニアリング組織をどのように変革しているか（組織構造の変化、開発ワークフローの進化、責任の移行など）
 
 
 ### AIによる生成物への向き合い方
