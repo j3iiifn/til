@@ -168,6 +168,10 @@ __Docs__
 - （公開日：2025/09/30、閲覧日：2025/09/30）[Claude Sonnet 4\.5 発表関連情報まとめ](https://zenn.dev/schroneko/articles/claude-sonnet-4-5)
 
 
+### Anthropic
+- （公開日：2026/02/17、閲覧日：2026/02/18）[国防総省がAnthropicを「サプライチェーンリスク」に指定して請負業者に取引中止を求めることも検討](https://gigazine.net/news/20260217-pentagon-anthropic-supply-chain-risk/)
+
+
 ### DeepSeek
 - （公開日：2025/10/22、閲覧日：2025/10/23）[画像でテキストをトークン圧縮するDeepSeek\-OCRがいろいろすごい \- きしだのHatena](https://nowokay.hatenablog.com/entry/2025/10/22/200049)
 
