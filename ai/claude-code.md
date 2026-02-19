@@ -185,11 +185,12 @@
 - （公開日：2025/08/23、閲覧日：2025/08/23）[Claude Code の学習モードで自分の手でコードを書く練習をしよう](https://azukiazusa.dev/blog/claude-code-learning-mode/)
 
 
-## Skill
+## Agent Skills
 - （公開日：2025/11/13、閲覧日：2025/11/14）[書いたコードを“スキル化”して再利用してる話](https://zenn.dev/explaza/articles/9f3271d1a9ce70)
 - （公開日：2026/01/24、閲覧日：2026/02/12）[【Claude Code】カスタムスラッシュコマンドがスキルに統合されました](https://zenn.dev/tmasuyama1114/articles/cc_commands_merged_into_skills)
     - ユーザーが明示的に /xxx で呼び出したときだけ実行されるようにするフロントマター disable-model-invocation: true
 - （公開日：2026/02/05、閲覧日：2026/02/06）[エンジニアは、なぜ生成AIで仕事が楽にならないのか - Qiita](https://qiita.com/KYoshiyama/items/14554853372f33c3374b)
+- 🌟（公開日：2026/02/18、閲覧日：2026/02/19）[問い合わせ対応の全工程の自動化を AI で実現 - CRE による MCP から Agent Skills 移行の記録 - 弁護士ドットコム株式会社 Creators’ blog](https://creators.bengo4.com/entry/2026/02/18/080000)
 
 
 ## Agent Teams
