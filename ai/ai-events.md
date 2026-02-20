@@ -785,3 +785,5 @@
 - （2026/02/16）サポーターズCoLab主催、Kaggle Grandmasterが考える「それ、GPTでよくない？」にどう抗うか [＜connpass＞](https://supporterz-seminar.connpass.com/event/381578/)
 - （2026/02/16）CTC金融事業グループ主催、金融業界の開発現場で試した生成AI活用の現在地 ―アプリ開発×インフラ構築×品質管理で探る生成AIの壁とヒント― CTC Engineer’s Insight #7 [＜TECH PLAY＞](https://techplay.jp/event/991109)
 - 🌟（2026/02/18）LAPRAS主催、Devinを本気で活用するSHIFTが「開発を一気通貫で自動化」した話 [＜connpass＞](https://lapras.connpass.com/event/382071/) [＜イベントページ＞](https://lapras.com/events/34) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/18）NTT Tech Conference主催、NTT Tech Conference 2026 BRIDGE SIDE [＜connpass＞](https://ntt-techconf.connpass.com/event/382775/) ＜YouTubeアーカイブ動画あり＞
+    - 🌟AIによるネットワーク運用の自動化

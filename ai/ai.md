@@ -45,6 +45,7 @@
 - （公開日：2026/01/29、閲覧日：2026/01/30）[VS Code + GitHub Copilotで「"半自動"マルチエージェント」開発をやってみた](https://zenn.dev/jins/articles/25900be95ab8b8)
     - ブコメで指摘されているとおり、これはマルチエージェントではない
 - （公開日：2026/02/05、閲覧日：2026/02/05）[GitHubコーディングエージェントでAnthropicのClaudeとOpenAI Codexが利用可能に](https://github.blog/jp/2026-02-05-pick-your-agent-use-claude-and-codex-on-agent-hq/)
+- （公開日：2026/02/19、閲覧日：2026/02/20）[Github Copilotを標準機能の範囲で賢くしよう \#VSCode \- Qiita](https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85)
 
 
 #### 公式ドキュメント
