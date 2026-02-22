@@ -73,11 +73,17 @@
     - Ctrl + Sで入力欄に書きかけていた内容をstashできるの初めて知った
 - 🌟（公開日：2026/02/06、閲覧日：2026/02/10）[かつき🌏デザイン×AI×事業作り on X: "Claude Codeに全任せ：iOSアプリを5日でリリースした軌跡"](https://x.com/i/status/2019556331154469009)
     - デザインがわかる人がVibe Codingすると強いな
+- （公開日：2026/02/06、閲覧日：2026/02/22）[Claude Codeが地味に快適になる細かいTips集](https://zenn.dev/kki2ne/articles/claude-code-advanced-tips-2026)
+    - "プロンプト履歴から自分の課題を抽出する" → ~/.claude/projects/ の JSONL から週次で Obsidian に抽出するスクリプト
 
 
 ## セキュリティインシデント
 - （公開日：2025/11/14、閲覧日：2025/11/14）[Anthropic、「Claude」が中国政府系攻撃者に悪用されたと報告 \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2511/14/news061.html)
     - 裏を返すと、悪用の疑いがあればClaudeの会話や生成物の履歴をAnthropic社員が閲覧することがあるということ。これを理由に業務利用を禁止する企業がありそうだなと思った。
+
+
+## Claude Code Security
+- （公開日：2026/02/21、閲覧日：2026/02/22）[Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した - Qiita](https://qiita.com/emi_ndk/items/fb529b2ede94661e5287)
 
 
 ## モデルのアップデート
@@ -111,6 +117,9 @@
     - 凄すぎ。自身の記憶と仕事をすべてClaude Codeに管理させる手法
 - 🌟（公開日：2026/02/04、閲覧日：2026/02/05）[Claude Codeの性能を引き出すワークフロー設計 - エス・エム・エス エンジニア テックブログ](https://tech.bm-sms.co.jp/entry/2026/02/04/110000)
     - メタプロンプト用のcustom slash commandが参考になる
+- 🌟（公開日：2026/02/21、閲覧日：2026/02/22）[Obsidian Web Clipper × Claude Codeで技術記事の自動整理をしてみた | DevelopersIO](https://dev.classmethod.jp/articles/obsidian-claude-clip/)
+    - "Obsidian Web Clipperは、ブラウザで表示中のWebページをMarkdown形式に変換し、Obsidian Vaultに保存するブラウザ拡張機能です。"
+- （公開日：2026/02/20、閲覧日：2026/02/22）[The Software Development Lifecycle Is Dead | Boris Tane](https://boristane.com/blog/the-software-development-lifecycle-is-dead/)
 
 
 ## タスク管理
