@@ -269,6 +269,7 @@ __Docs__
 
 
 ### RAG
+- （公開日：2025/09/09、閲覧日：2026/02/23）[AnythingLLMで始めるローカル版「NotebookLM」構築 - たねやつの木](https://www.taneyats.com/entry/local-notebooklm-alternatives)
 - （公開日：2025/10/30、閲覧日：2025/11/03）[社内AIヘルプデスク 正答率80%達成 RAG精度改善の軌跡 \| BLOG \- DeNA Engineering](https://engineering.dena.com/blog/2025/10/findoutai_rag/)
 - （公開日：2025/12/09、閲覧日：2025/12/09）[【アドベントカレンダー2025】社内向け生成AI 構築から廃止まで - ぐるなびをちょっと良くするエンジニアブログ](https://developers.gnavi.co.jp/entry/adventcalendar-251209-1/)
     - 自社ツールを廃止してNotebookLMへ移行
@@ -350,6 +351,9 @@ __Docs__
     - (AIへ)"保証を委託できない"
 - （公開日：2026/02/16、閲覧日：2026/02/17）[The Pragmatic Summit 2026](https://www.deeeet.com/writing/pragmatic-summit-2026)
     - AIがソフトウェアエンジニアリング組織をどのように変革しているか（組織構造の変化、開発ワークフローの進化、責任の移行など）
+- （公開日：2026/02/21、閲覧日：2026/02/23）[この先生きのこるには](https://zenn.dev/kaiware0x/articles/to-be-or-not-to-be)
+    - "LLMにやらせるCommitを50行までにする" "Commitごとのドキュメントを作らせる"
+- （公開日：2026/02/22、閲覧日：2026/02/23）[AI Coding Agent でおかしくなりそう / 自分を保つために - たにしきんぐダム](https://tanishiking24.hatenablog.com/entry/2026/02/22/220056)
 
 
 ### AIによる生成物への向き合い方
@@ -457,6 +461,8 @@ __Docs__
 - （公開日：2026/01/26、閲覧日：2026/01/26）[【徹底解説】生成AI×スライド作成ならコレ！Markdown➡Googleスライド変換ツール「deck」の超具体活用フロー｜わたヤク](https://note.com/ai_biostat/n/n3342f8efd06d)
 - （公開日：2026/02/13、閲覧日：2026/02/15）[「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】 - Qiita](https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36)
     - "slidevのPPTX出力は、編集不可の画像として埋め込まれる" だめじゃん
+- （公開日：2026/02/22、閲覧日：2026/02/23）[Claude Opus 4.6で作る、PowerPointでそのまま編集できる高品質スライド｜IT navi](https://note.com/it_navi/n/ne26d4d078386)
+    - おまけに書いてあった方法を実際に試してみた。Web版Claudeの設定>機能で「コード実行とファイル作成」をONにすると組み込みのpptxスキルが使える。あとはチャットで「デジタル庁デザインシステムのスタイルで、●●に関するスライドを作成して」と指示するだけで組み込みのpptxスキルが発動してpptxgenjsのコードが作成され、PPTXファイルが出力された。手元のClaude Codeでやると依存関係のインストールでローカルを汚さないように気を使ってしまうが、Web板でやればクラウド上のコンテナ内で実行されるので手元が汚れなくて良い。
 
 
 ## 見た動画

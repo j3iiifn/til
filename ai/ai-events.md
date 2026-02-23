@@ -791,6 +791,7 @@
 - （2026/02/17）NRIネットコム主催、判断は人、準備はAI ― チケット管理で見えた仕事の境界 [＜connpass＞](https://nrinetcom.connpass.com/event/383897/)
 - （2026/02/17）Findy Team主催、【Microsoft×Findy】AIで本当に組織の開発生産性は上がったか。可視化で挑む生産性の壁 [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/380994/)
 - （2026/02/17）FLEXY by PKSHA主催、タイミー1人目データエンジニアが辿り着いた、「WHY」を問い続ける自律型組織の設計図 [＜connpass＞](https://flexy.connpass.com/event/383172/) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/18）TECHer COMPOSE UP主催、設計フェーズにおけるAI活用 -実装の精度を高めるための考え方と進め方- [＜connpass＞](https://techer-compose-up.connpass.com/event/381782/)
 - 🌟（2026/02/18）LAPRAS主催、Devinを本気で活用するSHIFTが「開発を一気通貫で自動化」した話 [＜connpass＞](https://lapras.connpass.com/event/382071/) [＜イベントページ＞](https://lapras.com/events/34) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/18）NTT Tech Conference主催、NTT Tech Conference 2026 BRIDGE SIDE [＜connpass＞](https://ntt-techconf.connpass.com/event/382775/) ＜YouTubeアーカイブ動画あり＞
     - 🌟AIによるネットワーク運用の自動化
