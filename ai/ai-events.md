@@ -795,3 +795,5 @@
 - 🌟（2026/02/18）LAPRAS主催、Devinを本気で活用するSHIFTが「開発を一気通貫で自動化」した話 [＜connpass＞](https://lapras.connpass.com/event/382071/) [＜イベントページ＞](https://lapras.com/events/34) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/18）NTT Tech Conference主催、NTT Tech Conference 2026 BRIDGE SIDE [＜connpass＞](https://ntt-techconf.connpass.com/event/382775/) ＜YouTubeアーカイブ動画あり＞
     - 🌟AIによるネットワーク運用の自動化
+- （2026/02/20）Findy主催、PdMのインサイト探索記 -「N=1」に向きあう試行錯誤 [＜connpass＞](https://findy.connpass.com/event/382958/) [＜イベントページ＞](https://findy-code.io/events/5NBoxiymVe2lA) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/20）Qiita主催、データは「資産」か、ただの「ノイズ」か。カオスなAI時代に"価値"を定義するエンジニアリング [＜connpass＞](https://increments.connpass.com/event/379623/) [＜YouTube＞](https://www.youtube.com/watch?v=uEMgzvRNcaI) ＜YouTubeアーカイブ動画あり＞
