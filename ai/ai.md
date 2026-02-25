@@ -225,6 +225,7 @@ __Docs__
 
 ### AI-DLC
 - （公開日：2025/08/08、閲覧日：2025/10/05）[AI 駆動開発ライフサイクル:ソフトウェアエンジニアリングの再構築 \| Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/ai-driven-development-life-cycle/)
+- （公開日：2025/12/15、閲覧日：2026/02/25）[AI-DLCを現場にインストールしてみた：プロトタイプ開発で分かったこと･やめたこと](https://speakerdeck.com/recruitengineers/amazon-q-developer-kiro-meetup-matsuo)
 
 
 ### コードレビュー
@@ -296,6 +297,8 @@ __Docs__
 - （公開日：2026/01/27、閲覧日：2026/01/31）[【新戦略】SHIFTの「AI駆動開発」は日本のIT業界を救うか](https://newspicks.com/news/15912539/body/)
 - （公開日：2026/02/14、閲覧日：2026/02/16）[AIコーディングが隆盛する一方でマネジメントが辛い件](https://zenn.dev/hiroharu8864/articles/782ed847d52aae)
     - 承認プロセスを通す文化というのが理解に苦しむ。性善説を期待してはダメだと思う。制限をかけたいなら機械的に強制されるようにするべき。
+- 🌟（公開日：2026/02/25、閲覧日：2026/02/25）[三菱UFJ銀行におけるエンタープライズAI駆動開発のリアル / Enterprise AI_Driven Development at MUFG Bank: The Real Story](https://speakerdeck.com/muit/enterprise-ai-driven-development-at-mufg-bank-the-real-story)
+    - AI駆動開発ガイドの執筆、7段階の社内研修カリキュラム開発、ジュニアエンジニア育成方針
 
 
 ### プロンプト
