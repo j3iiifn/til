@@ -269,6 +269,11 @@ __Docs__
 - （公開日：2025/08/08、閲覧日：2025/08/30）[OSS の AI レビューツール「PR\-Agent」を全社導入し、コスト効率の高い開発支援を実現した話 \| BLOG \- DeNA Engineering](https://engineering.dena.com/blog/2025/08/pr-agent/)
 
 
+### Knowledge Management / PKM
+- （公開日：2026/02/26、閲覧日：2026/02/27）[仕事でObsidianをどのように使っているか](https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136)
+    - "うまくやらないというこだわり"
+
+
 ### RAG
 - （公開日：2025/09/09、閲覧日：2026/02/23）[AnythingLLMで始めるローカル版「NotebookLM」構築 - たねやつの木](https://www.taneyats.com/entry/local-notebooklm-alternatives)
 - （公開日：2025/10/30、閲覧日：2025/11/03）[社内AIヘルプデスク 正答率80%達成 RAG精度改善の軌跡 \| BLOG \- DeNA Engineering](https://engineering.dena.com/blog/2025/10/findoutai_rag/)
@@ -320,6 +325,7 @@ __Docs__
 ## AI Agent (AIエージェント)
 - 🌟（公開日：2025/11/13、閲覧日：2025/11/17）[Agentに至る道 〜なぜLLMは自動でコードを書けるようになったのか〜 \- Speaker Deck](https://speakerdeck.com/mackee/agentnizhi-rudao-nazellmhazi-dong-dekodowoshu-keruyouninatutanoka)
     - WebGPT -> ReAct -> SWE-Bench -> SWE-Agent
+- （公開日：2026/02/24、閲覧日：2026/02/27）[【朗報】Apple、アプリを自律操作する小型AIエージェントを発表！クラウド不要で動作 - すまほん!!](https://smhn.info/202602-apple-on-device-ai)
 
 
 ### エッセイ、キャリア論

@@ -75,6 +75,7 @@
     - デザインがわかる人がVibe Codingすると強いな
 - （公開日：2026/02/06、閲覧日：2026/02/22）[Claude Codeが地味に快適になる細かいTips集](https://zenn.dev/kki2ne/articles/claude-code-advanced-tips-2026)
     - "プロンプト履歴から自分の課題を抽出する" → ~/.claude/projects/ の JSONL から週次で Obsidian に抽出するスクリプト
+- 🌟（公開日：2026/02/24、閲覧日：2026/02/27）[Claude Code 1st Anniversary: これまでとこれから \| oikon48](https://oikon48.dev/ja/blog/claude-code-anniversary/)
 
 
 ## セキュリティインシデント
