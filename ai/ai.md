@@ -363,6 +363,8 @@ __Docs__
 - （公開日：2026/02/21、閲覧日：2026/02/23）[この先生きのこるには](https://zenn.dev/kaiware0x/articles/to-be-or-not-to-be)
     - "LLMにやらせるCommitを50行までにする" "Commitごとのドキュメントを作らせる"
 - （公開日：2026/02/22、閲覧日：2026/02/23）[AI Coding Agent でおかしくなりそう / 自分を保つために - たにしきんぐダム](https://tanishiking24.hatenablog.com/entry/2026/02/22/220056)
+- （公開日：2026/02/28、閲覧日：2026/02/28）[【参加レポ】「Developers Summit 2026」参加して、誰とどう作る？人間関係の構築の大切さを考えるきっかけをもらった #devsumi #devxpm - てぃばのBlog｜CHIBA Reimi（rechiba3）](https://www.rechiba3.net/entry/devsumi2026/)
+    - > 「技術力はあるけど気に入らねぇ奴」と仕事する必要はないってことだから、どんどん一緒に働きたくなる人間って？をしっかり考えないといけない
 
 
 ### AIによる生成物への向き合い方

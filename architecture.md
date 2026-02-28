@@ -38,3 +38,4 @@
     - 株式会社hacomono 志賀 誠(@Maco_Tasu)さん ＆ 有働 開(@PbwBi)さん『事業成長からみるhacomonoアーキテクチャの変遷』[＜資料＞](https://speakerdeck.com/hacomono/business_growth_and_the_evolution_of_hacomono_architecture)
 - （2025/12/09）HireRoo主催、予防に勝る防御なし（2025年版） - 堅牢なコードを導く様々な設計のヒント [＜connpass＞](https://hireroo.connpass.com/event/372969/) [＜イベントページ＞](https://app.hireroo.io/c/content-archives/re-tech-talk-18) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/29）Findy主催、山下さん、増田さんと学ぶ！ドメイン駆動設計 実践入門 [＜connpass＞](https://findy.connpass.com/event/380472/) [＜イベントページ＞](https://findy-code.io/events/LAophCI9f2OQb) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/19）3-shake Meetup主催、3-shake SRE Tech Talk 特別回 アーキテクチャモダナイゼーション [＜connpass＞](https://3-shake.connpass.com/event/382086/) [＜YouTube＞](https://www.youtube.com/watch?v=HdSflPKJULA) ＜YouTubeアーカイブ動画あり＞

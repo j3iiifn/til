@@ -121,6 +121,7 @@
 - 🌟（公開日：2026/02/21、閲覧日：2026/02/22）[Obsidian Web Clipper × Claude Codeで技術記事の自動整理をしてみた | DevelopersIO](https://dev.classmethod.jp/articles/obsidian-claude-clip/)
     - "Obsidian Web Clipperは、ブラウザで表示中のWebページをMarkdown形式に変換し、Obsidian Vaultに保存するブラウザ拡張機能です。"
 - （公開日：2026/02/20、閲覧日：2026/02/22）[The Software Development Lifecycle Is Dead | Boris Tane](https://boristane.com/blog/the-software-development-lifecycle-is-dead/)
+- 🌟（公開日：2026/02/27、閲覧日：2026/02/28）[Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話](https://zenn.dev/nrs/articles/db4120beb0e601)
 
 
 ## タスク管理
@@ -204,6 +205,7 @@
 - （公開日：2026/01/24、閲覧日：2026/02/12）[【Claude Code】カスタムスラッシュコマンドがスキルに統合されました](https://zenn.dev/tmasuyama1114/articles/cc_commands_merged_into_skills)
     - ユーザーが明示的に /xxx で呼び出したときだけ実行されるようにするフロントマター disable-model-invocation: true
 - （公開日：2026/02/05、閲覧日：2026/02/06）[エンジニアは、なぜ生成AIで仕事が楽にならないのか - Qiita](https://qiita.com/KYoshiyama/items/14554853372f33c3374b)
+- （公開日：2026/02/17、閲覧日：2026/02/28）[Agentワークフローで人間がボトルネックにならないためのSkill設計](https://nyosegawa.github.io/posts/claude-code-verify-command/)
 - 🌟（公開日：2026/02/18、閲覧日：2026/02/19）[問い合わせ対応の全工程の自動化を AI で実現 - CRE による MCP から Agent Skills 移行の記録 - 弁護士ドットコム株式会社 Creators’ blog](https://creators.bengo4.com/entry/2026/02/18/080000)
 
 
@@ -213,6 +215,7 @@
 - （公開日：2026/02/09、閲覧日：2026/02/16）[Claude Code の Agent Teams 機能を使って、自分の指揮で動く専門家チームを作ってみた | DevelopersIO](https://dev.classmethod.jp/articles/claude-code-agent-teams-how-to-build/)
 - （公開日：2026/02/12、閲覧日：2026/02/13）[iTerm2の連携機能によって意識せずにtmuxを使えて便利 - Mitsuyuki.Shiiba](https://bufferings.hatenablog.com/entry/2026/02/12/224302)
 - （公開日：2026/02/15、閲覧日：2026/02/15）[Claude Code の実装から読み解く Agent Teams の設計思想 - Qiita](https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300)
+- （公開日：2026/02/24、閲覧日：2026/02/28）[新しい時代の開発と組織について](https://nyosegawa.github.io/posts/development-and-organization-in-agent-era/)
 
 
 ## 並列コーディング（Agent Teams未使用）
