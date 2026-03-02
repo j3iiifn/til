@@ -788,6 +788,8 @@
 - 🌟（2026/02/09）Findy主催、【AI特集】3社が語るAI駆動開発 開発組織の取り組みと課題とは？ [＜connpass＞](https://findy.connpass.com/event/378622/) [＜イベントページ＞](https://findy-code.io/events/ZD1x6DaIU3rbQ) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/10）ZOZO主催、ZOZO.swift #2 [＜connpass＞](https://zozotech-inc.connpass.com/event/380901/) [＜YouTube＞](https://www.youtube.com/live/Hy3izVe6OCs) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/11）企業における生成AI活用グループ主催、生成AI こんな風に使ってはいけないリスト 2026年版 [＜connpass＞](https://chomoku.connpass.com/event/383471/) [＜YouTube＞](https://youtube.com/live/oRh2VZeOOK0) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/11）大阪駆動開発主催、AIミーティング 2026/02/11 [＜connpass＞](https://osaka-driven-dev.connpass.com/event/381466/) [＜YouTube＞](https://www.youtube.com/watch?v=WQJXmeyaKXc) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/11）Live! 人工知能主催、プロンプトの本質 ― AIから最高の成果を引き出す技術 Day3【Live!人工知能 220】 [＜connpass＞](https://liveai.connpass.com/event/382570/)
 - （2026/02/12）Findy主催、システムエンジニアのネクストキャリア戦略会議　～「手を動かし続けるSE」のキャリア設計図 [＜connpass＞](https://findy.connpass.com/event/383543/) [＜イベントページ＞](https://findy-code.io/events/61J1yvGXTw9hS) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2026/02/12）Scalar主催、Claude Code によるリファクタリング（1/2）：現行システムの分析と評価の方法 [＜connpass＞](https://scalar.connpass.com/event/383794/) [＜YouTube＞](https://www.youtube.com/watch?v=FSny8OVw3WY) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/12）LAPRAS主催、現場から学ぶ ”QAのリアル” LT [＜connpass＞](https://lapras.connpass.com/event/381551/) [＜イベントページ＞](https://lapras.com/events/32) ＜YouTubeアーカイブ動画あり＞
@@ -799,7 +801,7 @@
     - GitHub Copilot (Chat Agent Mode) と Claude Code の対決結果が参考になった
 - （2026/02/16）エンジニアBooks主催、インフラエンジニアBooks 30分でわかる『ネットワーク図の描き方入門 』 [＜connpass＞](https://infra-eng-books.connpass.com/event/380748/) [＜YouTube＞](https://youtube.com/live/8NSVuQ-Yt68) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/17）Findy主催、【Go特集】バックエンドGo開発の裏側 直面する課題と今後の展望とは？ [＜connpass＞](https://findy.connpass.com/event/378623/) [＜イベントページ＞](https://findy-code.io/events/GmUBcRHBSfxg5) ＜YouTubeアーカイブ動画あり＞
-- （2026/02/17）NRIネットコム主催、判断は人、準備はAI ― チケット管理で見えた仕事の境界 [＜connpass＞](https://nrinetcom.connpass.com/event/383897/)
+- （2026/02/17）NRIネットコム主催、判断は人、準備はAI ― チケット管理で見えた仕事の境界 [＜connpass＞](https://nrinetcom.connpass.com/event/383897/) [＜YouTube＞](https://www.youtube.com/watch?v=mbFf1C_QabQ) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/17）Findy Team主催、【Microsoft×Findy】AIで本当に組織の開発生産性は上がったか。可視化で挑む生産性の壁 [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/380994/)
 - （2026/02/17）FLEXY by PKSHA主催、タイミー1人目データエンジニアが辿り着いた、「WHY」を問い続ける自律型組織の設計図 [＜connpass＞](https://flexy.connpass.com/event/383172/) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/18）TECHer COMPOSE UP主催、設計フェーズにおけるAI活用 -実装の精度を高めるための考え方と進め方- [＜connpass＞](https://techer-compose-up.connpass.com/event/381782/)

@@ -413,6 +413,7 @@ __Docs__
 ### AI活用推進
 - （公開日：2025/07/29、閲覧日：2025/11/07）[開発組織のAI活用を推進した3ヶ月間を振り返る](https://zenn.dev/knowledgework/articles/ai-dev-enablement)
 - （公開日：2025/11/03、閲覧日：2025/11/07）[AI推進におけるKPI設計の勘所：経営層と現場の共通目標を作ろう｜しば田](https://note.com/keisuke_shibata/n/n3996ab043797)
+- （公開日：2026/03/02、閲覧日：2026/03/02）[VPoE 河合およびCTO 大垣が業務執行役員にW就任 〜AI時代最速の開発組織を目指して〜 - エムスリーテックブログ](https://www.m3tech.blog/entry/2026/03/02/110000)
 
 
 ### JTCでのAIコーディング
@@ -453,6 +454,7 @@ __Docs__
 - （公開日：2026/01/28、閲覧日：2026/01/28）[2026年のローカルLLM事情を整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/local-llm-guide-2026/)
 - （公開日：2026/02/02、閲覧日：2026/02/04）[【LLM】社内文書をセキュアに検索！OllamaとOpen WebUIで構築する完全無料・RAG環境](https://zenn.dev/shineos/articles/local-llm-rag-web-search-with-ollama)
 - （公開日：2026/02/03、閲覧日：2026/02/04）[Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。 - Qiita](https://qiita.com/yosim/items/bbc8671d4295139c6e6d)
+- （公開日：2026/03/02、閲覧日：2026/03/02）[Whisperを超える精度のリアルタイム文字起こしローカルAI「Moonshine Voice」、日本語にも対応（生成AIクローズアップ） | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/03/02/4891.html)
 
 
 ### その他

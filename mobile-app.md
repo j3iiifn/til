@@ -6,3 +6,4 @@
 
 ## 勉強会
 - （2025/07/08）Findy Tools主催、モバイルアプリのテストコードどうしてる？ 現場Tips共有会 [＜connpass＞](https://findy-tools.connpass.com/event/359490/) [＜イベントページ＞](https://findy-tools.io/events/f56763502d494eb42426) ＜アーカイブ動画あり＞
+- （2026/02/19）Findy主催、モバイルアプリの長期運用と向き合う ~10年以上続くアプリで重ねてきた判断と工夫~ [＜connpass＞](https://findy.connpass.com/event/382789/) [＜イベントページ＞](https://findy-code.io/events/lIi_5nIvRDNfT) ＜YouTubeアーカイブ動画あり＞
