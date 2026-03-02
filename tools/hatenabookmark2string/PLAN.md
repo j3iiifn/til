@@ -12,7 +12,7 @@
 
 ### 出力形式
 ```markdown
-- (公開日：{bookmark_date}、閲覧日：{bookmark_date}）[{title}]({url})
+- （公開日：{bookmark_date}、閲覧日：{bookmark_date}）[{title}]({url})
     - {comment}
 ```
 

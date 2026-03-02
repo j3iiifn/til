@@ -38,7 +38,8 @@
         url,
         title,
         date,
-        comment
+        comment,
+        isGood: tags.includes('良かった')
       });
     });
 
@@ -48,7 +49,8 @@
     }
 
     const markdown = results.map(item => {
-      let line = `- （公開日：${item.date}、閲覧日：${item.date}）[${item.title}](${item.url})`;
+      const prefix = item.isGood ? '- 🌟' : '-';
+      let line = `${prefix}（公開日：${item.date}、閲覧日：${item.date}）[${item.title}](${item.url})`;
       if (item.comment) {
         line += `\n    - ${item.comment}`;
       }
