@@ -18,6 +18,7 @@
 - （2026/01/22）Findy主催、FindyのVPoEと語るカジュアル面談〜自分に合う会社をどう見極める？〜 [＜TECH PLAY＞](https://techplay.jp/event/990199) [＜イベントページ＞](https://findy-code.io/events/z0hCJfLtYkTHr) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/03）HireRoo主催、練習なしでの一発勝負って怖くない？技術試験の裏側まで知ろう【システム設計編】 [＜connpass＞](https://hireroo.connpass.com/event/381946/) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/03）LAPRAS主催、CTO兼採用担当が話す、カジュアル面談の裏側 [＜connpass＞](https://lapras.connpass.com/event/381951/) [＜イベントページ＞](https://lapras.com/events/33) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/17）LAPRAS主催、「年収、相談していいですか？」― 採用担当からみた年収交渉のリアル ― [＜connpass＞](https://lapras.connpass.com/event/383542/) [＜イベントページ＞](https://lapras.com/events/36) ＜YouTubeアーカイブ動画あり＞
 
 
 ## フリーランス

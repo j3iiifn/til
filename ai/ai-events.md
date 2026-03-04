@@ -794,6 +794,7 @@
 - （2026/02/12）Findy主催、システムエンジニアのネクストキャリア戦略会議　～「手を動かし続けるSE」のキャリア設計図 [＜connpass＞](https://findy.connpass.com/event/383543/) [＜イベントページ＞](https://findy-code.io/events/61J1yvGXTw9hS) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2026/02/12）Scalar主催、Claude Code によるリファクタリング（1/2）：現行システムの分析と評価の方法 [＜connpass＞](https://scalar.connpass.com/event/383794/) [＜YouTube＞](https://www.youtube.com/watch?v=FSny8OVw3WY) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/12）LAPRAS主催、現場から学ぶ ”QAのリアル” LT [＜connpass＞](https://lapras.connpass.com/event/381551/) [＜イベントページ＞](https://lapras.com/events/32) ＜YouTubeアーカイブ動画あり＞
+- 🌟（2026/02/12）ギークス主催、仕様駆動開発〜アンドドットの実践から学ぶ、よくある落とし穴と成功の鍵〜 [＜イベントページ＞](https://www.geechs.com/newsrelease/20260115_seminar/)
 - 🌟（2026/02/13）Enjoy AI Developing！主催、Gota先生とモヒにゃぱん仕様駆動開発 × Agent Skills そして、長時間駆動の旅 [＜connpass＞](https://enjoy-dev-ai.connpass.com/event/383493/) [＜YouTube＞](https://www.youtube.com/watch?v=SpQ8TN7bQd8) ＜YouTubeアーカイブ動画あり＞
     - AIによる複数パターンのスライド生成
 - （2026/02/13）Qiita主催、【Qiita Bash】AIを使った新しい開発フロー [＜connpass＞](https://increments.connpass.com/event/379201/) [＜YouTube＞](https://youtube.com/live/rf-erBGMc2s) ＜YouTubeアーカイブ動画あり＞
@@ -817,3 +818,5 @@
 - 🌟（2026/02/19）Scalar主催、Claude Code によるリファクタリング（2/2）：実装計画の策定方法 [＜connpass＞](https://scalar.connpass.com/event/383797/) [＜YouTube＞]() ＜YouTubeアーカイブ動画あり＞
 - （2026/02/20）Findy主催、PdMのインサイト探索記 -「N=1」に向きあう試行錯誤 [＜connpass＞](https://findy.connpass.com/event/382958/) [＜イベントページ＞](https://findy-code.io/events/5NBoxiymVe2lA) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/20）Qiita主催、データは「資産」か、ただの「ノイズ」か。カオスなAI時代に"価値"を定義するエンジニアリング [＜connpass＞](https://increments.connpass.com/event/379623/) [＜YouTube＞](https://www.youtube.com/watch?v=uEMgzvRNcaI) ＜YouTubeアーカイブ動画あり＞
+- （2026/03/04）ソフトバンク主催、SoftBank Tech Night #17 - Agile / AI駆動開発 - [＜TECH PLAY＞](https://techplay.jp/event/991889)
+    - 🌟和田 卓人(@t_wada)さん、AI時代のソフトウェア開発を考える (2026/03版)
