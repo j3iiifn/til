@@ -167,6 +167,7 @@ __Docs__
 - （公開日：2025/05/08、閲覧日：2025/05/10）[うさぎでもわかるClaude 3\.7システムプロンプト流出の解説と示唆](https://zenn.dev/taku_sid/articles/20250508_claude_leak)
 - （公開日：2025/09/18、閲覧日：2025/09/18）[AI「Claude」の応答品質が断続的に低下していたのは3つのバグが原因 \- GIGAZINE](https://gigazine.net/news/20250918-anthropic-three-issues/)
 - （公開日：2025/09/30、閲覧日：2025/09/30）[Claude Sonnet 4\.5 発表関連情報まとめ](https://zenn.dev/schroneko/articles/claude-sonnet-4-5)
+- （公開日：2026/03/04、閲覧日：2026/03/05）[コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude's Cycles』を読み解く - Qiita](https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2)
 
 
 ### Anthropic
@@ -366,6 +367,7 @@ __Docs__
 - （公開日：2026/02/22、閲覧日：2026/02/23）[AI Coding Agent でおかしくなりそう / 自分を保つために - たにしきんぐダム](https://tanishiking24.hatenablog.com/entry/2026/02/22/220056)
 - （公開日：2026/02/28、閲覧日：2026/02/28）[【参加レポ】「Developers Summit 2026」参加して、誰とどう作る？人間関係の構築の大切さを考えるきっかけをもらった #devsumi #devxpm - てぃばのBlog｜CHIBA Reimi（rechiba3）](https://www.rechiba3.net/entry/devsumi2026/)
     - > 「技術力はあるけど気に入らねぇ奴」と仕事する必要はないってことだから、どんどん一緒に働きたくなる人間って？をしっかり考えないといけない
+- （公開日：2026/03/03、閲覧日：2026/03/05）[Anthropic CEOが警告する「指数関数の終わり」と未来志向リーダーの苦境 | Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/92920?read_more=1)
 
 
 ### AIによる生成物への向き合い方
@@ -467,6 +469,10 @@ __Docs__
 - （公開日：2025/12/07、閲覧日：2025/12/10）[【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita](https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5)
 - （公開日：2026/01/30、閲覧日：2026/01/30）[Beautiful Mermaid](https://agents.craft.do/mermaid)
     - Craft Agents（AIエージェント製品）で使用され、Agent Skillとしても公開されている
+
+
+### 情報収集
+- （公開日：2026/03/05、閲覧日：2026/03/05）[個人的 AI情報の追い方](https://zenn.dev/knowledgework/articles/my-ai-catchup)
 
 
 ### スライド・プレゼンテーション作成

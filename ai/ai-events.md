@@ -795,6 +795,8 @@
 - 🌟（2026/02/12）Scalar主催、Claude Code によるリファクタリング（1/2）：現行システムの分析と評価の方法 [＜connpass＞](https://scalar.connpass.com/event/383794/) [＜YouTube＞](https://www.youtube.com/watch?v=FSny8OVw3WY) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/12）LAPRAS主催、現場から学ぶ ”QAのリアル” LT [＜connpass＞](https://lapras.connpass.com/event/381551/) [＜イベントページ＞](https://lapras.com/events/32) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2026/02/12）ギークス主催、仕様駆動開発〜アンドドットの実践から学ぶ、よくある落とし穴と成功の鍵〜 [＜イベントページ＞](https://www.geechs.com/newsrelease/20260115_seminar/)
+- （2026/02/12）アサイン主催、6社が語るFlutter開発のリアル [＜connpass＞](https://assign.connpass.com/event/378631/)
+    - Sun Asterisk社の体感ではネイティブ両OS開発に比べて工数削減は25%程度
 - 🌟（2026/02/13）Enjoy AI Developing！主催、Gota先生とモヒにゃぱん仕様駆動開発 × Agent Skills そして、長時間駆動の旅 [＜connpass＞](https://enjoy-dev-ai.connpass.com/event/383493/) [＜YouTube＞](https://www.youtube.com/watch?v=SpQ8TN7bQd8) ＜YouTubeアーカイブ動画あり＞
     - AIによる複数パターンのスライド生成
 - （2026/02/13）Qiita主催、【Qiita Bash】AIを使った新しい開発フロー [＜connpass＞](https://increments.connpass.com/event/379201/) [＜YouTube＞](https://youtube.com/live/rf-erBGMc2s) ＜YouTubeアーカイブ動画あり＞
