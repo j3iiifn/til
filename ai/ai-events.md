@@ -753,6 +753,7 @@
 - （2026/01/28）TECHer COMPOSE UP主催、ITエンジニアのキャリア戦略  ― AI時代のSI業界で「転職」と「フリーランス」をどう選ぶか [＜connpass＞](https://techer-compose-up.connpass.com/event/381706/)
 - （2026/01/28）Sony Corporation / ソニー主催、ソニー Creators' Cloudチームのハッカソン ～生成AIで加速するイノベーション～ [＜connpass＞](https://sony.connpass.com/event/378575/) [＜YouTube＞](https://youtube.com/live/PDE0Q2v4IZw) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/28）Live! 人工知能主催、プロンプトの本質 ― AIから最高の成果を引き出す技術 Day1【Live!人工知能 218】 [＜connpass＞](https://liveai.connpass.com/event/382567/) [＜YouTube＞](https://youtube.com/live/KELnXGbnc0s) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/28）企業における生成AI活用グループ主催、Geminiで"自分らしい"プレゼン資料を作る - アイデア出しから構成まで [＜connpass＞](https://chomoku.connpass.com/event/381411/) [＜YouTube＞](https://youtube.com/live/5WEn3arx6JU) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/29）Agile Studio by 永和システムマネジメント主催、第17回 アジャイル1000本ノック～アジャイルコーチがライブで質問に答えます～ [＜connpass＞](https://agile-studio.connpass.com/event/382294/) [＜YouTube＞](https://www.youtube.com/watch?v=S34czfLY0ec) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/29）FLEXY主催、僕がフリーランスを続けなかった理由 [＜connpass＞](https://flexy.connpass.com/event/380992/) ＜YouTubeアーカイブ動画あり＞
     - 2026年現在、AIと協調して開発できるスキルは希少価値があり、今後1〜2年で標準装備化していく。今のうちにこのスキルを獲得することが重要。ただし、AIの出力をそのまま使うのではなく、自分の責任として扱い、アーキテクチャーやプロダクトの意思決定は人間が担うべき。
@@ -787,6 +788,8 @@
     - 登壇資料の作成プロセス、AIツール（ChatGPT、Nano Banana Proなど）の活用、見やすく整った情報を届けるステップについて、人気登壇者5名による実例共有
 - 🌟（2026/02/06）Findy主催、コードレビューどうしてる？各社のTips共有会 [＜connpass＞](https://findy.connpass.com/event/381956/) [＜イベントページ＞](https://findy-code.io/events/b_X7W9fVliphZ) ＜YouTubeアーカイブ動画あり＞
 - 🌟（2026/02/09）Findy主催、【AI特集】3社が語るAI駆動開発 開発組織の取り組みと課題とは？ [＜connpass＞](https://findy.connpass.com/event/378622/) [＜イベントページ＞](https://findy-code.io/events/ZD1x6DaIU3rbQ) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/09）Agile Studio by 永和システムマネジメント主催、アジャイルカフェ@オンライン 第87回（※Zoom開催 耳だけOK） [＜connpass＞](https://agile-studio.connpass.com/event/382423/) [＜YouTube＞](https://www.youtube.com/watch?v=0de1XLVb_P4) ＜YouTubeアーカイブ動画あり＞
+    - テーマ：AI活用で​今後スクラムチームは​どうなる？​
 - （2026/02/10）ZOZO主催、ZOZO.swift #2 [＜connpass＞](https://zozotech-inc.connpass.com/event/380901/) [＜YouTube＞](https://www.youtube.com/live/Hy3izVe6OCs) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/11）企業における生成AI活用グループ主催、生成AI こんな風に使ってはいけないリスト 2026年版 [＜connpass＞](https://chomoku.connpass.com/event/383471/) [＜YouTube＞](https://youtube.com/live/oRh2VZeOOK0) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/11）大阪駆動開発主催、AIミーティング 2026/02/11 [＜connpass＞](https://osaka-driven-dev.connpass.com/event/381466/) [＜YouTube＞](https://www.youtube.com/watch?v=WQJXmeyaKXc) ＜YouTubeアーカイブ動画あり＞

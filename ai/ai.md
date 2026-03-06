@@ -295,6 +295,7 @@ __Docs__
 - （公開日：2025/10/27、閲覧日：2026/01/30）[【Claude】Agent Skills入門 - はじめてのスキル作成 - - Findy Tech Blog](https://tech.findy.co.jp/entry/2025/10/27/070000)
 - （公開日：2025/12/19、閲覧日：2025/12/21）[GitHub Copilot Agent Skills 入門](https://zenn.dev/openjny/articles/a9d4f6ec2a05c2)
 - （公開日：2026/01/18、閲覧日：2026/01/19）[あなたの拾ってきた野良（マーケット）Skills、セキュリティトラブルを発生させていませんか？](https://zenn.dev/nuits_jp/articles/2026-01-19-risks-of-skills-marketplace)
+- （公開日：2026/03/06、閲覧日：2026/03/06）[Google Workspaceをコマンドラインで操作する「gws」、Googleがオープンソースで公開。Agent Skillsファイルも提供し、AIエージェントによる適切な操作実現](https://www.publickey1.jp/blog/26/google_workspacegwsgoogleagent_skillsai.html)
 
 
 ### 企業での導入
@@ -445,6 +446,7 @@ __Docs__
     - APIキーが漏洩して不正使用された話
     - プリペイドしたクレジットを消費しきった後にAPIを使用すると追加で請求されるとのこと。それではプリペイドの意味がないのでは？
     - "APIキーの流出は確率的に発生するものであり、異常なまでに恐れる必要はありません。" と記載されているが、確率的に発生するものではないしAPIキーの流出原因について記事内で一切言及がないのでセキュリティ意識が心配になる
+- （公開日：2026/03/06、閲覧日：2026/03/06）[OSSにおけるAI Slop問題の何が問題なのか？](https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9)
 - （公開日：2026/02/08、閲覧日：2026/02/09）[自分のコードをAIに攻撃させたら"守り"が全部ザルだった](https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo)
     - AIエージェントを使用したセキュリティテスト
 
