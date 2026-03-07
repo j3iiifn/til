@@ -749,6 +749,7 @@
     - 🌟株式会社MAKE A CHANGE 代表取締役 岡村 匡洋 さん、AI駆動開発の現在地とこれから：Cursorの業務活用例を交えて
     - 太田 有人 さん、モノレポ × AntigravityでOSSへ踏み出す
     - フェンリル株式会社 福島 康則 さん、「Kiro」による仕様駆動開発の進化
+- （2026/01/26）FLEXY主催、アーキテクチャの沼へようこそー不確実性を乗りこなす構造化思考 [＜connpass＞](https://flexy.connpass.com/event/380978/) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/23）DeNA Tech主催、DeNA × AI Talks #5 - ゲーム開発現場の強化学習・Gemini CLI活用事例 - [＜connpass＞](https://dena.connpass.com/event/377181/) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/28）TECHer COMPOSE UP主催、ITエンジニアのキャリア戦略  ― AI時代のSI業界で「転職」と「フリーランス」をどう選ぶか [＜connpass＞](https://techer-compose-up.connpass.com/event/381706/)
 - （2026/01/28）Sony Corporation / ソニー主催、ソニー Creators' Cloudチームのハッカソン ～生成AIで加速するイノベーション～ [＜connpass＞](https://sony.connpass.com/event/378575/) [＜YouTube＞](https://youtube.com/live/PDE0Q2v4IZw) ＜YouTubeアーカイブ動画あり＞
@@ -775,6 +776,8 @@
 - （2026/01/30）Findy主催、AIツール導入時のポイントを抑え、安心して取り組むAI駆動開発 [＜connpass＞](https://findy.connpass.com/event/381399/) [＜イベントページ＞](https://findy-code.io/events/jrhV2QMgWaojg) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/30）Work≠Build主催、1万という驚異的な数字を達成したふたりclaude codeとccusageの7ヶ月を振り返る [＜connpass＞](https://wnb.connpass.com/event/382915/)
 - （2026/01/30）AI駆動開発主催、GitLab Duo Meetup Japan #1 [＜connpass＞](https://aid.connpass.com/event/380283/) [＜YouTube＞](https://youtube.com/live/ZXGbrOq81fw) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/30）ニジボックス主催、『Figmaではじめるデザインコラボレーション』出版記念トーク [＜connpass＞](https://nijibox.connpass.com/event/378074/) [＜YouTube＞](https://www.youtube.com/watch?v=DdE8PxxoO-w) ＜YouTubeアーカイブ動画あり＞
+    - デザイナーとエンジニアのコラボレーション
 - （2026/02/02）TECH PLAY主催、AI時代、エンジニアの仕事の価値とは──ばんくしさんが示す、技術で語る世界を越え、事業に染み出す視点 [＜TECH PLAY＞](https://techplay.jp/event/990855) [＜YouTube＞](https://www.youtube.com/live/M_FmKdA-0DM) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/02）TECH PLAY主催、実装だけ考えればよい時代は終わった ── ミノ駆動さんが斬る！エンジニアの思考を止める技術の引力 [＜TECH PLAY＞](https://techplay.jp/event/990059) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/03）みのるんのゲリラ勉強会主催、みのるんがClaude Codeで「パワポ作成代行AIエージェント」を開発するのをお昼に眺める会 [＜connpass＞](https://minorun365.connpass.com/event/383114/) [＜YouTube＞](https://www.youtube.com/watch?v=nIxhYRmCgCQ) ＜YouTubeアーカイブ動画あり＞
@@ -814,6 +817,8 @@
 - （2026/02/17）NRIネットコム主催、判断は人、準備はAI ― チケット管理で見えた仕事の境界 [＜connpass＞](https://nrinetcom.connpass.com/event/383897/) [＜YouTube＞](https://www.youtube.com/watch?v=mbFf1C_QabQ) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/17）Findy Team主催、【Microsoft×Findy】AIで本当に組織の開発生産性は上がったか。可視化で挑む生産性の壁 [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/380994/)
 - （2026/02/17）FLEXY by PKSHA主催、タイミー1人目データエンジニアが辿り着いた、「WHY」を問い続ける自律型組織の設計図 [＜connpass＞](https://flexy.connpass.com/event/383172/) ＜YouTubeアーカイブ動画あり＞
+- （2026/02/17）LINEヤフー Tech主催、LINEヤフー Development with Agents Meetup #1 [＜connpass＞](https://lycorptech-jp.connpass.com/event/379357/)
+    - 🌟AI活用の普及
 - （2026/02/18）サポーターズCoLab主催、チームで開発し事業を加速するための"良い"設計の考え方 [＜connpass＞](https://supporterz-seminar.connpass.com/event/381571/)
 - （2026/02/18）TECHer COMPOSE UP主催、設計フェーズにおけるAI活用 -実装の精度を高めるための考え方と進め方- [＜connpass＞](https://techer-compose-up.connpass.com/event/381782/)
 - 🌟（2026/02/18）LAPRAS主催、Devinを本気で活用するSHIFTが「開発を一気通貫で自動化」した話 [＜connpass＞](https://lapras.connpass.com/event/382071/) [＜イベントページ＞](https://lapras.com/events/34) ＜YouTubeアーカイブ動画あり＞

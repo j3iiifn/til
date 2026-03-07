@@ -11,6 +11,7 @@
 
 ## React
 - （2025/12/11）サポーターズCoLab主催、【うひょさんと学ぶ】React Server Compoentsを仕組みから理解しよう [＜connpass＞](https://supporterz-seminar.connpass.com/event/376655/)
+- （2026/02/18）Offers主催、React 19、コンポーネント設計どう変わった？〜うひょさんに聞く最新 実務Tips〜 [＜connpass＞](https://offers-jp.connpass.com/event/381936/) [＜イベントページ＞](https://offers.jp/worker/events/connpass_75)
 
 ## サービス障害
 - （公開日：2025/12/07、閲覧日：2025/12/08）[Cloudflare、約25分間のネットワーク障害の原因を説明し謝罪](https://www.itmedia.co.jp/news/articles/2512/07/news014.html)

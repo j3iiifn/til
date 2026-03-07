@@ -87,6 +87,11 @@
 - （公開日：2026/02/21、閲覧日：2026/02/22）[Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した - Qiita](https://qiita.com/emi_ndk/items/fb529b2ede94661e5287)
 
 
+## セキュリティ設定
+- （公開日：2026/03/05、閲覧日：2026/03/07）[Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた - Qiita](https://qiita.com/NF0000/items/6743216583b66168ec12)
+- （公開日：2026/03/06、閲覧日：2026/03/07）[「.env見るな」は通じない－AI時代のシークレット管理術](https://zenn.dev/76hata/articles/d6d9de62d001a8)
+
+
 ## モデルのアップデート
 - （公開日：2025/11/25、閲覧日：2025/11/25）[Introducing Claude Opus 4\.5 \\ Anthropic](https://www.anthropic.com/news/claude-opus-4-5)
 
