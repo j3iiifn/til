@@ -751,6 +751,8 @@
     - フェンリル株式会社 福島 康則 さん、「Kiro」による仕様駆動開発の進化
 - （2026/01/26）FLEXY主催、アーキテクチャの沼へようこそー不確実性を乗りこなす構造化思考 [＜connpass＞](https://flexy.connpass.com/event/380978/) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/23）DeNA Tech主催、DeNA × AI Talks #5 - ゲーム開発現場の強化学習・Gemini CLI活用事例 - [＜connpass＞](https://dena.connpass.com/event/377181/) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/26）ギークス主催、「AI駆動開発」の本質とは　～2026年の生成AI活用新基準～ [＜イベントページ＞](https://geechs.com/newsrelease/20251224_seminar/)
+- （2026/01/26）AEON主催、【SRE Opsの自動化最前線】AI Agentが変えるアラート分析・インシデント対応 [＜connpass＞](https://aeon.connpass.com/event/379256/)
 - （2026/01/28）TECHer COMPOSE UP主催、ITエンジニアのキャリア戦略  ― AI時代のSI業界で「転職」と「フリーランス」をどう選ぶか [＜connpass＞](https://techer-compose-up.connpass.com/event/381706/)
 - （2026/01/28）Sony Corporation / ソニー主催、ソニー Creators' Cloudチームのハッカソン ～生成AIで加速するイノベーション～ [＜connpass＞](https://sony.connpass.com/event/378575/) [＜YouTube＞](https://youtube.com/live/PDE0Q2v4IZw) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/28）Live! 人工知能主催、プロンプトの本質 ― AIから最高の成果を引き出す技術 Day1【Live!人工知能 218】 [＜connpass＞](https://liveai.connpass.com/event/382567/) [＜YouTube＞](https://youtube.com/live/KELnXGbnc0s) ＜YouTubeアーカイブ動画あり＞
@@ -769,6 +771,7 @@
 - （2026/01/29）Sansan主催、【Sansan × Notion】Notion AI活用で変わるプロダクトマネジメント [＜connpass＞](https://sansan.connpass.com/event/379239/)
 - （2026/01/29）ENECHANGE主催、【Sansan × LayerX × ENECHANGE】運用と開発を進化させるAIの実践事例 [＜connpass＞](https://enechange-meetup.connpass.com/event/379833/)
     - Claude Maxプランで複数人が利用するGitHub Actionを動かすのは利用規約違反では？
+- （2026/01/29）SIOS Tech. Lab主催、AI開発の最前線！最新トレンド3本を解説するLT会 [＜connpass＞](https://tech-lab.connpass.com/event/381678/) [＜YouTube＞](https://www.youtube.com/watch?v=lk1vHqFAEew) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/30）Findy Freelance主催、個人開発における成長を支える技術選定 [＜connpass＞](https://findy-freelance.connpass.com/event/380766/)
     - Opusで計画を立てて、Composerで高速に実装する
 - （2026/01/30）Findy Team主催、ZOZO開発部門の事例に学ぶ！組織横断で成果を生むAI活用 〜潜在課題を定量データで捉える課題解決アプローチ〜 [＜TECH PLAY＞](https://techplay.jp/event/990295) [＜資料＞](https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering)
