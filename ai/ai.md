@@ -471,6 +471,7 @@ __Docs__
 - （公開日：2025/12/07、閲覧日：2025/12/10）[【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita](https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5)
 - （公開日：2026/01/30、閲覧日：2026/01/30）[Beautiful Mermaid](https://agents.craft.do/mermaid)
     - Craft Agents（AIエージェント製品）で使用され、Agent Skillとしても公開されている
+- （公開日：2026/03/08、閲覧日：2026/03/09）[AIがオープンソースの「鍵」を壊す日――chardet騒動の本質｜情報の灯台](https://note.com/joho_no_todai/n/n0ee446fdff40)
 
 
 ### 情報収集

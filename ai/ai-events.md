@@ -833,3 +833,4 @@
 - （2026/02/20）Qiita主催、データは「資産」か、ただの「ノイズ」か。カオスなAI時代に"価値"を定義するエンジニアリング [＜connpass＞](https://increments.connpass.com/event/379623/) [＜YouTube＞](https://www.youtube.com/watch?v=uEMgzvRNcaI) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/04）ソフトバンク主催、SoftBank Tech Night #17 - Agile / AI駆動開発 - [＜TECH PLAY＞](https://techplay.jp/event/991889)
     - 🌟和田 卓人(@t_wada)さん、AI時代のソフトウェア開発を考える (2026/03版)
+- （2026/03/06）Findy主催、Codexどう使ってる？期待通りにいかない時の向き合い方と工夫 [＜connpass＞](https://findy.connpass.com/event/384314/) [＜イベントページ＞](https://findy-code.io/events/VL_rdU3iJcEoP) ＜YouTubeアーカイブ動画あり＞

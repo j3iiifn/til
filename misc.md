@@ -11,7 +11,7 @@
 
 ## React
 - （2025/12/11）サポーターズCoLab主催、【うひょさんと学ぶ】React Server Compoentsを仕組みから理解しよう [＜connpass＞](https://supporterz-seminar.connpass.com/event/376655/)
-- （2026/02/18）Offers主催、React 19、コンポーネント設計どう変わった？〜うひょさんに聞く最新 実務Tips〜 [＜connpass＞](https://offers-jp.connpass.com/event/381936/) [＜イベントページ＞](https://offers.jp/worker/events/connpass_75)
+- （2026/02/18）Offers主催、React 19、コンポーネント設計どう変わった？〜うひょさんに聞く最新 実務Tips〜 [＜connpass＞](https://offers-jp.connpass.com/event/381936/) [＜イベントページ＞](https://offers.jp/worker/events/connpass_75) ＜YouTubeアーカイブ動画あり＞
 
 ## サービス障害
 - （公開日：2025/12/07、閲覧日：2025/12/08）[Cloudflare、約25分間のネットワーク障害の原因を説明し謝罪](https://www.itmedia.co.jp/news/articles/2512/07/news014.html)
@@ -65,6 +65,11 @@
 - （2025/11/17）Creationline主催、『両利きのプロジェクトマネジメント』著者米山さんに、若手プロマネのモヤモヤをぶつけてみよう [＜connpass＞](https://creationline.connpass.com/event/371942/) [＜YouTube＞](https://www.youtube.com/watch?v=ZP_IWdlsB3g) ＜YouTubeアーカイブ動画あり＞
 - （公開日：2025/12/26、閲覧日：2025/12/28）[正しい目標の立て方｜きゅーい](https://note.com/kiwiwi/n/n1c6f2f2fd515)
     - プロジェクトマネジメントにおける目標設定
+- （2026/03/04）SHIFT EVOLVE主催、チームプロジェクトマネジメントとPMBOK第8版（Agile in Motion vol.6） [＜connpass＞](https://shiftevolve.connpass.com/event/379600/) ＜YouTubeアーカイブ動画あり＞
+    - 書籍紹介
+        - 『ゼロからはじめるチームプロジェクトマネジメント』：初学者・若手がチームでう動くための実践知
+        - 『アジャイルに困ったときに読む本』：理想（期待）と現実のギャップへの処方箋
+        - 『PMBOK第8版』：プロジェクトマネジメントの体系的なまとめ
 
 
 ## Engineering Manager (エンジニアリングマネージャ)
