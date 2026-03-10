@@ -76,6 +76,8 @@
 - （公開日：2026/02/06、閲覧日：2026/02/22）[Claude Codeが地味に快適になる細かいTips集](https://zenn.dev/kki2ne/articles/claude-code-advanced-tips-2026)
     - "プロンプト履歴から自分の課題を抽出する" → ~/.claude/projects/ の JSONL から週次で Obsidian に抽出するスクリプト
 - 🌟（公開日：2026/02/24、閲覧日：2026/02/27）[Claude Code 1st Anniversary: これまでとこれから \| oikon48](https://oikon48.dev/ja/blog/claude-code-anniversary/)
+- （公開日：2026/03/09、閲覧日：2026/03/10）[Code Review for Claude Code | Claude](https://claude.com/blog/code-review)
+- 🌟（公開日：2026/03/09、閲覧日：2026/03/10）[Claude Code / Codex ユーザーのための誰でもわかるHarness Engineeringベストプラクティス](https://nyosegawa.github.io/posts/harness-engineering-best-practices-2026/)
 
 
 ## セキュリティインシデント

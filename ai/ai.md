@@ -306,6 +306,7 @@ __Docs__
     - 承認プロセスを通す文化というのが理解に苦しむ。性善説を期待してはダメだと思う。制限をかけたいなら機械的に強制されるようにするべき。
 - 🌟（公開日：2026/02/25、閲覧日：2026/02/25）[三菱UFJ銀行におけるエンタープライズAI駆動開発のリアル / Enterprise AI_Driven Development at MUFG Bank: The Real Story](https://speakerdeck.com/muit/enterprise-ai-driven-development-at-mufg-bank-the-real-story)
     - AI駆動開発ガイドの執筆、7段階の社内研修カリキュラム開発、ジュニアエンジニア育成方針
+- （公開日：2026/03/09、閲覧日：2026/03/10）[「AIにオールイン」宣言から1年、DeNA南場会長が明かす進捗　「効率化は進んだ。ところが……」](https://www.itmedia.co.jp/aiplus/articles/2603/09/news087.html)
 
 
 ### プロンプト
