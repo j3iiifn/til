@@ -461,6 +461,7 @@ __Docs__
 - （公開日：2026/02/02、閲覧日：2026/02/04）[【LLM】社内文書をセキュアに検索！OllamaとOpen WebUIで構築する完全無料・RAG環境](https://zenn.dev/shineos/articles/local-llm-rag-web-search-with-ollama)
 - （公開日：2026/02/03、閲覧日：2026/02/04）[Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。 - Qiita](https://qiita.com/yosim/items/bbc8671d4295139c6e6d)
 - （公開日：2026/03/02、閲覧日：2026/03/02）[Whisperを超える精度のリアルタイム文字起こしローカルAI「Moonshine Voice」、日本語にも対応（生成AIクローズアップ） | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/03/02/4891.html)
+- （公開日：2026/03/09、閲覧日：2026/03/11）[ローカルLLMで完全無料AI音声入力！Handyを使ってみた](https://zenn.dev/myshmeh/articles/handy-free-ai-voice-input)
 
 
 ### その他
