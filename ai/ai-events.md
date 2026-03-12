@@ -834,3 +834,6 @@
 - （2026/03/04）ソフトバンク主催、SoftBank Tech Night #17 - Agile / AI駆動開発 - [＜TECH PLAY＞](https://techplay.jp/event/991889)
     - 🌟和田 卓人(@t_wada)さん、AI時代のソフトウェア開発を考える (2026/03版)
 - （2026/03/06）Findy主催、Codexどう使ってる？期待通りにいかない時の向き合い方と工夫 [＜connpass＞](https://findy.connpass.com/event/384314/) [＜イベントページ＞](https://findy-code.io/events/VL_rdU3iJcEoP) ＜YouTubeアーカイブ動画あり＞
+- （2026/03/11）TECHer COMPOSE UP主催、仕様駆動型開発 (SDD) の実践と応用領域 [＜connpass＞](https://techer-compose-up.connpass.com/event/383137/)
+- （2026/03/11）Creationline主催、[書籍プレゼント付き]LLM利用率80%への道筋：ピクシブが実践した三位一体の変革とは？ [＜connpass＞](https://creationline.connpass.com/event/385764/)
+    - 指標を人事評価に使わないと最初に宣言しておく

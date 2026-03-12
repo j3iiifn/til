@@ -75,5 +75,11 @@ ipaファイルを[iOS App Signer](https://github.com/DanTheMan827/ios-app-signe
 - （公開日：2025/10/27、閲覧日：2025/10/27）[Apple、「Swift SDK for Android」プレビュー公開。Swift言語でAndroid対応アプリを開発 － Publickey](https://www.publickey1.jp/blog/25/appleswift_sdk_for_androidswiftandroid.html)
 
 
+## Background URLSession
+-（公開日：不明、閲覧日：2026/03/10）[Downloading files in the background | Apple Developer Documentation](https://developer.apple.com/documentation/foundation/downloading-files-in-the-background)
+-（公開日：2015/08/18、閲覧日：2026/03/10）[NSURLSession’s Resume Rate Limiter | Apple Developer Forums](https://developer.apple.com/forums/thread/14854)
+-（公開日：2023/06/10、閲覧日：2026/03/11）[堅牢で再開可能なファイル転送の構築 - WWDC23 - ビデオ - Apple Developer](https://developer.apple.com/jp/videos/play/wwdc2023/10006/)
+
+
 ## 未分類
 - （公開日：2019/10/20、閲覧日：2026/01/13）[実践 iOS13ダークモード対応 - Qiita](https://qiita.com/hirothings/items/4834481d170332e173f5)

@@ -215,6 +215,8 @@
 - （公開日：2026/02/05、閲覧日：2026/02/06）[エンジニアは、なぜ生成AIで仕事が楽にならないのか - Qiita](https://qiita.com/KYoshiyama/items/14554853372f33c3374b)
 - （公開日：2026/02/17、閲覧日：2026/02/28）[Agentワークフローで人間がボトルネックにならないためのSkill設計](https://nyosegawa.github.io/posts/claude-code-verify-command/)
 - 🌟（公開日：2026/02/18、閲覧日：2026/02/19）[問い合わせ対応の全工程の自動化を AI で実現 - CRE による MCP から Agent Skills 移行の記録 - 弁護士ドットコム株式会社 Creators’ blog](https://creators.bengo4.com/entry/2026/02/18/080000)
+- 🌟（公開日：2026/03/10、閲覧日：2026/03/12）[Claude Code Skills (Agent Skills) 入門【社内勉強会スライド】 | DevelopersIO](https://dev.classmethod.jp/articles/claude-code-skills-for-cloud-bu-consulting-members/)
+    - 網羅的でいい感じの資料。セキュリティにも言及されていて◎
 
 
 ## Agent Teams
