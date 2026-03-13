@@ -141,6 +141,7 @@
 - （公開日：2025/12/06、閲覧日：2025/12/06）[フルリモート歴1年のエンジニアが辿り着いた“最強の作業環境”](https://zenn.dev/collabostyle/articles/f7ec387e0096b4)
     - マイクハラスメント
 - （公開日：2026/02/08、閲覧日：2026/02/10）[仕事もゲームも、配線も妥協しない。HDMI 2.1 KVMスイッチで構築する理想のデスクセットアップ｜Dan](https://note.com/nadiaru/n/ne0bf919fc51f)
+- （公開日：2026/03/13、閲覧日：2026/03/14）[外部ディスプレイ出力が1台という制限がある「MacBook Neo」でもDisplayLinkチップ搭載のUSBグラフィックスアダプタを利用することでデュアルディスプレイ以上の出力が可能に。](https://applech2.com/archives/20260313-macbook-neo-support-displaylink-display.html)
 
 
 # 開発環境

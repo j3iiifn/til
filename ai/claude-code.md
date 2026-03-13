@@ -105,6 +105,7 @@
 ## Claude Code使用量の計測
 - 🌟（公開日：2026/02/04、閲覧日：2026/02/05）[複数環境でのClaude Code利用統計をOpenTelemetryで一元管理する](https://yag.xyz/post/claude-code-otel/)
 - （公開日：2026/02/27、閲覧日：2026/03/02）[「全エンジニアが Claude Code を 100% 活用する」を目指してダッシュボードを作った](https://zenn.dev/dinii/articles/28c8fcd041837d)
+- （公開日：2026/03/13、閲覧日：2026/03/13）[社員に何もさせずにClaude Code利用ログを集める ── 数百名規模のOpenTelemetry収集基盤の構築 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/claudecode-otel)
 
 
 ## 📝 Workflow

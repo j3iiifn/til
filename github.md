@@ -15,3 +15,7 @@
 
 ## 新機能
 - （公開日：2025/09/26、閲覧日：2025/09/27）[GitHub、プルリクエストの新しいFiles changedページで未変更行へのコメントを可能に \| gihyo\.jp](https://gihyo.jp/article/2025/09/github-pull-request-support-unchanged-lines-comment)
+
+
+## GitHub Actions
+- （公開日：2026/03/11、閲覧日：2026/03/13）[GitHub Actions で参照するアクションはコミット SHA で固定するべき](https://zenn.dev/kou_pg_0131/articles/gha-should-be-pinned)
