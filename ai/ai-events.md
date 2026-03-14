@@ -835,7 +835,10 @@
     - 🌟和田 卓人(@t_wada)さん、AI時代のソフトウェア開発を考える (2026/03版)
 - （2026/03/06）Laboratory Automation主催、公開シンポジウム 生成AI・AGI時代の学術出版 [＜connpass＞](https://laboratoryautomation.connpass.com/event/379184/)
 - （2026/03/06）Findy主催、Codexどう使ってる？期待通りにいかない時の向き合い方と工夫 [＜connpass＞](https://findy.connpass.com/event/384314/) [＜イベントページ＞](https://findy-code.io/events/VL_rdU3iJcEoP) ＜YouTubeアーカイブ動画あり＞
+- （2026/03/06）Findy主催、Claude Codeの進化～Oikonさんと学ぶ、各機能の活かし方～ [＜connpass＞](https://findy.connpass.com/event/385245/) [＜イベントページ＞](https://findy-code.io/events/p46knqAZIeh2w) ＜YouTubeアーカイブ動画あり＞
+- （2026/03/06）Finatext Holdings Ltd.主催、AI時代のフロントエンド実践開発！ - Finatext Tech Night #6 [＜connpass＞](https://finatext.connpass.com/event/385050/) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/10）ギークス主催、アンドドットの仕組みを解説！AI駆動開発推進の『壁』を突破するマネジメント術 [＜イベントページ＞](https://www.geechs.com/newsrelease/20260209_seminar)
+- （2026/03/10）Creationline主催、書籍プレゼント付【AI駆動開発時代】エンジニアのキャリアどう選ぶ？現役エンジニアの本音LT大会 [＜connpass＞](https://creationline.connpass.com/event/384198/)
 - （2026/03/11）TECHer COMPOSE UP主催、仕様駆動型開発 (SDD) の実践と応用領域 [＜connpass＞](https://techer-compose-up.connpass.com/event/383137/)
 - （2026/03/11）Creationline主催、[書籍プレゼント付き]LLM利用率80%への道筋：ピクシブが実践した三位一体の変革とは？ [＜connpass＞](https://creationline.connpass.com/event/385764/)
     - 指標を人事評価に使わないと最初に宣言しておく

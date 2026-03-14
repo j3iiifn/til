@@ -100,11 +100,14 @@
 
 ## Claude Code本体のアップデート
 - （公開日：2025/10/04、閲覧日：2025/10/05）[Claude Code 2\.0\.0 のメジャーアップデートについて](https://zenn.dev/oikon/articles/claude-code-2)
+- （公開日：2026/03/14、閲覧日：2026/03/14）[Oikon on X: "Claude Code Weekly Updates v2.1.66 ~ v2.1.71"](https://x.com/i/status/2030795468272488676)
 
 
 ## Claude Code使用量の計測
 - 🌟（公開日：2026/02/04、閲覧日：2026/02/05）[複数環境でのClaude Code利用統計をOpenTelemetryで一元管理する](https://yag.xyz/post/claude-code-otel/)
 - （公開日：2026/02/27、閲覧日：2026/03/02）[「全エンジニアが Claude Code を 100% 活用する」を目指してダッシュボードを作った](https://zenn.dev/dinii/articles/28c8fcd041837d)
+- （公開日：2026/03/04、閲覧日：2026/03/14）[Claude Codeの/usageの内容をStatusBarに表示する](https://zenn.dev/suthio/articles/f832922e18f994)
+    - "macOSキーチェーンから Claude Code-credentials のOAuthトークンを取得し、https://api.anthropic.com/api/oauth/usage APIを呼び出す。"
 - （公開日：2026/03/13、閲覧日：2026/03/13）[社員に何もさせずにClaude Code利用ログを集める ── 数百名規模のOpenTelemetry収集基盤の構築 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/claudecode-otel)
 
 
@@ -226,6 +229,8 @@
 - （公開日：2026/02/09、閲覧日：2026/02/16）[Claude Code の Agent Teams 機能を使って、自分の指揮で動く専門家チームを作ってみた | DevelopersIO](https://dev.classmethod.jp/articles/claude-code-agent-teams-how-to-build/)
 - （公開日：2026/02/12、閲覧日：2026/02/13）[iTerm2の連携機能によって意識せずにtmuxを使えて便利 - Mitsuyuki.Shiiba](https://bufferings.hatenablog.com/entry/2026/02/12/224302)
 - （公開日：2026/02/15、閲覧日：2026/02/15）[Claude Code の実装から読み解く Agent Teams の設計思想 - Qiita](https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300)
+- （公開日：2026/02/19、閲覧日：2026/03/14）[How I Use Claude Agent Teams | oikon48](https://oikon48.dev/ja/blog/claude-agent-teams/)
+    - "Agent Teamsを使ってn体のチームメイトで、〇〇について別のディスカッションを３ラウンドかけて行ってください。 この際チームメイト同士でラウンド内で適宜やり取りをしてディスカッションをしてください。 Red Teamin⋯"
 - （公開日：2026/02/24、閲覧日：2026/02/28）[新しい時代の開発と組織について](https://nyosegawa.github.io/posts/development-and-organization-in-agent-era/)
 
 

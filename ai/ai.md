@@ -168,6 +168,7 @@ __Docs__
 - （公開日：2025/09/18、閲覧日：2025/09/18）[AI「Claude」の応答品質が断続的に低下していたのは3つのバグが原因 \- GIGAZINE](https://gigazine.net/news/20250918-anthropic-three-issues/)
 - （公開日：2025/09/30、閲覧日：2025/09/30）[Claude Sonnet 4\.5 発表関連情報まとめ](https://zenn.dev/schroneko/articles/claude-sonnet-4-5)
 - （公開日：2026/03/04、閲覧日：2026/03/05）[コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude's Cycles』を読み解く - Qiita](https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2)
+- （公開日：2026/03/12、閲覧日：2026/03/14）[Claude builds interactive visuals right in your conversation | Claude](https://claude.com/blog/claude-builds-visuals)
 
 
 ### Anthropic
@@ -375,6 +376,7 @@ __Docs__
 - （公開日：2026/02/28、閲覧日：2026/02/28）[【参加レポ】「Developers Summit 2026」参加して、誰とどう作る？人間関係の構築の大切さを考えるきっかけをもらった #devsumi #devxpm - てぃばのBlog｜CHIBA Reimi（rechiba3）](https://www.rechiba3.net/entry/devsumi2026/)
     - > 「技術力はあるけど気に入らねぇ奴」と仕事する必要はないってことだから、どんどん一緒に働きたくなる人間って？をしっかり考えないといけない
 - （公開日：2026/03/03、閲覧日：2026/03/05）[Anthropic CEOが警告する「指数関数の終わり」と未来志向リーダーの苦境 | Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/92920?read_more=1)
+- （公開日：2026/03/14、閲覧日：2026/03/14）[プログラマーを引退します - うみさまより。](https://umisama.hatenablog.com/entry/2026/03/14/131453)
 
 
 ### AIによる生成物への向き合い方
