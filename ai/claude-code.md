@@ -78,6 +78,8 @@
 - 🌟（公開日：2026/02/24、閲覧日：2026/02/27）[Claude Code 1st Anniversary: これまでとこれから \| oikon48](https://oikon48.dev/ja/blog/claude-code-anniversary/)
 - （公開日：2026/03/09、閲覧日：2026/03/10）[Code Review for Claude Code | Claude](https://claude.com/blog/code-review)
 - 🌟（公開日：2026/03/09、閲覧日：2026/03/10）[Claude Code / Codex ユーザーのための誰でもわかるHarness Engineeringベストプラクティス](https://nyosegawa.github.io/posts/harness-engineering-best-practices-2026/)
+-（公開日：2026/03/15、閲覧日：2026/03/16）[コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。](https://zenn.dev/nnze/articles/e3f648e335a947)
+    - ビジネスの嗅覚とやり切る胆力がすごい
 
 
 ## セキュリティインシデント

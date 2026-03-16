@@ -772,6 +772,7 @@
 - （2026/01/29）ENECHANGE主催、【Sansan × LayerX × ENECHANGE】運用と開発を進化させるAIの実践事例 [＜connpass＞](https://enechange-meetup.connpass.com/event/379833/)
     - Claude Maxプランで複数人が利用するGitHub Actionを動かすのは利用規約違反では？
 - （2026/01/29）SIOS Tech. Lab主催、AI開発の最前線！最新トレンド3本を解説するLT会 [＜connpass＞](https://tech-lab.connpass.com/event/381678/) [＜YouTube＞](https://www.youtube.com/watch?v=lk1vHqFAEew) ＜YouTubeアーカイブ動画あり＞
+- （2026/01/29）Qiita主催、Qiita AI Summit AI時代が訪れた今、開発組織のあり方を考える [＜connpass＞](https://increments.connpass.com/event/378403/) [＜YouTube＞](https://www.youtube.com/watch?v=kYLy0y9jWl4) ＜YouTubeアーカイブ動画あり＞
 - （2026/01/30）Findy Freelance主催、個人開発における成長を支える技術選定 [＜connpass＞](https://findy-freelance.connpass.com/event/380766/)
     - Opusで計画を立てて、Composerで高速に実装する
 - （2026/01/30）Findy Team主催、ZOZO開発部門の事例に学ぶ！組織横断で成果を生むAI活用 〜潜在課題を定量データで捉える課題解決アプローチ〜 [＜TECH PLAY＞](https://techplay.jp/event/990295) [＜資料＞](https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering)
@@ -834,7 +835,9 @@
 - （2026/02/25）Live! 人工知能主催、AIマルチエージェント入門 Day1【Live!人工知能 221】 [＜connpass＞](https://liveai.connpass.com/event/385338/)
 - （2026/03/04）ソフトバンク主催、SoftBank Tech Night #17 - Agile / AI駆動開発 - [＜TECH PLAY＞](https://techplay.jp/event/991889)
     - 🌟和田 卓人(@t_wada)さん、AI時代のソフトウェア開発を考える (2026/03版)
+- （2026/03/04）BEMA主催、エンジニアが「自己学習」を楽しむための合同LT会 [＜connpass＞](https://bema.connpass.com/event/383791/)
 - （2026/03/05）サイバーエージェント / CyberAgent主催、CA.ai#4 〜AIOpsの最前線〜 [＜connpass＞](https://cyberagent.connpass.com/event/383129/) [＜YouTube＞](https://www.youtube.com/watch?v=74jlkpW-CE0) ＜YouTubeアーカイブ動画あり＞
+- （2026/03/05）GitHub Japan主催、GitHub最新情報ウェビナー [＜イベントページ＞](https://github.ondemand.goldcast.io/on-demand/97b0bc20-65cf-4d77-bc08-f36ddff19dde) ＜アーカイブ動画あり＞
 - （2026/03/06）Laboratory Automation主催、公開シンポジウム 生成AI・AGI時代の学術出版 [＜connpass＞](https://laboratoryautomation.connpass.com/event/379184/)
 - （2026/03/06）Findy主催、Codexどう使ってる？期待通りにいかない時の向き合い方と工夫 [＜connpass＞](https://findy.connpass.com/event/384314/) [＜イベントページ＞](https://findy-code.io/events/VL_rdU3iJcEoP) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/06）Findy主催、Claude Codeの進化～Oikonさんと学ぶ、各機能の活かし方～ [＜connpass＞](https://findy.connpass.com/event/385245/) [＜イベントページ＞](https://findy-code.io/events/p46knqAZIeh2w) ＜YouTubeアーカイブ動画あり＞
@@ -846,6 +849,7 @@
 - （2026/03/11）TECHer COMPOSE UP主催、仕様駆動型開発 (SDD) の実践と応用領域 [＜connpass＞](https://techer-compose-up.connpass.com/event/383137/)
 - （2026/03/11）Creationline主催、[書籍プレゼント付き]LLM利用率80%への道筋：ピクシブが実践した三位一体の変革とは？ [＜connpass＞](https://creationline.connpass.com/event/385764/)
     - 指標を人事評価に使わないと最初に宣言しておく
+- （2026/03/11）Findy主催、鹿野さんに聞く！AIは速いのに、人間が遅い？Claude Codeをさらに加速させる私の推しツール [＜connpass＞](https://findy.connpass.com/event/384179/) [＜イベントページ＞](https://findy-code.io/events/eGsLcRQTBp4u9) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/12）AI駆動開発勉強会主催、Claude Code Meetup Japan #3 (Claude Code祭り!) [＜connpass＞](https://aid.connpass.com/event/384117/) [＜YouTube＞](https://www.youtube.com/live/csJhIQFuYJw) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/12）Findy Team主催、AI駆動開発の最前線：組織の疲弊を防ぐ「レビュー負荷軽減」の実践方法 [＜connpass＞](https://developer-productivity-engineering.connpass.com/event/383782/)
 - （2026/03/13）クラスメソッド主催、Claude Codeセミナー 実践編｜Reactアプリ開発効率化 [＜connpass＞](https://classmethod.connpass.com/event/385262/)
