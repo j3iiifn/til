@@ -49,7 +49,7 @@
     }
 
     const markdown = results.map(item => {
-      const prefix = item.isGood ? '- 🌟' : '-';
+      const prefix = item.isGood ? '- 🌟' : '- ';
       let line = `${prefix}（公開日：${item.date}、閲覧日：${item.date}）[${item.title}](${item.url})`;
       if (item.comment) {
         line += `\n    - ${item.comment}`;
