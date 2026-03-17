@@ -842,6 +842,9 @@
 - （2026/03/06）Findy主催、Codexどう使ってる？期待通りにいかない時の向き合い方と工夫 [＜connpass＞](https://findy.connpass.com/event/384314/) [＜イベントページ＞](https://findy-code.io/events/VL_rdU3iJcEoP) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/06）Findy主催、Claude Codeの進化～Oikonさんと学ぶ、各機能の活かし方～ [＜connpass＞](https://findy.connpass.com/event/385245/) [＜イベントページ＞](https://findy-code.io/events/p46knqAZIeh2w) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/06）Finatext Holdings Ltd.主催、AI時代のフロントエンド実践開発！ - Finatext Tech Night #6 [＜connpass＞](https://finatext.connpass.com/event/385050/) ＜YouTubeアーカイブ動画あり＞
+- （2026/03/09）GDG Tokyo主催、Google DeepMind 特別講演 [＜connpass＞](https://gdg-tokyo.connpass.com/event/386176/)
+- （2026/03/10）STORES主催、Ebisu.mobile #13 〜STORESのモバイルテストの現在地〜 [＜connpass＞](https://hey.connpass.com/event/382942/)
+    - 自然言語でテストケースを書く→AIが実行
 - （2026/03/10）ギークス主催、アンドドットの仕組みを解説！AI駆動開発推進の『壁』を突破するマネジメント術 [＜イベントページ＞](https://www.geechs.com/newsrelease/20260209_seminar)
 - （2026/03/10）Creationline主催、書籍プレゼント付【AI駆動開発時代】エンジニアのキャリアどう選ぶ？現役エンジニアの本音LT大会 [＜connpass＞](https://creationline.connpass.com/event/384198/)
 - （2026/03/11）企業における生成AI活用グループ主催、Claude Code入門 - プログラムを開発するAI [＜connpass＞](https://chomoku.connpass.com/event/384722/) [＜YouTube＞](https://www.youtube.com/watch?v=0Ua1Sh7HDeQ) ＜YouTubeアーカイブ動画あり＞

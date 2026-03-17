@@ -485,6 +485,7 @@ __Docs__
 
 ### 情報収集
 - （公開日：2026/03/05、閲覧日：2026/03/05）[個人的 AI情報の追い方](https://zenn.dev/knowledgework/articles/my-ai-catchup)
+- （公開日：2026/03/16、閲覧日：2026/03/17）[AI機能搭載のRSSリーダーを作った](https://zenn.dev/babarot/articles/ai-rss-reader-oksskolten)
 
 
 ### スライド・プレゼンテーション作成
