@@ -173,6 +173,7 @@ __Docs__
 
 ### Anthropic
 - （公開日：2026/02/17、閲覧日：2026/02/18）[国防総省がAnthropicを「サプライチェーンリスク」に指定して請負業者に取引中止を求めることも検討](https://gigazine.net/news/20260217-pentagon-anthropic-supply-chain-risk/)
+- （公開日：2026/03/17、閲覧日：2026/03/18）[Anthropic社の公式認定資格「Claude Certified Architect」とは？](https://www.centeredge.co.jp/dx_media/blog/Claude-Certified-Architect)
 
 
 ### DeepSeek
@@ -214,6 +215,8 @@ __Docs__
         - > 機能追加が安定しない、バグの内容を伝えても直せない、余計壊れてしまう、何時間作業させてもFailしたテストを通せない、といったことが起こり始め、Claude Codeを使った変更が怖くなるという状態になってしまいました。
     - > AIと協働したり、AIの提案を理解するためには、結局のところ細部に対する理解が必要
 - 🌟（公開日：2025/11/28、閲覧日：2025/11/28）[t\-wadaが説く、今あえて“自分の手”でコードを書く理由「バイブコーディングは、エンジニアのためのものではない」 \- エンジニアtype \| 転職type](https://type.jp/et/feature/29773/)
+- （公開日：2026/03/18、閲覧日：2026/03/18）[https://x.com/i/status/2033760790315208978](https://x.com/i/status/2033760790315208978)
+    - “バイブコーディングでも、コンピュータサイエンスの基礎知識がある人のほうが成績がよく、さらに”文章力”が高いほど良い成果が出せる傾向があるとのこと。”
 
 
 ### Context Engineering (コンテキストエンジニアリング)
@@ -308,6 +311,7 @@ __Docs__
 - 🌟（公開日：2026/02/25、閲覧日：2026/02/25）[三菱UFJ銀行におけるエンタープライズAI駆動開発のリアル / Enterprise AI_Driven Development at MUFG Bank: The Real Story](https://speakerdeck.com/muit/enterprise-ai-driven-development-at-mufg-bank-the-real-story)
     - AI駆動開発ガイドの執筆、7段階の社内研修カリキュラム開発、ジュニアエンジニア育成方針
 - （公開日：2026/03/09、閲覧日：2026/03/10）[「AIにオールイン」宣言から1年、DeNA南場会長が明かす進捗　「効率化は進んだ。ところが……」](https://www.itmedia.co.jp/aiplus/articles/2603/09/news087.html)
+- （公開日：2026/03/18、閲覧日：2026/03/18）[https://x.com/i/status/2033685770633089232](https://x.com/i/status/2033685770633089232)
 
 
 ### プロンプト

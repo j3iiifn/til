@@ -836,6 +836,8 @@
 - （2026/03/04）ソフトバンク主催、SoftBank Tech Night #17 - Agile / AI駆動開発 - [＜TECH PLAY＞](https://techplay.jp/event/991889)
     - 🌟和田 卓人(@t_wada)さん、AI時代のソフトウェア開発を考える (2026/03版)
 - （2026/03/04）BEMA主催、エンジニアが「自己学習」を楽しむための合同LT会 [＜connpass＞](https://bema.connpass.com/event/383791/)
+- （2026/03/04）企業における生成AI活用グループ主催、Cowork入門 - PC作業をこなすAIエージェント [＜connpass＞](https://chomoku.connpass.com/event/384720/) [＜YouTube＞](https://www.youtube.com/watch?v=P9c06Nwr4bw) ＜YouTubeアーカイブ動画あり＞
+- （2026/03/05）Findy主催、ラクスル・UbieのAIネイティブ事業開発：アウトカム1stのHuman in the loop実践 [＜connpass＞](https://findy.connpass.com/event/384691/) [＜イベントページ＞](https://ai-career.findy-code.io/events/ignINzmfQlqFR45WZZqdpw) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/05）サイバーエージェント / CyberAgent主催、CA.ai#4 〜AIOpsの最前線〜 [＜connpass＞](https://cyberagent.connpass.com/event/383129/) [＜YouTube＞](https://www.youtube.com/watch?v=74jlkpW-CE0) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/05）GitHub Japan主催、GitHub最新情報ウェビナー [＜イベントページ＞](https://github.ondemand.goldcast.io/on-demand/97b0bc20-65cf-4d77-bc08-f36ddff19dde) ＜アーカイブ動画あり＞
 - （2026/03/06）Laboratory Automation主催、公開シンポジウム 生成AI・AGI時代の学術出版 [＜connpass＞](https://laboratoryautomation.connpass.com/event/379184/)
