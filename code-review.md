@@ -7,3 +7,4 @@
     - 株式会社ラブグラフ 横江 亮佑(@yokoe24)さん「プルリクエストレビューを終わらせるためのチーム体制」 [＜資料＞](https://speakerdeck.com/nekonenene/the-team-for-completing-pull-request-reviews)
 - （公開日：2025/08/13、閲覧日：2025/08/14）[コードレビューが激変している \- RAKUS Developers Blog \| ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20250813/codereview)
     - それは結局「reviewerのお気持ちを当てるゲーム」になってしまい、revieweeのストレスになるのでは？
+- （公開日：2026/03/19、閲覧日：2026/03/19）[伊藤淳一が考える「コードレビューの観点とアプローチ」 - レバテックLAB](https://levtech.jp/media/detail_824)

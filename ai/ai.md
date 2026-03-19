@@ -72,6 +72,7 @@ __Docs__
 - （公開日：2025/05/10、閲覧日：2025/05/11）[Cursor入門のツボ \#VSCode \- Qiita](https://qiita.com/Ninagawa123/items/2ac5ac6687c603e9cfb5)
 - （公開日：2025/06/04、閲覧日：2025/06/06）[「Cursor」で「素の議事録」を「要件定義書」に高速でまとめなおした話 \#Node\.js \- Qiita](https://qiita.com/WdknWdkn/items/79980f4201c8cf9145bf)
 - （公開日：2025/07/08、閲覧日：2025/07/09）[Cursorの価格設定変更の騒動について](https://blog.lai.so/cursor-pricing/)
+- （公開日：2026/03/19、閲覧日：2026/03/19）[Cursor Visual Editor でデザイナーがスタイル修正から PR作成まで行う開発フロー - ROXX開発者ブログ](https://techblog.roxx.co.jp/entry/2026/03/19/083000)
 
 
 ### Cline
@@ -103,6 +104,7 @@ __Docs__
 - （公開日：2025/10/24、閲覧日：2025/10/25）[今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選](https://zenn.dev/fastdoctor/articles/ebe3e41039a98f)
     - 「SDD用PromptをAGENTS.mdで構築」とのことだが、そういうのは普通 [Custom Prompts](https://github.com/openai/codex/blob/main/docs/prompts.md) に分離して書くべきでは？
 - （公開日：2025/10/25、閲覧日：2025/10/26）[ここが変だよLLMコーディングエージェント\(Codex\)](https://zenn.dev/takeshy/articles/20b8b2ab499b6f)
+- （公開日：2026/03/19、閲覧日：2026/03/19）[OpenAI、コーディングエージェント「Codex」に新機能「サブエージェント」を正式導入／雑事を片付ける子分を複数生成し、並列実行](https://forest.watch.impress.co.jp/docs/news/2094681.html)
 
 ### Kiro
 - （公開日：2025/07/16、閲覧日：2025/07/16）[amazonの出したIDE「kiro」がめちゃくちゃ未来だったのでClaude Codeユーザーの人はみんな一度試してみてほしい](https://zenn.dev/sesere/articles/31d4b460c949e5)

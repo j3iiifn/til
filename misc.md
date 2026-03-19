@@ -87,6 +87,7 @@
     - MOSH株式会社 益田 祐輔 @massyuu85さん、「多様な事業ドメインのクリエイターへ価値を届けるための営みについて」 [＜資料＞](https://speakerdeck.com/massyuu/duo-yang-nashi-ye-domeinnokurieitahe-jia-zhi-wojie-kerutamenoying-minituite)
     - ファストドクター株式会社 加藤 倫弘さん、「レガシー医療システムを進化させるプロダクトエンジニアの本音（仮） [＜資料＞]()
     - 株式会社グラファー 河治 寿都さん、「プロダクトエンジニアへのご招待 -良くある誤解と価値ある未来-」 [＜資料＞](https://speakerdeck.com/graffer/purodakutoenziniahenogozhao-dai)
+- （公開日：2026/03/17、閲覧日：2026/03/19）[開発が遅いのは、エンジニアのせいじゃない？ ~プロダクトマネージャーが開発速度を左右する~｜ぱらやま ＠Jlck07shr](https://note.com/bocbbcnzone07/n/naa2dacf1f523)
 
 ## Platform Engineering
 - （2025/12/11）Findy主催、Platform Engineeringの進め方とコミュニケーション ～組織の壁への向き合い方～ [＜connpass＞](https://findy.connpass.com/event/375302/) [＜イベントページ＞](https://findy-code.io/events/J15jHA4Usk3qW) ＜YouTubeアーカイブ動画あり＞
