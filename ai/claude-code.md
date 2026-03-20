@@ -111,6 +111,7 @@
 - （公開日：2026/03/04、閲覧日：2026/03/14）[Claude Codeの/usageの内容をStatusBarに表示する](https://zenn.dev/suthio/articles/f832922e18f994)
     - "macOSキーチェーンから Claude Code-credentials のOAuthトークンを取得し、https://api.anthropic.com/api/oauth/usage APIを呼び出す。"
 - （公開日：2026/03/13、閲覧日：2026/03/13）[社員に何もさせずにClaude Code利用ログを集める ── 数百名規模のOpenTelemetry収集基盤の構築 - ZOZO TECH BLOG](https://techblog.zozo.com/entry/claudecode-otel)
+- （公開日：2026/03/20、閲覧日：2026/03/20）[Claude Codeの使用率がステータスラインに表示できるようになったので表示用のスクリプトを作った話](https://nyosegawa.com/posts/claude-code-statusline-rate-limits/)
 
 
 ## 📝 Workflow

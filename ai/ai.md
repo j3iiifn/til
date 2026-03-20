@@ -104,6 +104,7 @@ __Docs__
 - （公開日：2025/10/24、閲覧日：2025/10/25）[今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選](https://zenn.dev/fastdoctor/articles/ebe3e41039a98f)
     - 「SDD用PromptをAGENTS.mdで構築」とのことだが、そういうのは普通 [Custom Prompts](https://github.com/openai/codex/blob/main/docs/prompts.md) に分離して書くべきでは？
 - （公開日：2025/10/25、閲覧日：2025/10/26）[ここが変だよLLMコーディングエージェント\(Codex\)](https://zenn.dev/takeshy/articles/20b8b2ab499b6f)
+- （公開日：2026/03/18、閲覧日：2026/03/20）[CodexのBestPracticeを学ぶ会](https://zenn.dev/microsoft/articles/codex_best_practice)
 - （公開日：2026/03/19、閲覧日：2026/03/19）[OpenAI、コーディングエージェント「Codex」に新機能「サブエージェント」を正式導入／雑事を片付ける子分を複数生成し、並列実行](https://forest.watch.impress.co.jp/docs/news/2094681.html)
 
 ### Kiro
@@ -312,6 +313,7 @@ __Docs__
     - 承認プロセスを通す文化というのが理解に苦しむ。性善説を期待してはダメだと思う。制限をかけたいなら機械的に強制されるようにするべき。
 - 🌟（公開日：2026/02/25、閲覧日：2026/02/25）[三菱UFJ銀行におけるエンタープライズAI駆動開発のリアル / Enterprise AI_Driven Development at MUFG Bank: The Real Story](https://speakerdeck.com/muit/enterprise-ai-driven-development-at-mufg-bank-the-real-story)
     - AI駆動開発ガイドの執筆、7段階の社内研修カリキュラム開発、ジュニアエンジニア育成方針
+- （公開日：2026/02/26、閲覧日：2026/03/20）[ROXXに入社して「Spotifyモデル」に出会ったら、開発スピードの次元が違った話 〜AI駆動型開発チームの挑戦〜 - ROXX開発者ブログ](https://techblog.roxx.co.jp/entry/2026/02/26/090401)
 - （公開日：2026/03/09、閲覧日：2026/03/10）[「AIにオールイン」宣言から1年、DeNA南場会長が明かす進捗　「効率化は進んだ。ところが……」](https://www.itmedia.co.jp/aiplus/articles/2603/09/news087.html)
 - （公開日：2026/03/18、閲覧日：2026/03/18）[https://x.com/i/status/2033685770633089232](https://x.com/i/status/2033685770633089232)
 

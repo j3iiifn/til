@@ -833,9 +833,11 @@
 - （2026/02/20）Findy主催、PdMのインサイト探索記 -「N=1」に向きあう試行錯誤 [＜connpass＞](https://findy.connpass.com/event/382958/) [＜イベントページ＞](https://findy-code.io/events/5NBoxiymVe2lA) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/20）Qiita主催、データは「資産」か、ただの「ノイズ」か。カオスなAI時代に"価値"を定義するエンジニアリング [＜connpass＞](https://increments.connpass.com/event/379623/) [＜YouTube＞](https://www.youtube.com/watch?v=uEMgzvRNcaI) ＜YouTubeアーカイブ動画あり＞
 - （2026/02/25）Live! 人工知能主催、AIマルチエージェント入門 Day1【Live!人工知能 221】 [＜connpass＞](https://liveai.connpass.com/event/385338/)
+- （2026/02/27）クラスメソッド主催、Claude Codeセミナー 初級編｜今からはじめるClaude Code [＜connpass＞](https://classmethod.connpass.com/event/383913/)
 - （2026/03/03）Generative Agents主催、AIエージェントキャッチアップ #68 - AI-DLC [＜connpass＞](https://generative-agents.connpass.com/event/385097/) [＜YouTube＞](https://www.youtube.com/live/GJWZBY5qHwI) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/03）転職ドラフト主催、受託開発キャリアのその先 [＜connpass＞](https://tenshoku-draft.connpass.com/event/383831/) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/03）NRIネットコム主催、生成AIを開発に組み込む設計図：AI-DLCとガードレールの作り方 [＜connpass＞](https://nrinetcom.connpass.com/event/385278/)
+- （2026/03/03）Findy主催、開発チームで取り組むE2Eテスト自動化 [＜connpass＞](https://findy.connpass.com/event/384201/) [＜イベントページ＞](https://findy-code.io/events/ZsPWE__RpWAN4) ＜YouTubeアーカイブ動画あり＞
 - （2026/03/04）ソフトバンク主催、SoftBank Tech Night #17 - Agile / AI駆動開発 - [＜TECH PLAY＞](https://techplay.jp/event/991889)
     - 🌟和田 卓人(@t_wada)さん、AI時代のソフトウェア開発を考える (2026/03版)
 - （2026/03/04）BEMA主催、エンジニアが「自己学習」を楽しむための合同LT会 [＜connpass＞](https://bema.connpass.com/event/383791/)
